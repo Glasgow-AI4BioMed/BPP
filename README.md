@@ -21,6 +21,7 @@ BPP: A Platform for Automatic Biochemical Pathway Prediction
 [Link to BPP Platform](http://18.134.98.251:5000)
 
 ## User Guidance
-In this part, we'll introduce how to use our plaform
+In this part, we'll introduce how to use our plaform. 
 
 ### Customise Biochemical Reaction
+In progress...
