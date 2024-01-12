@@ -1,5 +1,5 @@
 # BPP
-BPP: BPP: A Platform for Automatic Biochemical Pathway Prediction
+BPP: A Platform for Automatic Biochemical Pathway Prediction
 > Authors: Xinhao Yi, Siwei Liu, Shiyang Liang, Yu Wu, Douglas McCloskey*, Zaiqaio Meng*
 
 ## Contributions
