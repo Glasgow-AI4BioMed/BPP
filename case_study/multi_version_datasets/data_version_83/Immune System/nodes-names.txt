@@ -1,0 +1,2667 @@
+(BTRC:CUL1:SKP1),(FBXW11:CUL1:SKP1)
+(GlcNAc+MurNac)n
+1,3-beta-D-glucan
+1,3-beta-D-glucan:p-Y15-CLEC7A
+1,3-beta-D-glucan:p-Y15-CLEC7A:SYK
+11xCbxE-PROS1
+14-3-3 beta, zeta
+2 x p-STAT1
+2 x p-STAT3
+2'-5' oligoadenylate
+2'-deoxyadenosine 5'-monophosphate
+2x DDX58 ligand:2x DDX58:2xATP
+2x(p-STAT5A,p-STAT5B):BRWD1 gene
+2xHC-TXN
+2xIL12B
+2xIL27RA
+2xMHC II alpha beta heterodimer:alpha beta dimer:Ii trimer
+2xMHC II alpha beta heterodimer:alpha beta dimer:Ii trimer:calnexin
+2xp-S477,S479-IRF7
+2xp-STAT3
+2xp-Y693-STAT4:IL12A:IL12B:IL12RB1:p-Y800-IL12RB2:p-Y-TYK2:p-JAK2
+2xviral dsRNA:2xK63polyUb-DDX58:2xRNF135,TRIM25:2xATP
+3xBAFFR:BAFF trimer
+3xBAFFR:BAFF trimer:TRAF3:NIK
+3xFN14:sTWEAK,TWEAK homotrimer
+3xFn14:TWEAK:cIAP1,2:TRAF2:TRAF3:NIK
+3xLTBR:lymphotoxin,TNFSF14 trimer
+3xLTBR:lymphotoxin,TNFSF14 trimer:cIAP1,2:TRAF2:TRAF3:NIK
+3xOX40:OX40L trimer
+3xRANK:RANKL,sRANKL trimer
+3xRANK:RANKL,sRANKL trimer:cIAP1,2:TRAF2:TRAF3:NIK
+3xUb, 2xp-S-NFKB1(1-968):p-S,T-MAP3K8:TNIP2
+3xUb-p-S927,S932-NFKB1(1-968)
+4xPalmC-CD36
+5'-ppp-AU-rich dsRNA
+8,5'-cdA, cdG within DNA
+8:IL17RA
+8:class I MHC:BECN1 complex
+AA
+AAMP
+AAMP:NOD2
+ABCE1
+ABCE1:RNASEL
+ABCE1:RNASEL dimer
+ABL2
+ADAR
+ADP
+ADP-heptose
+AGE adducts:Peptide
+AGE adducts:Peptide:AGER-1,2,3
+AGER
+AGER ligands
+AGER ligands:AGER
+AGER ligands:AGER:ERK
+AGER-1, 2, 3
+AHCYL1:NAD+:ITPR1:I(1,4,5)P3 tetramer
+AIM2
+AIP
+AIP gene
+AKT
+AKT:PIP3
+AKT:PIP3:THEM4/TRIB3
+ALPK1
+ALPK1:ADP heptose
+ALPK1:ADP-heptose:TIFA dimer
+ALPK1:ADP-heptose:p-T9-TIFA dimer
+ALPK1:ADP-heptose:p-T9-TIFA oligomer
+ALPK1:ADP-heptose:p-T9-TIFA oligomer:K63-linked pUb-TRAF6 oligomer
+ALPK1:ADP-heptose:p-T9-TIFA oligomer:TRAF6
+ALPK1:ADP-heptose:p-T9-TIFA oligomer:TRAF6 oligomer
+ALPK1:ADP-heptose:p-T9-TIFA:polyUb-TRAF6:TAK1:TAB1:TAB2/TAB3: free polyUb chain
+ALPK1:ADP-heptose:p-T9-TIFA:polyUb-TRAF6:p-T184,T187-TAK1:TAB1:TAB2/TAB3: free polyUb chain
+AMICA1
+AMP
+ANXA2
+ANXA2 gene
+AP-1 Clathrin coated nonameric complex
+AP-1 Complex
+AP-1 Complex:Arf1-GTP:Clathrin Triskelion:Nonameric complex
+ARF1
+ARF1 gene
+ARP-1
+ARP2/3 complex (ATP bound)
+ATF1
+ATF2
+ATG5:ATG12:MAVS
+ATOX1
+ATOX1:Cu1+
+ATP
+ATP-bound Gp96 dimer:CNPY3:TLR7/8/9
+ATP:P2X7
+ATP:P2X7 oligomer
+ATP:P2X7 oligomer:Pannexin-1
+Ac-CoA
+AcK(9,14,18,79)-p(S10,T11)-histone H3
+Actin filament bound Myosin-X
+Activated C1R:SERPING1
+Activated C1S:SERPING1
+Activated CARMA1
+Activated PKC beta
+Activated PLC gamma1 bound to PIP2
+Activated T Cell surface
+Activated TLR1:2 or TLR 2:6 heterodimers or TLR4 homodimer
+Activated TLR5 or TLR10 homodimer
+Activated TLR7-9 homodimers
+Activated ZAP-70
+Activated cytokine-like hormone receptors
+Activated cytokine-like hormone receptors, p-Y1007-JAK2
+Activators of STAT5
+Activators of STAT5:STAT5
+Activators of STAT5:p-STAT5
+Active FLT3
+Active FLT3: GRB2
+Active FLT3:FYN
+Active FLT3:GRB2:GAB2
+Active FLT3:GRB2:SOS1
+Active FLT3:GRB2:p-Y GAB2:PI3K
+Active FLT3:GRB2:p-Y-GAB2
+Active FLT3:GRB2:p-Y-GAB2:PIK3R1
+Active FLT3:GRB2:p-Y-GAB2:PTPN11
+Active FLT3:HCK
+Active FLT3:PTPN11
+Active IKK complex
+Active LIMK1
+Active NIK
+Active NIK:p-176,S180-IKKA dimer:p-7S-p100:SCF-beta-TRCP
+Active NIK:p-S176,180-IKKA dimer
+Active NIK:p-S176,180-IKKA dimer:p-7S-p100:RELB
+Active NIK:p-S176,180-IKKA dimer:p100:RELB
+Active PKC theta bound to DAG
+Ag peptide bound class I MHC
+Ag-substrate:E3:E2:Ub
+Allergen
+Allergen:p-LYN:p-FCERI:IgE aggregate
+Alpha-defensin dimers
+Alpha-defensin dimers:anionic phospholipids
+Alpha-defensin pore complex
+Alpha-defensins
+Anionic phospholipids
+Anionic phospholipids:microbial cell surface
+Antigen
+Antigen peptide
+Antigen peptide bound class I MHC
+Antigen peptide bound class I MHC:BAP31 oligomer
+Antigen-bearing MHC Class II  : TCR complex:CD4:Lck
+Antigen-bearing MHC Class II : TCR complex:CD4:p-Lck(Y505)
+Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394
+Antigen-bearing MHC Class II: TCR with dephosphorylated CD3 zeta chain:CD4
+Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4
+Antigen-bound Ig G Antibody
+Antigen-bound antibody bound to lymphoid Fc gamma receptors
+Antigen:BCR
+Antigen:IgG
+Antigen:IgG:C1Q:2x Activated C1R:2x Activated C1S
+Antigen:IgG:C1Q:2x Activated C1R:2xC1S
+Antigen:IgG:C1Q:2xActivated C1R:2xActivated C1S
+Antigen:IgG:C1Q:2xActivated C1R:SERPING1:2xActivated C1S:SERPING1
+Antigen:IgG:C1Q:2xC1R:2xC1S
+Antigen:p-BCR
+Antigen:p-BCR:SYK
+Antigen:p-BCR:p-SYK
+Antigen:p-BCR:p-SYK:p-BLNK:CIN85:GRB2:SOS1
+Antigen:p-BCR:p-SYK:p-BLNK:CIN85:GRB2:SOS1:BTK:NCK1:VAV1:PLCG2
+Antigen:p-BCR:p-SYK:p-BLNK:CIN85:GRB2:SOS1:p-Y223,Y551-BTK:NCK1:VAV1:PLCG2
+Antigen:p-BCR:p-SYK:p-BLNK:CIN85:GRB2:SOS1:p-Y551-BTK:NCK1:VAV1:PLCG2
+Antigenic peptide:MHC:B2M peptide loading complex
+Apo-GP96 dimer
+Arf1-GDP
+Arf1-GTP
+Azurophil granule lumen proteins
+Azurophil granule membrane proteins
+B-cell linker protein:p(Y700,731,774)-CBL
+B2M(21-119)
+B7-1 homodimer/ B7-2
+B7-DC,B7-H1
+BAIAP2
+BAP31 oligomer
+BCAP Signalosome
+BCL10
+BCL10:MALT1
+BCL2 gene, BCL2L1 gene
+BCL2L11
+BCL2L11 gene
+BCR
+BLNK
+BLNK (SLP-65) Signalosome
+BLNK:GRB2:SOS1:CIN85
+BOLA2
+BOLA2 gene
+BPI
+BPI:LPS
+BPIFA/BPIFB
+BPIFA/BPIFB:bacterial cell
+BRWD1
+BRWD1 gene
+BRWD1:AcK(9,14,18,79)-p(S10,T11)-histone H3
+BRWD1:AcK9,14-pS10-histone H3
+BRWD1:SMARCA4
+BST2
+BTK
+BTK inhibitors
+BTK:BTK inhibitors
+BTLA
+BTLA-HVEM complex
+BTN1A1
+BTN1A1:XDH
+BTN2A1
+BTN2A1:CD209
+BTN2A2
+BTN2A2:activated T Cell surface
+BTN3A1(BTN3A2,BTN3A3)
+BTN3A1(BTN3A2,BTN3A3):pAgs
+BTN3A1,BTN1A1
+BTN3A1,BTN1A1:PPL
+BTNL2
+BTNL2: activated T Cell surface
+BTNL8
+BTNL8: resting T cell surface
+BTNL9
+BTNL9:Immune cell surface
+BTRC:CUL1:RBX1:SKP1
+BTRC:CUL1:RBX1:SKP1:NFKB1:RELA:p-S32,S36-NFKBIA:Ub
+Bacterial mannose surface pattern
+Bcl-2/Bcl-X(L)
+Bcl-2/Bcl-X(L):NLRP1
+Bcl10 bound to CARMA1
+Bcl10 trimer bound to CARMA1 trimer
+Beta defensin 103:TLR1:TLR2
+Beta defensins 1,4A,103
+Beta defensins 4A,103
+Beta defensins 4A,103:CCR2
+Beta-defensins
+Beta-defensins 1,4A,103:CCR6
+Beta-defensins:anionic phospholipids
+C-reactive protein pentamer:phosphocholine:C1Q
+C-ter TLR7 dimer
+C-ter TLR7 dimer:HCQ
+C-ter TLR7 dimer:TLR7, TLR8 ligands
+C-ter TLR7 dimer:imiquimod
+C-ter TLR9 dimer:HCQ
+C-ter TLR9 dimer:unmethylated CpG DNA
+C-ter-TLR9 dimer
+C1Q
+C2
+C2a
+C2b
+C3 convertases
+C3(H2O)
+C3(H2O):Bb
+C3(H2O):CFB
+C3AR1
+C3AR1:C3a
+C3a
+C3a, C5a
+C3a-desArg, C5a-desArg
+C3b
+C3b:Bb:C3b:Properdin
+C3c
+C3d complexed with antigen
+C3d, C3dg, iC3b
+C3dg
+C3f
+C4 binding protein:C4bC2a
+C4 binding protein:protein S
+C4-binding protein:C4b
+C4a
+C4b
+C4b with hydrolysed thioester
+C4b-binding protein
+C4b-binding protein:Factor I
+C4b:C2a:C3b
+C4bC2a, C3bBb
+C4c
+C4c, C3f
+C4d
+C4d, iC3b
+C5
+C5 inhibitors
+C5:C5 inhibitors
+C5AR1
+C5AR1:C5a
+C5AR2
+C5AR2 ligands
+C5AR2:C5AR2 ligands
+C5a
+C5aT
+C5b
+C5b:C6
+C5b:C6:C7
+C5b:C6:C7, C8, C9
+C5b:C6:C7:C8
+C5bT
+C6
+C7
+C8
+C9(22-559)
+CA1
+CA1 gene
+CALM1
+CALM1:4xCa2+
+CALR
+CALR:SEC22B:STX4:TAP:TAPBP
+CAMP(134-170)
+CAMP(134-170):microbial cell surface
+CAMP(31-170)
+CANX
+CANX:EBI3
+CANX:EBI3:IL12A
+CANX:EBI3:IL27
+CAPZA1
+CAPZA1 gene
+CARD11
+CARD9
+CARMA1 bound to PDK1
+CARMA1 oligomer
+CARMA1 trimer
+CASP1(1-119)
+CASP1(1-404)
+CASP1(120-197):CASP1(317-404)
+CASP1(120-297)
+CASP1(298-316)
+CASP1(317-404)
+CASP10(220-415)
+CASP10(416-521)
+CASP8(1-479)
+CASP8(1-479), CASP10(1-521)
+CASP8(217-374)
+CASP8(375-384)
+CASP8(385-479)
+CBL
+CBL:GRB2
+CBP/p300:pIRF7:pIRF7
+CCL17,CCL22 genes
+CCL17,CCL22 mRNA
+CCR2
+CCR6
+CD101
+CD14(20-345)
+CD14:oxPL
+CD160
+CD19 Signalosome
+CD19:CD81
+CD19:VAV1
+CD1:B2M:microbial lipid
+CD1:B2M:microbial lipid:TCR
+CD1:B2M:self-lipid
+CD1:B2M:self-lipid:TCR
+CD200
+CD200 bound to CD200R
+CD200R1
+CD209
+CD209:ICAM2
+CD209:ICAM3:Ca+2
+CD209:ManLAM
+CD22
+CD226
+CD226 bound to Nectin 2
+CD226:PVR
+CD22:Antigen:p-BCR
+CD27
+CD27:CD70 homotrimer
+CD28 homodimer
+CD28:B7-1
+CD28:B7-1,B7-2
+CD28:B7-2
+CD28:GRAP2
+CD28:Grb2
+CD28:PI3K
+CD300E
+CD300LB
+CD36 gene
+CD4
+CD40 trimer
+CD40:CD40L trimer
+CD40:CD40L trimer:cIAP1,2:TRAF2:TRAF3:NIK
+CD40LG trimer
+CD45,CD148
+CD46
+CD46, CR1
+CD46, CR1:C4b:C3b complexes
+CD46:Cell surface:C3b
+CD46:Cell surface:C4b
+CD4:IL16(1212-1332)
+CD55
+CD55:C3 convertase complexes
+CD55:C3b
+CD55:C4b
+CD59
+CD59:C5b-C9
+CD70 homotrimer
+CD74(81-104)
+CD80 dimer
+CD86
+CD94:NKG2C:HLA-E
+CD96
+CD96:PVR
+CD99
+CDC42
+CDC42 gene
+CDC42:GDP
+CDC42:GTP
+CDC42:GTP, RAC1:GTP
+CDC42:GTP:WASP/N-WASP
+CDC42:GTP:WASP/N-WASP:WIP:SH3 proteins
+CDC42:GTP:p-Y-WASP/p-Y-WASL:WIP:SH3 proteins
+CDH1(155-882)
+CDKN1B
+CDKN1B gene
+CERA,PE,PS
+CFB(26-259)
+CFB(26-764)
+CFB(260-764)
+CFH
+CFH, CFHR3
+CFH:C3b
+CFH:Host cell surface
+CFHR dimers
+CFI
+CFI(19-335)
+CFI(340-583)
+CFI:CD46, CR1:C4b, C3b complexes
+CFI:CFH,FHR3:C3b
+CFI:CFH,FHR3:iC3b
+CFI:CFH:C3b
+CFL1
+CFL1 gene
+CHGA fragments
+CHGA-derived peptide:bacterial anionic lipids
+CHUK
+CHUK:IKBKB:IKBIP
+CHUK:IKBKB:IKBKG
+CHUK:IKBKB:IKBKG:K63pUb-RIP1:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+CHUK:IKBKB:IKBKG:K63polyUb-NLRX1
+CHUK:IKBKB:IKBKG:USP18
+CHUK:IKBKB:LRRC14
+CHUK:IKBKB:NLRC5
+CHUK:p-S177,S181-IKBKB:IKBKG
+CHUK:p-S177,S181-IKBKB:pUb-IKBKG
+CIITA
+CIS, SOCS1-3
+CISH gene, SOCS1 gene, SOCS2 gene
+CISH gene, SOCS1 gene, SOCS2 gene:p-STAT5 dimer
+CISH,SOCS1,SOCS2
+CL-LK:MASP1 dimer:MASP2 dimer
+CL-LK:MASP1 dimer:MASP2 dimer:Bacterial mannose surface pattern:4xCa2+
+CLCF1
+CLEC10A
+CLEC10A:Tn antigens
+CLEC2B dimer
+CLEC2D dimer
+CLEC2D dimer:KLRB1 dimer
+CLEC4A
+CLEC4A:HIV gp120,HCV gpE2
+CLEC4C:FCER1G dimer
+CLEC4C:FCER1G dimer:HIV gp120,HCV gp E2
+CLEC4D:FCER1G dimer
+CLEC4D:FCER1G dimer:TDM
+CLEC4E:FCER1G dimer
+CLEC4E:FCER1G dimer:TDM,alpha-mannan
+CLEC5A
+CLEC6A:FCER1G dimer
+CLEC6A:FCER1G dimer:alpha-mannan
+CLEC7A
+CLEC7A:1,3-beta-D-glucan
+CLM7:DAP12
+CLU
+CLU:C5b:C6:C7, C8, C9
+CMVPP65
+CMVPP65:NCR3:FCRG3A:CD3Z dimer
+CNN2
+CNN2 gene
+CNPY3
+CNTF
+CNTF:CNTFR
+CNTF:CNTFR,CRLF1:CLCF1:CNTFR
+CNTF:CNTFR,CRLF1:CLCF1:CNTFR:IL6ST:JAK1, JAK2, (TYK2)
+CNTF:CNTFR,CRLF1:CLCF1:CNTFR:gp130:JAKs:LIFR:JAKs
+CNTFR
+CNTFR:CRLF1:CLCF1
+CO2
+CO3(2-)
+COPII
+COPII vesicle with MHC class I
+CR1
+CR1:C3b
+CR1:C3bBb, C4bC2a complexes
+CR1:C4b
+CR1:iC3b
+CR2
+CR2:C3d,C3dg,iC3b
+CR2:C3d,C3dg,iC3b:CD19:CD81
+CRAC channel
+CREB1
+CREBBP,EP300
+CRK, CRKL
+CRK:DOCK180:ELMO1,ELMO2
+CRKII:DOCK180:ELMO complex recruited to phagocytic cup
+CRLF1
+CRLF1:CLCF1
+CRLF1:IL27
+CRLF2:IL7R
+CRTAM
+CRTAM bound to NECL2
+CSF1
+CSF1 dimer, IL34 dimer
+CSF1 dimer,IL34 dimer:CSF1R
+CSF1 dimer,IL34 dimer:CSF1R dimer
+CSF1 dimer,IL34 dimer:PolyUb,p-8Y-CSF1R dimer:SFK:PolyUb,p-Y-CBL
+CSF1 dimer,IL34 dimer:PolyUb,p-8Y-CSF1R dimer:p-Y-CBL:GRB2:SOS1:p-Y-GAB2:p-Y-GAB3:GRAP2:INPP5D:INPPL1:PI3K:PTPN11:p-Y-SHC1:p-Y-PLCG2
+CSF1 dimer,IL34 dimer:PolyUb-p-Y561-CSF1R dimer:SFK:PolyUb,p-Y-CBL
+CSF1 dimer,IL34 dimer:p-Y561-CSF1R dimer
+CSF1 dimer,IL34 dimer:p-Y561-CSF1R dimer:SFK
+CSF1 dimer,IL34 dimer:p-Y561-CSF1R dimer:SFK:CBL
+CSF1 dimer,IL34 dimer:p-Y561-CSF1R dimer:SFK:GRB2:SOS1
+CSF1 dimer,IL34 dimer:p-Y561-CSF1R dimer:SFK:p-Y-CBL
+CSF1R
+CSF1R:IL34 dimer
+CSF2
+CSF2RA
+CSF2RB
+CSF3 dimer
+CSF3 dimer:2xCSF3R
+CSF3 dimer:2xCSF3R:LYN:JAK1
+CSF3 dimer:2xCSF3R:LYN:p-Y-JAK1
+CSF3 dimer:2xK48polyUb-K655,p-4Y-CSF3R:LYN:p-Y-JAK1:p-JAK2:p-Y-SYK:p-HCK:p-TYK2
+CSF3 dimer:2xp-4Y-CSF3R:LYN:p-Y-JAK1
+CSF3 dimer:2xp-4Y-CSF3R:LYN:p-Y-JAK1:p-JAK2:p-SYK:p-HCK:p-TYK2:STAT1,3,5
+CSF3 dimer:2xp-4Y-CSF3R:LYN:p-Y-JAK1:p-JAK2:p-SYK:p-HCK:p-TYK2:p-Y-SHC1:GRB2:p-Y643-GAB2:p-Y546,Y584-PTPN11
+CSF3 dimer:2xp-4Y-CSF3R:LYN:p-Y-JAK1:p-JAK2:p-SYK:p-HCK:p-TYK2:p-Y-STAT1,3,5
+CSF3 dimer:2xp-4Y-CSF3R:LYN:p-Y-JAK1:p-JAK2:p-Y-SYK:p-HCK:p-TYK2
+CSF3 dimer:CSF3R
+CSF3 dimer:CSF3R:LYN:JAK1
+CSF3R
+CSF3R:LYN:JAK1
+CSK
+CTF1
+CTF1:LIFR:JAKs
+CTLA4 dimer
+CTLA4 dimer:PP2A
+CTNNB1
+CUL5
+CXADR
+CXADR bound to JAML
+Ca2+
+Calcineurin (CaN)
+Calcineurin:Calmodulin (CaN:CaM)
+Calcineurin:p-NFATC1,2,3
+Caspase-1 tetramer
+Cell surface
+Cell surface:C3b
+Cell surface:C3b:Bb
+Cell surface:C3b:Bb:Properdin
+Cell surface:C3b:CFB
+Cell surface:C3b:CFHR dimers
+Cell surface:C4b
+Cell surface:C4b:C2a
+Cell surface:CFH, CFHR3:C3bBb
+Cell surface:FH,FHR3:C3b
+Chaperones calnexin/BiP
+Cho
+ChoP
+Cl-
+Class I MHC HC:B2M:Erp57
+Class I MHC heavy chain (MHC HC)
+Class I MHC:B2M
+Clathrin Triskelion
+Clathrin coated MHC class II alpha/beta/Ii nonamer
+Clathrin:AP-2 complex
+Clathrin:AP2 complex
+Clustered p:LYN:p-FCERI:IgE:allergen:SYK
+CoA-SH
+Collagen type XVII fibril
+Collagen types I,II,III/SP-D
+Collagen types I,III
+Complement Factor 4
+Complement factor 3
+Complex of CD19, CD81, CD225 and CD21
+Complex of CD19, CD81, CD225 and CD21 with C3d-bound Antigen
+Csk:p-PAG
+Cu1+
+Cyclophilin A:Cyclosporin A
+DAG
+DAG:p-5Y-PKC-theta:CBM complex
+DAG:p-5Y-PKC-theta:CBM oligomer
+DAG:p-5Y-PKC-theta:CBM oligomer:TRAF6
+DAG:p-5Y-PKC-theta:CBM oligomer:TRAF6 oligomer
+DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6
+DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6:TAK1:TAB1:TAB2/3
+DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6:activated TAK1 complex
+DAG:p-5Y-PKC-theta:p-S552,S645-CARMA1
+DAG:p-5Y-PKC-theta:p-S552,S645-CARMA1 oligomer
+DAGs
+DAGs:active p-T507,S645,S664-PRKCD
+DAGs:p-T507,S645,S664-PRKCD
+DAP12 Receptors:p-DAP12:p-6Y-SYK
+DAP12 Receptors:p-DAP12:p-6Y-SYK:PI3K
+DAP12 dimer
+DAP12 dimer:MDL-1
+DAP12 dimer:TREM1
+DAP12 dimer:TREM2
+DAP12 receptors:DAP12 dimer
+DAP12 receptors:p-DAP12:SYK
+DAP12 receptors:p-Y91,Y102-DAP12 dimer
+DAP12:KIR2DS1:HLA-Cw4
+DAP12:NKG2D
+DAP12:NKp44
+DAPP1
+DC receptors recognizing apoptotic cells
+DCD hexamer:Zn(2+):anionic phospholipids
+DCD peptides
+DCD(20-110)
+DCD(20-62)
+DCD(63-109)
+DCD(63-110)
+DCD(63-110):anionic phospholipid
+DCD:anionic phospholipid
+DDX41
+DDX41 viral ligand
+DDX41:DDX41 ligand
+DDX41:c-di-AMP, c-di-GMP
+DDX58
+DDX58 ligand
+DDX58, IFIH1
+DEFA1(65-94)
+DEFA5(20-94)
+DEFA5(?-94)
+DEFB103A(23-67)
+DHX36
+DHX36:CpG
+DHX36:CpG:MyD88
+DHX58
+DHX9
+DHX9/DHX36:CpG
+DHX9/DHX36:CpG:MyD88
+DHX9:CpG
+DHX9:CpG:MyD88
+DNA-PK ligands
+DNA-PK:microbial dsDNA
+DTX4
+Defensins alpha 1-3
+Defensins alpha 1-3:CD4
+Defensins alpha 1-4
+Defensins that bind Lipid II
+Defensins that bind Lipid II:Lipid II
+Dephosphorylated NFATC1,2,3
+Divalent metals transported by NRAMP1
+Double-stranded DNA
+Dynamin
+Dynamin-1/2/3
+Dynein:Dynactin:microtubule
+E-cadherin bound to KLRG1
+E1 bound ubiquitin
+E2 Ubiquitin-conjugating enzyme
+E2 congugating enzymes
+E2 enzyme (UBE2K, UbcH5a-c)
+E3 ligases in proteasomal degradation
+E3:K48-polyubiquitinated substrate
+E3:Ub:substrate
+EBI3
+EBI3 gene
+ECSIT
+EDA
+EDA-3
+EDA-3:EDA2R
+EDA2R
+EDA:EDAR
+EDA:EDAR:EDARADD
+EDAR
+EDARADD
+EEA1:EEA1
+EGR1
+EIF4E2
+EIF4F
+ELANE, CTSG, PRTN3
+ELANE,CTSG, PRTN3:microbial cell surface
+ELK1
+ELOB
+ELOC
+EPC:bacterial surface
+EPPIN:SEMG1:LTF:CLU
+Ena/VASP proteins
+Exogenous Particulate antigen (Ag)
+Exogenous soluble antigen
+F-actin
+F-actin capping protein alpha protein fragment TRTK-12
+F-actin capping protein fragment TRTK12:S100B homodimer
+FADD
+FASLG gene
+FASLG(1-281)
+FCERI
+FCERI:IgE
+FCERI:IgE:Allergen aggregate
+FCGR2A
+FCGRA
+FCGRIA:CD3G homodimer
+FCGRIIIA:CD3G/CD3Z dimers
+FCN1 dodecamer:MASP1 dimer:MASP2-1 dimer
+FCN1 ligands
+FCN1 ligands:FCN1 dodecamer:MASP1 dimer:MASP2-1 dimer:4xCa2+
+FCN2 dodecamer:MASP1 dimer:MASP2-1 dimer
+FCN2 ligands
+FCN2 ligands:FCN2 dodecamer:MASP1 dimer:MASP2-1 dimer:4xCa2+
+FCN3 ligands
+FCN3 ligands:FCN3 multimer:MASP1 dimer:MASP2 dimer:4xCa2+
+FCN3 oligomer:MASP1 dimer:MASP2-1 dimer
+FGA, FGB, FGG
+FKBP1A
+FKBP1A:tacrolimus
+FL-TLR7 dimer
+FL-TLR9 dimer
+FLNA
+FLNB
+FLT3
+FLT3:FLT3-binding type II TKIs
+FLT3LG dimer
+FLT3LG dimer:FLT3
+FLT3LG dimer:FLT3 dimer
+FLT3LG dimer:FLT3:FLT3-binding type I TKIs
+FLUAV UpN-ssRNA
+FOS
+FOXO3
+FYB
+FYN
+FYN,HCK,SRC,YES1
+FYN,LCK
+FYN-like kinases
+FYN-like kinases:CBL:GRB2:p85-containing Class 1A PI3Ks
+FYN-like kinases:p(Y731)-CBL:GRB2:Ubiquitinated p85-containing Class 1A PI3Ks
+FYN-like kinases:p(Y731)-CBL:GRB2:p85-containing Class 1A PI3Ks
+Fe2+
+Fe3+
+FeHM
+Ficolin-rich granule lumen proteins
+Ficolin-rich granule membrane proteins
+Flagellin
+G-actin
+G76-NEDD8-C111-AcM-UBE2M
+GAB2
+GADS:SLP76
+GADS:p-5Y-LAT
+GAF bound to GAS promoter element
+GATA3
+GATA3 gene
+GBP
+GBP2
+GDP
+GGC-RALA
+GHBP:GH
+GHBP:GHR
+GHR(19-256)
+GHR(19-638)
+GHR(257-638)
+GM-CSF:GM-CSF receptor alpha subunit
+GM-CSF:GM-CSF receptor alpha subunit:Common beta chain:JAK2
+GNLY
+GNLY:bacterial anionic lipids
+GPIN-CD14(20-345)
+GRAP2
+GRB10
+GRB2
+GRB2-1
+GRB2-1:SOS1
+GRB2:GAB2
+GRB2:GAB3
+GRB2:pBTLA:HVEM
+GSDMD pore complex
+GSDME oligomer:PIP
+GSH
+GSNO
+GSTA2
+GSTA2 gene
+GSTO1
+GSTO1 gene
+GTP
+GlcNac-(1-->4)MurNAc-L-Ala-gamma-D-Glu-L-Lys-(D-Ala)2
+Growth Hormone
+Growth Hormone Receptor-JAK2 dimer
+Growth Hormone Receptor:JAK2
+Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer
+Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer
+Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3
+Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3
+Growth Hormone: Growth Hormone Receptor-JAK2 dimer
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP1
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:CIS/SOCS1-3
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2
+Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SOCS
+Growth Hormone:Growth Hormone Receptor-JAK2 dimer:LYN
+Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5
+Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5
+Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2
+H+
+H2O
+H2O2
+HAVCR2
+HAVCR2:LGALS9
+HC23,45-HMGB1
+HC23,45-HMGB1:LPS
+HC23,45-HMGB1:LTA
+HC23,45-HMGB1:TLR4:LY96
+HCK
+HCQ
+HCV dsDNA
+HGF(495-728)
+HGF(495-728):IL7
+HIV gp120,HCV gp E2
+HLA Bw4 interacting with KIR3DL1
+HLA II alpha chain
+HLA II beta chain
+HLA-A3
+HLA-A3 interacting with KIR3DL2
+HLA-Bw4
+HLA-Bw4:KIR3DS1:DAP12 dimer:KIR3DS1:HLA-Bw4
+HLA-C Cw3 (group 1)
+HLA-C Cw4 (group 2)
+HLA-C Cw4/Cw3:KIR2DS4:DAP12 dimer:KIR2DS4:HLA-C Cw3/Cw4
+HLA-C group 1 interacting with KIR2DL2/3
+HLA-C group 1 interacting with KIR2DS2
+HLA-C group 2 interacting with KIR2DL1
+HLA-C group 2 interacting with KIR2DS1
+HLA-C group-I-interacting KIRs
+HLA-C1:KIR2DS2:DAP12 dimer:KIR2DS2:HLA-C1
+HLA-DM/HLA-DO
+HLA-E
+HLA-E interacting with KLRC1:KLRD1
+HLA-E:CD94:NKG2C:DAP12
+HLA-G
+HLA-G interacting with KIR2DL4
+HMGB1
+HMOX1
+HMOX1 gene
+HNO2
+HNP1-3:gp120
+HNRNPA2B1
+HNRNPA2B1 gene
+HNRNPDL
+HNRNPDL gene
+HNRNPF
+HNRNPF gene
+HOCl
+HOCl, NO2Cl
+HSP9 gene
+HSP90:HSP90
+HSP90:TBK1:IRF3
+HSP90AA1,HSP90AB1
+HSP90AB1
+HSP90B1
+HSPA8 gene, ALOX15 gene
+HSPA8, ALOX15
+HSPA9
+HTN1,3,5
+HTN1,3,5:bacterial phospholipids
+HTN5, (HTN1, HTN3):SSA1,SSA2
+HTN5,(HTN1, HTN3)
+Hemagglutinin
+High affinity binding complex dimers of cytokine receptors using Bc, activated JAK2
+High affinity binding complex dimers of cytokine receptors using Bc, activated JAK2:p-STAT5
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(S589)-Bc
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(S589)-Bc:14-3-3 zeta
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(S589)-Bc:14-3-3 zeta:p85-containing Class 1A PI3Ks
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(Y593,628)-Bc
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(Y593,628)-Bc:SHC1
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p-(Y593,628)-Bc:p(427,349,350)-SHC1
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2,p(Y593)-Bc:SHP1, SHP2
+High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2,p(Y593,628)-Bc:SHP1, SHP2
+High affinity binding complex dimers of cytokine receptors using Bc. activated JAK2:STAT5
+High affinity binding complexes of interleukin receptors using the Common beta chain
+Host cell surface
+I(1,4,5)P3
+ICAM 1-5
+ICAM2
+ICAM3
+ICOS-1
+ICOS:ICOSL
+ICOS:PI3K
+ICOSLG
+IFI16
+IFI16 ligands
+IFI27
+IFI30
+IFI35
+IFI6
+IFIH1 ligand
+IFIH1:TKFC
+IFIT1
+IFIT2
+IFIT3
+IFIT5
+IFITM1
+IFITM2
+IFITM3
+IFN alpha/beta (IFNA/B)
+IFN-gamma upregulated CAMs
+IFNA/B:IFNAR2:JAK1:STAT2
+IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2
+IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2
+IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2
+IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2
+IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2
+IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2
+IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1
+IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1
+IFNAR1:TYK2
+IFNAR1:TYK2:TYK2 inhibitors
+IFNAR2-2
+IFNAR2:JAK1:STAT2
+IFNAR2:JAK1:STAT2:JAK1,2 inhibitors
+IFNAR2:JAK1:STAT2:type 1 interferon analogs
+IFNAR2c:UBP43
+IFNB1
+IFNB1 gene
+IFNG
+IFNG dimer
+IFNG dimer:IFNG inhibitors
+IFNG gene
+IFNG induced TRIMs
+IFNG inhibitors
+IFNG-activated factor (GAF)
+IFNG-regulated genes with GAS promoter elements
+IFNG:IFNGR1:JAK1:IFNGR2:JAK2
+IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2
+IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3
+IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2
+IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2
+IFNGR1:JAK1:INFGR2:JAK2
+IFNGR1:JAK1:INFGR2:JAK2:JAK1,2 inhibitors
+IFNL1
+IFNL1:IFNLR1:JAK1:IL10RB:TYK2
+IFNL1:IFNLR1:p-JAK1:IL10RB:p-TYK2
+IFNL1:p-Y343-Y517-IFNLR1:p-JAK1:IL10RB:p-TYK2
+IFNL1:p-Y343-Y517-IFNLR1:p-JAK1:IL10RB:p-TYK2:STAT1,STAT2, STAT3, STAT4, STAT5
+IFNL1:p-Y343-Y517-IFNLR1:p-JAK1:IL10RB:p-TYK2:p-STAT1, p-Y-STAT2, p-STAT3
+IFNL2,IFNL3
+IFNL2,IFNL3:IFNLR1:JAK1:IL10RB:TYK2
+IFNLR1
+IFNLR1:JAK1
+IKBIP
+IKBIP gene
+IKBKB
+IKBKG
+IKBKG:N4BP1
+IKBKG:p-S176,S180-CHUK:p-S177,S181-IKBKB
+IKKA dimer
+IL-35:(IL6ST:JAK1:JAK2) dimer
+IL-35:(IL6ST:p-JAK1:p-JAK2) dimer
+IL-35:(IL6ST:p-JAK1:p-JAK2) dimer: STAT1
+IL-35:(IL6ST:p-JAK1:p-JAK2) dimer:p-STAT1
+IL-35:IL27RA:p-JAK1:IL12RB2:p-JAK2:p-STAT1:p-STAT3
+IL10
+IL10 dimer
+IL10 dimer:2xIL10RA:JAK1
+IL10 dimer:2xIL10RA:JAK1:2xIL10RB:TYK2
+IL10 dimer:2xIL10RA:p-Y-JAK1:2xIL10RB:p-Y-TYK2
+IL10 dimer:2xp-Y-IL10RA:p-Y-JAK1:2xIL10RB:p-Y-TYK2
+IL10 dimer:2xp-Y-IL10RA:p-Y-JAK1:2xIL10RB:p-Y-TYK2:STAT3
+IL10 dimer:2xp-Y-IL10RA:p-Y-JAK1:2xIL10RB:p-Y-TYK2:p-Y705-STAT3
+IL10 gene
+IL10-downregulated extracellular proteins
+IL10-downregulated genes for extracellular proteins
+IL10-downregulated plasma membrane proteins
+IL10-downregulated plasma membrane-associated genes
+IL10-upregulated genes for plasma membrane proteins
+IL10-upregulated plasma membrane proteins
+IL10RA:JAK1
+IL10RB
+IL10RB:TYK2
+IL11
+IL11RA
+IL11RA:IL11
+IL12A
+IL12A gene
+IL12A:EBI3
+IL12A:IL12B
+IL12A:IL12B:IL12RB1:p-Y-TYK2:IL12RB2:p-JAK2
+IL12A:IL12B:IL12RB1:p-Y800-IL12RB2:p-Y-TYK2:p-JAK2
+IL12A:IL12B:IL12RB1:p-Y800-IL12RB2:p-Y-TYK2:p-JAK2:2xSTAT4
+IL12A:IL12RB1:TYK2:IL12B:IL12RB2:JAK2
+IL12B
+IL12B:IL23A
+IL12RB1
+IL12RB1:TYK2
+IL12RB1:TYK2:IL12RB2:JAK2
+IL12RB2
+IL12RB2:JAK2
+IL13
+IL13-bound tyrosine-phosphorylated IL13 receptor type II with STAT1,STAT3,STAT6
+IL13-bound tyrosine-phosphorylated IL13 receptor type II with phosphorylated STAT1,STAT3,STAT6
+IL13-bound tyrosine-phosphorylated IL13R type II
+IL13-downregulated genes for extracellular proteins
+IL13-downregulated proteins
+IL13-upregulated genes for plasma membrane proteins
+IL13-upregulated proteins
+IL13:IL13RA2
+IL13:IL13RA:TYK2
+IL13:IL13RA:TYK2:IL4R:JAK2
+IL13:IL13RA:TYK2:IL4R:JAK2:JAK1
+IL13RA1
+IL13RA1:TYK2
+IL13RA2
+IL15
+IL15:IL15RA
+IL15:IL15RA:IL2RB:p-Y-JAK1:IL2RG:p-JAK3
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:SHC1
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:STAT3,STAT5,(STAT3:STAT5)
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:p-Y-SHC1
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:p-Y-SHC1:GRB2
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:p-Y-SHC1:GRB2:GAB2
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:p-Y-SHC1:GRB2:SOS
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:p-Y-SHC1:GRB2:p-Y-GAB2
+IL15:IL15RA:p-Y-IL2RB:p-Y-JAK1:p-Y-IL2RG:p-Y-JAK3:p-Y-STAT3,p-STAT5,(p-Y-STAT3:p-STAT5)
+IL15:IL2RB:JAK1:IL2RG:JAK3
+IL15RA
+IL15RA:IL15:IL2RB:JAK1:IL2RG:JAK3
+IL16(1-1211)
+IL16(1-1332)
+IL16(1212-1332)
+IL17A dimer,IL17F dimer,IL17A:IL17F
+IL17C dimer
+IL17C dimer:IL17RA:IL17RE
+IL17RA
+IL17RA:IL17RC:IL17A dimer,L17F dimer,IL17A:IL17F
+IL17RB
+IL17RC
+IL17RE
+IL18
+IL18 gene, ALOX5 gene
+IL18, ALOX5
+IL18-2(37-189)
+IL18:IL18R1
+IL18:IL18R1:IL18RAP
+IL18BP
+IL18BP:IL18
+IL18BP:IL37,IL37(?-218)
+IL18R1
+IL18R1:IL37,IL37(?-218)
+IL18R1:IL37,IL37(?-218):SIGIRR
+IL18RAP
+IL19
+IL19:IL20RA:JAK1:IL20RB
+IL19:IL20RA:p-JAK1:IL20RB
+IL19:IL20RA:p-JAK1:IL20RB:STAT3
+IL19:IL20RA:p-JAK1:IL20RB:p-Y705-STAT3
+IL1B gene
+IL1B mRNA
+IL1B(1-116)
+IL1B(1-269)
+IL1B(117-269)
+IL1B,Myr82K-Myr83K-IL1A
+IL1B,Myr82K-Myr83K-IL1A:IL1R1
+IL1B,Myr82K-Myr83K-IL1A:IL1R2
+IL1F10
+IL1F10(1-?)
+IL1F10(?-152)
+IL1F10(?-152):IL1RAPL1
+IL1F10:IL1RAPL1
+IL1F10:IL1RL2
+IL1R1
+IL1R1 inhibitors
+IL1R1:IL1:IL1RAP
+IL1R1:IL1:IL1RAP:IRAK4:MYD88 dimer
+IL1R1:IL1:IL1RAP:IRAK4:MYD88 dimer:TOLLIP
+IL1R1:IL1:IL1RAP:MYD88 dimer
+IL1R1:IL1:IL1RAP:p-T342,T345,S346-IRAK4:MYD88 dimer:TOLLIP
+IL1R1:IL1:IL1RAP:p-T342,T345,S346-IRAK4:MYD88 dimer:TOLLIP:IRAK1
+IL1R1:IL1:IL1RAP:p-T342,T345,S346-IRAK4:MYD88 dimer:TOLLIP:p-2S,S376,T,T209,T378-IRAK1
+IL1R1:IL1:IL1RAP:p-T342,T345,S346-IRAK4:MYD88 dimer:TOLLIP:p-2S,S376,T,T209,T378-IRAK1:TRAF6
+IL1R1:IL1:IL1RAP:p-T342,T345,S346-IRAK4:MYD88 dimer:TOLLIP:p-S376,T378-IRAK1
+IL1R1:IL1R1 inhibitors
+IL1R1:IL1R2
+IL1R1:IL1R2:IL1RN
+IL1R2
+IL1RAP-1
+IL1RAPL1
+IL1RL1
+IL1RL1:IL33
+IL1RL2
+IL1RN
+IL2
+IL20
+IL20:IL20RA:JAK1:IL20RB
+IL20:IL20RA:JAK1:IL20RB:JAK2,JAK3
+IL20:IL20RA:JAK1:IL20RB:p-Y1007,Y1008-JAK2,p-JAK3
+IL20:IL20RA:JAK1:IL20RB:p-Y1007,Y1008-JAK2,p-JAK3:STAT3
+IL20:IL20RA:JAK1:IL20RB:p-Y1007,Y1008-JAK2,p-JAK3:p-STAT3
+IL20:IL22RA1:JAK1:IL20RB
+IL20RA
+IL20RA:JAK1
+IL20RA:JAK1:IL20RB
+IL20RB
+IL21
+IL21:IL21R:JAK1
+IL21:IL21R:JAK1:IL2RG:JAK3
+IL21:IL21R:p-Y-JAK1:IL2RG:p-Y-JAK3
+IL21:IL21R:p-Y-JAK1:IL2RG:p-Y-JAK3:STAT1,STAT3,STAT4,STAT5
+IL21:IL21R:p-Y-JAK1:IL2RG:p-Y-JAK3:p-Y701-STAT1,p-Y705-STAT3,p-Y693-STAT4,(p-Y694-STAT5A,p-Y699-STAT5B)
+IL21R:JAK1
+IL22
+IL22:IL22RA1:JAK1
+IL22:IL22RA1:JAK1:IL10RB:TYK2
+IL22:IL22RA1:p-JAK1:IL10RB:p-TYK2
+IL22:p-Y251,p-Y301-IL22RA1:p-JAK1:IL10RB:p-TYK2
+IL22:p-Y251,p-Y301-IL22RA1:p-JAK1:PTPN11:IL10RB:p-TYK2
+IL22:p-Y251,p-Y301-IL22RA1:p-JAK1:PTPN11:IL10RB:p-TYK2:STAT3
+IL22:p-Y251,p-Y301-IL22RA1:p-JAK1:PTPN11:IL10RB:p-TYK2:p-Y705-STAT3
+IL22RA1
+IL22RA1:JAK1
+IL22RA1:JAK1:IL20RB
+IL22RA2
+IL22RA2:IL22
+IL23A
+IL23A:IL12B:IL12RB1:p-TYK2:IL23R:p-JAK2
+IL23A:IL12B:IL12RB1:p-TYK2:p-Y-IL23R:p-JAK2
+IL23A:IL12B:IL12RB1:p-TYK2:p-Y-IL23R:p-JAK2:STAT3
+IL23A:IL12B:IL12RB1:p-TYK2:p-Y-IL23R:p-JAK2:STAT3:STAT4
+IL23A:IL12B:IL12RB1:p-TYK2:p-Y-IL23R:p-JAK2:p-Y705-STAT3:p-Y693-STAT4
+IL23A:IL12B:IL23R:JAK2:IL12RB1:TYK2
+IL23R
+IL23R:JAK2
+IL24
+IL24:IL20RA:JAK1:IL20RB
+IL24:IL20RA:p-JAK1:IL20RB:STAT1,STAT3
+IL24:IL20RA:p-Y1022,Y1023-JAK1:IL20RB
+IL24:IL20RA:p-Y1022,Y1023-JAK1:IL20RB:p-STAT1,p-STAT3
+IL24:IL22RA1:JAK1:IL20RB
+IL24:IL22RA1:p-JAK1:IL20RB
+IL24:IL22RA1:p-JAK1:IL20RB:STAT3
+IL24:IL22RA1:p-JAK1:IL20RB:p-STAT3
+IL25 dimer
+IL25 dimer:IL17RA:IL17RB
+IL26
+IL26:IL10RB:p-TYK2:IL20RA:p-JAK1
+IL26:IL10RB:p-TYK2:IL20RA:p-JAK1:STAT1,STAT3
+IL26:IL10RB:p-TYK2:IL20RA:p-JAK1:p-STAT1, p-STAT3
+IL26:IL20RA:JAK1
+IL26:IL20RA:JAK1:IL10RB:TYK2
+IL27
+IL27:EBI3
+IL27:EBI3:IL27RA:JAK1:IL6ST:JAK1,JAK2,(TYK2)
+IL27:EBI3:IL27RA:p-JAK1:IL6ST:p-JAK1,p-JAK2,p-TYK2
+IL27:EBI3:p-Y611-IL27RA:p-JAK1:p-Y-IL6ST:p-JAK1,p-JAK2,p-TYK2
+IL27:EBI3:p-Y611-IL27RA:p-JAK1:p-Y-IL6ST:p-JAK1,p-JAK2,p-Y-TYK2:STAT1:STAT3
+IL27RA
+IL27RA:JAK1
+IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3
+IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3:STAT5
+IL2:IL2R trimer p-(Y338,392,510)-beta subunit:p-JAK1:JAK3:SHC
+IL2:IL2R trimer p-(Y338,392,510)-beta subunit:p-JAK1:JAK3:p-SHC
+IL2:IL2R trimer p-(Y338,Y392, Y510) beta subunit:p-JAK1:JAK3:p-STAT5
+IL2:IL2R trimer:JAK1:JAK3
+IL2:IL2R trimer:p-JAK1:JAK3
+IL2:IL2R trimer:p-JAK1:JAK3:SYK
+IL2:IL2R trimer:p-JAK1:JAK3:p-SYK
+IL2:IL2RA
+IL2:IL2RA:IL2RB:JAK1
+IL2RA
+IL2RB
+IL2RB:JAK1
+IL2RG
+IL2RG:JAK3
+IL3
+IL31:IL31RA:JAK1
+IL31:IL31RA:JAK1:OSMR:JAK1
+IL32
+IL32:PRTN3
+IL33
+IL33:IL1RL1-2
+IL33:IL1RL1:IL1RAP-1
+IL34
+IL34 dimer
+IL34 dimer:PTPRZ1
+IL34 dimer:SDC1
+IL34 dimer:SDC1:CSF1R
+IL34:CSF1
+IL34:CSF1:CSF1R
+IL35
+IL35:(IL12RB2:JAK2 dimer)
+IL35:(IL12RB2:p-JAK2) dimer
+IL35:(IL12RB2:p-JAK2) dimer:STAT4
+IL35:(IL12RB2:p-JAK2) dimer:p-STAT4
+IL35:(IL6ST:p-JAK1:p-JAK2:p-TYK2) dimer
+IL35:IL27RA:JAK1:IL12RB2:JAK2
+IL35:IL27RA:p-JAK1:IL12RB2:p-JAK2
+IL35:IL27RA:p-JAK1:IL12RB2:p-JAK2:STAT1:STAT3
+IL35:IL6ST:JAK1:IL12RB2:JAK2
+IL35:IL6ST:p-JAK1:IL12RB2:p-JAK2
+IL35:IL6ST:p-JAK1:IL12RB2:p-JAK2:STAT1:STAT4
+IL35:IL6ST:p-JAK1:IL12RB2:p-JAK2:p-STAT1:p-STAT4
+IL36:IL1RL2
+IL36:IL1RL2:IL1RAP-1
+IL36A,IL36B,IL36G
+IL36RN
+IL36RN, IL1F10
+IL36RN,IL1F10:IL1RL2
+IL37
+IL37(1-?)
+IL37(1-?):IL37(?-218):CASP1(120-197):CASP1(317-404)
+IL37(?-218)
+IL37(?-218):SMAD3
+IL37(?-218):p-S423,S425-SMAD3
+IL37,IL37(?-218)
+IL37:2x(CASP1(120-197):CASP1(317-404))
+IL3:IL3RA
+IL3:IL3RA:IL3RB:JAK2
+IL3RA
+IL3RB:JAK2
+IL4
+IL4, IL13
+IL4,IL13-downregulated extracellular proteins
+IL4,IL13-downregulated genes for extracellular proteins
+IL4,IL13-upregulated extracellular genes
+IL4,IL13-upregulated extracellular proteins
+IL4:IL4R:JAK2
+IL4:IL4R:JAK2:IL13RA1:TYK2
+IL4:IL4R:JAK2:IL13RA:TYK2:SOCS5,(SOCS1)
+IL4:IL4R:JAK2:IL2RG:JAK3
+IL4:IL4R:JAK2:IL2RG:JAK3:JAK1
+IL4:p-Y-IL4R:JAK2:p-Y-IL2RG:JAK3:p-Y-JAK1
+IL4:p-Y-IL4R:JAK2:p-Y-IL2RG:JAK3:p-Y-JAK1:STAT3,STAT6
+IL4:p-Y-IL4R:JAK2:p-Y-IL2RG:JAK3:p-Y-JAK1:p-Y705-STAT3,p-Y641-STAT6
+IL4R
+IL4R:JAK2
+IL5
+IL5 homodimer
+IL5 homodimer:IL5RA
+IL5 homodimer:IL5RA:Common beta chain:JAK2
+IL5RA
+IL6
+IL6 receptor hexamer:Activated JAKs
+IL6 receptor hexamer:JAKs
+IL6 receptor trimer:JAKs
+IL6:IL6R
+IL6:IL6R-2
+IL6:IL6R-2:IL6ST-2
+IL6:IL6RA:IL6RB:JAKs
+IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-Y546,Y584-PTPN11
+IL6:sIL6R:IL6RB:JAKs
+IL6R
+IL6R inhibitors
+IL6R-2
+IL6R:IL6R inhibitors
+IL6RA:IL6:IL6RB:JAKs
+IL6ST
+IL6ST-2
+IL6ST:JAK1, JAK2, (TYK2)
+IL7
+IL7:IL7R:JAK1
+IL7:IL7R:JAK1:IL2RG:JAK3
+IL7:IL7R:JAK1:IL2RG:p-JAK3
+IL7:p-Y449-IL7R:JAK1:IL2RG:JAK3:PI3K-regulatory subunits:IRS1,IRS2
+IL7:p-Y449-IL7R:JAK1:IL2RG:p-JAK3
+IL7:p-Y449-IL7R:JAK1:IL2RG:p-JAK3:STAT5A,STAT5B
+IL7:p-Y449-IL7R:JAK1:IL2RG:p-JAK3:p-STAT5A,p-STAT5B
+IL7:p-Y449-IL7R:JAK1:p-FYN:IL2RG:JAK3:PI3K-regulatory subunits
+IL7R
+IL7R:JAK1
+IL7R:TSLP:CRLF2
+IL7R:TSLP:CRLF2:STAT3
+IL7R:TSLP:CRLF2:p-STAT3
+IL9
+IL9:IL9R:JAK1:IL2RG:JAK3
+IL9:IL9R:JAK1:IL2RG:p-Y904,939-JAK3
+IL9:p-Y116-IL9R:JAK1:IL2RG:p-904,939-JAK3
+IL9:p-Y116-IL9R:JAK1:IL2RG:p-904,939-JAK3:STAT1,STAT3,STAT5A,STAT5B
+IL9:p-Y116-IL9R:JAK1:IL2RG:p-904,939-JAK3:p-Y701-STAT1,p-Y705-STAT3,p-Y649-STAT5
+IL9R
+IL9R:JAK1
+INPP5D
+INPPL1
+INTL1 ligands
+INTL1:bacterial glycan
+IP3 receptor homotetramer
+IP6K2
+IPAF elicitors
+IPAF elicitors:NLRC4
+IPAF elicitors:NLRC4:Procaspase-1
+IRAK1
+IRAK1 or IRAK2 :p-IRAK4:MyD88 oligomer:activated TLR5 or 10
+IRAK1, IRAK2
+IRAK1/or IRAK2 :p-S,2T-IRAK4:oligo-MyD88:activated TLR 7/8 or 9
+IRAK1/or IRAK2:p-IRAK4:MyD88 oligomer:TIRAP:activated TLR
+IRAK1:Pellino:E2 complexes
+IRAK1:p-S,2T-IRAK4 :oligo-MyD88:TIRAP:activated TLR
+IRAK1:p-S,2T-IRAK4 :oligo-MyD88:activated TLR 7/8 or 9
+IRAK1:p-S,2T-IRAK4:oligo-MyD88:activated TLR5/10
+IRAK2
+IRAK2:p-S,2T-IRAK4:oligo-MyD88:Mal:activated TLR
+IRAK2:p-S,2T-IRAK4:oligo-MyD88:activated TLR 7/8 or9
+IRAK2:p-S,2T-IRAK4:oligo-MyD88:activated TLR5/10
+IRAK3
+IRAK4
+IRAK4:oligo-MyD88:TIRAP:activated TLR
+IRAK4:oligo-MyD88:activated TLR 7/8 or 9
+IRAK4:oligo-MyD88:activated TLR5 or 10
+IREM2:DAP12
+IRF 1-9
+IRF3
+IRF3,IRF7
+IRF3-P:IRF7-P
+IRF7
+IRF7:TRAF6:p-3S,3T-IRAK1:p-S,2T-IRAK4:oligo-MyD88:activated TLR7/8 or 9
+IRF9
+IRS1,2
+ISG15
+ISG15 E3 ligases
+ISG15 targets
+ISG15:DDX58 conjugate
+ISG15:NEDD4
+ISG15:UBA7
+ISG15:UBCH8
+ISG15:UBCH8:ISG15 E3 ligase
+ISG15:UBEIL/UbcH8:CEB1
+ISG20
+ISGF3
+ISGF3 bound to ISRE promotor elements
+ISGF3:KPNA1:KPNB1
+ISGylated 4EHP
+ISGylated 4EHP:mRNA
+ISGylated E2 conjugating enzymes
+ISGylated Filamin B
+ISGylated IRF3
+ISGylated NS1
+ISGylated PP2CB
+ISGylated host proteins
+ITCH
+ITGA4:ITGB1
+ITGA4:ITGB1:natalizumab
+ITK
+ITK:p-Y113,128,145-SLP-76:GADS:LAT
+ITLN1 trimer:Ca2+
+ITPR:I(1,4,5)P3 tetramer
+IgE
+IgE:omalizumab
+IgG-Ag:FCGRIA:CD3G homodimer
+IgG-Ag:FCGRIIA
+IgG-Ag:FCGRIIIA:CD3G/CD3Z dimers
+IkB(alpha):NF-kB complex
+Immune Cell surface
+Immunoglobulin kappa locus
+Importin
+Integrin alpha4beta7
+Integrin alpha4beta7:MADCAM1
+Integrin alphaLbeta2
+Integrin alphaMbeta2
+Interleukin receptor compexes with activated Shc:GRB2:GAB2
+Interleukin receptor complexes with activated SHC1
+Interleukin receptor complexes with activated SHC1:GRB2:SOS1
+Interleukin receptor complexes with activated SHC1:SHIP1
+Interleukin receptor complexes with activated SHC1:SHIP1,2
+Interleukin receptor complexes with activated SHC1:SHIP:GRB2
+Interleukin receptor complexes with activated Shc:GRB2:p-GAB2
+Interleukin receptor complexes with activated Shc:GRB2:p-GAB2:p85-containing Class 1 PI3Ks
+Interleukin-1 family
+Interleukin-1 family N-terminal propeptides
+Interleukin-1 family propeptides
+Invariant chain trimer
+JAK1
+JAK1, JAK2, (TYK2)
+JAK1,2 inhibitors
+JAK2
+JAK2, JAK3
+JAK3
+JAK3 inhibitors
+JAK3:JAK3 inhibitors
+JAK3:PYK2
+JAK3:p-PYK2
+JAKs:LIFR
+JAKs:OSMR
+JUN
+K+
+K48-Ub
+K48-polyUb-p-7S-p100:RELB
+K48PolyUb-K21,22-p-S32,36-IkBA:NF-kB complex
+K48polyUb
+K48polyUb-DDX41:TRIM21
+K48polyUb-DDX58,K48polyUb-IFIH1
+K48polyUb-NIK
+K48polyUb-TRAF3
+K48polyUb-antigenic substrate
+K48polyUb-partially digested Ag
+K63-linked poly-Ub-IRF7:TRAF6:p-3S,3T-IRAK1:p-S,2T-IRAK4:oligo-MyD88:activated TLR7/8 or 9.
+K63-linked poly-Ub-p-3S,3T-IRAK1:TRAF6
+K63-linked polyUb p-IRAK1:TRAF6
+K63-pUb-TRAF6:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+K63pUb-RIP1:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+K63pUb-TANK:K63pUb-TRAF3:TICAM1:TLR3:viral dsRNA
+K63pUb-TANK:K63pUb-TRAF3:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+K63pUb-TRAF6:TAB1:TAB2,TAB3:free pUb:p-T-TAK1
+K63polyUb
+K63polyUb-DDX58
+K63polyUb-NLRC5
+K63polyUb-NLRX1
+K63polyUb-STING
+K63polyUb-TRAF3
+K63polyUb-TRAF3:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+K63polyUb-TRAF3:TICAM1:activated TLR3
+K63polyUb-hp-IRAK1
+K63polyUb-hp-IRAK1:p-Pellino-1,2,(3):UBE2N:UBE2V1
+KIR2DL1
+KIR2DL4
+KIR2DS1 complexed with DAP12
+KIR2DS1 oligomer:HLA-C (Cw4)
+KIR2DS2 complexed with DAP12
+KIR2DS2:HLA-C1 (Cw3)
+KIR2DS4:HLA-C Cw4/HLA-C Cw3
+KIR2DS5
+KIR2DS5:DAP12 dimer:KIR2DS5
+KIR3DL1
+KIR3DL2
+KIR3DS1:HLA-Bw4
+KLRB1 dimer
+KLRC1
+KLRD1
+KLRF1 dimer
+KLRF1 dimer:CLEC2B dimer
+KLRG1
+KPNA1
+KPNB1
+Kinesins:Dynactin:microtubule
+Ku70:Ku80 heterodimer
+L-Ala-gamma-D-Glu-L-Lys-D-Ala
+L-Arg
+L-Cit
+L-amino acid
+L-selectin interacting with known ligands
+L-selectin ligands
+LAG3
+LAG3:MHC II
+LAIR1
+LAIR1:Collagen type XVII
+LAIR2
+LAIR2:Collagen type I,III
+LAT
+LAT-2
+LAT2
+LBP
+LBP:bacterial LPS
+LBP:oxPL
+LCK
+LCK, CSK
+LCN2:2,5DHBA
+LCN2:2,5DHBA:Fe3+
+LCP1
+LCP1 gene
+LCP2
+LEAP2
+LEAP2:bacterial phospholipids
+LFA-1:ICAM 1-5
+LGALS9
+LIF
+LIF,OSM receptor complex:gp130
+LIF,OSM,CTF1 receptor complex
+LIF:LIFR:JAKs
+LIFR
+LIFR:JAKs,OSMR:JAKs
+LILR set
+LILR-interacting MHC Class I molecules
+LIMK1
+LMNB1
+LMNB1 gene
+LPC
+LPS
+LPS, PGN
+LPS:CD14
+LPS:CD14:CR3
+LPS:GPI-anchored CD14
+LPS:secreted CD14
+LRR FLII-interacting protein 1 dimer
+LRRC14
+LTA trimer
+LTA trimer:TNFRSF1A,1B,14
+LTBR
+LTBR:lymphotoxin,TNFSF14 trimer
+LTF
+LTF:2xFe3+:2xCO3(2-)
+LYN
+LYZ
+LYZ:PGN
+Ligand interacting with NKG2D
+Ligand recognized by TLR10
+Lipid II
+Lipid radical
+Lipid-Cl
+Lipid-OOH
+Lipoteichoic acid
+Long prodomain caspases
+Lymphoid-expressed Fc-gamma receptors
+M:TBK1
+MADCAM1-1
+MALT1
+MALT1 oligomers:active caspase-8:ASC
+MALT1 trimer
+MALT1 trimer bound to Bcl10 and CARMA1 trimer
+MALT1:active caspase-8
+MAOA
+MAOA gene
+MAP2K1,MAP2K4
+MAP2K3,MAP2K6
+MAP2K4
+MAP2K6
+MAP2K7
+MAP2K7,MAP2K4
+MAP3K1
+MAP3K14
+MAP3K3:SQSTM1
+MAP3K3:SQSTM1:TRAF6
+MAP3K7
+MAP3K8
+MAPK3/MAPK1/MAPK7 dimers
+MAPK8
+MAPK8,9,10
+MAPKs
+MAVS
+MAVS:NLRX1
+MAVS:TOMM70
+MAVS:TOMM70:HSP90:TBK1:IRF3
+MB21D1
+MBL2 dodecamer:MASP1 dimer:MASP2-1 dimer
+MBL2 dodecamer:MASP1 dimer:MASP2-1 dimer:Bacterial mannose surface pattern:4xCa2+
+MBL2,FCN:MASPs:carbohydrate patterns
+MBL2,FCN:activated MASPs:carbohydrate patterns
+MDP
+MDP:NLRP1
+MDP:NLRP1:ATP
+MDP:NOD2
+MDP:NOD2 oligomer
+MEF2
+MEKK1:activated TRAF6
+MHC Class I interacting with CD160
+MHC Class I interacting with LILRs
+MHC Class I molecules interacting with CD160
+MHC HC:B2M:Erp57
+MHC II alpha beta heterodimer
+MHC II:CLIP
+MHC II:lip10 nonamer
+MHC II:lip22 nonamer
+MHC class I HC:Calnexin/BiP:Erp57
+MHC class II alpha/beta dimer
+MHC class II alpha/beta/Ii nonamer
+MHC class II epitopes
+MHC:B2M peptide loading complex
+MIF
+MIF gene
+MPO:ferriheme
+MPO:ferriheme:bacterial cell surface
+MR/other probable receptors
+MR:soluble antigen
+MRE11:dsDNA
+MRE11A
+MSN
+MSN gene
+MT2A
+MTAP
+MTAP gene
+MYD88
+MYD88 dimer
+ManLAM
+Membrane Attack Complex
+Mg2+
+Microbial cell surface
+Mn2+
+Mother filament:ARP2/3:actin:ADP
+Mother filament:branching complex
+Mother filament:branching complex:daughter filament
+MurNAc:Peptide
+Mx GTPases
+MyD88 complexed with the activated TLR receptor
+MyD88 complexed with the activated TLR5 or 10 receptor
+MyD88:TIRAP:BTK:activated TLR2/4
+Myosin
+Myosin-Actin filaments
+Myosin-X dimer
+MyrG-p-S16-TICAM2
+N-myristoyl GAG (P12493) protein
+N-ter TLR9 dimer
+N-ter TLR9 dimer:unmethylated CpG DNA
+N2O3
+N4BP1
+N4BP1(1-424), N4BP1(1-490)
+N:CHUK:IKBKB:IKBKG
+N:M:PDPK1
+N:TAK1complex
+NADP+
+NADPH
+NCK1
+NCR1:FCRG1A:CD3Z dimer
+NCR1:FCRG1A:CD3Z dimer:Hemagglutinin
+NCR2
+NCR3:FCRG1A:CD3Z dimer
+NCR3LG1
+NCR3LG1:NCR3:FCRG3A:CD3Z dimer
+NDN gene, TP53 gene
+NDN, TP53
+NEDD4
+NF-kappa-B p50,p65,c-Rel:IKB
+NF-kappa-B p50,p65,c-Rel:p-IKB
+NF-kappaB p50,p65,c-Rel dimer
+NF-kappaB p50,p65,c-Rel:ub-p-IKB
+NF-kappaB:p-IkB:SCF-betaTrCP
+NF2
+NFAT:CaN:CaM
+NFKB1(1-433), NFKB2(1-454):RELA
+NFKB1(1-433):RELA
+NFKB1(1-433):RELA:p-S32,S36-NFKBIA
+NFKB1(1-433):RELA:p-S32,S36-NFKBIA:BTRC:CUL1:RBX1:SKP1
+NFKB1(1-968)
+NFKB1:MAP3K8:TNIP2
+NFKB1:RELA:p-S32,S36-NFKBIA:Ub
+NFKB1:p-S276,5AcK-RELA:p300/CBP
+NFKB1:p-S276-RELA
+NFKB1:p-S276-RELA:p300/CBP
+NFKB1:p-S400-MAP3K8:TNIP2
+NFKB1:p-T290-MAP3K8:TNIP2
+NFKBIA
+NFkB inhibitor
+NFkB inhibitor:NFkB complex
+NKG2D complexed with DAP10
+NKG2D dimer
+NKG2D ligand
+NKIRAS
+NLRC3
+NLRC4
+NLRC5
+NLRP1
+NLRP3
+NLRP3 elicitor proteins
+NLRP3 elicitor proteins:NLRP3
+NLRP3 elicitor small molecules
+NLRP3 elicitor small molecules:NLRP3
+NLRP3 elicitors:NLRP3 oligomer
+NLRP3 elicitors:NLRP3 oligomer:ASC
+NLRP3 elicitors:NLRP3 oligomer:ASC:Procaspase-1
+NLRP3 gene
+NLRP3:SUGT1:HSP90
+NLRP4
+NLRP4:DTX4:STING:p-S172-TBK1:IRF3
+NLRP4:DTX4:dsDNA:ZBP1:pS-172-TBK1
+NLRX1
+NO
+NO+
+NO2
+NOD1
+NOD1:iE-DAP
+NOD1:iE-DAP oligomer
+NOD1:iE-DAP:Long prodomain caspases
+NOD2
+NS1 dimer
+NS1 homodimer:Importin
+Na+
+Nitrite
+Non-canonical NF-kB initiating TNFRSF memebers
+Nonameric complex
+Nonameric complex in COPII vesicle
+O2
+O2-
+O2.-
+OAS proteins
+OAS1
+OAS1 ligand
+OAS1 tetramer:OAS1 ligand
+OAS1:OAS1 ligand
+OAS2
+OAS2:OAS2 ligand
+OAS2:OAS2 ligand dimer
+OAS3
+OAS3 ligand
+OAS3:OAS3 ligand
+OASL
+OASL:DDX58
+OH-
+ORAI dimer
+OSCAR
+OSCAR:Collagen I,II,III/SP-D
+OSCN-
+OSM
+OSM:OSMR,LIFR
+OSMR
+OSMR:JAK1
+OX40
+OX40L trimer
+Oxidized thioredoxin:TXNIP
+P2RX7
+PA
+PAK dimer
+PAK1
+PAK1 dimer
+PAK1,2,3
+PAK1,2,3 dimer
+PAK1,2,3:CDC42:GTP, RAC1:GTP
+PAK2
+PAK2 gene
+PAMP:NOD oligomer
+PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO
+PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:TAK1 complex
+PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex
+PAMP:NOD oligomer:RIP2
+PAMP:NOD oligomer:RIP2:CARD9
+PAMP:NOD oligomer:RIP2:K63-Ub-K285-NEMO
+PAMP:NOD oligomer:RIP2:NEMO
+PANX1
+PC
+PCBP2
+PDCD1
+PDCD1 inhibitors
+PDCD1:B7-DC,B7-H1
+PDCD1:PDCD1 inhibitors
+PDCD4
+PDCD4 gene
+PDE12
+PDIA3
+PDK1:PIP2,PIP3
+PDPK1
+PDPK1:PIP3
+PGLYRP1 dimer
+PGLYRP1dimer:peptidoglycan
+PGLYRP2 dimer
+PGLYRP2:peptidoglycan
+PGLYRP3,4 dimer:peptidoglycan
+PGLYRP3,4 dimers
+PI(3,4)P2
+PI(3,4,5)P3
+PI(4,5)P2
+PI3
+PI3:LPS
+PI3K
+PI3K alpha
+PI3K bound to TRAT
+PI3K class III
+PI3K regulatory subunits
+PI3K:p-6Y-SYK
+PIANP,NPDC1,CLEC4G,COLEC12 trimer
+PIAS1
+PIK3CA
+PIK3CA,B,G:PIK3R1
+PIK3CD:PIK3R1
+PIK3R1
+PILRA
+PILRA,PILRB
+PILRA,PILRB:CD99
+PILRA:PIANP,NPDC1,CLEC4G,COLEC12 trimer
+PIN1
+PIP3, PI(3,4)P2
+PITPNA
+PITPNA gene
+PKC-delta/epsilon
+PKC-theta (open): DAG
+PLA2G2A:Ca2+
+PLA2G2A:phospholipids
+PLC gamma1,2
+PLC-gamma1 bound to LAT or SLP-76
+PLCG1
+PLCG1:p-3Y-SLP-76:Gads:LAT
+PLCG1:p-5Y-LAT
+PLCG2
+PML
+PP2A
+PP2A:CTLA4:B7-1/B7-2
+PPIA
+PPIA gene
+PPL
+PPM1B
+PPi
+PRKCB
+PRKDC
+PRKQC closed conformation
+PRLR
+PRLR ligands:Activated PRLR:JAK2 dimer
+PRLR ligands:Activated PRLR:JAK2 dimer:SH2B1 beta
+PRLR ligands:Activated PRLR:p-Y1007-JAK2 dimer
+PRLR ligands:PRLR:JAK2 dimer
+PRLR ligands:p-S349- PRLR:JAK2 dimer
+PRLR ligands:p-S349- PRLR:JAK2 dimer:SCF beta-TrCP complex
+PRLR ligands:p-S349-PRLR:JAK2 dimer
+PRLR ligands:p-Y611-PRLR:p-Y1007-JAK2 dimer
+PRLR ligands:p-Y611-PRLR:p-Y1007-JAK2 dimer:SHP2
+PRLR ligands:p-Y611-PRLR:p-Y1007-JAK2 dimer:p-SHP2
+PRLR ligands:p-Y611-PRLR:p-Y1007-JAK2 dimer:p-STAT5
+PRLR ligands:p-Y611-PRLR:p-Y1007-JAK2:STAT5
+PRLR:JAK2
+PRLR:JAK2 dimer
+PRTN3
+PS
+PSMB8
+PSME2
+PSME2 gene
+PSTPIP1 trimer
+PSTPIP1 trimer:Pyrin trimer
+PTAFR
+PTGS2
+PTGS2 gene
+PTK2B
+PTPN genes2,4,5,6,7,9,11,12,13,14,18,20,23
+PTPN1
+PTPN11
+PTPN22
+PTPN22:CSK
+PTPN4
+PTPN6
+PTPN6,PTPN11
+PTPN6,PTPN11:p-Y223,248-PDCD1:B7-DC,B7-H1
+PTPN6:p-Y762,807,822-CD22:Antigen:p-BCR
+PTPNs2,4,5,6,7,9,11,12,13,14,18,20,23
+PTPRZ1
+PVR
+PVRL2
+PYCARD
+Particulate Ag:DC receptors
+Pellino 1,2,3
+Peptide-Methionine
+Peptide-Methionine (S)-Sulfoxide
+Peptidyl-Cys-SCl
+Peptidyl-Cys-SH
+Peptidyl-Cys-SNO
+Peptidyl-Cys-SOH
+Peptidyl-Cys-SSCN
+Peptidyl-Lys-NCl2
+Peptidyl-Lys-NH2
+Peptidyl-Lys-NHCl
+Peroxynitrite
+Phospho-NF-kappaB Inhibitor
+Phospho-PKC-delta/epsilon
+Phospho-Ribosomal protein S6 kinase
+Phospho-p38 MAPK
+Phosphorylated Bcl10 bound to CARMA1 and RIP2
+Phosphorylated PLC-gamma1 bound to LAT or SLP-76
+Pi
+Pol-III ligands
+Poly-K6-Ub-hp-IRAK1:CHUK:IKBKB:IKBKG
+Pre-pro-defensins
+Pro-defensin fragments
+Pro-defensins
+Pro-defensins alpha 1-4
+Prolactin receptor ligands
+Promotor region of interferon beta
+Properdin oligomer
+Protein VP3
+Pyrin trimer
+Pyrin trimer:ASC
+RAB7:RILP:ORP1L complex
+RAC1:GDP
+RAC1:GTP
+RAC1:GTP,CDC42:GTP:PAK1
+RAF1
+RAG1:RAG2 recombinase
+RAG1:RAG2 recombinase:Immunoglobulin kappa locus
+RALA gene
+RANK:RANKL,sRANKL trimer
+RANKL,sRANKL trimer
+RAP1:GDP
+RAP1:GTP
+RAP1B
+RAP1GAP2
+RAP1GAP2:14-3-3beta, zeta
+RAPB1 gene
+RAPGEF1
+RASGRP1,3
+REG3A hexamer:anionic phospholipid
+REG3A(27-175)/REG3G(27-175)
+REG3A(27-37)/REG3G(27-37)
+REG3A(38-175)
+REG3A(38-175), REG3G(38-175)
+REG3A(38-175), REG3G(38-175):peptidoglycan
+REG3A(38-175):anionic phospholipids
+RELB
+RIP1:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+RIP3:TICAM1:activated TLR3
+RIP3:TICAM1:activated TLR4
+RIPK1
+RIPK2
+RIPK3
+RNA fragment with 2'-3' cyclic phosphate
+RNASE3,RNASE7,RNASE6,(RNASE8)
+RNASEL
+RNASEL dimer
+RNASEL:2'-5' oligoadenylate
+RNASEL:FLNA
+RNASEs 3,6,7,(8):LPS,PGN
+RNASEs 3,6,7,(8):anionic phospholipids
+RNF125
+RNF135,TRIM25,TRIM4
+RNF7 (RBX2)
+ROS
+RP105:MD1
+RPLP0
+RPLP0 gene
+RPS6KA5
+RSAD2
+RSV dsRNA intermediate form
+Rap1 cAMP-GEFs
+Rap1 cAMP-GEFs:cAMP
+Rap1-GTP:Raf1
+RasGRPs
+RasGRPs:DAG:Ca2+
+Resting T Cell surface
+Ribosomal protein S6 kinase
+S-Farn-Me-PalmS KRAS
+S-Farn-Me-PalmS KRAS:GDP
+S-Farn-Me-PalmS KRAS:GTP
+S100A1 dimer:Ca(2+)
+S100A1:TLR4:LY96
+S100A7, S100A7A:Ca2+
+S100A7, S100A7A:Ca2+:Zn2+
+S100A8:S100A9
+S100A8:S100A9:Ca2+
+S100A8:S100A9:Ca2+:Mn2+:Na+
+S100A8:S100A9:Ca2+:Zn2+
+S100B homodimer
+SAMHD1
+SAP,EAT2
+SAR1B:GDP
+SAR1B:GTP
+SAR1B:GTP:SEC23:SEC24
+SARM-1
+SARM:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+SARM:TICAM1:viral dsRNA:TLR3
+SCF-beta-TRCP
+SCF-beta-TrCP1,2:p-S927,S932-NFKB1:p-S,T-MAP3K8:TNIP2
+SCN(-)
+SDC1
+SEC13
+SEC22B
+SEC22B:STX4
+SEC23:SEC24
+SEC23A
+SEC24
+SEC31A
+SELL
+SERPINB2
+SERPINB2 gene
+SERPING1
+SFTPA oligomer, SFTPD oligomer
+SFTPA/SFTPD:TLR2:TLR1
+SH2B1-2
+SH2B3
+SH3 domain proteins
+SH3GL2
+SHC1
+SHC1-2
+SHIP1,2
+SHP-1/SHP-2:pBTLA:HVEM
+SHP2:GRB2
+SIGIRR
+SIGLEC
+SIGLEC14/15/16
+SIGLEC14/15/16:DAP12 dimer
+SIGLEC:sialic acid
+SIKE1
+SIRPB1
+SIRPB1:TYROBP
+SLA
+SLA2
+SLAMF6
+SLAMF6 dimer
+SLAMF6:SLAMF6:SAP,EAT2
+SLAMF7
+SLAMF7 dimer
+SLP-76 bound to Gads:LAT
+SMAD3
+SMAD7
+SMAD7 gene
+SMARCA4
+SNAP23
+SNRPA1
+SNRPA1 gene
+SOCS
+SOCS-1 and SOCS-3
+SOCS1
+SOCS1 gene
+SOCS1,3:p-4Y-CSF3R:CSF3 dimer:LYN:p-Y-JAK1:p-JAK2:p-SYK:p-HCK:p-TYK2
+SOCS1,3:p-4Y-CSF3R:CSF3 dimer:LYN:p-Y-JAK1:p-JAK2:p-SYK:p-HCK:p-TYK2:CUL5:ELOB:ELOC:RNF7
+SOCS1,3:p-4Y-CSF3R:CSF3dimer:LYN:p-Y-JAK1:p-JAK2:p-SYK:p-HCK:p-TYK2
+SOCS2
+SOCS3
+SOCS3 gene
+SOCS3 mRNA
+SOCS5,(SOCS1)
+SOCS6
+SOD1
+SOD1 gene
+SOD2
+SOD2 gene
+SOS1
+SOS1, SOS2
+SP-A/SP-D:TLR4:MD2
+SP100
+SPTBN2
+SRC
+SSA1,SSA2
+STAT1
+STAT1 bound to p-IFNGR1
+STAT1, STAT2, STAT3, STAT4, STAT5
+STAT1, STAT3
+STAT1, STAT3, STAT5
+STAT1,STAT2:N
+STAT1,STAT3,STAT4,STAT5
+STAT1,STAT3,STAT6
+STAT1-1
+STAT1/3 homo and heterodimers
+STAT2
+STAT3
+STAT3,STAT5,(STAT3:STAT5)
+STAT3,STAT6
+STAT3-upregulated cytosolic proteins
+STAT3-upregulated extracellular proteins
+STAT3-upregulated genes for cytosolic proteins
+STAT3-upregulated genes for extracellular proteins
+STAT3-upregulated genes for nuclear proteins
+STAT3-upregulated genes for plasma membrane proteins
+STAT3-upregulated nuclear proteins
+STAT3-upregulated plasma membrane proteins
+STAT4
+STAT5
+STAT5A,STAT5B
+STAT6
+STAT6 upregulated extracellular protein genes
+STAT6 upregulated extracellular proteins
+STAT6 upregulated plasma membrane protein genes
+STAT6 upregulated plasma membrane proteins
+STATs
+STIM1 Dimer
+STIM1:Calcium
+STIM1:TRPC1
+STING
+STING:STING
+STING:TBK1:IRF3
+STING:TBK1:STAT6
+STING:TRIM32/TRIM56
+STING:c-di-GMP
+STING:cGAMP
+STING:p-S172,K48polyUb-TBK1:IRF3
+STING:p-S172-TBK1
+STING:p-S172-TBK1:IRF3
+STING:p-S172-TBK1:STAT6
+STX1A
+STX3
+STX4
+STXA1:SNAP25,STXBP2, VAMP2
+SUGT1
+SUGT1:HSP90
+SUMO1
+SYK
+Sar1p:GTP:Sec23p:Sec24p:Ag bound MHC class I
+Secretory granule lumen proteins
+Secretory granule membrane proteins
+Sialic acid
+Specific granule lumen proteins
+Specific granule membrane proteins
+Src family tyrosine kinases (SFKs)
+T-cell receptor complex
+T-cell receptor complex with CD8
+TAB1:TAB2,TAB3:TAK1
+TAB2/TAK1 complex
+TAC1,BCMA
+TAK1 complex
+TAK1/TAB2 complex bound to TRAF6/CBM complex
+TALDO1
+TALDO1 gene
+TANK
+TANK:K63-poly-Ub-TRAF3:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+TANK:K63-poly-Ub-TRAF3:TICAM1:viral dsRNA:TLR3
+TAP
+TAPBP
+TAX1BP1:TNFAIP3
+TAX1BP1:TNFAIP3:TBK1/IKKi
+TBK1
+TBK1, IKBKE
+TBK1/IKBKE:SIKE1
+TBK1:amlexanox
+TBK1:pp1ab-nsp13
+TCP1
+TCP1 gene
+TCR interacting with antigen-bearing MHC Class I
+TDM
+TDM,alpha-mannan
+TEC
+TEC,BTK,ITK,(TXK)
+TEC:VAV1
+TGN-lysosome vesicle with nonameric complex
+THOC5
+TICAM1
+TICAM1:TRAM:TLR4:LY96:LPS:CD14
+TICAM1:activated TLR3 complexes
+TIFA:TIFA
+TIRAP
+TIRAP:PI(4,5)P2
+TIRAP:PI(4,5)P2:BTK:activated TLR2/4
+TIRAP:PI(4,5)P2:activated TLR2/4
+TKFC
+TLR10
+TLR10 homodimer bound to ligand
+TLR1:TLR2
+TLR1:TLR2 ligand:CD14
+TLR1:TLR2 recognized ligand
+TLR1:TLR2:TLR1/2 ligand:CD14
+TLR3
+TLR3 ligand
+TLR4:LY96
+TLR4:LY96:LPS:CD14
+TLR4:LY96:S100A8:S100A9
+TLR4:LY96:cleaved fibrinogen
+TLR4:TLR6
+TLR4:TLR6:CD36:oxLDL
+TLR5
+TLR5 homodimer:bacterial flagellin
+TLR6/2 ligand:CD14:CD36
+TLR6:TLR2
+TLR6:TLR2 recognized ligand
+TLR6:TLR2:ligand:CD14:CD36
+TLR7, TLR8 ligands
+TLR7/8/9
+TLR8 dimer
+TLR8 dimer:TLR7,TLR8 ligands
+TLR9
+TMP
+TNF(1-233) trimer
+TNF-alpha inhibitors
+TNF-alpha inhibitors:TNF(1-233) trimer
+TNFA trimer:TNFR2
+TNFA trimer:TNFR2 trimer
+TNFA:TNFR2 heterotrimer:cIAP1,2:TRAF2:TRAF3:NIK
+TNFA:TNFR2,BAFF:BAFFR,TWEAK:Fn14,Lymphotoxin:LTBR,RANKL:RANK,CD40L:CD40
+TNFRSF11A
+TNFRSF11B
+TNFRSF12A
+TNFRSF13C
+TNFRSF14
+TNFRSF18
+TNFRSF1A gene, TIMP1 gene
+TNFRSF1A(41-201),TIMP1
+TNFRSF1A,1B,14
+TNFRSF1B
+TNFRSF25
+TNFRSF25:TNFSF15
+TNFRSF6B
+TNFRSF6B:TNFSF6,14,15
+TNFRSF8
+TNFRSF9
+TNFSF11,sTNFSF11 trimer:3xTNFRSF11B
+TNFSF15
+TNFSF18
+TNFSF18:TNFRSF18
+TNFSF6,14,15
+TNFSF8
+TNFSF8:TNFRSF8
+TNFSF9 trimer
+TNFSF9:TNFRSF9
+TNFSF:TNFRSF heterotrimer:K63polyUb-cIAP1,2:TRAF2:TRAF3:NIK
+TNFSF:TNFRSF heterotrimer:TRAF2:K63polyUb-cIAP1,2:K48polyUb-TRAF3:NIK
+TNIP2
+TOLLIP
+TOMM70
+TOMM70:9b
+TRAF1:TRAF2:K63polyUb-cIAP1,2
+TRAF2, TRAF6
+TRAF2:cIAP1,2
+TRAF3
+TRAF3:NIK
+TRAF3:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+TRAF3:TICAM1:viral dsRNA:TLR3
+TRAF6
+TRAF6 trimer bound to CBM complex
+TRAF6:K63-linked polyUb p-IRAK1:IKK complex
+TRAF6:TICAM1:TRAM:TLR4:LY96:LPS:CD14
+TRAF6:hp-IRAK1
+TRAF6:hp-IRAK1/or p-IRAK2:p-IRAK4:oligo-MyD88 :activated TLR5 or 10
+TRAF6:hp-IRAK1/or p-IRAK2:p-IRAK4:oligo-MyD88:activated TLR7/8 or 9
+TRAF6:hp-IRAK1:Pellino
+TRAF6:hp-IRAK1:p-IRAK4:oligo-MyD88:TIRAP:activated TLR
+TRAF6:p-3S,3T-IRAK1:p-S,2T-IRAK4:oligo-MyD88:activated TLR7/8 or 9
+TRAF6:p-IRAK2
+TRAF6:p-IRAK2 :p-IRAK4:oligo-MyD88:TIRAP:activated TLR
+TRAM:TLR4:LY96:LPS:CD14
+TREM, CD300
+TREM1
+TREM2
+TREX1 dimer
+TREX1:viral DNA
+TRIF:activated TLR4
+TRIM, CD300:lipids
+TRIM21
+TRIM25:N
+TRIM32/TRIM56
+TRPC1
+TSLP
+TXLNA
+TXLNA:STX1A
+TXLNA:STX3
+TXLNA:STX4
+TXN
+TXNIP
+TXNIP:NLRP3
+TYK2
+TYK2 inhibitors
+TYROBP
+Tertiary granule lumen proteins
+Tertiary granule membrane proteins
+Thioredoxin:TXNIP
+Tn antigens
+Type I IFN-regulated genes with ISRE promoter elements
+Type-I IFN genes
+Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs
+Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:PTPN11
+Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:PTPN11:CBL
+Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:SOCS3
+Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:STAT1,STAT3
+Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:Tyrosine phosphorylated STAT1,STAT3
+Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:Tyrosine/serine phosphorylated STAT1/3
+UBA3
+UBA7
+UBE2D2,UBE2D1,(CDC34)
+UBE2L6
+UBE2N:UBE2V1
+UBE2N:UBE2V1:K63polyUb
+UNC93B1
+USP14
+USP18
+Ub
+Ub-TRAF6 trimer bound to CBM complex
+Ub-pY FLT3:FLT3LG dimer
+Ub:UBE2D1,2,3
+Ubiquitin activating E1 enzymes
+Ubiquitin:E2 conjugating enzymes
+Unmethylated CpG DNA
+Unsaturated lipid
+VAF (virus-activated factor)
+VAF/pIRF7:CBP/p300
+VAF/pIRF7:CBP/p300 bound to type I IFN gene promoter
+VAMP7
+VAMP8,VAMP3
+VAV1
+VAV1,2,3
+VAV1:PIP3:CD28:GRB2
+VAV2,VAV3
+VCAM1
+VRK3:DUSP3
+VTN
+VTN:C5b:C6:C7
+VTN:C5b:C6:C7:C8:C9
+WAS
+WASP/N-WASP
+WAVE Regulatory Complex
+WAVE2, WASP, N-WASP
+WAVE2, WASP, N-WASP:ARP2/3 complex:G-actin
+WIP family proteins
+WRC:IRSp53/58:RAC1:GTP:PIP3
+XAF1
+XDH
+Y963-STAT4 dimer
+YES1
+YWHAZ
+ZAP-70 bound to phosphorylated ITAM motifs
+ZAP70
+ZBP1
+ZBP1 ligand
+ZFYVE20
+Zn2+
+activated TLR2/4:p-4Y-TIRAP:PI(4,5)P2:BTK
+activated TLR3:TICAM1:K63pUb-RIP1
+activated TLR3:TRIF:K63polyUb-TRAF3:K63polyUb-TANK:p-TBK1/p-IKKE:IRF3/IRF7
+activated TLR3:TRIF:K63polyUb-TRAF3:K63polyUb-TANK:p-TBK1/p-IKKi
+activated TLR3:TRIF:RIP1:FADD
+activated TLR3:TRIF:RIP1:FADD:pro-caspase-8
+activated TLR4:TICAM1:K63pUb-TRAF6:free K63pUb:TAK1complex
+activated TLR4:TICAM1:K63pUb-TRAF6:free K63pUb:activated TAK1 complex
+activated TLR4:TRIF:K63polyUb-TRAF3:K63polyUb-TANK:p-TBK1/p-IKKE:IRF3/IRF7
+activated TLR4:TRIF:K63polyUb-TRAF3:K63polyUb-TANK:p-TBK1/p-IKKi
+activated TLR4:TRIF:RIP1:FADD
+activated TLR4:TRIF:RIP1:FADD:pro-caspase-8
+activated TLR9:PI3K class III
+active FLT3:ABL2
+active FLT3:CBL
+active FLT3:CSK
+active FLT3:GRAP2
+active FLT3:GRB10
+active FLT3:LCK
+active FLT3:SH2B3
+active FLT3:SLA
+active FLT3:SLA2
+active FLT3:SOCS2
+active FLT3:SOCS6
+active FLT3:SYK
+active FLT3:p-Y GRB10
+active FLT3:p-Y GRB10:PI3K
+active FLT3:p-Y GRB10:PIK3R1
+active FLT3:pY-CBL
+active caspase-8
+alpha beta dimer:Ii trimer:calnexin
+alpha-mannan
+amlexanox
+antigenic substrate
+beta-catenin:IRF3:p300
+betaGlcNAc
+c-GMP-AMP
+c-di-AMP, c-di-GMP
+c-di-GMP
+cAMP
+cGAS ligands
+cGAS:dsDNA
+cIAP1,2:TRAF2:TRAF3:NIK
+clustered IgG-Ag:FCGRs
+clustered IgG-Ag:p-FCGRs
+clustered IgG-Ag:p-FCGRs:SYK
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:VAV
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG
+clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-VAV
+dA, dG within DNA
+dCMP
+dGMP
+dsDNA:AIM2
+dsDNA:AIM2 oligomer
+dsDNA:AIM2 oligomer:ASC
+dsDNA:AIM2 oligomer:ASC:Procaspase-1
+dsDNA:IFI16
+dsDNA:LRR FLII-interacting protein 1dimer
+dsDNA:LRRFIP1:beta-catenin
+dsDNA:ZBP1
+dsDNA:ZBP1:RIP1:RIP3
+dsDNA:ZBP1:pS-172,K48polyUb-TBK1
+dsDNA:ZBP1:pS-172-TBK1
+dsDNA:ZBP1:pS-172-TBK:IRF3
+dsRNA:RIG-I/MDA5:IPS-1:ATG5-ATG12
+dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6
+dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:MEKK1
+dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK
+dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:2xTBK1/IKBKE
+dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:2xpS172-TBK1/IKBKE
+dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:TBK1/IKBKE
+dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:TBK1/IKBKE:IRF7
+dsRNA:RIG-I/MDA5:TRAF2/TRAF6:IPS-1:RIP-1/FADD:Casp-8/10 prodomain:IKK complex
+eIF4F:mRNA
+fl-TLR9:unmethylated CpG DNA
+folded FL-TLR7/8/9
+gp120 homotrimer
+heme
+hp-IRAK1 or p-IRAK2 : pIRAK4:MyD88:activated TLR5/10
+hp-IRAK1 or p-IRAK2 bound to the pIRAK4:MyD88:activated TLR7/8 or 9 complex
+hp-IRAK1/or p-IRAK2 :TRAF6
+hp-IRAK1/or p-IRAK2:TRAF6
+hp-IRAK1: p-Pellino-1,2,(3):UBE2N:UBE2V1:K63polyUb
+hp-IRAK1:3xK63-polyUb-TRAF6:3xUBE2N:UBE2V1
+hp-IRAK1:3xK63polyUb-TRAF6
+hp-IRAK1:3xTRAF6
+hp-IRAK1:3xTRAF6:3xUBE2N:UBE2V1:K63polyUb
+hp-IRAK1:K6-poly-Ub oligo-TRAF6:TAK1 complex
+hp-IRAK1:K63polyUboligo-TRAF6:Activated TAK1 complex
+hp-IRAK1:Pellino, IRAK4:Pellino
+hp-IRAK1:activated IRAK4:MyD88oligomer:activated TLR5 or 10
+hp-IRAK1:p-Pellino, IRAK4:p-Pellino
+hydroperoxyl
+hydroxyl
+iC3b
+iE-DAP
+imiquimod
+integrin alpha4beta1:VCAM1
+intracellular TLR3/7/8/9
+intracellular TLR:UNC93B1
+lymphotoxin,TNFSF14 trimer
+monoglucosylated MHC class I HC
+monoglucosylated MHC class I HC:Calnexin/BiP
+monoubiquitinated N-myristoyl GAG (P12493) protein
+natalizumab
+nitrite
+nitrosoperoxycarbonate
+nitryl chloride
+oligo-MyD88:TIRAP:BTK:activated TLR
+oligo-MyD88:activated TLR5 or 10
+oligo-MyD88:activated TLR7-9
+oligopeptide fragment
+oligopeptide fragment (3-7aa)
+oligopeptide fragment (8-16aa)
+omalizumab
+omega-N-(ADP-ribosyl)-L-arginine-DEFA1(65-94)
+oxLDL:CD36
+oxidized phospholipids
+p(Y700,731,774)-CBL:CRK
+p(Y700,731,774)-CBL:CRK:RAPGEF1
+p(Y700,731,774)-CBL:VAV1
+p-10Y-LAT2
+p-10Y-NTAL:p-SHC1:GRB2:SOS
+p-10Y-NTAL:p-SHC1:GRB2:SOS:GAB2
+p-10Y-NTAL:p-SHC1:GRB2:SOS:p-3Y-GAB2
+p-10Y-NTAL:p-SHC1:GRB2:SOS:p-3Y-GAB2:PI3K
+p-2S,S376,T,T209,T387-IRAK1, IRAK4
+p-2S,S376,T,T209,T387-IRAK1:TRAF6
+p-2S-IRF7:p-2S-IRF7
+p-2S-cJUN:p-2S,2T-cFOS
+p-2S-cJUN:p-2T-ATF2
+p-2Y-PAK
+p-3S,3T-IRAK1:p-S,2T-IRAK4:oligo-MyD88:TIRAP:activated TLR
+p-3S,3T-IRAK1:p-S,2T-IRAK4:oligo-MyD88:activated TLR7/8 or 9
+p-4S,T336-ELK1
+p-4S,T404-IRF3
+p-4S,T404-IRF3,p-S477,S479-IRF7
+p-4Y-PIK3AP1
+p-4Y-PLCG
+p-5Y-LAT
+p-5Y-LAT-2
+p-5Y-LAT:GRB2:SOS1:GADS:p-3Y-SLP-76:PLCG:VAV:p-Y223,Y551-BTK
+p-5Y-LAT:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:PIP3:p-VAV
+p-5Y-LAT:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:PIP3:p-VAV:RAC1-GTP
+p-5Y-LAT:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:PIP3:p-VAV:RAC1-GTP:PAK dimer
+p-5Y-LAT:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG:VAV:BTK:PIP3
+p-5Y-LAT:GRB2:SOS:GADS:p-3Y-SLP-76:p-2Y-BTK:VAV
+p-5Y-LAT:GRB2:SOS:GADS:p-3Y-SLP-76:p-2Y-BTK:VAV:p-PLCG
+p-5Y-LAT:PLCG1:GADS:p-3Y-SLP-76:BTK:p-VAV
+p-5Y-LAT:p-SHC1:GRB2:SOS1
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:SLP76
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:SLP76:PLCG
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:VAV
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:VAV:TEC kinases:PIP3
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:VAV:p-2Y-BTK/p-2Y-ITK:PIP3
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:VAV:p-2Y-TEC kinases
+p-5Y-LAT:p-SHC1:GRB2:SOS1:GADS:p-Y113,Y128,Y145-SLP-76:PLCG1:VAV:p-TEC kinases:PIP3
+p-5Y-PKC-theta:DAG
+p-BCL10
+p-BTLA-HVEM complex
+p-CARMA1 Oligomer
+p-CARMA1:MALT1:p-BCL10
+p-CARMA1:MALT1:p-BCL10:TAK1
+p-CARMA1:MALT1:p-BCL10:TAK1:IKK
+p-CD19:VAV1
+p-IRAK1:p-IRAK4:oligo-MyD88:TIRAP:activated TLR
+p-IRAK1:p-IRAK4:oligo-MyD88:activated TLR7/8 or 9 complex
+p-IRAK1:p-IRAK4:oligo-MyD88l:activated TLR5 or 10
+p-IRAK2
+p-IRAK2:K63-linked pUb oligo-TRAF6
+p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex
+p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex
+p-IRAK2:oligo-TRAF6
+p-IRAK2:p-IRAK4:oligo-MyD88:TIRAP:activated TLR
+p-IRAK2:p-IRAK4:oligo-MyD88:activated TLR 7/8 or9
+p-IRAK2:p-IRAK4:oligo-MyD88:activated TLR5 or 10
+p-IRF3 dimer:PIN1
+p-IRF3:p-IRF3
+p-MAP2K4/p-MAP2K7
+p-MAP3K14
+p-MAPK3/MAPK1/MAPK7 dimers
+p-MAPK8,9,10
+p-MEF2
+p-NFATC1,2,3
+p-PLCG
+p-Pellino-1,2,(3)
+p-Pellino:hp-IRAK1:TRAF6
+p-RASGRP1,3:DAG
+p-S,2T-IRAK4:oligo-MyD88:TIRAP:activated TLR receptor
+p-S,2T-IRAK4:oligo-MyD88:activated TLR5 or 10
+p-S,2T-IRAK4:oligo-MyD88:activated TLR7/8 or 9 receptor
+p-S-AKT:PDPK1:PIP3
+p-S-AKT:PIP3
+p-S133-CREB1
+p-S144,T423-PAK1
+p-S15,S20-TP53 Tetramer
+p-S15,S20-TP53 Tetramer:IKBIP Gene
+p-S189,T193-MAP2K3, p-S207,T211-MAP2K6
+p-S207,T211-MAP2K6
+p-S212,S360,S376,T581-RPS6KA5
+p-S218,S222-MAP2K1,p-S257,T261-MAP2K4
+p-S257,T261-MAP2K4
+p-S271,T275-MAP2K7
+p-S276-RELA
+p-S276-RELA:RELB
+p-S32,36-IkB-alpha:NF-kB complex
+p-S32,S36-NFKBIA
+p-S400,T290-MAP3K8
+p-S400-MAP3K8
+p-S407,Y641-STAT6
+p-S407,Y641-STAT6 dimer
+p-S407-STAT6
+p-S423,S425-SMAD3
+p-S477,S479-IRF7
+p-S552,S645-CARD11
+p-S552-CARD11
+p-S552-CTNNB1
+p-S63,S73-JUN
+p-S63-ATF1
+p-S7-RAP1GAP2
+p-S927,S932-NFKB1(1-968):MAP3K8:TNIP2
+p-S927,S932-NFKB1(1-968):p-S,T-MAP3K8:TNIP2
+p-S95-SNAP23
+p-S95-SNAP23:VAMP8,VAMP3
+p-SHC1:GRB2:SOS
+p-SLP-76:ADAP
+p-SLP-76:ADAP:Ena/VASP
+p-SLP-76:NCK1
+p-SLP-76:NCK1:WASP
+p-SLP-76:NCK:PAK
+p-STAT1
+p-STAT1 dimer bound to p-IFNGR1
+p-STAT1 dimer, ISGF3
+p-STAT1 dimer:KPNA1
+p-STAT1 dimer:KPNA1:KPNB1
+p-STAT1 dimer:PIAS:SUMO1
+p-STAT1 homodimer
+p-STAT1(Y701) bound to p-IFNGR1
+p-STAT1, p-STAT3
+p-STAT1, p-Y-STAT2, p-STAT3, p-STAT4,p-STAT5
+p-STAT1:p-STAT4
+p-STAT2:p-STAT1
+p-STAT3
+p-STAT4
+p-STAT5 dimer
+p-STAT5A, p-STAT5B
+p-STAT5A,p-STAT5B dimer
+p-T,4S-IRF3:p-T,4S-IRF3
+p-T,4S-IRF3:p-T,4S-IRF3:CREBBP, EP300
+p-T,4S-IRF3:p-T,4S-IRF3:CREBBP, EP300:Promotor region of interferon beta
+p-T,Y MAPKs
+p-T,Y-MAPK8
+p-T,p-S-AKT
+p-T1400,T1412-MAP3K1
+p-T231-CARD9
+p-T231-CARD9 oligomer
+p-T231-CARD9 oligomer:BCL10
+p-T231-CARD9:BCL10 oligomers
+p-T231-CARD9:BCL10 oligomers:MALT1
+p-T231-CARD9:BCL10:MALT1 oligomers
+p-T231-CARD9:BCL10:MALT1 oligomers:TRAF6
+p-T231-CARD9:BCL10:MALT1:K63polyUb-TRAF6 oligomers
+p-T231-CARD9:BCL10:MALT1:K63polyUb-TRAF6 oligomers:TAB1:TAB2/TAB3:K63polyUb-34,158-TAK1
+p-T231-CARD9:BCL10:MALT1:K63polyUb-TRAF6 oligomers:TAB1:TAB2/TAB3:K63polyUb-34,158-p3Y,1S-TAK1
+p-T231-CARD9:BCL10:MALT1:K63polyUb-TRAF6 oligomers:TRIKA2
+p-T231-CARD9:BCL10:MALT1:TRAF6 oligomers
+p-T32,S253,S315-FOXO3
+p-T325,T331,S362,S374-FOS
+p-T342,T345,S346-IRAK4
+p-T507,S645,S664-PRKCD
+p-T508-LIMK1
+p-T559-MAP3K14
+p-T69,T71-ATF2
+p-TBK1
+p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2
+p-Y,S,T-WRC:IRSp53/58:RAC1:GTP:PIP3
+p-Y-IRS1,p-Y-IRS2
+p-Y-STAT1 dimer
+p-Y-STAT1,3,5 dimer
+p-Y-STAT1,3,5 dimer:SOCS1 gene
+p-Y-STAT1,3,5 dimer:SOCS3 gene
+p-Y-STAT3:p-STAT5A,p-STAT5B
+p-Y-WRC:IRSp53/58:RAC1:GTP:PIP3
+p-Y113,128,145-LCP2
+p-Y113,128,145-SLP-76:GADS:LAT
+p-Y139-DAPP1:PIP3
+p-Y139-DAPP1:PLCG2:PIP3
+p-Y142,160,174-VAV1:PIP3:CD28:GRB2
+p-Y165,Y182-CTLA-4 dimer:SFKs
+p-Y180-ICOS
+p-Y223,248-PDCD1:B7-DC,B7-H1
+p-Y239,Y240,Y317-SHC1-2
+p-Y317-PAG1
+p-Y32-S-Farn-Me-PalmS KRAS
+p-Y396-LYN
+p-Y63,Y79,Y110-TRAT1
+p-Y641-STAT6 dimer
+p-Y649-STAT5A, p-STAT5B
+p-Y693-STAT4
+p-Y693-STAT4 dimer
+p-Y693-STAT4:p-Y701-STAT1
+p-Y693-STAT4:p-Y701-STAT1:EBI3 gene
+p-Y693-STAT4:p-Y701-STAT1:IL12A gene
+p-Y700,Y731,Y774-CBL
+p-Y701-STAT1
+p-Y701-STAT1 dimer
+p-Y701-STAT1 dimer,p-Y705-STAT3 dimer,p-Y641-STAT6 dimer
+p-Y701-STAT1 dimer,p-Y705-STAT3 dimer,p-Y701-STAT1:p-Y705-STAT3
+p-Y701-STAT1, p-Y705-STAT3
+p-Y701-STAT1,p-Y705-STAT3,p-Y641-STAT6
+p-Y701-STAT1,p-Y705-STAT3,p-Y649-STAT5A,p-STAT5B
+p-Y701-STAT1-1 dimer
+p-Y701-STAT1:KPNA1:KPNB1
+p-Y701-STAT1:p-Y705-STAT3
+p-Y701-STAT1:p-Y705-STAT3:IL27:EBI3:p-Y611-IL27RA:p-JAK1:p-Y-IL6ST:p-JAK1,p-JAK2,p-TYK2
+p-Y705-STAT3
+p-Y705-STAT3 dimer
+p-Y705-STAT3 dimer, p-Y614-STAT6 dimer
+p-Y705-STAT3 dimer, p-Y641-STAT6 dimer
+p-Y705-STAT3,p-Y641-STAT6
+p-Y705-STAT3:p-Y693-STAT4
+p-Y753,Y759-PLCG2
+p-Y762,807,822-CD22:Antigen:p-BCR
+p-Y768,Y969 FLT3 dimer:FLT3LG dimer
+p-Y771,Y783,Y1254-PLCG1
+p-Y88-CDKN1B
+p-Y90-PKC-theta:DAG
+p-p38 MAPK: MAPKAPK2,3
+p-p38 MAPK: p-S272,T222,T334-MAPKAPK2, p-S,2T-MAPKAPK3
+p-p38 MAPK:p-MAPKAPK2/3
+p100:RELB
+p21 RAS:GDP
+p21 RAS:GTP
+p21 RAS:GTP:RAF1
+p21 RAS:GTP:p-S338,Y340,Y341-RAF1
+p21 RAS:GTP:p-S338-RAF1
+p38 MAPK
+p38 MAPK:MAPKAPK2,3
+p52:RELB
+p85-containing Class 1A PI3Ks
+pCTLA-4:Src kinases:SHP2
+pCofilin: Active LIMK-1
+pLIMK dimer:HSP-90
+partially digested Ag
+pathogens:CLEC6A,CLEC4E:FCER1G dimer
+pathogens:CLEC6A,CLEC4E:p-Y65,Y76-FCER1G dimer
+pathogens:CLEC6A,CLEC4E:p-Y65,Y76-FCER1G dimer:SYK
+pathogens:CLEC6A,CLEC4E:p-Y65,Y76-FCER1G dimer:p-6Y-SYK
+pathogens:CLEC6A,CLEC4E:p-Y65,Y76-FCER1G dimer:p-6Y-SYK:PLCG2
+pathogens:CLEC6A,CLEC4E:p-Y65,Y76-FCER1G dimer:p-6Y-SYK:p-Y753,Y759-PLCG2
+peptide free MHC II:HLA-DM
+peptide loaded MHC class II
+peptide:Fe3S4
+peptide:Fe4S4
+peptidoglycan-NHAc
+peptidoglycan-chloramide
+phospho CD28:B7-1/B7-2
+phospho tyrosine ZAP-70
+phosphoantigens (pAgs)
+phosphorylated IRF3 and/or IRF7 dimer
+phosphorylated PLC-gamma1 bound to LAT
+phosphorylated PLC-gamma1 bound to SLP-76
+polypeptide
+pp-IRAK1:p-IRAK4:oligo-MyD88 :activated TLR5 or 10 complex
+pp-IRAK1:p-IRAK4:oligo-MyD88:TIRAP:activated TLR
+pp-IRAK1:p-IRAK4:oligo-MyD88:activated TLR 7/8 or 9 complex
+precursor peptide fragment (>16 aa)
+sBAFF trimer
+sBAFF,sAPRIL trimers
+sBAFF,sAPRIL:3xTAC1,BCMA
+sIL27RA
+sTWEAK,TWEAK homotrimers
+ssRNA
+tacrolimus
+type 1 interferon analogs
+type I FLT3-binding TKIs
+type II FLT3-binding TKIs
+unfolded antigen
+viral DNA with 3' sticky ends
+viral dsRNA :TLR3
+viral dsRNA:IFIH1
+viral dsRNA:IFIH1, 2xviral dsRNA:2xK63polyUb-DDX58:2xRNF135,TRIM25:2xATP
+viral dsRNA:IFIH1, 2xviral dsRNA:2xK63polyUb-DDX58:2xRNF135,TRIM25:2xATP:NLRC5
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:K63polyUb-TRAF3
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:K63polyUb-TRAF3:2x(TBK1/IKK epsilon)
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:K63polyUb-TRAF3:2xIKK related kinases TBK1/IKK epsilon
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:K63polyUb-TRAF3:2xTBK1,IKBKE:IRF3,IRF7
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:K63polyUb-TRAF3:TBK1/IKBKE
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:PCBP2
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:PCBP2:ITCH
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:RIPK1:FADD
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:RIPK1:FADD:2xCASP8(1-216), CASP10(1-219)
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:RIPK1:FADD:2xCASP8(1-479), CASP10(1-521)
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:RIPK1:FADD:CASP8(1-479), CASP10(1-521)
+viral dsRNA:IFIH1, viral dsRNA:K63polyUb-DDX58:MAVS:TRAF3
+viral dsRNA:RIG-I/MDA5:TRAF2/TRAF6:IPS-1:RIP-1/FADD:Casp-8/10 prodomain
+viral dsRNA:TLR3:TICAM1
+viral dsRNA:TLR3:TICAM1:K63pUb-RIP1:CHUK:IKBKB:IKBKG
+viral dsRNA:TLR3:TICAM1:K63pUb-TRAF6
+viral dsRNA:TLR3:TICAM1:RIPK1
+viral dsRNA:TLR3:TRIF:TRAF6
+viral dsRNA:TLR3:TRIF:pUb-TRAF6:TAB1:TAB2,TAB3:free polyUb: p-TAK1
+viral dsRNA:TLR3:TRIF:polyUb-TRAF6:TAK1:TAB1:TAB2/TAB3: free polyUb chain

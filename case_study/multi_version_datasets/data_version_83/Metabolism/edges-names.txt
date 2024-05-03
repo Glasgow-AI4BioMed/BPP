@@ -1,0 +1,2265 @@
+((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl)glycogenin => poly{(1,4)-alpha-glucosyl} glycogenin + alpha-D-glucose
+(2'-deoxy)adenosine + ATP => (d)AMP + ADP (ADK)
+(2'-deoxy)cytidine + ATP => (d)CMP + ADP (DCK)
+(24R, 25R) 3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA is oxidized to 3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-one-CoA
+(24R, 25R) 3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA is oxidized to 3alpha,7alpha-dihydroxy-5beta-cholest-24-one-CoA
+(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX3)
+(PP)2-IP4 is dephosphorylated to 1/3-PP-IP5 by NUDT(1) in the cytosol
+(PP)2-IP4 is dephosphorylated to 5-PP-IP5 by NUDT(1) in the cytosol
+(PP)2-IP4 transports from the nucleus to the cytosol
+(R)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2
+(R)-2-hydroxyglutarate + succinate semialdehyde <=> 2-oxoglutarate + 4-hydroxybutyrate
+(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine
+(S)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2
+(S)-3-Hydroxydodecanoyl-CoA+NAD<=>3-Oxododecanoyl-CoA+NADH+H
+(S)-3-Hydroxyhexadecanoyl-CoA+NAD<=>3-Oxopalmitoyl-CoA+NADH+H
+(S)-3-Hydroxytetradecanoyl-CoA+NAD<=>3-Oxotetradecanoyl-CoA+NADH+H
+(S)-Hydroxybutanoyl-CoA+NAD<=>Acetoacetyl-CoA+NADH+H
+(S)-Hydroxydecanoyl-CoA+NAD<=>3-Oxodecanoyl-CoA+NADH+H
+(S)-Hydroxyhexanoyl-CoA+NAD<=>3-Oxohexanoyl-CoA+NADH+H
+(S)-Hydroxyoctanoyl-CoA+NAD<=>3-Oxooctanoyl-CoA+NADH+H
+(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+
+(S)-Malate <=> Fumarate + H2O
+(d)ADP + ADP <=> (d)AMP + ATP (AK1)
+(d)ADP or (d)CDP + ADP <=> (d)AMP or (d)CMP + ATP
+(d)AMP + ATP <=> (d)ADP + ADP (AK1)
+(d)AMP, (d)GMP, or (d)IMP + H2O => (deoxy)adenosine, (deoxy)guanosine, or (deoxy)inosine + orthophosphate (NT5C1A)
+(d)CDP or UDP + ADP <=> (d)CMP or UMP + ATP (CMPK1)
+(d)CMP or UMP + ATP <=> (d)CDP or UDP + ADP (CMPK1)
+(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate (NT5C1A)
+(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate (NT5C3)
+(d)GDP + ADP <=> (d)GMP + ATP (GUK1)
+(d)GMP + ATP <=> (d)GDP + ADP (GUK1)
+(d)GMP or (d)IMP + H2O => (2'-deoxy)guanosine or (2'-deoxy)inosine + orthophosphate (NT5C2)
+(d)GMP or (d)IMP + H2O => (d)G or (d)I + orthophosphate (NT5C)
+(d)NDP + ATP <=> (d)NTP + ADP (NME1,2,3)
+(d)NDP + ATP <=> (d)NTP + ADP (NME4)
+(d)NTP + ADP <=> (d)NDP + ATP (NME1,2,3)
+(d)NTP + ADP <=> (d)NDP + ATP (NME4)
+(deoxy)cytidine + H2O => (deoxy)uridine + NH4+ (CDA)
+(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate (UPP)
+1,2-diacyl-glycerol + acyl-CoA => triacylglycerol + CoASH [DGAT1]
+1,2-diacyl-glycerol + acyl-CoA => triacylglycerol + CoASH [DGAT2]
+1,2-diacyl-glycerol 3-phosphate + H2O => 1,2-diacyl-glycerol + orthophosphate
+1,25(OH)2D binds VDR
+1,25(OH)2D translocates from cytosol to nucleoplasm
+1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ATP
+1-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/3 in the cytosol
+1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus
+1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/3 in the cytosol
+1-acyl LPA is acylated to PA by AGPAT (LPAAT)
+1-acyl LPA is acylated to PA by AGPAT5 (OM)
+1-acyl LPC is acylated to PC by LPCAT
+1-acyl LPC is hydrolyzed to GPCho by PLA2G4C
+1-acyl LPC is hydrolyzed to GPCho by PLA2[8]
+1-acyl LPE is acylated to PE by LPEAT
+1-acyl LPE is hydrolyzed to GPETA by PLA2G4C
+1-acyl LPG is acylated to PG by CRLS1 (IM)
+1-acyl LPG is acylated to PG by LPGAT
+1-acyl LPI is acylated to PI by MBOAT7
+1-acyl LPS is acylated to PS by LPSAT
+1-palmitoylglycerone phosphate + hexadecanol => O-hexadecylglycerone phosphate + palmitate
+1/3 PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol
+1/3-PP-IP5 transports from the cytosol to the nucleus
+11-deoxycortisol translocates to the mitochondrion
+11DCORST translocates from cytosol to mitochondrial matrix
+12R-HpETE is reduced to 12R-HETE by GPX1/2/4
+12S-HpETE is reduced to 12S-HETE by GPX1/2/4
+13(R)-HDPAn-3 translocates from endothelial cell to neutrophil
+15S-HETE is oxidised to 15-oxoETE by 15-HEDH
+15S-HpETE is reduced to 15S-HETE by GPX1/2/4
+15k-LXA4 is reduced to dhk-LXA4 by PTGR1
+15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1
+17-Hydroxypregnenolone is dehydrogenated to form pregn-5-ene-3,20-dione-17-ol
+18(R)-RvE1, E2 and E3 translocate from cytosol to extracellular region
+18(S)-RvE1, E2 and E3 translocate from cytosol to extracellular region
+1PYR-5COOH spontaneously hydrolyses to L-GluSS
+2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate [mitochondrial]
+2 acetyl-CoA <=> acetoacetyl-CoA + CoA
+2 phosphorylated HSL monomers -> phosphorylated HSL dimer
+2,3-DKG hydrolyses to ERU and oxalate
+2-MAG and DAG are transacylated to TAG by PNPLA2/3
+2-MAG is hydrolyzed to fatty acid and glycerol by MGLL
+2-MAG is transacylated to DAG by PNPLA2/3
+2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O
+2-acyl LPC is acylated to PC by LPCAT
+2-acyl LPC is hydrolyzed to GPCho by PLA2G4C
+2-acyl LPC is hydrolyzed to GPCho by PLA2[8]
+2-acyl LPE is acylated to PE by LPEAT
+2-acyl LPE is hydrolyzed to GPETA by PLA2G4C
+2-acyl LPG is acylated to PG by CRLS1 (IM)
+2-acyl LPG is acylated to PG by LPGAT
+2-acyl LPI is acylated to PI by MBOAT7
+2-acyl LPS is acylated to PS by LPSAT
+2-acylglycerol + H2O -> glycerol + fatty acid
+2-amino-3-carboxymuconate semialdehyde => 2-aminomuconate semialdehyde + CO2
+2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+
+2-hydroxyphytanoyl-CoA => pristanal + formyl-CoA
+2-oxoglutarate + 4-hydroxybutyrate <=> (R)-2-hydroxyglutarate + succinate semialdehyde
+2-oxoglutarate [mitochondrial matrix] + 2-oxoadipate [cytosol] <=> 2-oxoglutarate [cytosol] + 2-oxoadipate [mitochondrial matrix]
+2-trans-Dodecenoyl-CoA+H2O<=>(S)-3-Hydroxydodecanoyl-CoA
+20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH
+20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3
+20cooh-LTB4 is converted to 18cooh-LTB4
+20kDa HA fragments are translocated to lysosomes
+20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3
+25(OH)D binds GC
+25(OH)D translocates from ER membrane to extracellular region
+25(OH)D translocates from lysosomal lumen to cytosol
+25(R) DHCA-CoA is translocated from the cytosol to the peroxisome
+25(R) THCA-CoA is translocated from the cytosol to the peroxisome
+25(R) TetraHCA-CoA is translocated from the cytosol to the peroxisome
+25(S) 3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA is hydrated to (24R, 25R) 3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA
+25(S) DHCA-CoA is dehydrogenated to 25(S) 3alpha,7alpha-dihydroxy-5beta-cholest-24-enoyl-CoA
+25(S) THCA-CoA is dehydrogenated to 3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA (THCA-CoA)
+26S proteosome degrades ODC holoenzyme complex
+27-hydroxycholesterol is 7alpha-hydroxylated
+2xENPP1 hydrolyzes FAD to FMN
+2xHSD17B8:2xCBR4 reduces 3OA-ACP to 3HA-ACP
+2xPDKX:2xZn2+ phosphorylates PDX
+2xPDXK:2xZn2+ phosphorylates PXA
+2xPDXK:2xZn2+ phosphorylates PXL
+2xPNPO:2xFMN oxidizes PDXP to PXLP
+2xPNPO:2xFMN oxidizes PXAP to PXLP
+2xPPCS ligates PPanK with Cys
+2xTPK1:Mg2+ phosphorylates THMN
+2xTRAP hydrolyzes FMN to RIB
+3,3'-diiodothyronine + PAPS => 3,3'-diiodothyronine 4-sulfate + PAP
+3,5,3'-triiodothyronine + PAPS => 3,5,3'-triiodothyronine 4-sulfate + PAP
+3,7,24THCA is conjugated with Coenzyme A (SLC27A2 VLCS)
+3,7,24THCA is conjugated with Coenzyme A (SLC27A5 BACS)
+3,7,24THCA is translocated from the mitochondrial matrix to the cytosol
+3,7,24THCA-CoA is translocated from the cytosol to the peroxisome
+3-Oxodecanoyl-CoA+CoA-SH<=>Octanoyl-CoA
+3-Oxododecanoyl-CoA+CoA-SH<=>Decanoyl-CoA
+3-Oxohexanoyl-CoA+CoA-SH<=>Butanoyl-CoA
+3-Oxooctanoyl-CoA+CoA-SH<=>Hexanoyl-CoA
+3-Oxopalmitoyl-CoA+CoA-SH<=>myristoyl-CoA
+3-Oxotetradecanoyl-CoA+CoA-SH<=>Lauroyl-CoA
+3-Phospho-D-glycerate <=> 2-Phospho-D-glycerate
+3-hydroxyanthranilate + O2 => 2-amino-3-carboxymuconate semialdehyde
+3-hydroxykynurenine + H2O => 3-hydroxyanthranilate + alanine
+3-hydroxypristanoyl-CoA + NAD+ => 3-ketoxypristanoyl-CoA + NADH + H+
+3-ketohexacosanoyl-CoA + CoASH => tetracosanoyl-CoA + acetyl-CoA
+3-ketopristanoyl-CoA + CoASH => 4,8,12-trimethyltridecanoyl-CoA + propionyl-CoA
+3-ketosphinganine + NADPH + H+ => sphinganine + NADP+
+3alpha, 7alpha-dihydroxy-5beta-cholestan-26-al is oxidized to 3alpha, 7alpha-dihydroxy-5beta-cholestanoate (DHCA)
+3alpha,7alpha,12alpha,24(S)-tetrahydroxy-5beta-cholestan-27-al is oxidized to 3alpha,7alpha,12alpha,24(S)-tetrahydroxy-5beta-cholestanoate (TetraHCA)
+3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA (THCA-CoA) is hydrated to (24R, 25R) 3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA
+3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al is oxidized to 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoate (THCA)
+3alpha,7alpha,24(S)-trihydroxy-5beta-cholestan-27-al is oxidized to 3alpha,7alpha,24(S)-trihydroxy-5beta-cholestanoate (3,7,24THCA)
+3xPPCDC:3FMN decarboxylates PPC
+4 PBGs bind to form HMB
+4,4-dimethylcholesta-8(9),14,24-trien-3beta-ol is reduced to 4,4-dimethylcholesta-8(9),24-dien-3beta-ol [LBR]
+4,4-dimethylcholesta-8(9),14,24-trien-3beta-ol is reduced to 4,4-dimethylcholesta-8(9),24-dien-3beta-ol [TM7SF2]
+4,4-dimethylcholesta-8(9),24-dien-3beta-ol is oxidized to 4-methyl,4-carboxycholesta-8(9),24-dien-3beta-ol
+4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA
+4,8-dimethylnonanoyl-CoA + carnitine => 4,8-dimethylnonanoylcarnitine + CoASH
+4-(2-aminophenyl)-2,4-dioxobutanoate => kynurenic acid + H2O [cytosolic]
+4-(2-aminophenyl)-2,4-dioxobutanoate => kynurenic acid + H2O [mitochondrial]
+4-carboxycholesta-8(9),24-dien-3beta-ol is decarboxylated and oxidized to form cholesta-8(9),24-dien-3-one (zymosterone)
+4-cholesten-7alpha, 12alpha-diol-3-one is reduced to 5beta-cholesten-7alpha, 12alpha-diol-3-one
+4-cholesten-7alpha,12alpha,24(S)-triol-3-one is reduced to 5beta-cholestan-7alpha,12alpha,24(S)-triol-3-one
+4-cholesten-7alpha,12alpha,27-triol-3-one is reduced to 5beta-cholestan-7alpha,12alpha,27-triol-3-one
+4-cholesten-7alpha,24(S)-diol-3-one is reduced to 5beta-cholestan-7alpha,24(S)-diol-3-one
+4-cholesten-7alpha,27-diol-3-one is reduced to 5beta-cholestan-7alpha,27-diol-3-one
+4-cholesten-7alpha-ol-3-one is reduced to 5beta-cholestan-7alpha-ol-3-one
+4-imidazolone-5-propionate + H2O => N-formiminoglutamate + 2H+
+4-methyl,4-carboxycholesta-8(9),24-dien-3beta-ol is decarboxylated and oxidized to form 4-methylcholesta-8(9),24-dien-3-one
+4-methylcholesta-8(9),24-dien-3-one is reduced to 4-methylcholesta-8(9),24-dien-3beta-ol
+4-methylcholesta-8(9),24-dien-3beta-ol is oxidized to 4-carboxycholesta-8(9),24-dien-3beta-ol
+4Fe-4S cluster assembles on NUBP2:NUBP1 scaffold
+4a-hydroxytetrahydrobiopterin => q-dihydrobiopterin + H2O
+5,10-methenylTHF polyglutamate + H2O <=> 10-formylTHF polyglutamate
+5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+
+5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine
+5,6-dihydrothymine + H2O => beta-ureidoisobutyrate
+5,6-dihydrouracil + H2O => beta-ureidopropionate
+5-HEDH dehydrogenates 5(S)-Hp-18(R)-HpEPE to 18(R)-RvE2
+5-HEDH dehydrogenates 5(S)-Hp-18(S)-HpEPE to 18(S)-RvE2
+5-HEDH dehydrogenates 5-HEPE to 5-oxo-EPA
+5-HEDH dehydrogenates 7-HDHA to 7-oxo-DHA
+5-HEDH dehydrogenates 7-HDPAn-3 to 7-oxo-DPAn-3
+5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus
+5-PP-IP4 transports from the nucleus to the cytosol
+5-PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol
+5-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by PPIP5K1/2 in the cytosol
+5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus
+5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/3 in the cytosol
+5-PP-IP5 transports from the nucleus to the cytosol
+5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi
+5-oxo-EPA, 15d-PGJ3 translocate from cytosol to extracellular region
+5-phospho-alpha-D-ribose 1-diphosphate (PRPP) + H2O + L-glutamine <=> 5-phosphoribosylamine + L-glutamate +pyrophosphate
+5Beta-cholestan-7alpha,12alpha,24(S)-triol-3-one is reduced to 5beta-cholestan-3alpha,7alpha,12alpha,24(S)-tetrol
+5Beta-cholestan-7alpha,12alpha,27-triol-3-one is reduced to 5beta-cholestan-3alpha,7alpha,12alpha,27-tetrol
+5Beta-cholesten-7alpha, 12alpha-diol-3-one is reduced to 5beta-cholestan-3alpha, 7alpha, 12alpha-triol
+5S-HETE is oxidised to 5-oxoETE by 5-HEDH
+5S-HpETE is dehydrated to LTA4 by ALOX5
+5S-HpETE is reduced to 5S-HETE by GPX1/2/4
+5beta-cholestan-3alpha, 7alpha, 12alpha-triol is translocated from the cytosol to the mitochondrial matrix
+5beta-cholestan-3alpha, 7alpha, 26-triol is oxidized to 3alpha, 7alpha-dihydroxy-5beta-cholestan-26-al
+5beta-cholestan-3alpha, 7alpha-diol is hydroxylated to 5beta-cholestan-3alpha, 7alpha, 26-triol
+5beta-cholestan-3alpha, 7alpha-diol is translocated from the cytosol to the mitochondrial matrix
+5beta-cholestan-3alpha,7alpha,12alpha,24(S),27-pentol is oxidized to 3alpha,7alpha,12alpha,24(S)-tetrahydroxy-5beta-cholestan-27-al
+5beta-cholestan-3alpha,7alpha,12alpha,24(S)-tetrol is hydroxylated to 5beta-cholestan-3alpha,7alpha,12alpha,24(S), 27-pentol
+5beta-cholestan-3alpha,7alpha,12alpha,24(S)-tetrol is translocated from the cytosol to the mitochondrial matrix
+5beta-cholestan-3alpha,7alpha,12alpha,27-tetrol is oxidized to 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-27-al
+5beta-cholestan-3alpha,7alpha,12alpha,27-tetrol is translocated from the cytosol to the mitochondrial matrix
+5beta-cholestan-3alpha,7alpha,24(S),27-tetrol is oxidized to 3alpha,7alpha,24(S)-trihydroxy-5beta-cholestan-27-al
+5beta-cholestan-3alpha,7alpha,24(S)-triol is translocated from the cytosol to the mitochondrial matrix
+5beta-cholestan-3alpha,7alpha,27-triol is translocated from the cytosol to the mitochondrial matrix
+5beta-cholestan-7alpha,24(S)-diol-3-one is reduced to 5beta-cholestan-3alpha,7alpha,24(S)-triol
+5beta-cholestan-7alpha,27-diol-3-one is reduced to 5beta-cholestan-3alpha,7alpha,27-triol
+5beta-cholestan-7alpha-ol-3-one is reduced to 5beta-cholestan-3alpha, 7alpha-diol
+6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+
+7alpha-hydroxycholesterol is oxidized and isomerized to 4-cholesten-7alpha-ol-3-one
+80S:Met-tRNAi:mRNA:SECISBP2:Sec-tRNA(Sec):EEFSEC:GTP is hydrolysed to 80S:Met-tRNAi:mRNA:SECISBP2:Sec and EEFSEC:GDP by EEFSEC
+A REH hydrolses atREs to atROL and FAs
+AACS ligates CoA-SH to ACA, forming ACA-CoA
+AADAC deacetylates PHEN
+ABCB11 transports bile salts from cytosol to extracellular region
+ABCC1 transports BIL from cytosol to extracellular region (blood)
+ABCC1 transports cytosolic RCbl to extracellular region
+ABCC2 transports BMG,BDG from cytosol to extracellular region
+ABCC3 transports bile salts from cytosol to extracellular region
+ABCD4:LMBRD1 transports RCbl from lysosomal lumen to cytosol
+ABCD4:LMBRD1 transports RCbl from lysosomal lumen to cytosol (gut mucosal cells)
+ABCG2 tetramer transports BMG,BDG from cytosol to extracellular region
+ABCG2 tetramer transports heme from cytosol to extracellular region
+ABHD10 hydrolyses MPAG
+ABHD14B hydrolyses PNPB
+ABHD3 hydrolyses LPC(14:0) to 1AGPC
+ABHD4 hydrolyses NAPE
+ABO-A:Mn2+ transfers GalNAc to H antigen-RBC to form A antigen-RBC
+ABO-B:Mn2+ transfers Gal to H antigen-RBC to form B antigen-RBC
+ACAA2 tetramer transfers acyl group from Ac-CoA to acyl-CoA forming 3OA-CoA and CoA-SH
+ACAD10 dehydrogenates S-2MPDA-CoA
+ACAD11 dehydrogenates BH-CoA
+ACAT2 condenses 2 Ac-CoA to form ACA-CoA
+ACBD4,5 bind MCFA-CoA and LCFA-CoA
+ACBD6 binds LCFA-CoA
+ACLY tetramer transforms CIT to Ac-CoA
+ACOT2,9,THEM4,5 hydrolyse MCFA-CoA, LCFA-CoA
+ACOX2:FAD, ACOXL:FAD oxidise (2S)-pristanoyl-CoA to trans-2,3-dehydropristanoyl-CoA
+ACP6 hydrolyses MYS-LPA
+ACS transforms to QUIN non-enzymatically
+ACSBG1,2 ligates CoA-SH to VLCFA, forming VLCFA-CoA
+ACSF2 ligates CoA-SH to MCFA
+ACSF3 ligates CoA-SH to VLCFA
+ACSL1,3,5,6 ligate CoA to PALM to form PALM-CoA
+ACSL3,4 ligate CoA to AA to form AA-CoA
+ACSL3,4 ligates coenzyme A (CoA-SH) to palmitate yielding palmitoyl-coenzyme A in the pancreatic beta cell
+ACSM2B-like proteins transform ST to ST-CoA
+ACSM3,ACSM6 ligate CoA to BUT
+ACSS3 ligates CoA to CH3COO-
+ACY1:Zn2+ dimer hydrolyses mercapturic acids
+ACY3:Zn2+ dimer hydrolyses mercapturic acids
+ADA catalyzes the deamination of (deoxy)adenosine
+ADAL1 hydrolyzes N6-methyl-AMP to IMP and methylamine
+ADAL1 hydrolyzes N6-methyl-dAMP to dIMP and methylamine
+ADH5 oxidises S-HMGSH to S-FGSH
+ADIPOQ trimer binds ADIPOR dimers
+ADO oxidises 2AET to HTAU
+ADP + ADP <=> AMP + ATP [AK2]
+ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA
+ADP and Pi bind to ATPase
+ADPGK:Mg2+ phosphorylates Glc to G6P
+ADPRM hydrolyses ADP-ribose to R5P and AMP
+AFBDHD hydrolyses non-enzymatically to AFBDHO
+AFMID hydrolyses NFK to L-KYN
+AFXBO binds DNA
+AFXBO hydrolyses non-enzymatically to AFBDHD
+AFXBO translocates from cytosol to nucleoplasm
+AFXBO-C, AFNBO-C translocate from extracellular region to cytosol
+AFXBO-SG, AFNBO-SG translocate from cytosol to extracellular region
+AGK:Mg2+ phosphorylates MAG, DAG
+AGMO cleaves alkylglycerol into fatty aldehyde and glycerol
+AHCY:NAD+ tetramer hydrolyses AdoHcy
+AHR:2xHSP90:AIP:PTGES3 binds TCDD
+AHR:TCDD binds ARNT
+AHR:TCDD:2xHSP90AB1:AIP:PTGES3 dissociates
+AHR:TCDD:2xHSP90AB1:AIP:PTGES3 translocates from cytosol to nucleoplasm
+AHRR binds ARNT
+AICAR + 10-Formyl-THF => FAICAR + THF
+AIR + CO2 => CAIR
+AK4 phosphorylates (d)NMPs to (d)NDPs
+AK5,7,8,9 phosphorylates (d)NMPs to (d)NDPs
+AK6 phosphorylates (d)NMPs to (d)NDPs
+AKR dimers reduce AFBDHO to AFBDOH
+AKR1A1 oxidises BaPtDHD to BaP-7,8-dione
+AKR1A1 reduces D-glucuronate to L-gulonate
+AKR1B1 reduces Glc to D-sorbitol
+AKR1B15 reduces EST17b to E1
+AKRs reduce RBP2:atRAL to RBP2:atROL
+AKT1 binds eNOS complex via HSP90
+AKT1 phosphorylates eNOS
+ALAD binds to Pb2+
+ALAD condenses 2 dALAs to form PBG
+ALAS condenses SUCC-CoA and Gly to form dALA
+ALB binds extracellular heme
+ALD3A1 oxidises 4HPCP to CXPA
+ALDH1A1 oxidises GA to DGA
+ALDH1B1 tetramer oxidises CH3CHO to CH3COOH
+ALDH1L1 dehydrogenates 10-formyl-THFPG to THFPG
+ALDH1L2 dehydrogenates 10-formyl-THFPG to THFPG
+ALDH3A2-1 oxidises HD2NAL to PALM
+ALDH3A2-2 oxidizes pristanal to pristanate
+ALDH3B1 oxidises HXAL to PALM
+ALDH3B2 oxidises HXAL to PALM
+ALDH4A1 dimer dehydrogenates 4-OH-L-glutamate semialdehyde to 4-OH-L-glutamate
+ALDH4A1 oxidises L-GluSS to Glu
+ALDH7A1 oxidises BETALD to BET
+ALDH9A1 tetramer dehydrogenates TEABL to form TEABT
+ALDOB tetramer cleaves Fru-1-P to GA and DHAP
+ALOX12 oxidises LTA4 to LXA4/B4
+ALOX12:Fe2+ dehydrogenates 14(S)-Hp-DHA to 13(S),14(S)-epoxy-DHA
+ALOX12:Fe2+ dehydrogenates 14(S)-Hp-DPAn-3 to 13,14-epoxy-DPAn-3
+ALOX12:Fe2+ oxidises DHA to 14(S)-Hp-DHA
+ALOX12:Fe2+ oxidises DPAn-3 to 14(S)-Hp-DPAn-3
+ALOX12:Fe2+ oxidises DPAn-6 to 14(S)-HDPAn-6
+ALOX15 dehydrogenates 17(R)-Hp-DHA to 17R(16)-epoxy-DHA
+ALOX15 dehydrogenates 17(S)-Hp-DHA to 16S,17S-epoxy-DHA
+ALOX15 oxidises 17(S)-Hp-DHA to PDX
+ALOX15 oxidises 18(R)-HEPE to 18(R)-RvE3
+ALOX15 oxidises 18(S)-HEPE to 18(S)-RvE3
+ALOX15 oxidises DHA to 17(S)-Hp-DHA
+ALOX15 oxidises DPAn-3 to 17(S)-Hp-DPAn-3
+ALOX15 oxidises DPAn-6 to 17(S)-HDPAn-6 and 10(S),17(S)-diHDPAn-6
+ALOX5 binds ALOX5 inhibitors
+ALOX5 dehydrogenates 17(S)-Hp-DPAn-3 to 16(S),17(S)-epoxy-DPAn-3
+ALOX5 dehydrogenates 4(S)-Hp-17(R)-HDHA to 4S(5)-epoxy-17(R)-HDHA
+ALOX5 dehydrogenates 4(S)-Hp-17(S)-HDHA to 4S(5)-epoxy-17(S)-HDHA
+ALOX5 dehydrogenates 7(S)-Hp-17(S)-HDHA to 7S(8)-epoxy-17S-HDHA
+ALOX5 dehydrogenates 7(S)-Hp-17R-HDHA to 7S(8)-epoxy-17R-HDHA
+ALOX5 dehydrogenates 7,17-diHp-DPAn-3 to 7,8-epoxy,17-HDPAn-3
+ALOX5 is phosphorylated by MAPKAP2
+ALOX5 oxidises 13(R)-HDPAn-3 to RvT1-4
+ALOX5 oxidises 14(S)-Hp-DHA to 7(S),14(S)-diHp-DHA
+ALOX5 oxidises 14(S)-Hp-DPAn-3 to MaR3n-3 DPA
+ALOX5 oxidises 15R-HETE to 15epi-LXA4/B4
+ALOX5 oxidises 15S-HpETE to LXA4/B4
+ALOX5 oxidises 17(R)-HDHA to 4(S)-Hp-17(R)-HDHA
+ALOX5 oxidises 17(R)-HDHA to 7(S)-Hp-17(R)-HDHA
+ALOX5 oxidises 17(S)-HDHA to 4(S)-Hp-17(S)-HDHA
+ALOX5 oxidises 17(S)-HDHA to 7(S)-Hp-17(S)-HDHA
+ALOX5 oxidises 17(S)-Hp-DPAn-3 to 7,17-diHp-DPAn-3
+ALOX5 oxidises 18(R)-HEPE to 5(S)-Hp-18(R)-HEPE
+ALOX5 oxidises 18(S)-HEPE to 5(S)-Hp-18(S)-HEPE
+ALOX5 oxidises 5(S)-Hp-18(R)-HEPE to 5S,6S-epoxy-18(R)-HEPE
+ALOX5 oxidises 5(S)-Hp-18(S)-HEPE to 5S,6S-epoxy-18(S)-HEPE
+ALOX5 oxidises DHA to 7-HDHA
+ALOX5 oxidises DPAn-3 to 7-HDPAn-3
+ALOX5 oxidises EPA to 5-HEPE
+ALOXE3 isomerises 12R-HpETE to HXA3
+ALPI dimer hydrolyses phosphate monoesters
+AMP + ATP <=> ADP + ADP [AK2]
+AMP + H2O => IMP + NH4+ (AMPD)
+AMP + H2O => adenosine + orthophosphate [NT5C1B]
+AMP binds to gamma subunit of AMP kinase heterotrimer
+AMT transfers NH2CH2 from GCSH:SAMDLL to THF
+AOC1 deaminates Hist
+AOC2 deaminates TYR
+AOC3 deaminates BZAM
+AOX1 oxidises PXL to PDXate
+APOA1BP dimer epimerises R-NAD(P)HX to S-NAD(P)HX
+APOM binds retinoids
+APRT catalyzes the conversion of adenine to AMP
+APSe is phosphorylated to PAPSe by PAPSS1,2
+ARSB hydrolyses C4S/C6S chains
+ARSB hydrolyses DS
+ARV1 transports CHOL from ER membrane to plasma membrane
+AS3MT transfers CH3 from AdoMet to arsenite(3-)
+AS3MT transfers CH3 from AdoMet to methylarsonite
+ASA- acetylates PTGS1
+ASA- acetylates PTGS2
+ASPA deacetylates NAA to acetate and L-aspartate
+ASPG hydrolyses L-Asn to L-Asp
+ASRGL1 hydrolyses aspartame to L-Asp, L-Phe
+ASS1 tetramer:NMRAL1 dimer:NADPH transforms L-Asp and L-Cit to ARSUA
+AT-RvD1-6 translocate from cytosol to extracellular region
+ATPase synthesizes ATP
+AWAT1 transfers acyl group from acyl-CoA to ARACOH, forming wax esters
+AWAT2 transfers PALM from PALM-CoA to HXOL, forming palmityl palmitate ester
+AWAT2 transfers PALM from PALM-CoA to atROL, forming atR-PALM
+AWAT2 transfers acyl group from acyl-CoA to MAG, forming DAG
+Ac-PTGS2 dimer oxidises DHA to 17(R)-Hp-DHA
+Ac-PTGS2 dimer oxidises DHA to 17-HDHA (macrophages)
+Ac-PTGS2 dimer oxidises DPAn-3 to 17-HDPAn-3
+Ac-PTGS2 dimer oxidises EPA to 18(R)-HpEPE or 18(S)-HpEPE
+AcCho is hydrolyzed to Cho and acetate by ACHE
+Acetaminophen oxidised to N-acetylbenzoquinoneimine (NAPQI)
+Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA
+Acetylcholine binds Muscarinic Acetylcholine Receptor M3
+Acid ceramidase hydrolyses ceramide into sphingosine and free fatty acid (lysosome)
+Acireductone is created
+Acireductone is oxidized to MOB
+Activated Adenylate cyclase catalyses cAMP synthesis
+Activated Adenylyl cyclase synthesizes cyclic AMP
+Activated Phospholipase C beta-1 hydrolyzes 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate
+Activation of PP2A by Xylulose-5-phosphate
+Activation of alpha-linolenic acid to alpha-linolenoyl-CoA
+Activation of linoleic acid to linoleoyl-CoA
+Active ARSA translocates to the lysosome
+AdeSeHCys is hydrolysed to SeHCys by AHCY
+Adenosine 3',5'-bisphosphate (PAP) + H2O => AMP + orthophosphate
+AdoSeMet is converted to AdeSeHCys by MetTrans(1)
+Agmatine + H2O <=> putrescine + urea
+Aldolase tetramers convert GA3P and DHAP to F1,6PP
+Alpha-2A,alpha-2C Adrenergic Receptors activate Gi.Go heterotrimeric G proteins
+Alpha-2A,alpha-2C Adrenergic Receptors bind adrenaline or noradrenaline
+Alpha-galactosidase A removes a terminal galactose from alpha-D-galactoside oligomers
+An unknown BILR reduces BIL to D-UBGN
+An unknown carrier transports cytosolic glyoxylate to the peroxisome
+An unknown carrier transports mitochondrial glyoxylate to the cytosol
+An unknown oxidase oxidises D-UBGN to UBN
+An unknown protease degrades ACACA
+An unknown protease degrades ACACB
+An unknown protease degrades hCBXs
+An unknown reductase reduces D-UBGN to STBN
+Antizyme OAZ binds to Ornithine decarboxylase
+Antizyme inhibitor binds to OAZ and stablizes ODC complex
+Arachidonate diffuses across the ER membrane
+Arachidonic acid  is converted to 12-oxoETE by ALOX12
+Arachidonic acid is converted to HXA3/B3 by ALOX12
+Arachidonic acid is epoxidated to 5,6-EET by CYP(4)
+Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)
+Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)
+Arachidonic acid is hydroxylated to 19-HETE by CYP(2)
+Arachidonic acid is hydroxylated to 20-HETE by CYP(3)
+Arachidonic acid is oxidised to 12R-HpETE by ALOX12B
+Arachidonic acid is oxidised to 12S-HpETE by ALOX12/15
+Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2
+Arachidonic acid is oxidised to 15S-HpETE by ALOX15/15B
+Arachidonic acid is oxidised to 5S-HpETE by ALOX5
+Arachidonic acid is oxidised to PGG2 by PTGS1
+Arachidonic acid is oxidised to PGG2 by PTGS2
+Arginine<=>Agmatine+CO2
+Arylsulfatase A hydrolyses sulfate from sulfatide to form cerebroside
+Asc.- radical dissociates to AscH- and DeHA
+Ascorbate can reduce the BH3 radical back to BH4
+Autoglucosylation of GYG1 complexed with GYS1-a
+Autoglucosylation of GYG1 complexed with GYS1-b
+Autoglucosylation of GYG2 complexed with GYS2-a
+Autoglucosylation of GYG2 complexed with GYS2-b
+B3GALNT1 transfer GalNAc to Gb3Cer to form Gb4Cer
+B3GALT6 transfers Gal to the tetrasaccharide linker
+B3GALTs transfer Gal to GlcNAc-β1,3-Gal-R to form Type 1 chain
+B3GAT dimers transfer GlcA to tetrasaccharide linker
+B3GAT3 dimer transfers GlcA to tetrasaccharide linker
+B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG
+B4GALNT1 dimer transfers GalNAc from UDP-GalNAc to GM3 and GD3 gangliosides
+B4GALNT2 transfers GalNAc to Type 2 MSGG to form Sda
+B4GALT1 binds LALBA
+B4GALT1:LALBA transfers Gal from UDP-Gal to Glc to form Lac
+B4GALT7 transfers Gal group to xylosyl-unit of the tetrasaccharide linker
+B4GALTs transfer Gal to a branch of keratan
+B4GALTs transfer Gal to the N-glycan precursor
+B4GALTs transfer Gal to the keratan chain
+BBOX1:AscH-:Fe2+ dimer dioxygenates TEABT and 2OG to form CAR and SUCCA
+BCKDH transfers CoA group from CoA-SH to BCAAs
+BCKDK phosphorylates BCKDH
+BCMO1:Fe2+ cleaves betaC to atRAL
+BCO2:Fe2+ cleaves betaC to APO10al and bION
+BCTN translocates to extracellular region
+BDH2 dehydrogenates 3HBA
+BET translocates from mitochondrial matrix to cytosol
+BH2 binding can lead to eNOS uncoupling
+BH4 is oxidised to the BH3 radical during the eNOS catalytic cycle
+BHMT tetramer transfers CH3 group from BET to HCYS to form DMGLY
+BHMT2 tetramer transfers CH3 group from SMM to LHCYS
+BIL binds ALB
+BIL binds GSTA1, FABP1
+BIL dissociates from GSTA1, FABP1
+BIL translocates from the cytosol to the ER lumen
+BIL:ALB dissociates
+BLVRA:Zn2+, BLVRB reduce BV to BIL
+BMG, BDG translocates from ER lumen to cytosol
+BMX phosphorylates RUFY1
+BPGM dimer isomerises 1,3BPG to 2,3BPG
+BPHL hydrolyses VACV to ACV
+BSG:MCTs cotransport LACT, H+ from cytosol to extracellular region
+BSG:MCTs cotransport LACT, H+ from extracellular region to cytosol
+BST1 hydrolyzes NAD+ to yield NAM and ADP-ribose
+Bacterial GUSB hydrolyses BDG to BIL
+Benzene is hydroxylated to phenol
+Beta-galactosidase can also hydrolyse globosides to form cerebrosides
+Beta-galactosidase hydrolyses GM1 to GM2
+Bile salts and acids bind ALB
+Bile salts and acids dissociate from ALB
+Bile salts are translocated from the peroxisomal matrix to the cytosol
+Bile salts bind FABP6
+Bile salts dissociate from FABP6
+Both hexosaminidase A and B can cleave GalNAc from globoside
+Btn-ACACA:2Mn2+ polymer carboxylates Ac-CoA to form Mal-CoA
+Btn-ACACB:2Mn2+ polymer carboxylates Ac-CoA to form Mal-CoA
+Butanoyl-CoA+FAD<=>Crotonoyl-CoA+FADH2
+CAD hexamer dehydrates N-carb-L-Asp to (S)-DHO
+CAD hexamer transforms CAP to N-carb-L-Asp
+CAD hexamer transforms L-Gln to CAP
+CAIR + Aspartate + ATP => SAICAR + ADP + Pi
+CAR translocates from the cytosol to the mitochondrial intermembrane space
+CARKD dehydrates S-NAD(P)HX to NADPH
+CARNMT1 methylates CARN to Anserine
+CARNS1 transforms ATP, L-His, b-Ala to CARN
+CBLIF binds RCbl
+CBR3 reduces DOX to DOXOL
+CD isomers transform to BT, BTCA, BZ, ODHBT
+CD320 binds extracellular TCN2:RCbl
+CD320-mediated TCN2:RCbl uptake and delivery to lysosome
+CD36 (FAT) translocates palmitate from the extracellular region to the cytosol
+CD38 hydrolyses NAD+ to NAM and ADP-ribose
+CDO1:Fe2+ oxidises L-Cys to 3-Sulfinoalanine
+CDP-Cho and DAG are converted to PC by CEPT1 at the ER membrane
+CDP-Cho and DAG are converted to PC by CHPT1 at the Golgi membrane
+CDP-DAG is converted to PGP by PGS1
+CDP-DAG is converted to PI by CDIPT
+CDP-ETA and DAG are converted to PE by CEPT1/EPT1
+CEMIP hydrolyses HA
+CERK phosphorylates CERA to form C1P
+CERT1-2 binds ceramide
+CERT1-2 dissociates from the endoplasmic reticulum
+CERT1-2 releases its bound ceramide into the membrane of the Golgi apparatus
+CES1 trimer.CES2 hydrolyse COCN to BEG
+CES3 hydrolyses CHEST to CHOL and LCFA(-)
+CHAC1,2 cleaves GSH to OPRO and CysGly
+CHDH oxidises Cho to BETALD
+CHOL translocates from cytosol to mitochondrial intermembrane space
+CHPF,CHPF2,CHSY3 transfer GlcA to chondroitin
+CHPF,CHSY3 transfer GalNAc to chondroitin
+CHST14 transfers SO4(2-) to GalNAc in dermatan or DS
+CHST2,5,6 transfer SO4(2-) to GlcNAc residues on keratan-PG to form KSPG
+CHST3,7 transfer SO4(2-) to position 6 of GalNAc on chondroitin chains
+CHSY1 transfers GalNAc to chondroitin
+CHSY1 transfers GlcA to chondroitin
+CIA Targeting Complex transfers 4Fe-4S cluster to apoproteins
+CIDEA:CIDEC binds lipid droplets
+CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)
+CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)
+CL is hydrolyzed to MLCL by PLA2G6 (IM)
+CL transports from the ER to the IM
+CMBL hydrolyses OM to OLMS
+CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]
+CNDP2:2Mn2+ dimer hydrolyses CysGly
+COA1:MT-ND2, TMEM186:MT-ND3, MT-ND6, NDUFB6 bind the MCIA complex to form a 370kDa subcomplex
+COASY phosphorylates DP-CoA
+COASY transfers an adenylyl group from ATP to PPANT
+COMT transfer CH3 from AdoMet to 3,4DHBNZ
+COQ9 dimer:COQ7:Fe2+ hydroxylates DMQ10H2 to DeMQ10H2
+COX10 transforms heme to heme O
+COX15 transforms heme O to heme A
+CPNEs bind PL
+CPO transforms COPRO3 to PPGEN9
+CPT1A,B transfers PALM to CAR
+CPY4 ω-oxidises 14(S)-HDHA to MaR-L1
+CR:atREs binds apoE and HSPG
+CRYL1 dimer dehydrogenates L-gulonate to 3-dehydro-L-gulonate
+CRYM reduces P2C to PPCA
+CS is cleaved from its proteoglycan
+CSPG is secreted
+CUBN binds GC:25(OH)D
+CUBN dissociates from 25(OH)D
+CUBN:AMN binds CBLIF:RCbl
+CUBN:AMN-mediated CBLIF:RCbl uptake and delivery to lysosome
+CYB5A:heme reduces Asc.- to AscH-
+CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme
+CYGB binds O2
+CYGB dioxygenates NO
+CYP monooxygenates EPA to 18(S)-HpEPE
+CYP1, CYP2 hydroxylate (N)PD1 to 22-OH-(N)PD1
+CYP11A1 cleaves 20a,22b-DHCHOL
+CYP11B1 oxidises 11DCORT
+CYP11B2 18-hydroxylates CORST to 18HCORST
+CYP11B2 oxidises 11DCORST to CORST
+CYP11B2 oxidises 18HCORST to ALDO
+CYP17A1 17-hydroxylates P4 to 17aHPROG
+CYP17A1 17-hydroxylates PREG
+CYP17A1 cleaves 17aHPREG to DHA
+CYP17A1 cleaves 17aHPROG to ANDST
+CYP19A1 binds Aromatase inhibitors
+CYP19A1 hydroxylates ANDST to E1
+CYP19A1 hydroxylates TEST to EST17b
+CYP1A2 S-demethylates 6MMP
+CYP1A2 hydroxylates AFB1 to AFM1
+CYP1A2, 3A4 oxidise AFB1 to AFNBO
+CYP1A2,3A4,3A5,2A13 oxidise AFB1 to AFXBO
+CYP1B1 4-hydroxylates EST17b
+CYP21A2 21-hydroxylates PROG
+CYP21A2 oxidises 17HPROG
+CYP24A1 24-hydroxylates CTL
+CYP24A1 hydroxylates 1,25(OH)2D, inactivating it
+CYP26A1,B1 4-hydroxylate atRA
+CYP26C1 4-hydroxylates 9cRA
+CYP27A1 27-hydroxylates 5bCHOL3a,7a,12a-triol
+CYP27A1 27-hydroxylates 5β-CHOL3α,7α,24(s)-triol
+CYP27A1 27-hydroxylates CHOL
+CYP27B1 hydroxylates 25(OH)D to 1,25(OH)2D
+CYP2A13 oxidises AFM1 to AFM1E
+CYP2C18 initiates bioactivation of phenytoin by 4-hydroxylation
+CYP2C19 5-hydroxylates omeprazole
+CYP2C8 inactivates paclitaxel by 6alpha-hydroxylation
+CYP2C9 inactivates tolbutamide by 4methyl-hydroxylation
+CYP2D6 4-hydroxylates debrisoquine
+CYP2E1 oxidises 14(R)-HDHA to 14(R),21(R)-diHDHA and 14(R),21(S)-diHDHA
+CYP2E1 oxidises 14(S)-HDHA to 14(S),21(R)-diHDHA and 14(S),21(S)-diHDHA
+CYP2F1 dehydrogenates 3-methylindole
+CYP2J2 oxidises ARA
+CYP2R1 25-hydroxylates VD3 to 25(OH)D
+CYP2S1 4-hydroxylates atRA
+CYP2U1 19-hydroxylates ARA
+CYP2W1 oxidises INDOL
+CYP39A1 7-hydroxylates 24OH-CHOL
+CYP3A4 binds CYP3A4 inhibitors
+CYP3A4 can N-demethylate loperamide
+CYP3A4, CYP2B6 bind ritonavir
+CYP3A4,5 hydroxylates AFB1 to AFQ1
+CYP3A4,5 oxidise AFB1 to AFXBO
+CYP3A43 6b-hydroxylates TEST
+CYP3A7 can 6beta-hydroxylate testosterone
+CYP4 ω-oxidises 14(R)-HDHA to MaR-L2
+CYP46A1 24-hydroxylates CHOL
+CYP4A11 12-hydroxylates DDCX
+CYP4B1 12-hydroxylates ARA
+CYP4F11 16-hydroxylates 3OH-PALM
+CYP4F12 18-hydroxylates ARA
+CYP4F2, 4F3 20-hydroxylate LTB4
+CYP4F22 20-hydroxylates TrXA3
+CYP4F3 20-hydroxylates LTB4
+CYP4F8 19-hydroxylates PGH2
+CYP4V2 omega-hydroxylates DHA to HDoHE
+CYP51A1 demethylates LNSOL
+CYP7A1 7-hydroxylates CHOL
+CYP7B1 7-hydroxylates 25OH-CHOL
+CYP8B1 12-hydroxylates 4CHOL7a,24(S)DIOL
+CYP8B1 12-hydroxylates 4CHOL7a,27DONE
+CYP8B1 12-hydroxylates 4CHOL7aOLONE
+CYPs hydroxylate DHA to 14(R)-HDHA
+Calcium Influx through Voltage-gated Calcium Channels
+Carbonic Anhydrase VI hydrates carbon dioxide to bicarbonate and a proton
+Carbonic anhydrase VI dehydrates bicarbonate to water and carbon dioxide
+Carbonic anhydrase dehydrates bicarbonate (cytosol)
+Carbonic anhydrase dehydrates bicarbonate (mitochondria)
+Carbonic anhydrase dehydrates bicarbonate (plasma membrane)
+Carbonic anhydrase hydrates carbon dioxide (cytosol)
+Carbonic anhydrase hydrates carbon dioxide (mitochondria)
+Carbonic anhydrase hydrates carbon dioxide (plasma membrane)
+Casein kinase II phosphorylates STARD10
+Caveolin-1 dissociates from eNOS:CaM:HSP90 complex
+Ceramide glucosyltransferase (UGCG) catalyses the transfer of glucose to ceramide
+Chenodeoxycholoyl CoA reacts with glycine or taurine to form glycochenodeoxycholate or taurochenodeoxycholate
+Cho is acetylated to AcCho by CHAT
+Cho is phosphorylated to PCho by CHK dimer
+Cho transports from the extracellular space to the cytosol
+Cholate is translocated from the peroxisomal matrix to the cytosol
+Cholest-5-ene-3beta,7alpha,24(S)-triol is oxidized and isomerized to 4-cholesten-7alpha,24(S)-diol-3-one
+Cholest-5-ene-3beta,7alpha,27-triol is oxidized and isomerized to 4-cholesten-7alpha,27-diol-3-one
+Cholesta-5,7,24-trien-3beta-ol is reduced to desmosterol
+Cholesta-7,24-dien-3beta-ol is desaturated to form cholesta-5,7,24-trien-3beta-ol
+Cholesterol is hydroxylated to 25-hydroxycholesterol
+Cholesterol translocates from mitochondrial intermembrane space to inner mitochondrial membrane
+Choloyl CoA reacts with glycine or taurine to form glycocholate or taurocholate
+Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15
+Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13
+Cob(I)alamin bound to MMACHC is oxidized to cob(II)alamin
+Complex I oxidises NADH to NAD+, reduces CoQ to QH2
+Conversion of DHA-CoA to docosahexaenoic acid (DHA)
+Conversion of Glycerol to Glycerol-3-phosphate
+Conversion of glyoxylate to oxalate
+Corticosteroids bind to CBG in blood
+Cortisol translocates from the mitochondrial matrix to the cytosol
+Coumarin is 7-hydroxylated by CYP2A13
+Coumarin is 7-hydroxylated by CYP2A6
+Creatine transport across the plasma membrane
+Crotonoyl-CoA+H2O<=>(S)-3-Hydroxybutanoyl-CoA
+Cyclisation of GTP to precursor Z
+Cyclophosphamide is 4-hydroxylated by CYP2B6
+CysGly translocates from extracellular region to cytosol
+CysS248-MPST:TXN2 dissociates
+Cysteine is degraded to serine and H2S
+Cytoslic carboxylases translocate to mitochondrial matrix
+Cytosolic ACOTs hydrolyse MCFA-CoA, LCFA-CoA
+Cytosolic CMs translocate to extracellular region
+Cytosolic COPRO3 translocates to mitochondrial intermembrane space
+Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP
+Cytosolic chenodeoxycholoyl-CoA or choloyl-CoA are conjugated with glycine or taurine
+Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)
+Cytosolic folate export across the plasma membrane
+D-beta hydroxybutyrate+NAD+ <=> acetoacetate+NADH+H+
+D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate
+D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP
+D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP
+D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate
+D-glucono-1,5-lactone 6-phosphate + H2O => 6-phospho-D-gluconate
+D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate
+D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+
+D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 
+D-methylmalonyl-CoA <=> L-methylmalonyl-CoA
+D-ribose 5-phosphate + 2'-deoxyadenosine 5'-triphosphate (dATP) => 5-Phospho-alpha-D-ribose 1-diphosphate (PRPP) + 2'-deoxyadenosine 5'-monophosphate
+D-ribose 5-phosphate + ATP => 5-phospho-alpha-D-ribose 1-diphosphate (PRPP) + adenosine 5'-monophosphate
+D-ribulose 5-phosphate <=> ribose 5-phosphate
+DAG is acylated to TAG by DGAT1/2
+DAG is hydrolyzed to 2-MAG by PNPLA2/3
+DAK dimer phosphorylates D-glyceraldehyde to form D-glyceraldehyde 3-phosphate
+DBI, ACBD7 bind MCFA-CoA and LCFA-CoA
+DCA binds PDK2
+DCTPP1 hydrolyses 5idCTP
+DCXR tetramer reduces L-xylulose to xylitol
+DDAH1,2 hydrolyses ADMA to DMA and L-Cit
+DDHD1,2 hydrolyse PA
+DDO oxidizes D-Asp to OA
+DECR2 reduces LCtE-CoA to t3enoyl-CoA
+DERA cleaves dR5P to GA3P and CH3CHO
+DGAT2L6,L7P transfer acyl group from acyl-CoA to DAG, forming TAG
+DHAP is converted to 1-acyl GO3P by GNPAT
+DHAP is converted to G3P by GPD1/GPD1L
+DHB is hydroxylated to DHDB by COQ6
+DHCA is conjugated with Coenzyme A (SLC27A2 VLCS)
+DHCA is conjugated with Coenzyme A (SLC27A5 BACS)
+DHCA is translocated from the mitochondrial matrix to the cytosol
+DHCR24 reduces LAN to 24,25-dhLAN
+DHCR24 reduces ZYMOL to ZYMSTNL
+DHCR7 reduces 7-dehydroCHOL to CHOL
+DHDB is methylated to MHDB by COQ3
+DHF is reduced to tetrahydrofolate (THF)
+DHFR dimer binds DHFR inhibitors
+DHFR dimer reduces FOLA to DHF
+DHFR2 reduces FOLA to DHF
+DHI and DHICA polymerise forming eumelanin
+DHNTP is dephosphorylated by PTPS to PTHP
+DHODH:FMN binds DHODH inhibitors
+DHODH:FMN oxidises (S)-DHO to orotate
+DHRS7B reduces GO3P to HXDG3P
+DIT and MIT combine to form triiodothyronine
+DLCL is acylated to MLCL by LCLAT1 (ER)
+DLCL transports from the IM to the ER
+DLD dimer:2xFAD oxidises GCSH:DHLL to GCSH:lipoate
+DMGDH:FAD oxidatively demethylates DMGLY to SARC
+DMGLY translocates from cytosol to mitochondrial matrix
+DMPhOH is hydroxylated to MDMQ10H2 by DMPhOH monooxygenase
+DNPH1 hydrolyses dGMP
+DPAn-3 maresins translocate from cytosol to extracellular region
+DPAn-3 resolvins translocate from cytosol to extracellular region
+DPAn-6 SPMs translocate from cytosol to extracellular region
+DPEP hydrolyses MCTR2 to MCTR3
+DPEPs hydrolyse glycine from AFXBO-CG, AFNBO-CG
+DS is cleaved from its proteoglycan
+DSPG and CSPG translocate to the lysosome for degradation
+DSPGs are secreted
+DUOX1,2 reduce O2 to H2O2
+DeHA hydrolyses to 2,3-DKG
+DeHA hydrolyses to threonate and oxalate
+DeMQ10H2 is methylated to Q10H2 by COQ3
+Decanoyl-CoA+FAD<=>trans-Dec-2-enoyl-CoA+FADH2
+Decarboxylation of 5-hydroxytryptophan forms serotonin
+Dehalogenation of carbon tetrachloride to form a free radical
+Dehalogenation of the poly-halogenated hydrocarbon Halothane to form the acylhalide Trifluoroacetlychloride and  hydrogen bromide
+Dehydration of methylthio-ribulose-P
+Dehydrogenase dehydrogenates 13(R)-HDPAn-3 to 13-oxo-DPAn-3
+Dehydrogenase dehydrogenates 13-HDHA to 13-oxo-DHA
+Dehydrogenase dehydrogenates 17-HDHA to 17-oxo-DHA
+Dehydrogenase dehydrogenates 17-HDPAn-3 to 17-oxo-DPAn-3
+Dehydrogenation of 3-hydroxy tetracosahexaenoyl-CoA
+Delta12-PGJ2 is dehydrated to 15d-PGJ2
+Dephosphorylation of pChREBP (Ser 196) by PP2A
+Dephosphorylation of pChREBP (Ser 568) by PP2A
+Dephosphorylation of pChREBP (Thr 666) by PP2A
+Dephosphorylation of phosphoPFKFB1 by PP2A complex
+Dermatan sulfate can be further sulfated on position 2 of iduronate
+Dermatan-sulfate epimerase (DSE) converts chondroitin sulfate (CS) to dermatan sulfate (DS)
+Desaturation of Linoleoyl-CoA to gamma-linolenoyl-CoA
+Desaturation of alpha-linoleoyl-CoA to Stearidonoyl-CoA
+Desaturation of dihomo-gamma-lenolenoyl-CoA to arachidonoyl-CoA
+Desaturation of eicosatetraenoyl-CoA to eicosapentaenoyl-CoA
+Desaturation of tetracosapentaenoyl-CoA to tetracosahexaenoyl-CoA
+Desaturation of tetracosatetraenoyl-CoA to tetracosapentaenoyl-CoA
+Diacylgycerol activates Protein kinase C, alpha type
+Diiodinated tyrosine can be deiodinated
+Dissociation of phosphoribosyl pyrophosphate amidotransferase tetramer
+Dopa is decarboxylated to dopamine
+Dopa is oxidized to dopaquinone by TYR
+Dopachrome is transformed to DHICA by DCT
+Dopachrome transforms to DHI
+Dopamine is oxidised to noradrenaline
+Dopamine translocates to a secretory vesicle
+Dopaquinone transforms to Leucodopachrome (Cyclodopa)
+Dopaquinone, cysteine form CD isomers
+EBP isomerizes ZYMSTNL to LTHSOL
+ECHS1 hydrates methacrylyl-CoA
+ECI2 isomerizes 3Z-enoyl-CoA to 2E-enoyl-CoA
+EET(1) is hydrolysed to DHET(1) by EPHX2
+EHHADH dehydrogenates 3-hydroxyhexacosanoyl-CoA
+EHHADH hydrates trans-2,3-dehydrohexacosanoyl-CoA
+ELOVL1,2,3,5 elongate AA-CoA and Mal-CoA to 3ODCT-CoA
+ELOVL1,4 elongate TCS-CoA and Mal-CoA to 3OHC-CoA
+ELOVL3,6,7 elongate PALM-CoA and Mal-CoA to 3OOD-CoA
+ELOVL7 elongates ICS-CoA and Mal-CoA to 3ODC-CoA
+ENPP6 hydrolyzes lysophosphatidylcholine
+ENPPs hydrolyse CoA-SH to PPANT, PAP
+EPHX1 hydrates BaP4,5O to BaP4,5-DHD
+EPHX2 dimer hydrolyses 13(S),14(S)-epoxy-DHA to MaR2
+EPM2A dimer binds PPP1R3C:phosphoglycogen-GYG1 complex
+EPM2A dimer binds PPP1R3C:phosphoglycogen-GYG2 complex
+EPM2A dimer dephosphorylates phosphoglycogen-GYG1
+EPM2A dimer dephosphorylates phosphoglycogen-GYG2
+ER calcium channels open in response to activated PKA
+ESD dimer hydrolyses S-FGSH to GSH
+ESYT1:ESYT2:ESYT3 transport GPL from plasma membrane to ER membrane
+ETA is phosphorylated to PETA by CHK/ETNK
+ETFDH oxidises ETF (reduced) to ETF, reduces CoQ to QH2
+EXA4 is converted to EXC4 by LTC4S
+EXC4 is converted to EXD4 by GGT
+EXD4 is converted to EXE4 by DPEP
+EXT1:EXT2 transfer GlcNAc to the heparan chain
+EXT1:EXT2 transfers GlcA to heparan
+EXT1:EXT2 transfers GlcNAc to heparan
+EXT1:EXT2 transfers GlcNAc to the terminal GlcA residue
+Ectonucleotide pyrophosphatase/phosphodiesterase 7 (ENPP7) hydrolyses sphingomyelin
+Efflux of 24-hydroxycholesterol
+Efflux of 27-hydroxycholesterol
+Efflux of Glc from the endoplasmic reticulum
+Electron transfer from reduced cytochrome c to molecular oxygen
+Electron transfer from ubiquinol to cytochrome c of complex III
+Elongation of arachidonyl-CoA to docosatetraenoyl-CoA
+Elongation of docosapentaenoyl-CoA to tetracosapentaenoyl-CoA
+Elongation of docosatetraenoyl-CoA to tetracosatetraenoyl-CoA
+Elongation of eicosapentaenoyl-CoA to docosapentaenoyl-CoA
+Elongation of gamma-lenolenoyl-CoA to dihomo-gamma-lenolenoyl-CoA
+Elongation of stearidonoyl-CoA to eicosatetraenoyl-CoA
+Endocytic translocation of CUBN:GC:25(OH)D to lysosomal lumen
+Enolase dimers (ENO1,2,3) convert PEP to 2PG
+Enzyme-bound ATP is released
+Epoxide hydrolase hydrolyses 13(S),14(S)-epoxy-DHA to MaR1
+Epoxide hydrolase hydrolyses 13,14-epoxy-DPAn-3 to MaR1n-3 DPA or MaR2n-3 DPA
+Epoxide hydrolase hydrolyses 16(S),17(S)-epoxy-DPAn-3 to PD1n-3DPA or PD2n-3DPA
+Epoxide hydrolase hydrolyses 7,8-epoxy-HDPAn-3 to RvD1n-3DPA or RvD2n-3DPA
+Ethylene is oxidized to Ethylene oxide by CYP1A1
+Excess SeMet is cleaved into MeSeH by PXLP-K212-CTH
+Excess cysteine yields lanthionine and H2S
+Excess homocysteine yields homolanthionine and H2S
+Exchange of isocitrate and 2-oxoglutarate across the peroxisomal membrane
+Exchange of oxygen with sulfur in MoCo
+Exchange of palmitoylcarnitine and carnitine across the inner mitochondrial membrane
+Exocytosis of Insulin
+Expression of 3-Hydroxy-3-methylglutaryl-coenzyme A Reductase (HMGCR)
+Expression of 7-Dehydrocholesterol Reductase (DHCR7)
+Expression of ABCA1
+Expression of ABCB4
+Expression of ACADM
+Expression of ACOX1
+Expression of ACSL1
+Expression of AGT
+Expression of ALAS1
+Expression of ANGPTL4
+Expression of ANKRD1
+Expression of APOA1
+Expression of APOA2
+Expression of APOA5
+Expression of Acetyl CoA Carboxylase 1 (ACACA, ACC1)
+Expression of Acetyl CoA Carboxylase 2 (ACACB, ACC2)
+Expression of Acyl-CoA Desaturase (Stearoyl CoA Desaturase, SCD)
+Expression of CD36 (platelet glycoprotein IV, FAT)
+Expression of CPT1A
+Expression of CPT2
+Expression of CYP1A1
+Expression of CYP4A11
+Expression of CYP7A1
+Expression of Diphosphomevalonate Decarboxylase (MVD)
+Expression of ELOVL6
+Expression of FABP1
+Expression of FADS1
+Expression of FATP1 (SLC27A1)
+Expression of FHL2
+Expression of Farnesyl Diphosphate Synthase (FDPS)
+Expression of Farnesyldiphosphate Farnesyltransferase (FDFT1, Squalene Synthase)
+Expression of Fatty Acid Synthase (FASN)
+Expression of G0S2
+Expression of GLIPR1
+Expression of GRHL1
+Expression of Geranylgeranyl Pyrophosphate Synthase (GGPS1)
+Expression of Glycerol-3-phosphate Acyltransferase (GPAM, GPAT)
+Expression of HMGCS2
+Expression of Hydroxymethylglutaryl coenzyme A synthase (HMGCS1)
+Expression of Isopentenyl-diphosphate Delta-isomerase 1 (IDI1)
+Expression of Lanosterol Demethylase (CYP51A1)
+Expression of Lanosterol Synthase (LSS)
+Expression of Lathosterol Oxidase (SC5D, SC5DL)
+Expression of ME1
+Expression of Mevalonate Kinase (MVK)
+Expression of NPAS2
+Expression of PEX11A
+Expression of PLIN2
+Expression of PPARA
+Expression of Phosphomevalonate Kinase (PMVK)
+Expression of RGL1
+Expression of SULT2A1
+Expression of Squalene Monooxygenase (SQLE)
+Expression of TIAM2
+Expression of TM7SF2
+Expression of TNFRSF21
+Expression of TRIB3
+Expression of TXNRD1
+Expression of UGT1A9
+Extracellular BTD hydrolyses BCTN
+Extracellular KSPG translocates to the lysosome for degradation
+FA anion diffuses laterally to UCP
+FA anion flip-flops to the opposite surface
+FA anion picks up a proton
+FA spontaneously flip-flops back to the matrix side
+FA2H hydroxylates CERA
+FAAH hydrolyses AEA to AA and ETA
+FAAH2 hydrolyses AEA to AA and ETA
+FABPs bind LCFAs
+FAHD1:Zn2+ dimer hydrolyses OA to PYR
+FAICAR => IMP + H2O
+FAR1 reduces PalmCoA to HXOL
+FAR2 reduces PalmCoA to HXOL
+FBP tetramers hydrolyze F1,6PP to Fru(6)P
+FDPS dimer transfers IPPP to DMAPP
+FDPS dimer transfers IPPP to GPP
+FDXR transfers electrons to FDX1,2 (FDX1L)
+FECH binds Fe2+ to PRIN9 to form heme
+FFAR1 binds fatty acids
+FFAR1 binds rosiglitazone
+FFAR1:FFAR1 ligands activates Gq
+FGAM + ATP => AIR + ADP + Pi
+FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi
+FITM1, FITM2 bind TAGs
+FLAD1 phosphorylates FMN
+FLVCR1-1 transports heme from cytosol to extracellular region
+FLVCR1-2 transports heme from mitochondrial matrix to cytosol
+FMO1:FAD N-oxidises TAM
+FMO1:FAD oxidizes HTAU to TAU
+FMO2:FAD:Mg2+ S-oxidises MTZ
+FMO3:FAD N-oxidises TMA to TMAO
+FOLR2 binds FOLA
+FOLR2 transports FOLA from extracellular region to cytosol
+FPGS-2 transforms 5-methyl-THF to 5-methyl-THFPG
+FPGS-2 transforms THF to THFPG
+FPP and IPPP are combined into all-E-10PrP2 by PDSS1/2 tetramer
+FUT1 transfers Fuc to Type 2 chains to form H antigen-RBC
+FUT2 transfers Fuc to LeA to form LeB
+FUT2 transfers Fuc to LeX to form LeY
+FUT2 transfers Fuc to Type 1 chains to form H antigen-sec
+FUT3 transfers Fuc to Type 1 DSGG to form dsLeA
+FUT3 transfers Fuc to Type 1 MSGG to form sLeA
+FUT3 transfers Fuc to Type 1 chains to form LeA
+FUT3,5,6,7 transfers Fuc to Type 2 MSGG to form sLeX
+FUT4,5,9,(10,11) transfer Fuc to Type 2 chains to form LeX
+FXN:NFS1:ISD11:ISCU assembles 2Fe-2S iron-sulfur cluster
+Fatty acid ligands activate PPARA
+Ferrous iron reduces the BH3 radical back to BH4
+Formation of 4Fe-4S cluster on ISCA1:ISCA2
+Formation of ChREBP:MLX heterodimer
+Formation of DHA-CoA catalysed by 3-ketoacyl-CoA thiolase
+Formation of DHA-CoA catalysed by sterol carrier protein X (SCPx)
+Formation of N-glucuronides
+Formation of fatty acid synthase (FAS) dimer
+Formation of phosphoribosyl pyrophosphate amidotransferase tetramer
+Frataxin binds iron
+Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate
+Fumarate + H2O <=> (S)-Malate
+Further sulfation on galactose residues produces KSPG
+G alpha (s) activates adenylate cyclase
+G(s):GTP activates Adenylyl cyclase
+G-beta:G-gamma inhibits Adenylate cyclase
+G3P is acylated to 1-acyl LPA by AGPAT6
+G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)
+G6PC hydrolyzes G6P to Glc and Pi (liver)
+G6PC2 hydrolyzes G6P to form Glc and Pi (islet)
+G6PC3 hydrolyzes G6P to form Glc and Pi (ubiquitous)
+GAA hydrolyzes lysosomal glycogen
+GALE:NAD+ dimer reversibly epimerises UDP-Gal to UDP-Glc
+GALK1 phosphorylates Gal to Gal1P
+GALNS oligomer hydrolyses sulfate from Gal6S in keratan sulfate
+GALT transfers UMP from UDP-Glc to Gal1P to form UDP-Gal
+GAPDH tetramers reduce 1,3BPG to GA3P
+GAR + 10-Formyl-THF => FGAR + THF
+GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-a
+GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-b
+GBE1 catalyzes branch formation in polyGlc-GYG2 complexed with GYS2-a
+GCH1 reduces GTP to dihydroneopterin triphosphate
+GCHFR binds to GCH1 and negatively regulates its activity
+GCL ligates L-Glu to L-Cys
+GDE1 hydrolyzes GroPIns
+GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA
+GDPD1 hydrolyzes LysoPtdCho
+GDPD3 hydrolyzes LysoPtdCho
+GDPD5 hydrolyzes GPCho
+GGCT transforms gGluCys to OPRO
+GGPS1 hexamer transfers IPPP to DMAPP
+GGPS1 hexamer transfers IPPP to GPP
+GGT dimers hydrolyse GSH
+GGT hydrolyses MCTR1 to MCTR2
+GGT hydrolyses PCTR1 to PCTR2
+GGT hydrolyses PCTR2 to PCTR3
+GGT hydrolyses RCTR1 to RCTR2
+GGT hydrolyses RCTR2 to RCTR3
+GGT transfers GSH to 16S,17S-epoxy-DHA to form PCTR1
+GGT1, 5 dimers hydrolyse LTC4 to LTD4
+GGTs hydrolyse glutamate from AFXBO-SG, AFNBO-SG
+GLB1 hydrolyses a glycosaminoglycan
+GLB1 hydrolyses linker chain(2)
+GLCE epimerises GlcA to IdoA
+GLCE epimerises more GlcA to IdoA as sulfate content rises
+GLO1 dimer:2xZn2+ transforms MGXL and GSH to (R)-S-LGSH
+GLP1R binds GLP1
+GLP1R binds GLP1R agonists
+GLP1R:GLP1 activates G(s)
+GLTP transports GSL from plasma membrane to ER membrane
+GLTPD1 transports C1P from plasma membrane to Golgi membrane
+GLYAT-like proteins transfer glycine to ST-CoA to form SUA
+GLYCTK phosphorylates DGA to 3PDGA
+GMP + NADPH + H+ => IMP + NADP+ + NH4+ (GMPR,GMPR2)
+GNMT tetramer transfers methyl group from AdoMet to Gly to form AdoHyc and SARC
+GNPDA1,2 hexamers deaminate GlcN6P to Fru(6)P
+GOT2 dimer deaminates L-Asp
+GOT2 dimer transfers amino group from L-Cys to 2OG to form 3MPYR and Glu
+GOT2 transaminates oxaloacetate and glutamate
+GPCho is hydrolyzed to Cho and G3P by GPCPD1
+GPETA is hydrolyzed to ETA and G3P by GPCPD1
+GPI dimer isomerizes Fru(6)P to G6P
+GPX4-2 reduces 17(R)-Hp-DHA to 17(R)-HDHA
+GPX4-2 reduces 17(S)-Hp-DHA to 17(S)-HDHA
+GPX4-2 reduces 18(R)-HpEPE to 18(R)-HEPE
+GPX4-2 reduces 18(S)-HpEPE to 18(S)-HEPE
+GSH translocates from cytosol to extracellular region
+GSS:Mg2+ dimer synthesizes GSH
+GSSeH combines with bGalNAc derivative to form GSSebGalNac
+GSSeH condenses with GSH to form H2Se and GSSG
+GSSeSG is reduced to GSSeH and GSH by GSR
+GSSebGalNac is reduced and methylated to MeSebGalNac
+GST dimers conjugate GSH with cytosolic substrates
+GST trimers transfer GS from GSH to luminal substrates
+GSTK1 dimer transfers GS from GSH to CDNB
+GSTM4 dimer transfers GSH to 13(S),14(S)-epoxy-DHA to form MCTR1
+GSTO dimers reduce DeHA to AscH-
+GSTO1 dimer reduces methylarsonate to methylarsonite
+GSTZ1 dimer dehalogenates DCA to glyoxylate
+GUSB tetramer hydrolyses (HA)2
+GUSB tetramer hydrolyses CS/HS precursor
+GUSB tetramer hydrolyses GlcA-β1,3-GlcNAc
+GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1
+GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1
+GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2
+GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2
+Galactocerebrosidase cleaves the galactosyl bond of galactocerebroside to form ceramide
+Ganglioside GM2 activator presents GM2 to hexosaminidase for cleavage
+Gi,Go Heterotrimeric G-protein complex dissociates
+Glc6P is isomerised to I3P by ISYNA1 in the cytosol
+GlcNAc (Man)5 translocates from cytosol to lysosomal lumen
+Glucagon binds to Glucagon receptor
+Glucagon:GCGR mediates GTP-GDP exchange
+Glucosylceramidase 2 cleaves the glucosidic bond of glucocerebroside to form ceramide (plasma membrane)
+Glucosylceramidase 3 cleaves the glucosidic bond of glucocerebroside to form ceramide (cytosol)
+Glucosylceramidase cleaves the glucosidic bond of glucocerebroside to form ceramide
+Gly-3-P+FAD->DHAP+FADH2 (catalyzed by mitochondrial Gly-Phos dehydrogenase)
+Gq alpha activates Phospholipase C beta
+Gq alpha:G beta:G gamma dissociates to Gq alpha:GTP and G beta:G gamma
+Growing HA is extruded from the cell by ABCC5
+Guanine + H2O => Xanthine + NH4+
+H antigen-sec translocates from Golgi lumen to extracellular region
+H2Se is methylated to MeSeH by H2Se methyltransferase
+H2SeO4 is converted to APSe by PAPSS1,2
+HA:HAR:HYAL2 binds to SLC9A1:p-CHP:Ca2+
+HAGH hydrolyses (R)-S-LGSH to GSH and LACT
+HAO1 tetramer oxidizes glycolate to glyoxylate
+HAO2 tetramer oxidises 2OH-PALM
+HCOOH translocated from mitochondrial matrix to cytosol
+HDHD1:Mg2+ dephosphorylates PURIDP
+HEXA cleaves the terminal GalNAc from DS
+HEXA cleaves the terminal GalNAc from keratan sulfate
+HEXA cleaves the terminal GalNAc from small HA fragments
+HEXB cleaves the terminal GalNAc from DS
+HEXB cleaves the terminal GalNAc from keratan sulfate
+HEXB cleaves the terminal GalNAc from small HA fragments
+HGSNAT oligomer acetylates Heparan chain(1)
+HGSNAT oligomer acetylates Heparan sulfate chain(3)
+HILPDA binds lipid droplets
+HK1,2,3,GCK phosphorylate Glc to form G6P
+HLCS biotinylates 6x(PCCA:PCCB)
+HLCS biotinylates 6xMCCC1:6xMCCC2
+HLCS biotinylates ACACA:Mn2+
+HLCS biotinylates ACACB
+HLCS biotinylates PC:Mn2+
+HMBL spontaneously transforms to URO1
+HMG CoA => acetoacetic acid + acetyl CoA
+HMGCLL1:Mg2+ cleaves bHMG-CoA to Ac-CoA and ACA
+HMGCR dimer binds statins
+HMGCR dimer reduces bHMG-CoA to MVA
+HMGCS1 condenses Ac-CoA and ACA-CoA to form bHMG-CoA
+HMOX1 dimer, HMOX2 cleave heme
+HNMT transfers CH3 group from AdoMet to Hist
+HOGA1 tetramer aldol-cleaves 4-OH-2-oxoglutarate (HOG) to glyoxylate and pyruvate
+HPGD dimer oxidises 18(S)-RvE1 to 18-oxo-RvE1
+HPGD dimer oxidises RvD1 to 17(S)-oxo-RvD1 and 8-oxo-17(S)-RvD1
+HPRT1 catalyzes the conversion of guanine or hypoxanthine to GMP or IMP
+HRASLS transfer acyl group from PC to PE to form NAPE
+HRSP12 deaminates 2AA to 2OBUTA
+HS-GAGs translocate to the lysosome for degradation
+HS2ST1 sulfates IdoA at C2 in heparan sulfate
+HS3ST1 sulfates GlcN at C3 in heparan sulfate
+HS3STs sulfate GlcN at C3 in heparan sulfate
+HS6STs sulfate GlcN at C6 in heparan sulfate/heparin
+HSC cytosolic atROL translocates to extracellular region
+HSD11B2,HSD11B1 dimer oxidise CORT to COR
+HSD17B1 hydrogenates E1 to EST17b
+HSD17B11 dehydrogenates EST17b to E1
+HSD17B13 binds lipid droplets
+HSD17B14 tetramer oxidises estradiol (E2) to estrone (E1)
+HSD17B2 oxidises estradiol (E2) to estrone (E1)
+HSD17B3,12 hydrogenates 3OOD-CoA to 3HODC-CoA
+HSD17B3-like proteins reducde ANDST to TEST
+HSD17B4 dehydrogenates 3-hydroxyhexacosanoyl-CoA
+HSD17B4 hydrates trans-2,3-dehydrohexacosanoyl-CoA
+HSD2B1 dimer, HSD3B2 dimer isomerise DHA to ANDST
+HSP90 binds eNOS:Caveolin-1:CaM complex
+HTMLYS translocates from the mitochondrial matrix to the cytosol
+HXA3/B3 is hydrolysed to TrXA3/B3 by HXEH
+HYAL1 hydrolyses (HA)50
+HYAL1 hydrolyses Chondroitin chains
+HYKK phosphorylates 5HLYS
+Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)
+Heparanase 2 (HPSE2) binds heparan sulfate proteoglycans
+Heterotrimeric G(s) complex dissociates
+Hexanoyl-CoA+FAD<=>trans-Hex-2-enoyl-CoA+FADH2
+Hexosaminidase A cleaves GalNAc from GM2 to form GM3
+Histidine is decarboxylated to histamine
+Homocysteine is degraded to oxobutanoate and H2S
+Hyaluronidase 2 (HYAL2) hydrolyses HA into 20kDa fragments
+Hydration of delta2-tetracosaheptaenoyl-CoA to 3-hydroxy tetracosahexaenoyl-CoA
+Hydrolysis of choloyl-CoA to cholate and CoASH
+Hydrolysis of phosphatidylcholine
+Hydroperoxy reducatase reduces 14(S)-Hp-DHA to 14(S)-HDHA
+Hydroperoxy reducatse reduces 7(S)-Hp-17(S)-HDHA to RvD5
+Hydroperoxy reductase reduces 4(S)-Hp-17(R)-HDHA to AT-RvD6
+Hydroperoxy reductase reduces 4(S)-Hp-17(S)-HDHA to RvD6
+Hydroperoxy reductase reduces 7(S),14(S)-diHp-DHA to 7-epi-MaR1
+Hydroperoxy reductase reduces 7(S)-Hp-17(R)-HDHA to AT-RvD5
+Hydroperoxy reductase reduces 7,17-diHp-DPAn-3 to RvD5n-3DPA
+I(1,3)P2 is dephosphorylated into I1P by MTMR7
+I(1,3)P2 is dephosphorylated into I1P by MTMR7:MTMR9
+I(1,3,4)P3 is dephosphorylated to I(1,3)P2 by INPP4A/B in the cytosol
+I(1,3,4)P3 is dephosphorylated to I(3,4)P2 by INPP1 in the cytosol
+I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol
+I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol
+I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane
+I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol
+I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by MINPP1 in the ER lumen
+I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol
+I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus
+I(1,3,4,5)P4 transports from the cytosol to the ER lumen
+I(1,3,4,5)P4 transports from the cytosol to the nucleus
+I(1,3,4,5,6)P5 is dephosphorylated to I(1,4,5,6)P4 by MINPP1 in the ER lumen
+I(1,3,4,5,6)P5 is dephosphorylated to I(3,4,5,6)P4 by ITPK1 in the cytosol
+I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus
+I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/3 in the cytosol
+I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus
+I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK in the cytosol
+I(1,3,4,5,6)P5 transports from the ER lumen to the cytosol
+I(1,3,4,5,6)P5 transports from the ER lumen to the nucleus
+I(1,3,4,5,6)P5 transports from the cytosol to the ER lumen
+I(1,3,4,5,6)P5 transports from the nucleus to the cytosol
+I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol
+I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol
+I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus
+I(1,3,4,6)P4 transports from the cytosol to the nucleus
+I(1,4)P2 is dephosphorylated to I4P by INPP1 in the cytosol
+I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5(4) in the cytosol
+I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5A/B at the plasma membrane
+I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus
+I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol
+I(1,4,5)P3 transports from the ER lumen to the cytosol
+I(1,4,5)P3 transports from the cytosol to the nucleus
+I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus
+I(1,4,5,6)P4 transports from the ER lumen to the nucleus
+I(3,4)P2 is dephosphorylated to I3P by INPP4A/B in the cytosol
+I(3,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by ITPK1 in the cytosol
+I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol
+I1P is dephosphorylated to Ins by IMPA1/2 in the cytosol
+I3P is dephosphorylated to Ins by IMPA1/2 in the cytosol
+I4P is dephosphorylated to Ins by IMPA1/2 in the cytosol
+IDO1 dioxygenates L-Trp to NFK
+IDO2 dioxygenates L-Trp to NFK
+IDS hydrolyses Heparan sulfate chain(5)
+IDS hydrolyses dermatan sulfate (Chebi:63517 chain)
+IDUA hydrolyses Heparan sulfate chain(1)
+IDUA hydrolyses Heparan sulfate chain(6)
+IDUA) hydrolyses the unsulfated alpha-L-iduronosidic link in DS
+IL4I1:FAD oxidises L-Phe to kPPV
+IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]
+IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]
+IMPAD1 hydrolyses PAP to AMP
+IMPDH tetramers binds IMPDH inhibitors
+IP subcomplex binds NDUFAF3, NDUFAF4, TIMMDC1 to form Intermediate 1
+IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel
+IP3R:I(1,4,5)P3 tetramer transports Ca2+ from ER lumen to cytosol
+IP6 is dephosphorylated to I(1,2,4,5,6)P5 by MINPP1 in the ER lumen
+IP6 is phosphorylated to 1-PP-IP5 by PPIP5K1/2 in the cytosol
+IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus
+IP6 is phosphorylated to 5-PP-IP5 by IP6K1/3 in the cytosol
+IP6 transports from the cytosol to the ER lumen
+IP6 transports from the cytosol to the nucleus
+IP6 transports from the nucleus to the ER lumen
+ITPA hydrolyses ITP to IMP
+ITPA hydrolyses XTP to XMP
+ITPA hydrolyses dITP to dIMP
+Influx of 24-hydroxycholesterol
+Influx of 27-hydroxycholesterol
+Intermediate 1 binds HP subcomplex to form Intermediate 2
+Intermediate 2 binds MT-ND1:NDUFAF5:NDUFAF6 to form a 315kDa subcomplex
+Iodide is organified
+Iodide is taken up by thyroid epithelial cells
+Isomerization of (2R)-pristanoyl-CoA to (2S)-pristanoyl-CoA
+Isomerization of 25(R) DHCA-CoA to 25(S) DHCA-CoA
+Isomerization of 25(R) THCA-CoA to 25(S) THCA-CoA
+Isomerization of 25(R) TetraHCA-CoA to (24R, 25R) 3alpha,7alpha,12alpha,24-tetrahydroxy-5beta-cholestanoyl-CoA
+Isomerization of 3,7,24THCA-CoA to (24R, 25R) 3alpha,7alpha,24-trihydroxy-5beta-cholestanoyl-CoA
+Isomerization of 3-trans-decenoyl-CoA to form trans-dec-2-enoyl-CoA
+Isomerization of cis,cis-3,6-Dodecadienoyl-CoA to form trans,cis-Lauro-2,6-dienoyl-CoA
+Isopentenyl pyrophosphate rearranges to dimethylallyl pyrophosphate
+KCNJ11 tetramer:ABCC8 tetramer binds 4xATP, closing the channel
+KGPDC decarboxylates 3-dehydro-L-gulonate to L-xylulose
+KHK dimer phosphorylates Fru to Fru 1-P
+KSPG is secreted from the cell
+Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase
+L-glutamate gamma-semialdehyde <=> L-1-pyrroline-5-carboxylate
+L-type Calcium Channels close in pancreatic beta cells
+LDH tetramer oxidises LACT to PYR
+LDH tetramer reduces PYR to LACT
+LDHAL6B reduces PYR to LACT
+LDLR transports extracellular CR:atREs to cytosol 
+LGMN degrades GC
+LHPP:Mg2+ dimer hydrolyses PPi
+LIAS:2(4Fe-4S) transforms octanoyl-K107-GCSH to lipoyl-K107-GCSH
+LIPH, I hydrolyse PA to 2-acyl LPA
+LIPT1 transfers lipoyl group from lipoyl-GCSH to DHs
+LIPT2 transfers octanoyl group to GCSH
+LKB1 phosphorylates the alpha subunit of AMPK heterotrimer
+LPL hydrolyses TGs from mature CMs
+LRAT esterifies RBP1:atROL and FACYLs to atREs
+LRAT esterifies RBP2:atROL and FACYLs to atREs
+LRP2 binds extracellular TCN2:RCbl
+LRP2-mediated TCN2:RCbl uptake and delivery to lysosome
+LRP2-mediated uptake of extracellular CUBN:GC:25(OH)D
+LRPs transport extracellular CR:atREs:HSPG:apoE to cytosol
+LTA4 is converted to EXA4 by ALOX15
+LTA4 is converted to LTC4 by LTC4S
+LTA4 is hydolysed to LTB4 by LTA4H
+LTA4 is hydrolysed to 6t-/6t,12epi-LTB4
+LTA4 translocates from neutrophil cytosol to platelet cytosol
+LTA4H:Zn2+ hydrolyses 16S,17S-epoxy-DHA to (N)PD1
+LTA4H:Zn2+ hydrolyses 17R(16)-epoxy-DHA to AT-(N)PD1
+LTA4H:Zn2+ hydrolyses 4S(5)-epoxy-17(R)-HDHA to AT-RvD3 or AT-RvD4
+LTA4H:Zn2+ hydrolyses 4S(5)-epoxy-17(S)-HDHA to RvD3 or RvD4
+LTA4H:Zn2+ hydrolyses 5S,6S-epoxy-18(R)-HEPE to 18(R)-RvE1
+LTA4H:Zn2+ hydrolyses 5S,6S-epoxy-18(S)-HEPE to 18(S)-RvE1
+LTA4H:Zn2+ hydrolyses 7S(8)-epoxy-17(R)-HDHA to AT-RvD1 or AT-RvD2
+LTA4H:Zn2+ hydrolyses 7S(8)-epoxy-17(S)-HDHA to RvD1 or RvD2
+LTB4 is oxidised to 12-oxoLTB4 by PTGR1
+LTC4 is exported from the cytosol by ABCC1
+LTC4S trimer transfers GSH to 13(S),14(S)-epoxy-DHA to form MCTR1
+LTC4S trimer transfers GSH to 7S(8)-epoxy-17(S)-HDHA to form RCTR1
+LTD4 is converted to LTE4 by DPEP1/2
+LXA4 is oxidised to 15k-LXA4 by HPGD
+LXA4/B4 translocate from cytosol to extracellular region
+Leucodopachrome, L-Dopaquinone transform to Dopachrome, L-Dopa
+Lewis antigens translocate from Golgi lumen to extracellular region
+Linoleoyl-CoA is converted to cis,cis-3,6- dodecadienoyl-CoA by three cycles of beta-oxidation
+Lipoxygenase dehydrogenates 7(S),17(S)-diHp-DHA to 7S(8)-epoxy-17(S)-HDHA
+Lipoxygenase oxidises 17(S)-Hp-DHA to 7(S),17(S)-diHp-DHA
+Low conductance potassium channels in pancreatic beta cells open in response to epinephrine
+MAN2B1 hydrolyses GlcNAc (Man)5 to GlcNAc (Man)3
+MAN2B2 hydrolyses GlcNAc (Man)3 to GlcNAc:Man
+MAN2C1 hydrolyses GlcNAc (Man)9 to GlcNAc (Man)5
+MANBA hydrolyses GlcNAc:Man
+MAOA inhibitors bind MAOA:FAD
+MAOA:FAD oxidatively deaminates of 5HT
+MAOB inhibitors bind MAOB:FAD
+MAOB:FAD oxidatively deaminates TYR
+MAOB:FAD oxidatively deaminates of PEA
+MARC1,MARC2 reduce N-hydroxylated compounds
+MAT1A multimers transfer Ado from ATP to L-Met
+MAT2B:MAT2A:K+:2Mg2+ transfers Ado from ATP to L-Met
+MCAT transfers Mal from Mal-CoA to NDUFAB1
+MDH1 oxidizes MAL to OA
+MDH2 reduces OA to MAL
+MDMQ10H2 is methylated to DMQ10H2 by COQ5
+ME1:Mg2+ tetramer oxidatively decarboxylates MAL to PYR
+ME2:Mg2+ tetramer oxidatively decarboxylates MAL to PYR
+ME3:Mg2+ tetramer oxidatively decarboxylates MAL to PYR
+MECR dimer reduces tdec2-CoA to DEC-CoA
+MEOS oxidizes ethanol to acetaldehyde
+MFSD2A transports LPC from extracellular region to plasma membrane
+MGST trimers transfer GS from GSH to AFXBO and AFNBO
+MHDB is decarboxylated to DMPhOH by MHDB decarboxylase
+MID1IP1 binds THRSP
+MIOX oxidises Ins to GlcA
+MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)
+MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)
+MLCL is acylated to CL by HADH (IM)
+MLCL is acylated to CL by LCLAT1 (ER)
+MLCL is hydrolyzed to DLCL by PLA2G4A (IM)
+MLCL transports from the IM to the ER
+MMAA:MUT binds AdoCbl
+MMAB adenosylates cob(I)alamin
+MMACHC dealkylates RCbl
+MMACHC decyanates CNCbl
+MMACHC:cob(II)alamin binds MMADHC
+MMADHC targets transport of cytosolic cob(II)alamin to mitochondria
+MOGAT1,2,3 transfer acyl group from acyl-CoA to 2-acylglycerol to form DAG
+MPC1:MPC2 cotransports PYR, H+ from cytosol to mitochondrial matrix
+MPST transfers sulfur atom from 3MPYR to HSO3- to form S2O3(2-) and PYR
+MPST transfers sulfur atom from 3MPYR to form CysS248-MPST
+MPST transfers sulfur from 3MPYR to HCN to form HSCN
+MPST transfers sulfur from sulfanegen to HCN to form HSCN
+MTA is cleaved and phosphorylated
+MTHFD1 dimer dehydrogenates 5,10-methenyl-THFPG to 5,10-methylene-THFPG
+MTHFD1 dimer ligates HCOOH to THFPG to form 10-formyl-THFPG
+MTHFD1 dimer transforms 10-formyl-THFPG to 5,10-methenyl-THFPG
+MTHFD1L dimer ligates HCOOH to THF to form 10-formyl-THF
+MTHFD1L transforms 10-formyl-THF to HCOOH and THF
+MTHFD2, D2L oxidise 5,10-methenyl-THF to 10-formyl-THF
+MTHFD2, D2L oxidise 5,10-methylene-THF to 5,10-methenyl-THF
+MTHFR dimer reduces 5,10-methylene-THFPG to 5-methyl-THFPG
+MTHFS transforms 5-formyl-THFPG to 5,10-methenyl-THFPG
+MTMR12 binds MTM1
+MTMR12 binds MTMR2
+MTMR2 binds MTMR10
+MTMR2 binds SBF2
+MTMR2 dimerizes
+MTMR6 binds MTMR9
+MTMR7 binds MTMR9
+MTMR8 binds MTMR9
+MTR transfers CH3 from MeCbl to HCYS
+MTR transfers CH3 group from 5-methyl-THF to cob(I)alamin
+MTRR reduces cob(II)alamin to meCbl
+MUT isomerises L-MM-CoA to SUCC-CoA
+MVD decarboxylates MVA5PP to IPPP
+Maresin-like SPMs translocate from cytosol to extracellular region
+Maresins translocate from cytosol to extracellular region
+Me2Se is methylated to Me3Se+ by INMT
+MeSeH is hydrolysed to H2Se by methylselenol demethylase
+MeSeH is methylated to Me2Se by MeSeH methyltransferase
+MeSeO2H is reduced to MeSeOH by TXNRD1
+MeSeOH is reduced to MeSeH by TXNRD1
+MeSebGalNac is hydrolysed to MeSeH and bGalNac
+MeSebGalNac is oxidatively cleaved to MeSeO2H and 2-acetamidoglucal
+MeSec is hydrolysed to MeSeH by PXLP-K212-CTH
+Meglitinides bind ABCC8
+Methylation of N-acetyl-5-HT to form melatonin
+Methylthio-ribose-P = Methylthio-ribulose-P
+Methylthio-ribulose-P = Methylthio-ribose-P
+Mevalonate is phosphorylated to mevalonate-5-phosphate
+Mevalonate-5-phosphate is further phosphorylated.
+Mitochondrial AGXT2 tetramer transaminates glyoxylate and alanine to glycine and pyruvate
+Mitochondrial BTD hydrolyses BCTN
+Mitochondrial FPGS-1 transforms THF to THFPG
+Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP
+Mitochondrial dALA translocates to cytosol
+Mitochondrial intermembrane PRIN9 translocates to mitochondrial matrix
+Mitochondrial uptake of (R)-3-aminoisobutyric acid
+Mitochondrial uptake of beta-alanine
+Mitoferrin translocates iron from the mitochondrial intermembrane space to the mitochondrial matrix
+Molybdenum ion transfer onto molybdopterin
+Monoiodinated tyrosine can be deiodinated
+Movement of O-hexadecylglycerone phosphate from the peroxisomal matrix to the cytosol
+Muscarinic Acetylcholine Receptor M3 activates Gq
+N-acetylaspartylglutamate synthase A ligates NAA, L-Glu forming NAAG
+N-acetylated spermidine (cytosol)=>N-acetylated spermidine (peroxisomal)
+N-acetylated spermine (cytosol)=>N-acetylated spermine (peroxisomal)
+N-acetylation of serotonin
+N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate
+N-atom dealkylation of caffeine
+N-formiminoglutamate + tetrahydrofolate => glutamate + 5-formiminotetrahydrofolate
+N-hydroxy-2-acetylaminofluorene + PAPS => 2-acetylaminofluorene-N-sulfate + PAP
+N-hydroxylation of 4-aminobiphenyl
+N-myristoylation of eNOS
+N6AMT1:TRMT112 transfers CH3 group from AdoMet to MMAIII
+NAA translocates from mitochondrial matrix to cytosol
+NAALADases hydrolyse NAAG
+NADK2 dimer phosphorylates NAD+ to NADP+
+NADK:Zn2+ tetramer phosphorylates NAD+ to NADP+
+NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]
+NADPH reduces NDOR1:CIAPIN1
+NADPH transfers electrons to FDXR
+NADSYN1 hexamer amidates NAAD to NAD+
+NAGLU hydrolyses Heparan sulfate chain(4)
+NAGLU hydrolyses heparan chain(2)
+NAMPT transfers PRIB to NAM to form NAMN
+NAPRT1 dimer transfers PRIB to NCA to form NAMN
+NAT1 acetylation
+NAT2 acetylation
+NAT8L transfers acetyl group from Ac-CoA to L-Asp, forming NAA
+ND4, ND5 bind the 550kDa complex to form the 815kDa complex
+NDST1-4 N-deacetylates GlcNAc residues in heparan
+NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)
+NDUF subunits bind to form the FP subcomplex
+NDUF subunits bind to form the IP subcomplex
+NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2
+NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1
+NME1:NME3 heterohexamer, NME2P1 phosphorylate NDPs to NTPs
+NMNAT1 transfers an adenylyl group from ATP to NAMN to yield NAAD
+NMNAT2 transfers an adenylyl group from ATP to NAMN to yield NAAD
+NMNAT2 transfers an adenylyl group from ATP to NMN to yield NAD+
+NMNAT3 transfers an adenylyl group from ATP to NAMN to yield NAAD
+NMRK1 phosphorylates NAR to yield NAMN
+NMRK1 phosphorylates NR to yield NMN
+NMRK2 phosphorylates NAR to yield NAMN
+NMRK2 phosphorylates NR to yield NMN
+NNMT transfers CH3 from AdoMet to PY
+NNMT transfers CH3 from SAM to NAM to form MNA
+NOSTRIN mediated translocation of eNOS from plasma membrane
+NPC transports GCK1:GKRP from cytosol to nucleoplasm
+NQO1 interaction with ODC
+NQO2:FAD dimer reduces quinones to hydroquinones
+NR1H4 binds DCA, CDCA, LCHA
+NR1H4:DCA,CDCA,LCHA binds RXRA and NCOA1,2
+NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs
+NREH hydrolyses atREs to atROL and FAs
+NT5E:Zn2+ hydrolyses AMP,dAMP,GMP, IMP
+NT5E:Zn2+ hydrolyses NAD+
+NT5E:Zn2+ hydrolyses NMN
+NTPDase1 hydrolyzes nucleoside diphosphates
+NTPDase1 hydrolyzes nucleoside triphosphates
+NTPDase2 hydrolyzes nucleoside triphosphates
+NTPDase3 hydrolyzes nucleoside diphosphates
+NTPDase3 hydrolyzes nucleoside triphosphates
+NTPDase4 hydrolyzes nucleoside diphosphates
+NTPDase4 hydrolyzes nucleoside triphosphates
+NTPDase5 hydrolyzes nucleoside diphosphates
+NTPDase6 hydrolyzes nucleoside diphosphates
+NTPDase7 hydrolyzes nucleoside triphosphates
+NTPDase8 hydrolyzes nucleoside diphosphates
+NTPDase8 hydrolyzes nucleoside triphosphates
+NUBPL binds 4Fe-4S
+NUBPL transfers 4Fe-4S to Complex I subunits
+NUBPL transfers 4Fe-4S to NDUFV1, V2
+NUDT1 hydrolyses 2-oxo-ATP to 2-oxo-AMP
+NUDT1 hydrolyses 2-oxo-dATP to 2-oxo-dAMP
+NUDT1 hydrolyses 8-oxo-dATP to 8-oxo-dAMP
+NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP
+NUDT1 hydrolyzes N6-methyl-ATP to N6-methyl-AMP
+NUDT1 hydrolyzes N6-methyl-dATP to N6-methyl-dAMP
+NUDT1 hydrolyzes O6-methyl-dGTP to O6-methyl-dGMP
+NUDT12 hydrolyses NADH to NMNH
+NUDT13 hydrolyses AP6A to AP4 and ADP
+NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP
+NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP
+NUDT16 hydrolyses IDP to IMP
+NUDT16 hydrolyses dIDP to dIMP
+NUDT18 hydrolyses 8-oxo-GDP to 8-oxo-GMP
+NUDT18 hydrolyses 8-oxo-dADP to 8-oxo-dAMP
+NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP
+NUDT19 hydrolyses acyl-CoA to 3',5'-ADP and acyl-PPANT
+NUDT7 hydrolyses CoA-SH to 3',5'-ADP and PPANT
+Nascent CMs transform into mature CMs
+Neu5Ac is cleaved from GM3 by NEU1 and 4 to form a globoside (lysosomal lumen)
+Neu5Ac is cleaved from GM3 by NEU2 to form a globoside (cytosol)
+Neu5Ac is cleaved from GM3 by NEU3 to form globoside (plasma membrane)
+Neutral ceramidase hydrolyses ceramide into sphingosine and free fatty acid (plasma membrane)
+Non-enzymatic hydrolysis hydrolyses 13(S),14(S)-epoxy-DHA to 7-epi-MaR1
+Noradrenaline is converted to adrenaline
+Noradrenaline translocates to the cytosol
+Nuclear transport of pChREBP (Thr 666) protein
+O-atom dealkylation of dextromethorphan
+OCTN2 / SLC22A5 transports CAR from extracellular space to cytosol
+OLAH hydrolyzes decanoyl-FASN dimer to DECA and FASN dimer
+OPLAH hydrolyses OPRO to L-Glu
+OSBP exchanges 25OH-CHOL with PI4P from ER membrane to Golgi membrane
+OSBPL5,8,10 exchange PS with PI4P from ER membrane to plasma membrane
+OSBPs transport 25OH-CHOL from ER membrane to plasma membrane
+OXCT dimers transfer CoA from SUCC-CoA to ACA, forming ACA-CoA
+Octanoyl-CoA+FAD<=>trans-Oct-2-enoyl-CoA+FADH2
+Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol
+Oxidation of cholesterol to 22beta-hydroxycholesterol
+Oxidation of tetracosapentaenoyl-CoA to delta2-tetracosaheptaenoyl-CoA
+P6C transforms to 2AMAS
+PA is converted to CDP-DAG by CDS1
+PA is converted to CDP-DAG by CDS2
+PA is dephosphorylated to DAG by LPIN
+PA is hydrolysed to 1-acyl LPA by PLA2G2A
+PA is hydrolysed to 1-acyl LPA by PLA2[1]
+PA is hydrolyzed to 1-acyl LPA by PLA2[15]
+PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)
+PA translocates from the outer to the inner mitochondrial membrane
+PAH:Fe2+ tetramer hydroxylates L-Phe to L-Tyr
+PANK1/3/4 phosphorylate PanK
+PANK2 phosphorylates PanK
+PAO:FAD oxidises NASPM to PTCN
+PAOX:FAD oxidises NASPN to SPM
+PAPSS1,2 transfer PO4(2-) group from ATP to APS to form PAPS
+PAPSS1,2 transfer SO4(2-) group to ATP to form APS
+PAPSe is reduced to SeO3(2-) by PAPSe reductase
+PC catalyzes the carboxylation of PYR to form OA
+PC is converted to PS by PTDSS1
+PC is exchanged with PI by PITPNB
+PC is hydrolysed to 2-acyl LPC by PLA2[7]
+PC is hydrolyzed to 1-acyl LPC by PLA2[16]
+PC is hydrolyzed to 1-acyl LPC by PLA2[5]
+PC is hydrolyzed to 1-acyl LPC by PLA2[6]
+PC is hydrolyzed to 1-acyl LPC by PLB1
+PC is hydrolyzed to 2-acyl LPC by PLA2G4C
+PC is hydrolyzed to PA and choline by PLD1/2
+PC is transphosphatidylated to PG by PLD1-4/6
+PC:PITPNB is transported from the Golgi membrane to the ER membrane
+PCK1 phosphorylates OA to yield PEP
+PCK2 phosphorylates OA to yield PEP
+PCTP binds PC
+PCho and CTP are condensed to CDP-Cho by PCYT1 dimer
+PCho is dephosphorylated to Cho by PHOSPHO1
+PD1n-3, PD2n-3 translocate from cytosol to extracellular region
+PDK isoforms phosphorylate lipo-PDH
+PDP dephosphorylates p-lipo-PDH
+PE is converted to PS by PTDSS2
+PE is hydrolyzed to 1-acyl LPE by PLA2[16]
+PE is hydrolyzed to 1-acyl LPE by PLA2[2]
+PE is hydrolyzed to 1-acyl LPE by PLA2[3]
+PE is hydrolyzed to 2-acyl LPE by PLA2G4C
+PE is hydrolyzed to 2-acyl LPE by PLA2[4]
+PE is methylated to PC by PEMT
+PE transports from the mitochondrial membrane to the ER
+PECR reduces 2E-phytenoyl-CoA to phytanoyl-CoA
+PETA and CTP are condensed to CDP-ETA by PCY2
+PETA is dephosphorylated to ETA by PHOSPHO1
+PG and CDP-DAG are converted to CL by CRLS1
+PG is converted to BMP
+PG is hydrolysed to 2-acyl LPG by PLA2G4B (IM)
+PG is hydrolyzed to 1-acyl LPG by PLA2G2A
+PG is hydrolyzed to 1-acyl LPG by PLA2G4B (IM)
+PG is hydrolyzed to 1-acyl LPG by PLA2[16]
+PG is hydrolyzed to 1-acyl LPG by PLA2[1]
+PG is hydrolyzed to 2-acyl LPG by PLA2[14]
+PG transports from the ER membrane to the late endosome membrane
+PGA2 is dehydrated to 15d-PGA2
+PGA2 is isomerised to PGC2
+PGAM dimers (PGAM1,2) isomerise 2PG to 3PG
+PGC2 is isomerised to PGB2
+PGD2 is dehydrated to 15d-PGD2
+PGD2 is dehydrated to PGJ2
+PGD2 is reduced to 11-epi-PGF2a by AKRIC3
+PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD
+PGE2 is converted to PGF2a by CBR1
+PGE2 is dehydrated to PGA2
+PGG2 is reduced to PGH2 by PTGS1
+PGG2 is reduced to PGH2 by PTGS2
+PGH2 diffuses from the endoplasmic reticulum lumen to the cytosol
+PGH2 is degraded to 12S-HHT and MDA by TBXAS1
+PGH2 is isomerised to PGD2 by HPGDS
+PGH2 is isomerised to PGD2 by PTGDS
+PGH2 is isomerised to PGE2 by PTGES
+PGH2 is reduced to PGF2a by AKR1C3
+PGH2 is reduced to PGF2a by FAM213B
+PGH3 spontaneously dehydrates to PGJ3
+PGI2 is hydrolysed to 6k-PGF1a
+PGJ2 is isomerised to delta12-PGJ2
+PGJ3 isomerises to δ12-PGJ3
+PGK complexes (PGK1,2) phosphorylate 3PG to form 1,3BPG
+PGM1:Mg2+ isomerises G1P to G6P
+PGM1:Mg2+ isomerises G6P to G1P
+PGM2:Mg2+ isomerises  dR1P to dR5P
+PGM2:Mg2+ isomerises R1P to R5P
+PGM2L1:Mg2+ phosphorylates G6P to G1,6BP
+PGP:Mg2+ dimer hydrolyses 3PG to glycerol
+PHB and all-E-10PrP2 are combined into DHB by COQ2
+PHGDH tetramer dehydrogenates 3PG
+PI is exchanged with PC by PITPNB
+PI is hydrolyzed to 1-acyl LPI by PLA2[11]
+PI is hydrolyzed to 1-acyl LPI by PLA2[12]
+PI is hydrolyzed to 1-acyl LPI by PLA2[15]
+PI is hydrolyzed to 2-acyl LPI by PLA2[13]
+PI is phosphorylated to PI3P by PIK3C2A/3 at the Golgi membrane
+PI is phosphorylated to PI3P by PIK3C2A/3 at the early endosome membrane
+PI is phosphorylated to PI3P by PIK3C2A/3 at the late endosome membrane
+PI is phosphorylated to PI4P by PI4K2A/B at the early endosome membrane
+PI is phosphorylated to PI4P by PI4K2A/B at the plasma membrane
+PI is phosphorylated to PI4P by PI4KA/2A/2B at the Golgi membrane
+PI is phosphorylated to PI4P by PI4KA/2B at the ER membrane
+PI is phosphorylated to PI4P by PI4KB at the Golgi membrane
+PI is phosphorylated to PI5P by PIKFYVE at the late endosome membrane
+PI is phosphorylated to PI5P by PIP5K1A/B at the plasma membrane
+PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the early endosome membrane
+PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the plasma membrane
+PI(3,4)P2 is dephosphorylated to PI4P by PTEN at the plasma membrane
+PI(3,4)P2 is dephosphorylated to PI4P by TPTE2 at the Golgi membrane
+PI(3,4)P2 is phosphorylated to PI(3,4,5)P3 by PIP5K1A-C at the plasma membrane
+PI(3,4)P2 is transported from the plasma membrane to the early endosome membrane
+PI(3,4,5)P3 is dephosphorylated to PI(3,4)P2 by INPP5[2] at the plasma membrane
+PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the Golgi membrane
+PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the early endosome membrane
+PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the late endosome membrane
+PI(3,5)P2 is dephosphorylated to PI3P by SYNJ at the plasma membrane
+PI(3,5)P2 is dephosphorylated to PI5P by MTM proteins at the early endosome membrane
+PI(3,5)P2 is dephosphorylated to PI5P by MTM proteins at the late endosome membrane
+PI(3,5)P2 is dephosphorylated to PI5P by MTMR2:SBF1
+PI(3,5)P2 is dephosphorylated to PI5P by MTMR9-bound MTMR6 or MTMR8 at the plasma membrane
+PI(3,5)P2 is dephosphorylated to PI5P by SYNJ/MTMs at the plasma membrane
+PI(3,5)P2 is dephosphorylated to PI5P by the MTMR2:SBF2 tetramer at the plasma membrane
+PI(3,5)P2 transports from the early endosome membrane to the Golgi membrane
+PI(3,5)P2 transports from the late endosome membrane to the Golgi membrane
+PI(4,5)P2 is dephosphorylated to PI4P by OCRL/INPP5E at the Golgi membrane
+PI(4,5)P2 is dephosphorylated to PI4P by SYNJ/INPP5[1] at the plasma membrane
+PI(4,5)P2 is dephosphorylated to PI5P by TMEM55B in the nucleus
+PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane
+PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane
+PI(4,5)P2 is phosphorylated to PI(3,4,5)P3 by PIK3C[1] at the plasma membrane
+PI(4,5)P2, PI(3,4)P2 and PI(3,4,5)P3 are dephosphorylated to PI5P, PI3P and PI(3,4)P by INPP5F at the endosome membrane
+PI3P is dephosphorylated to PI by MTM proteins at the early endosome membrane
+PI3P is dephosphorylated to PI by MTM proteins at the late endosome membrane
+PI3P is dephosphorylated to PI by MTM1:MTMR12
+PI3P is dephosphorylated to PI by MTMR2:SBF1
+PI3P is dephosphorylated to PI by MTMR9-bound MTMR8 or MTMR6 at the plasma membrane
+PI3P is dephosphorylated to PI by SACM1L at the Golgi membrane
+PI3P is dephosphorylated to PI by SYNJ/MTMs at the plasma membrane
+PI3P is dephosphorylated to PI by the MTMR2:SBF2 tetramer at the plasma membrane
+PI3P is phosphorylated to PI(3,4)P2 by PIP4K2/5K1 at the plasma membrane
+PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the Golgi membrane
+PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the early endosome membrane
+PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the late endosome membrane
+PI3P is phosphorylated to PI(3,5)P2 by PIP5K1A/B at the plasma membrane
+PI4KB binds to ARF1/3:GTP at the Golgi membrane
+PI4P is dephosphorylated to PI by SACM1L at the ER membrane
+PI4P is dephosphorylated to PI by SACM1L at the Golgi membrane
+PI4P is dephosphorylated to PI by SYNJ at the plasma membrane
+PI4P is phosphorylated to PI(3,4)P2 by PI3K3C[2] at the plasma membrane
+PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A at the early endosome membrane
+PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A/G at the Golgi membrane
+PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane
+PI4P transports from the Golgi membrane to the plasma membrane
+PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers at the plasma membrane
+PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers in the nucleus
+PI:PITPNB is transported from the ER membrane to the Golgi membrane
+PIAS4 SUMOylates VDR with SUMO2
+PIPOX oxidises PPCA to P6C
+PITPNM1,2,3 exchange PI for PA
+PKA:AKAP79:IQGAP1 complex dissociates to active PKA subunits in response to cAMP
+PL(C)D4:3xCa2+ hydrolse PI(4,5)P2 to I(1,4,5)P3 and DAG at the ER membrane
+PLA1A hydrolyses PS to 2-acyl LPS
+PLA2G15 hydrolyses LPC to GPCho and LCFA(-)
+PLB1 hydrolyses RPALM to atROL
+PLD6 dimer hydrolyses cardiolipin to PA and PG
+PLEKHA3,8 bind PI4P, ARF1
+PLEKHA4,(5,6) bind PI3P
+PM20D1 hydrolyzes oleoyl-phe
+PM20D1 transforms oleoyl-phe from oleate and phe
+PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP
+PNLIP:CLPS hydrolyses RPALM to atROL and PALM
+PNP catalyzes the conversion of (deoxy)guanosine to guanine and (deoxy)ribose
+PNP catalyzes the conversion of (deoxy)inosine to hypoxanthine and (deoxy)ribose
+PNP catalyzes the conversion of guanine and (deoxy)ribose to (deoxy)guanosine
+PNP catalyzes the conversion of hypoxanthine and (deoxy)ribose to (deoxy)inosine
+PNPLA4 hydrolyzes TAG
+PNPLA4 hydrolyzes retinyl palmitate
+PNPLA5 hydrolyzes TAG
+PNPLA6 hydrolyzes LysoPtdCho
+PNPLA7 hydrolyzes LysoPtdCho
+PON1,2,3:Ca2+ dimers hydrolyse 5-HETEL to 5-HETE
+POR reduces CYP450:Fe3+ to CYP450:Fe2+
+PP-IP4 is dephosphorylated to I(1,3,4,5,6)P5 by NUDT4 in the cytosol
+PPA1 hydrolyzes pyrophosphate to orthophosphate
+PPANT translocates from extracellular region to cytosol
+PPARA binds RXRA
+PPARA binds fibrates
+PPARA:RXRA binds Corepressors of PPARA
+PPM1K dephosphorylates p-BCKDH
+PPO oxidises PPGEN9 to PRIN9
+PPP1R3C binds to glycogen:GYG1:GYS1
+PPP1R3C binds to glycogen:GYG2:GYS2
+PPT1 hydrolyses palmitoylated proteins
+PPT2 hydrolyses PALMCoA to PALM
+PRKD1,2,3 phosphorylates CERT1-2
+PRODH oxidises L-Pro to 1PYR-5COOH
+PRODH2 oxidises HPRO to 1PYR-5COOH
+PRODH2:FAD dimer dehydrogenates HPRO to 1-pyrroline-3-hydroxy-5-carboxylate
+PS is decarboxylated to PE by PISD
+PS is hydrolyzed to 1-acyl LPS by PLA2G2A
+PS is hydrolyzed to 1-acyl LPS by PLA2[15]
+PS is hydrolyzed to 1-acyl LPS by PLA2[9]
+PS is hydrolyzed to 2-acyl LPS by PLA2[10]
+PS transports from the ER membrane to the IM membrane
+PSPH:Mg2+ dimer dephosphorylates O-P-Ser
+PTEN dephosphorylates PIP3
+PTGIS, CYP8A1 isomerise PGH2 to PGI2
+PTGS1 dimer binds PTGS1 Inhibitors
+PTGS2 dimer binds PTGS2 inhibitors
+PTGS2 dimer oxidises DHA to 13-HDHA
+PTGS2 dimer oxidises DPAn-3 to 13(R)-HDPAn-3
+PTGS2 dimer oxidises EPA to PGH3
+PTHP is reduced to BH4 by sepiapterin reductase (SPR)
+PTPLs dehydrate VLC3HA-CoA to VLCTDA-CoA
+PTPMT1 dephosphorylates PGP to PG
+PTPN13:PLEKHA1,2 bind PI(3,4)P2
+PTPS is phosphorylated by cGMP-dependant protein kinase II
+PXKLP-K305-CSAD decarboxylates 3-sulfinoalanine to hypotaurine
+PXLP-CBS tetramers condenses HCYS and L-Ser to form L-Cystathionine
+PXLP-GCAT dimer ligates CoASH to 2A-3OB to form Gly and Ac-CoA
+PXLP-K200-PSAT1 dimer transfers amino group from L-Glu to 3POPA
+PXLP-K212-CTH cleaves L-Cystathionine
+PXLP-K258-NFS1 transfers sulfur from cysteine onto MOCS3
+PXLP-K259-GOT1 transaminates alpha-ketoglutarate and aspartate
+PXLP-K278-ETNPPL tetramer hydrolyses PETA
+PXLP-K278-PHYKPL tetramer hydrolyses 5PHL
+PXLP-K279-GOT2 dimer transaminates 4-OH-L-glutamate to 4-hydroxy-2-oxoglutarate (HOG)
+PXLP-K280-SHMT2 tetramer transfers CH2OH group to Gly to form L-Ser
+PXLP-K314-GPT transaminates L-Ala to form PYR
+PXLP-K314-GPT transaminates PYR to form L-Ala
+PXLP-K333-GADL1 decarboxylates CSA to HTAU
+PXLP-K333-GADL1 decarboxylates acidic AAs
+PXLP-K341-GPT2 transaminates L-Ala to form PYR
+PXLP-K341-GPT2 transaminates PYR to form L-Ala
+PXLP-K56-SRR dimer deaminates D-Ser
+PXLP-K56-SRR dimer deaminates L-Ser
+PXLP-K56-SRR dimer isomerises L-Ser to D-Ser
+PXLP-K754-GLDC dimer decarboxylates Gly
+PXLP-KYAT1 dimer transaminates L-KYN to AP-DOBu
+PXMP2 trimer transports glycolate from cytosol to peroxisomal matrix
+PYCR1 decamer reduces (S)-1-pyrroline-5-carboxylate to L-Pro
+PYCR2 decamer reduces (S)-1-pyrroline-5-carboxylate to L-Pro
+PYCRL decamer reduces (S)-1-pyrroline-5-carboxylate to L-Pro
+PYGB b dimer:AMP complex <=> PGYB dimer, b form + 2 AMP
+PYGB dimer, b form + 2 AMP <=> PYGB b dimer:AMP complex
+PYGM b dimer:AMP complex <=> PYGM dimer, b form + 2 AMP
+PYGM dimer, b form + 2 AMP <=> PYGM b dimer:AMP complex
+Pancreatic proteases degrade TCN1:RCbl
+Parenchymal atROL translocates to HSCs
+Peripheral arm subunits bind the 815kDa complex to form a 980kDa complex
+Peroxisomal ACOT4,6,8 hydrolyse MCFA-CoA, LCFA-CoA
+Peroxisomal beta-oxidation of tetracosapentaenoyl-CoA to Docosapentaenoyl-CoA
+Peroxisomal uptake of very long-chain fatty acyl CoA
+Peroxynitrite can oxidise BH4 to the BH3 radical
+Persulfide sulfur is dioxygenated
+Persulfide sulfur is transferred onto sulfite
+Phenol can form a sulfate conjugate
+PhosphoChREBP (Thr 666)  is exported to cytosol
+Phospholipid phosphatase 6 hydrolyses Presqualene diphosphate to presqualene monophosphate
+Phosphopantetheine conjugation of the ACP domain of FAS
+Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1
+Phosphorylated HSL dimer translocates from the cytosol to the lipid particle
+Phosphorylation of ChREBP at Serine 568 by AMPK
+Phosphorylation of ChREBP at Thr(666) by PKA
+Phosphorylation of PF2K-Pase by PKA catalytic subunit
+Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA
+Photolytic cleavage and thermal isomerization of 7-dehydroCHOL
+Potassium voltage-gated channels close in reponse to PKA
+Pregn-5-ene-3,20-dione isomerizes to progesterone
+Pregn-5-ene-3,20-dione-17-ol isomerizes to 17-hydroxyprogesterone
+Pregnenolone is dehydrogenated to form pregn-5-ene-3,20-dione
+Pregnenolone translocates from the mitochondrial matrix to the cytosol
+Presence of PI(3,5)P2 stimulates the maturation of the early endosome into the late endosome
+Prostaglandin E synthase isomerizes PGH2 to PGE2
+Protectins translocate from cytosol to extracellular region
+Protein kinase C, alpha type phosphorylates MARCKS
+Protons are translocated from the intermembrane space to the matrix
+Putrescine + dc-Adenosyl methionine  => Spermidine + 5'-methylthioadenosine
+QPRT transfers PRIB to QUIN to form NAMN
+RAP1A exchanges GDP for GTP
+RBKS phosphorylates ribose to R5P
+RBP4 binds atROL
+RBP4:atROL binds TTR
+RDH11 reduces RBP2:atRAL to RBP2:atROL
+RETSAT reduces atROL to at-13,14-dhROL
+RFK:Mg2+ phosphorylates RIB
+RHCE gene produces Rhesus C or E proteins
+RHD gene produces PALM-C-Rhesus D protein
+RNLS:FAD oxidises dh-beta-NAD to NAD+
+RNR (M1M2) reduces nucleotide diphosphates to deoxynucleotide diphosphates (glutaredoxin)
+RNR (M1M2) reduces nucleotide diphosphates to deoxynucleotide diphosphates (thioredoxin)
+RNR (M1M2B) reduces nucleotide diphosphates to deoxynucleotide diphosphates (glutaredoxin)
+RNR (M1M2B) reduces nucleotide diphosphates to deoxynucleotide diphosphates (thioredoxin)
+RPE dimers isomerise RU5P to XY5P
+RPP14 (HTD2) dehydrates 3HA-CoA to t2E-CoA
+Receptor-mediated uptake of HA
+Reducing equivalents from beta-oxidation of fatty acids transfer to ETF
+Reduction of 2-trans-4-cis-decadienoyl-CoA to form 3-trans-decenoyl-CoA
+Reduction of desmosterol to cholesterol
+Reduction of isocaproaldehyde to 4-methylpentan-1-ol
+Reduction of presqualene diphosphate to form squalene
+Retranslocation of DHA back to ER
+RvD1-6 translocate from cytosol to extracellular region
+RvT1-4 translocate from cytosol to extracellular region
+S-Adenosyl methionine <=> Decarboxylated-Adenosyl methionine + CO2
+S1P hydrolyzes SREBP1A,1C,2
+S2P hydrolyzes SREBP1A,1C,2
+SAICAR => AICAR + Fumarate
+SAMD8 transforms PE and CERA to CPE
+SAMHD1:Zn2+ tetramer hydrolyzes dNTP to nucleoside and triphosphate
+SARDH:FAD oxidatively demethylates SARC to Gly
+SBF1 binds MTMR2
+SC5D desaturates LTHSOL to 7-dehydroCHOL
+SCD desaturates ST-CoA to OLE-CoA
+SCD5 desaturates ST-CoA to OLE-CoA
+SDS dimers:PXLP dehydrate L-Thr to 2AA
+SEPHS2 phosphorylates H2Se to form SELP
+SERINC3,5,(1,2,4) transport L-Ser from cytosol to plasma membrane
+SGSH hydrolyses Heparan sulfate chain(2)
+SGSH hydrolyses Heparan sulfate chain(7)
+SHMT1 tetramer cleaves HTMLYS to yield TEABL and Gly
+SHMT1 tetramer transfers hydroxymethyl group to THFPG to form 5,10-methylene-THFPG
+SHPK phosphorylates Sedo to Sedo7P
+SLC10A1 co-transport bile salts and Na+ from extracellular region to cytosol
+SLC10A2 transports bile salts and acids and Na+ from extracellular region to cytosol
+SLC19A1 transports 5-methyl-THF from extracellular region to cytosol
+SLC19A2/3 transport extracellular THMN to cytosol
+SLC22A13 transports NCA from extracellular region to cytosol
+SLC23A1,2 cotransports AscH-, 2Na+ from extracellular region to cytosol
+SLC25A1 may exchange mitochondrial PEP for cytosolic anion
+SLC25A10 mediates exchange of malate and phosphate
+SLC25A11 exchanges alpha-ketoglutarate (2-oxoglutarate) and malate across the inner mitochondrial membrane
+SLC25A11 exchanges malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane
+SLC25A12,13 exchange cytosolic L-Glu for mitochondrial matrix L-Asp
+SLC25A16 transports cytosolic CoA-SH to mitichondrial matrix
+SLC25A19 transports ThDP from cytosol to mitochondrial matrix
+SLC25A32 transports THF from cytosol to mitochondrial matrix
+SLC25A32 transports THF from mitochondrial matrix to cytosol
+SLC25A44 transports Leu, Ile and Val from cytosol to mitochondrial matrix
+SLC26A1,2 cotransport SO4(2-), H+ from extracellular region to cytosol
+SLC27A2 ligates CoA to bempedoic acid to form ETC-1002-CoA
+SLC27A3 ligates CoA-SH to VLCFA
+SLC2A1 tetramer transports Glc from cytosol to Golgi lumen
+SLC2A1,3 transports DeHA from extracellular region to cytosol
+SLC35B2,3 transport cytosolic PAPS to Golgi lumen
+SLC35D1 hexamer transports UDP-GlcA, UDP-GlcNAc from cytosol to endoplasmic reticulum lumen
+SLC35D2 exchanges UDP-GlcNAc for UMP
+SLC36A4 transports L-Trp from extracellular region to cytosol
+SLC37A1, SLC37A2 exchange G6P for Pi across the ER membrane
+SLC44A1 transports Cho from cytosol to mitochondrial matrix
+SLC46A1 transports FOLA from extracellular region to cytosol
+SLC51A:SLC51B transports bile salts from cytosol to extracellular region
+SLC52A1,2,3 transport RIB from extracellular region to cytosol
+SLC5A6 cotransports extracellular Btn and 2xNa+ to cytosol
+SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol
+SLC5A8 transports monocarboxylates from extracellular region to cytosol
+SLC7A4 exchanges G6P for Pi across the ER membrane 
+SLC7A5:SLC3A2 transports neutral amino acids from extracellular region to cytosol
+SLCO1B1 transports ALB:(GCCA,TCCA) from extracellular region to cytosol
+SLCO1B1 transports BIL from extracellular region (blood) to cytosol (hepatocyte)
+SLCO1B3 transports ALB:(GCCA, TCCA) from extracellular region to cytosol
+SLCO1B3 transports BIL from extracellular region (blood) to cytosol (hepatocyte)
+SLCO2B1-3 transports BIL  from extracellular region (blood) to cytosol (hepatocyte)
+SMOX-3 oxidises SPN to SPM
+SORD oxidizes D-sorbitol to Fru
+SORD tetramer oxidizes xylitol to D-xylulose
+SPHK1 phosphorylates SPG to S1P
+SPHK2 binds SPHK2 inhibitors
+SPHK2 phosphorylates SPG to S1P
+SPNS2 transports S1P from cytosol to extracellular region
+SQR oxidizes sulfide to bound persulfide
+SRD5A1 dehydrogenates TEST to DHTEST
+SRD5A2 binds SRD5A2 inhibitors
+SRD5A2 dehydrogenates TEST to DHTEST
+SRD5A3 dehydrogenates TEST to DHTEST
+SREBP1A,1C binds the ACACB promoter
+SREBP1A,1C binds the FASN promoter
+SREBP1A,1C binds the GPAM promoter
+SREBP1A,1C binds the SCD gene
+SREBP1A,1C,2 binds Importin beta-1
+SREBP1A,1C,2 binds SCAP:INSIG:oxysterol and is retained in the endoplasmic reticulum
+SREBP1A,1C,2 binds SCAP:cholesterol:INSIG and is retained in the endoplasmic reticulum
+SREBP1A,1C,2 binds SREBP1A,1C,2 forming dimers
+SREBP1A,1C,2 binds the ACACA promoter
+SREBP1A,1C,2 binds the ELOVL6 promoter
+SREBP1A,1C,2 binds the FDFT1 promoter
+SREBP1A,1C,2 binds the FDPS promoter
+SREBP1A,1C,2 binds the HMGCS1 promoter
+SREBP1A,1C,2 binds the TM7SF2 promoter
+SREBP1A,1C,2 translocates to the nucleus
+SREBP1A,1C,2:Importin beta-1 dissociates
+SREBP1A,1C,2:SCAP binds CopII Coat Complex
+SREBP1A,1C,2:SCAP translocates to the Golgi
+SREBP1A,2 binds the CYP51A1 promoter
+SREBP1A,2 binds the DHCR7 promoter
+SREBP1A,2 binds the GGPS1 promoter
+SREBP1A,2 binds the HMGCR promoter
+SREBP1A,2 binds the IDI1 promoter
+SREBP1A,2 binds the LSS promoter
+SREBP1A,2 binds the MVD promoter
+SREBP1A,2 binds the MVK promoter
+SREBP1A,2 binds the PMVK promoter
+SREBP1A,2 binds the SC5DL promoter
+SREBP1A,2 binds the SQLE promoter
+ST3GAL3 transfers Neu5Ac to Type 1 chain to form Type 1 MSGG
+ST3GAL3,4,6 transfer Neu5Ac to Type 2 chain to form Type 2 MSGG
+ST6GALNAC6 transfers Neu5Ac to Type 1 MSGG to form Type 1 DSGG
+STARD10 binds LPCAT1 and PC
+STARD10 transports PC from ER membrane to lamellar body membrane
+STARD5 binds DCA, LCA
+STARD7 binds PC
+STARD7 transports PC from ER membrane to mitochondrial outer membrane
+SU drugs bind ABCC8 (in KCNJ11 tetramer:ABCC8:Mg2+:ADP tetramer)
+SULT1A1 dimer sulfonates NHABP
+SULT1A1 dimer sulfonates PARA to PARA-SO4
+SULT1A3,4 dimers sulfate DA to DAOS
+SULTs transfer (SO4)2- group to 27HCHOL
+SULTs transfer (SO4)2- group to PREG
+SUMF1 mediates the oxidation of cysteine to formylglycine, producing active arylsulfatases
+SUMF2 binds SUMF1, inhibiting SUMF1-mediated activation of arylsulfatases
+Salvage - BH2 is reduced to BH4 by DHFR
+Salvage - Sepiapterin is reduced to BH2
+SeCysta is hydrolysed to Sec by PXLP-K212-CTH
+SeHCys and Ser are dehydrated into SeCysta by CBS
+SeMet is converted to AdoSeMet by MAT
+SeO3(2-) combines with GSH to form GSSeSG and GSSG
+SeO3(2-) is reduced to H2Se by TXNRD1
+Sec is reduced to H2Se by PXLP-K259-SCLY dimer
+Sec-tRNA(Sec) binds to EEFSEC:GTP
+Sec-tRNA(Sec):EEFSEC:GTP binds to 80S Ribosome
+Sep-tRNA(Sec) is converted to Sec-tRNA(Sec) by PXLP-K284-SEPSECS tetramer
+Sepiapterin reductase (SPR) is phosphorylated by Ca2+/calmodulin-dependent protein kinase II
+Ser-tRNA(Sec) is phosphorylated to Sep-tRNA(Sec) by PSTK
+Some HSPGs are secreted to the plasma membrane
+Spermidine  => N-acetylated spermidine
+Spermine  => N-acetylated spermine
+Sphingomyelin phosphodiesterase (SMPD1) hydrolyses sphingomyelin to ceramide (lysosome)
+Sphingomyelin phosphodiesterase 2 and 3 (SMPD2 and 3) hydrolyse sphingomyelin to ceramide (plasma membrane)
+Sphingomyelin phosphodiesterase 4 (SMPD4) hydrolyses sphingomyelin to ceramide (ER membrane)
+Spontaneous hydrolysis of 1-pyrroline-3-hydroxy-5-carboxylate to 4-OH-L-glutamate semialdehyde
+Squalene 2,3-epoxide cyclizes, forming lanosterol
+Squalene is oxidized to its epoxide
+Steryl sulfatase hydrolyses sulfate from steroid sulfates
+Succinate <=> Fumarate (with FAD redox reaction on enzyme)
+Sulfate is exported to the cytosol in exchange for dicarboxylate
+Sulfhydrylation and ring cleavage of precursor Z
+Sulfido conjugates translocate from cytosol to extracellular region
+Sulfite is oxidized to sulfate
+Superoxide reacts rapidly with NO to form peroxynitrite (ONOO-)
+TAG is hydrolyzed to DAG by PNPLA2/3
+TBXAS1 isomerises PGH2 to TXA2
+TCN1 binds RCbl
+TCN1 binds correnoids in the circulation
+TCN2 binds RCbl in the circulation
+TCN2:RCbl is degraded to release RCbl
+TDH tetramer oxidises L-Thr to 2A-3OB
+TDO tetramer dioxygenates L-Trp to NFK
+TDPK phosphorylates ThDP to ThTP
+TECR,TECRL dehydrogenate TOD-CoA to ST-CoA
+THCA is conjugated with Coenzyme A (SLC27A2 VLCS)
+THCA is conjugated with Coenzyme A (SLC27A5 BACS)
+THCA is translocated from the mitochondrial matrix to the cytosol
+THEM86B hydrolyses PMCHO, PMETAM
+THTPA:Mg2+ hydrolyzes ThTP to TDP
+TMEM55B translocates to the nucleus
+TMLHE dimer dioxygenates TMLYS and 2OG to form HTMLYS and SUCCA
+TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]
+TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]
+TMT transfers CH3 from AdoMet to BME
+TNFAIP8 proteins transfer PI(4,5)P2, PI(3,4,5)P3 from cytosolic vesicles to plasma membrane
+TPI1 isomerizes GA3P to DHAP
+TPMT transfers CH3 from AdoMet to 6MP
+TPST1,2 transfer SO4(2-) from PAPS to PODXL2
+TSPO:BZRAP1 transports CHOL from outer mitochondrial membrane to inner mitochondrial membrane
+TST transfers sulfur from S2O3(2-) to HCN to form HSCN
+TTPA binds alpha-TOH
+TTPA transports alpha-TOH from lysosomal membrane to plasma membrane
+TXA2 is hydrolysed to TXB2
+TXB2 is converted to 11dh-TXB2 by TXDH
+TXN2 binds CysS248-MPST
+TYRP1 oxidises DHICA to IQCA
+TetraHCA is conjugated with Coenzyme A (SLC27A2 VLCS)
+TetraHCA is conjugated with Coenzyme A (SLC27A5 BACS)
+TetraHCA is translocated from the mitochondrial matrix to the cytosol
+The 315kDa subcomplex binds the 370kDa subcomplex to form the 550kDa complex
+The BH3 radical can decay to dihydrobiopterin (BH2)
+The FA anion diffuses away laterally from UCP
+The MCIA complex, NDUFAF2-7 all dissociate from the 980kDa complex, resulting in Complex I
+The acetyl group from acetyl-CoA is transferred to the NAT1
+The acetyl group from acetyl-CoA is transferred to the NAT2
+The addition of GalNAc to the terminal glucuronate residue forms chondroitin
+The cofactor BH4 is required for electron transfer in the eNOS catalytic cycle
+The keratan chain can be capped by N-acetylneuraminic acid
+The proton is delivered to the matrix side
+The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol
+Thiolysis of 3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-one-CoA yields choloyl-CoA (3alpha,7alpha,12alpha-trihydroxy-5beta-cholan-24-one-CoA) and propionyl CoA
+Thiolysis of 3alpha,7alpha-dihydroxy-5beta-cholan-24-one-CoA yields chenodeoxycholoyl-CoA (3alpha,7alpha-dihydroxy-5beta-cholan-24-one-CoA) and propionyl CoA
+Thiosulfate can transfer its sulfur atom to glutathione
+Thyroxine is deiodinated to reverse triiodothyronine (RT3)
+Thyroxine is deiodinated to triiodothyronine
+Trans,cis-lauro-2,6-dienoyl-CoA is converted to cis,cis-3,6- 4-cis-decenoyl-CoA by one cycle of beta-oxidation
+Transamination of MOB to methionine
+Transcriptional activation of Acetyl-CoA carboxylase by ChREBP:MLX
+Transcriptional activation of Citrate lyase monomer gene by ChREBP:MLX
+Transcriptional activation of FAS monomer gene by ChREBP:MLX
+Transcriptional activation of GP-acyl transferase gene by ChREBP:MLX
+Transcriptional activation of pyruvate kinase gene by ChREBP:MLX
+Transfer of electrons through the succinate dehydrogenase complex
+Transfer of sulfur from MOCS3-S-S onto MOCS2A
+Translocation of DPA to the ER
+Translocation of isocaproaldehyde from the mitochondrial matrix to the cytosol
+Translocation of tetracosahexaenoyl-CoA to peroxisomes
+Translocation of tetracosapentaenoyl-CoA to peroxisomes
+Transport (influx) of bile salts and acids by OATP-A
+Transport of Citrate from Mitochondrial Matrix to cytosol
+Transport of Extracellular Glucose to the Cytosol by GLUT1 and GLUT2
+Transport of cytosolic HXOL to the peroxisome
+Tryptophan is hydroxylated
+Two DITs combine to form thyroxine
+Two FPP molecules dimerize to form presqualene diphosphate
+Tyrosinase oxidises tyrosine to dopaquinone
+Tyrosine is diiodinated
+Tyrosine is hydroxylated to dopa
+Tyrosine is monoiodinated
+UBIA1D prenylates menadione to form MK4 (vitamin K hydroquinone)
+UCKL1 phosphorylates urindine, cytidine
+UDP-glucose is oxidised to UDP-glucuronate
+UGT1A1 tetramer transfers GlcA from UDP-GlcA to BMG to form BDG
+UGT1A1 transfers GlcA from UDP-GlcA to BIL to form BMG
+UGT1A10 transfers GlcA from UDP-GlcA to GCTN
+UGT1A4 transfers GlcA from UDP-GlcA to BIL to form BMG
+UGT1A4 transfers GlcA from UDP-GlcA to BMG to form BDG
+UGT8 transfers Gal from UDP-Gal to CERA
+UGTs transfer GlcA from UDP-GlcA to O-centre substrates
+UMPS dimer decarboxylates OMP to UMP
+UMPS dimer transfers phosphoribosyl group to ORO to form OMP
+UROD decarboxylates URO1 to COPRO1
+UROD decarboxylates URO3 to COPRO3
+UROS transforms HMB to URO3
+UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose
+UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]
+UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]
+Uncoupled eNOS favours the formation of superoxide
+Unknown NAT transfers COCH3 to AFXBO-C, AFNBO-C
+Unknown carnitine exporter transports CAR from the cytosol to the extracellular space
+Unknown hydroxyproline carrier transports cytosolic HPRO into the mitochondrial matrix
+Unknown lysosomal protease degrades CBLIF:RCbl to release Cbl
+Unknown sepiapterin synthase transforms PTHP to sepiapterin
+VD3 binds GC
+VD3 dissociates from GC
+VD3 translocates from ER membrane to extracellular region
+VD3 translocates from extracellular region to ER membrane
+VDAC1 transports PYR from cytosol to mitochondrial intermembrane space
+VDR agonists bind VDR
+VKORC1 inhibitors binds VKORC1 dimer
+VKORC1 reduces vitamin K epoxide to MK4 (vitamin K hydroquinone)
+VKORC1L1 reduces vitamin K epoxide to MK4 (vitamin K hydroquinone)
+Vanin hydrolyses pantetheine to PanK, 2AET
+Vinyl chloride is oxidized to 2-Chloroethylene oxide
+XDH dehydrogenates hypoxanthine to form xanthine
+XDH dehydrogenates xanthine to form urate
+XDH oxidizes hypoxanthine to form xanthine
+XDH oxidizes xanthine to form urate
+XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate
+XYLB phosphorylates D-xylulose
+XYLTs transfer Xyl to core protein
+Zymosterol is isomerized to cholesta-7,24-dien-3beta-ol
+Zymosterone (cholesta-8(9),24-dien-3-one) is reduced to zymosterol (cholesta-8(9),24-dien-3beta-ol)
+a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT1]
+a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT2]
+acetaldehyde + NAD+ => acetate + NADH + H+ [cytosolic]
+acetaldehyde + NAD+ => acetate + NADH + H+ [mitochondrial]
+acetaldehyde [cytosolic] => acetaldehyde [mitochondrial]
+acetate + CoA + ATP => acetyl-CoA + AMP + pyrophosphate [cytosolic]
+acetate + CoA + ATP => acetyl-CoA + AMP + pyrophosphate [mitochondrial]
+acetoacetic acid + NADH + H+ <=> beta-hydroxybutyrate + NAD+
+acetoacetyl-CoA + CoA <=> 2 acetyl-CoA
+acetoacetyl-CoA+acetyl-CoA => HMG-CoA + CoASH
+acetyl-CoA + 7 malonyl-CoA + 14 NADHP + 14 H+ => palmitate + 7 CO2 + 14 NADP+ + 8 CoASH + 6 H2O
+acetyl-CoA + H2O => acetate + CoASH
+acetyl-CoA + bicarbonate + ATP => malonyl-CoA + H2O + ADP + orthophosphate
+acetyl-CoA + carnitine => acetylcarnitine + CoASH
+adenylosuccinate => adenosine 5'-monophosphate + fumarate
+alpha-D-glucose 6-phosphate + NADP+ => D-glucono-1,5-lactone 6-phosphate + NADPH + H+
+alpha-D-glucose 6-phosphate <=> D-fructose 6-phosphate
+alpha-aminoadipate + alpha-ketoglutarate <=> alpha-ketoadipate + glutamate
+alpha-aminoadipoate semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+
+alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+
+alpha-ketoadipate + glutamate <=> alpha-aminoadipate + alpha-ketoglutarate
+alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+
+alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]
+alpha-methyl-acetoacetyl-CoA + CoA => propionyl-CoA + acetyl-CoA
+alpha-methyl-beta-hydroxybutyryl-CoA + NAD+ <=> alpha-methylacetoacetyl-CoA + NADH + H+
+alpha-methylacetoacetyl-CoA + NADH + H+ <=> alpha-methyl-beta-hydroxybutyryl-CoA + NAD+
+alpha-methylbutyryl-CoA + FAD => tiglyl-CoA + FADH2
+arginine + H2O => ornithine + urea [ARG1]
+arginine + H2O => ornithine + urea [ARG2]
+arginine + glycine => ornithine + guanidoacetate
+argininosuccinate <=> fumarate + arginine
+aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]
+atRAL binds to RBP2
+atREs binds to nascent CM
+atROL binds RBP1
+atROL binds RBP1 (parenchymal cell)
+atROL binds to RBP2
+benzoate + Coenzyme A + ATP => benzoyl-CoA + AMP + pyrophosphate
+benzoyl-CoA + glycine => benzoyl glycine (hippuric acid) + Coenzyme A
+beta-alanine + pyruvate => 3-oxopropanoate + alanine
+beta-estradiol + PAPS => beta-estradiol 3-sulfate + PAP
+beta-hydroxyisobutyrate + NAD+ <=> methylmalonyl semialdehyde + NADH + H+
+beta-hydroxyisobutyryl-CoA + H2O => beta-hydroxyisobutyrate + CoA
+beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]
+beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]
+beta-methylglutaconyl-CoA + H2O <=> beta-hydroxy-beta-methylglutaryl-CoA
+beta-ureidoisobutyrate + H2O => 3-aminoisobutyrate + NH4+ + CO2
+beta-ureidopropionate + H2O => beta-alanine + NH4+ + CO2
+cAMP activates EPAC1
+cAMP activates EPAC2
+cAMP induces dissociation of inactive PKA tetramers
+carbamoyl phosphate + ornithine => citrulline + orthophosphate
+ceramide + H2O <=> stearate + sphingosine [endoplasmic reticulum]
+ceramide + H2O => stearate + sphingosine [Golgi]
+cholesterol + PAPS => cholesterol sulfate + PAP
+cholesterol ester + H2O -> cholesterol + fatty acid
+citrate <=> isocitrate
+cob(II)alamin is transferred from MMACHC:MMADHC:cob(II)alamin to MTRR:MTR
+creatine + ATP => phosphocreatine + ADP [CK octamer]
+creatine + ATP => phosphocreatine + ADP [CKB,CKM]
+cytidine or uridine + ATP => CMP or UMP + ADP [UCK1]
+cytidine or uridine + ATP => CMP or UMP + ADP [UCK2]
+cytosolic GCK1:GKRP complex <=> glucokinase (GCK1) + glucokinase regulatory protein (GKRP)
+dA, dG, or dI + ATP => dAMP, dGMP, or dIMP + ADP (DGUOK)
+dCMP + H2O => dUMP + NH4+
+dUDP or TDP + ADP <=> dUMP or TMP + ATP [DTYMK]
+dUMP + N5,N10-methylene tetrahydrofolate => TMP + dihydrofolate
+dUMP or TMP + ATP <=> dUDP or TDP + ADP [DTYMK]
+dUTP + H2O => dUMP + pyrophosphate
+dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine
+dehydroepiandrosterone (DHEA) + PAPS => DHEA sulfate + PAP
+dehydrogenation of 4-cis-decenoyl-CoA to form 2-trans-4-cis-decadienoyl-CoA
+deoxyadenosine or deoxyguanosine + ATP => dAMP or dGMP + ADP (DCK)
+deoxycytidine, thymidine, or deoxyuridine + ATP => dCMP, TMP, or dUMP + ADP [TK2]
+depalmitoylated eNOS translocates from plasma membrane
+depalmitoylation of eNOS
+diacylglycerol + H2O -> 2-acylglycerol + fatty acid
+dihydroceramide + NAD(P)H + H+ + O2 => ceramide + NAD(P)+ + H2O
+dihydroceramide + NADPH + H+ + O2 => phytoceramide + NADP+ + H2O
+dihydroxyacetone phosphate <=> D-glyceraldehyde 3-phosphate
+eNOS associates with Caveolin-1
+eNOS binds NOSIP
+eNOS synthesizes NO
+eNOS translocation from Golgi to Caveolae
+eNOS:Caveolin-1 complex binds to CaM
+eNOS:Caveolin-1 complex binds to Nostrin
+eNOS:Caveolin-1:NOSTRIN complex binds dynamin-2
+eNOS:Caveolin-1:NOSTRIN:dynamin-2 complex binds N-WASP
+eNOS:NOSIP translocation from caveolae to intracellular compartments
+estrone + PAPS => estrone 3-sulfate + PAP
+ethanol + NAD+ => acetaldehyde + NADH + H+
+formyl-CoA + H2O => formate + CoASH
+fumarylacetoacetate => fumarate + acetoacetate
+glucokinase (GCK1) + glucokinase regulatory protein (GKRP) <=> GCK1:GKRP complex
+glucokinase [nucleoplasm] => glucokinase [cytosol]
+glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]
+glutamate + L-glutamate gamma-semialdehyde <=> ornithine + alpha-ketoglutarate [OAT]
+glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]
+glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]
+glutamate + acetyl CoA => N-acetyl glutamate + CoA
+glutamine + H2O => glutamate + NH4+ [GLS]
+glutamine + pyruvate => 2-oxoglutaramate + alanine
+glutaredoxin (oxidized) + glutathione (reduced) => glutaredoxin (reduced) + glutathione (oxidized)
+glutaryl-CoA + FAD => crotonyl-CoA + FADH2 + CO2
+glutathione (oxidized) + NADPH + H+ => 2 glutathione (reduced) + NADP+
+glycerol 3-phosphate + acyl-CoA => 1-acylglycerol 3-phosphate + CoASH [mitochondrial membrane-associated]
+glycine + O2 => glyoxylate + H2O2 + NH4+
+glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP
+glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP
+glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP
+glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]
+glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]
+glyoxylate + NADPH + H+ => glycolate + NADP+
+glyoxylate + alanine => glycine + pyruvate [peroxisome]
+guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine
+hexacosanoyl-CoA + O2 => trans-2,3-dehydrohexacosanoyl-CoA + H2O2
+histidine => urocanate + NH4+
+holo-FDPS dimer binds NBPs
+homogentisate + O2 => maleylacetoacetate
+hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP
+isobutyryl-CoA + FAD => methacrylyl-CoA + FADH2
+isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]
+isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+
+isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]
+isocitrate <=> citrate
+isovaleryl-CoA + FAD => beta-methylcrotonyl-CoA + FADH2
+kynurenine + 2-oxoglutarate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + glutamate
+kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O
+kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL2]
+lauroyl-CoA+FAD<=>2-trans-Dodecenoyl-CoA+FADH2
+leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT1]
+leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT2]
+limit dextrin-glycogenin => ((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl) glycogenin
+lipo-PDH decarboxylates PYR to Ac-CoA
+lithocholate + PAPS => lithocholate sulfate + PAP
+lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O
+maleylacetoacetate => fumarylacetoacetate
+malonyl-CoA is decarboxylated to acetyl-CoA in peroxisome
+methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+
+methylmalonyl semialdehyde + NADH + H+ <=> beta-hydroxyisobutyrate + NAD+
+monophospho-CERT + 2 ATP => multiphospho-CERT + 2 ADP
+multiphospho-CERT + PPM1L:VAPA/B => multiphospho-CERT:PPM1L:VAPA/B
+multiphospho-CERT:PPM1L:VAPA/B + 3 H2O => CERT:PPM1L:VAPA/B + 3 orthophosphate
+myristoyl-CoA+FAD<=>trans-Tetradec-2-enoyl-CoA+FADH2
+nucleoplasmic GCK1:GKRP complex => glucokinase (GCK1) + glucokinase regulatory protein (GKRP)
+ornithine (cytosolic) + citrulline (mitochondrial) => ornithine (mitochondrial) + citrulline (cytosolic)
+ornithine + alpha-ketoglutarate <=> glutamate + L-glutamate gamma-semialdehyde [OAT]
+ornithine => putrescine + CO2
+oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT1]
+oxo-DHAs translocate from cytosol to extracellular region
+oxo-DPAn-3s translocate from cytosol to extracellular region
+p-Y281,292-RUFY1 binds PI3P
+p-Y281,292-RUFY1 binds RAB4A:GTP, RAB5:GTP, RAB14:GTP
+p-Y281,292-RUFY1 translocates from cytosol to early endosome membrane
+p-hydroxyphenylpyruvate + O2 => homogentisate + CO2
+p-hydroxyphenylpyruvate + glutamate <=> tyrosine + alpha-ketoglutarate
+p-nitrophenol + PAPS => p-nitrophenol sulfate + PAP
+pAMPK inactivates ACACB, inhibiting malonyl-CoA synthesis
+palmitoyl-CoA + DHAP => 1-palmitoylglycerone phosphate + CoASH
+palmitoyl-CoA + serine => 3-ketosphinganine + CoASH + CO2
+palmitoyl-CoA+FAD<=>trans-Hexadec-2-enoyl-CoA+FADH2
+palmitoylation of eNOS
+palmitoylcarnitine + CoASH => palmitoyl-CoA + carnitine
+perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP
+perilipin:CGI-58 complex -> perilipin + CGI-58
+phenylacetate + Coenzyme A + ATP => phenylacetyl-CoA + AMP + pyrophosphate
+phenylacetyl-CoA + glutamine => phenylacetyl glutamine + Coenzyme A
+phenylalanine + pyruvate => 3-(indol-3-yl)pyruvate + alanine
+pheomelanin formation
+phosphatidylcholine + ceramide <=> sphingomyelin + diacylglycerol [SGMS1]
+phosphatidylcholine + ceramide <=> sphingomyelin + diacylglycerol [SGMS2]
+phosphocreatine + H2O => creatinine + orthophosphate
+phosphoenolpyruvate + ADP => pyruvate + ATP
+phosphorylated HSL + H2O -> HSL + orthophosphate
+phosphorylated HSL dimer + FABP4 -> phosphorylated HSL dimer:FABP4 complex
+phosphorylated perilipin + H2O -> perilipin + orthophosphate
+phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate
+phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2
+phytoceramide + H2O => stearate + phytosphingosine
+poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]
+poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]
+pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate
+propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate
+propionyl-CoA + carnitine => propionylcarnitine + CoASH
+pyrophosphate + H2O => 2 orthophosphate [mitochondrial]
+q-dihydrobiopterin + NADH + H+ => tetrahydrobiopterin + NAD+
+ribose 5-phosphate + xylulose 5-phosphate <=> sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate
+ribose 5-phosphate <=> D-ribulose 5-phosphate
+sABO-A:Mn2+ transfers GalNAc to H antigen-sec to form A antigen-sec
+sABO-B:Mn2+ transfers Gal to H antigen-sec to form B antigen
+saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+
+sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate <=> D-erythrose 4-phosphate + D-fructose 6-phosphate
+sphinganine (dihydrosphingosine) +ATP => sphinganine 1-phosphate + ADP
+sphinganine + stearyl-CoA => dihydroceramide + CoASH
+sphinganine 1-phosphate + H2O => sphinganine + orthophosphate
+sphinganine 1-phosphate => phosphoethanolamine + hexadecanal
+sphingosine 1-phosphate + H2O => sphingosine + orthophosphate [cytosolic - PPAP]
+sphingosine 1-phosphate + H2O => sphingosine + orthophosphate [cytosolic - SGPP]
+sphingosine 1-phosphate + H2O => sphingosine + orthophosphate [extracellular]
+sphingosine 1-phosphate => phosphoethanolamine + hexadec-2-enal
+tRNA(Met) is selenomethionylated to SeMet-tRNA(Met) by multisynthetase complex
+tRNA(Sec) is serylated to Ser-tRNA(Sec) by SARS dimer
+taurolithocholate + PAPS => taurolithocholate sulfate + PAP
+tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA
+thioredoxin, oxidized + NADPH + H+ => thioredoxin, reduced + NADP+
+thymidine + ATP => TMP (deoxythymidine 5'-monophosphate) + ADP [TK1]
+thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]
+thymine + NADPH + H+ => 5,6-dihydrothymine + NADP+
+thymine or uracil + 2-deoxy-D-ribose 1-phosphate <=> thymidine or deoxyuridine + orthophosphate [TYMP]
+tiglyl-CoA + H2O <=> alpha-methyl-beta-hydroxybutyryl-CoA
+trans-2,3-dehydropristanoyl-CoA + H2O => 3-hydroxypristanoyl-CoA
+trans-Dec-2-enoyl-CoA+H2O<=>(S)-Hydroxydecanoyl-CoA
+trans-Hex-2-enoyl-CoA+H2O<=>(S)-Hydroxyhexanoyl-CoA
+trans-Hexadec-2-enoyl-CoA+H2O<=>(S)-3-Hydroxyhexadecanoyl-CoA
+trans-Oct-2-enoyl-CoA+H2O<=>(S)-Hydroxyoctanoyl-CoA
+trans-Tetradec-2-enoyl-CoA+H2O<=>(S)-3-Hydroxytetradecanoyl-CoA
+triacylglycerol + H2O -> diacylglycerol + fatty acid
+tyrosine + alpha-ketoglutarate <=> p-hydroxyphenylpyruvate + glutamate
+uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]
+uracil + NADPH + H+ => 5,6-dihydrouracil + NADP+
+urocanate + H2O => 4-imidazolone-5-propionate
+xylulose 5-phosphate + D-erythrose 4-phosphate <=> D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate
+xylulose 5-phosphate <=> D-ribulose 5-phosphate
+δ12-PGJ3 spontaneously dehydrates to  15d-PGJ3

@@ -1,0 +1,2465 @@
+'activator' BRAF/RAF1
+'activator' RAF:YWHAB dimer
+'receiver' RAF
+1-deoxynojirimycin
+1-deoxynojirimycin-1-sulfonic acid
+11xCbxE-3D-F10(41-179)
+14-sugar N-glycan unfolded Spike
+17-AAG
+17-DMAG
+2HG
+2OG
+2xHC-TXN
+3CLp dimer
+3a
+3xPalmC-E
+7-methylguanosine cap
+7a
+7a:O-glycosyl 3a tetramer
+8b
+9b
+A2E
+A2PE
+AAAS
+ABI
+ACE2
+ACE2 inhibitors
+ACTR2:ATP
+ACTR3:ATP
+ADAM17
+ADAM17(1-214)
+ADAM17(215-827)
+ADAM17(215-827):Zn2+
+ADORA2B
+ADORA2B:Ade-Rib
+ADP
+ADP-D-ribose
+ADP-ribo-EEF2
+ADP/ATP translocase monomer (generic)
+ADPr-p-S177-Ncap
+AEE788
+AEE788,CP-724714,Canertinib
+AGK-BRAF fusion dimer
+AHCYL1:NAD+
+AKAP9-BRAF fusion dimer
+AKT
+AKT inhibitors
+AKT/AKT1 E17K mutant
+AKT1 E17K
+AKT1S1
+ANTXR1
+ANTXR1-1
+ANTXR1-2
+ANTXR2
+ANTXR2-1
+AP-1 Complex
+AP-1 mu
+AP-1 sigma
+AP-2 Complex
+AP1B1
+AP1G1
+AP2B1
+AP2M1
+AP2S1
+APOBEC3G
+APOBEC3G-3
+APOBEC3G:Vif:Cul5:SCF complex
+APP gene
+APP(672-713)
+ARF1
+ARP2/3 complex (ATP bound)
+ARPC1A
+ARPC1B
+ARPC2
+ARPC3
+ARPC4
+ARPC5
+ATP
+ATP1A
+ATP1A:ATP1B:FXYD
+ATP1B
+ATP6V1H
+ATP:P2RX4,7
+AZ 2171
+AZ5104
+AZD4547
+Ac-55-DUSP16
+Ac-CoA
+Acetylated core histone octamer
+Acetylated histone H2A:H2B
+Acetylated histone H3:H4 tetramer
+Actin:ADP
+Activated FGFR1 mutant dimers with enhanced kinase activity
+Activated FGFR1 mutants
+Activated FGFR1 mutants and fusions
+Activated FGFR1 mutants:p-FRS2
+Activated FGFR1 mutants:p-FRS2:GRB2:GAB1:PIK3R1
+Activated FGFR1c P252X mutants
+Activated FGFR2 K660N mutant
+Activated FGFR2 N549H mutant
+Activated FGFR2 N549K mutant
+Activated FGFR2 S267C mutant
+Activated FGFR2 ligand-independent mutants
+Activated FGFR2 mutants
+Activated FGFR2 mutants with enhanced kinase activity
+Activated FGFR2 mutants:p-FRS2
+Activated FGFR2 mutants:p-FRS2:GRB2:GAB1:PIK3R1
+Activated FGFR2b mutants with enhanced ligand binding
+Activated FGFR2c W290G mutant
+Activated FGFR2c mutants with enhanced ligand-binding
+Activated FGFR3 795fs*139STOP mutant
+Activated FGFR3 G370C mutant
+Activated FGFR3 G380R mutant
+Activated FGFR3 G382D mutant
+Activated FGFR3 K650E mutant
+Activated FGFR3 K650M mutant
+Activated FGFR3 K650N mutant
+Activated FGFR3 K650Q mutant
+Activated FGFR3 K650T mutant
+Activated FGFR3 R248C mutant dimer
+Activated FGFR3 S371C mutant dimer
+Activated FGFR3 Y373C mutant dimer
+Activated FGFR3 cysteine mutants
+Activated FGFR3 mutants
+Activated FGFR3 mutants with enhanced kinase activity
+Activated FGFR3 mutants:p-FRS2
+Activated FGFR3 mutants:p-FRS2:GRB2:GAB1:PIK3R1
+Activated FGFR3 t(4;14) translocation mutants
+Activated FGFR3b G967C
+Activated FGFR3b S249C mutant
+Activated FGFR3c P250R mutant
+Activated FGFR4 Y367C mutant
+Activated FGFR4 enhanced kinase mutants
+Activated FGFR4 mutants
+Activated FGFR4 mutants:p-FRS2
+Activated FGFR4 mutants:p-FRS2:GRB2:GAB1:PIK3R1
+Activated overexpressed FGFR1 homodimers
+Activated overexpressed FGFR2
+Activated overexpressed FGFR2 dimers
+Activator:PI3K
+Active dimers of ligand-responsive EGFR mutants sensitive to non-covalent TKIs
+Adaptor protein complex 2 (AP-2) large adaptins
+Ade-Rib
+Adenylate cyclase
+Adenylate cyclase (Mg2+ cofactor)
+Afatinib
+AhpC
+AhpC(ox.)
+AhpD
+AhpD(ox.)
+AhpE
+AhpE (ox.)
+Ala-tRNA(Ala)
+Amino Acid
+Arg-tRNA(Arg)
+Asb
+Asn-tRNA(Asn)
+Asp-tRNA(Asp)
+B2M(21-119)
+BAD
+BAIAP2
+BANF1
+BCL2L1
+BCL2L1 gene
+BCL2L11
+BCL2L11 gene
+BCR-FGFR1 fusion
+BCR-FGFR1 fusion mutant dimer
+BCR-p-FGFR1 fusion
+BCR-p-FGFR1 fusion mutant dimer
+BECN1
+BEZ235
+BGJ398
+BGT226
+BHC complex
+BIN2(1-265)-PDGFRB(572-1106) fusion
+BIN2(1-265)-PDGFRB(572-1106) fusion dimer
+BKM120
+BRAF 599dupT
+BRAF A246P
+BRAF E586K
+BRAF F595L
+BRAF G464E
+BRAF G469A
+BRAF G534R
+BRAF K499E
+BRAF K601E
+BRAF K601N
+BRAF L485F
+BRAF L505H
+BRAF L597V
+BRAF N581D
+BRAF Q257R
+BRAF S467A
+BRAF V600E
+BRAF V600E  V169_M438del
+BRAF V600E V47_D380del
+BRAF V600E V47_M438del
+BRAF V600K
+BRAF inhibitors
+BRAP
+BRD4
+BRK1
+BTRC
+Benzoquinoid ansamycins
+BoNT/C HC:LC dimer
+BoNT/C LC:Zn2+ disulfide bonded
+BoNT/D HC:LC dimer
+BoNT/D LC:Zn2+ disulfide bonded
+BoNT/E HC:LC dimer
+BoNT/E LC:Zn2+ disulfide bonded
+BoNT/F HC:LC dimer
+BoNT/F LC:Zn2+ disulfide bonded
+BoNT/G HC
+BoNT/G HC disulfide bonded
+BoNT/G HC:LC dimer
+BoNT/G LC
+BoNT/G LC:Zn2+ disulfide bonded
+Brivanib
+Brivanib alaninate
+C-ter TLR7 dimer
+C-ter-TLR9 dimer
+C3AR1
+C3a
+CAK
+CALM1
+CALR
+CANX
+CASP1(1-119)
+CASP1(1-404)
+CASP1(120-197):CASP1(317-404)
+CASP1(120-297)
+CASP1(298-316)
+CASP1(317-404)
+CASP9(1-416)
+CAST
+CBL
+CBL:GRB2
+CBLL1
+CBLL1 dimer:Zn2+
+CBX1
+CCNC
+CCNT1
+CCNT1,CCNT2,CCNK
+CCR5
+CCR5, CXCR4
+CCR5/CXCR4:CD4:Env gp120 (second conformation change) complex
+CD163
+CD163 gene
+CD163(1051-1156)
+CD247-1
+CD28
+CD3G/CD3Z dimers
+CD4
+CD4:Env gp120 with exposed coreceptor binding site
+CD4:Env gp120/gp41 fusion peptide complex:CCR5
+CD4:Env gp120/gp41 hairpin complex
+CD4:Env gp120/gp41 hairpin complex:CCR5/CXCR4
+CD4:Env gp120/gp41insertion complex:CCR5/CXCR4
+CD4:Env gp120:CCR5,CXCR4:complex
+CD4:Nef Complex
+CD4:Vpu complex
+CD4:Vpu:beta-TrCP_1
+CD4:Vpu:beta-TrCP_1:Skp1 complex
+CD4:gp120:gp41 membrane complex
+CD8:Nef Complex
+CD8B
+CD9
+CDC25A
+CDC25B
+CDC25C
+CDC37
+CDC42
+CDC42:GTP
+CDC42:GTP:p-Y-WASP/p-Y-WASL:WIP:SH3 proteins
+CDH1(155-882):Ca2+ dimer
+CDH1:CTNNB1:CTNND1
+CDK5
+CDK5R1(99-307)
+CDK8
+CDK8:CCNC
+CDK9
+CDKN1A
+CDKN1A gene
+CDKN1B
+CDP
+CEBPD
+CFTR F508del
+CFTR G551D
+CHMP1A
+CHMP2
+CHMP3
+CHMP4
+CHMP5
+CHMP6
+CHMP7
+CHUK
+CIN85:endophilin
+CLTA
+CLTC
+CMP
+CMP-Neu5Ac
+CNTRL-FGFR1 fusion
+CNTRL-FGFR1 fusion mutant dimer
+CNTRL-p-FGFR1 fusion mutant dimer
+CO3(2-)
+COMT
+COMT inhibitors
+CORO1A
+CP-724714
+CPSF4
+CQ
+CQ2+
+CRBN
+CREB1
+CREBBP
+CRK
+CRK:DOCK180:ELMO1,ELMO2
+CTDP1
+CTNNB1
+CTNND1
+CTP
+CTSG
+CTSL inhibitors
+CTSL(114-288)
+CTSL(292-333)
+CUL5
+CUX1-FGFR1 fusion
+CUX1-FGFR1 fusion mutant dimer
+CUX1-p-FGFR1 fusion mutant dimer
+CVC1
+CVC1:CVC2
+CVC2
+CXCR4
+CYBA
+CYFIP1,CYFIP2
+CYSLTR1
+CYSLTR1 antagonists
+CYSLTR1,CYSLTR2
+CYSLTR2
+Ca2+
+Calpain1
+Calpain1, Calpain2:Ca2+
+Calpain1:Ca2+
+Calpain2
+Calpain2:Ca2+
+Canertinib
+Cap Binding Complex (CBC)
+Capsid
+Carboxymycobactin
+Carboxymycobactin:Fe3+
+Cathepsin L1
+Cetuximab
+Cl-
+Cleaved HA Influenza A Viral Particle
+CoA-SH
+CoREST complex
+Core histone octamer
+Covalent EGFR tyrosine kinase inhibitors
+Cul5-SCF complex
+Cys-tRNA(Cys)
+D-Glucono-1,5-lactone 6-phosphate
+DAGs
+DAXX
+DBP
+DDX5
+DERL oligomer
+DERL2
+DHC dimer
+DICs
+DLCs
+DLIs
+DLL/JAG:NOTCH1 HD domain mutants
+DLL/JAG:NOTCH1 HD+PEST Domain Mutants
+DLL/JAG:NOTCH1 PEST Domain Mutants
+DLL1
+DLL1:NOTCH1 HD domain mutants
+DLL1:NOTCH1 HD+PEST Domain Mutants
+DLL1:NOTCH1 PEST Domain Mutants
+DLL4
+DLL4:NOTCH1 HD domain mutants
+DLL4:NOTCH1 HD+PEST Domain Mutants
+DLL4:NOTCH1 PEST Domain Mutants
+DNAJC3
+DOCK1
+DOCK2
+DSIF complex
+DT A:B
+DT(226-567)
+DT(226-567) disulfide bonded
+DT(33-225)
+DT(33-225) disulfide bonded
+DUSP16
+DUT
+Daxx:PML
+Dimers of EGF:Ligand-responsive EGFR mutants resistant to non-covalent TKIs
+Dimers of EGF:Ligand-responsive p-6Y-EGFR mutants
+Dimers of ligand-responsive EGFR mutants resistant to non-covalent TKIs
+Dimers of ligand-responsive p-6Y-EGFR mutants
+Dynein complex
+E3810
+EED
+EEF2
+EGF
+EGF-like ligands:EGFR dimer
+EGF:EGFR
+EGF:Ligand-responsive EGFR mutants dimer
+EGF:Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37
+EGF:Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37
+EGF:Ligand-responsive EGFR mutants:HSP90:CDC37
+EGF:p-6Y-EGFR
+EGFR
+EGFR:EGF-like ligands
+EGFRvIII
+EGFRvIII mutant:HSP90:CDC37
+EIF2AK2
+ELK1
+ELL
+ELMO1
+ELMO1,ELMO2
+ELOB
+ELOC
+ENO1
+EP300
+EPS15
+EPS15:HGS:STAM
+ER alpha-glucosidases
+ER-alpha-glucosidase inhibitors
+ERAD complex
+ERBB2
+ERBB2 ECD mutants
+ERBB2 ECD mutants:ERBIN:HSP90:CDC37
+ERBB2 KD mutants
+ERBB2 KD mutants (TKI sensitive)
+ERBB2 KD mutants (trastuzumab sensitive):trastuzumab
+ERBB2 KD mutants (trastuzumab)
+ERBB2 KD mutants:Ligand-Activated EGFR,(ERBB3,ERBB4)
+ERBB2 KD mutants:Ligand-Activated EGFR,ERBB3,(ERBB4)
+ERBB2 KD mutants:Ligand-Activated ERBB3,(EGFR,ERBB4)
+ERBB2 KD mutants:TKIs
+ERBB2 R678Q
+ERBB2 R678Q:pertuzumab
+ERBB2 TMD/JMD mutants
+ERBB2 TMD/JMD mutants (TKI sensitive)
+ERBB2 TMD/JMD mutants (TKI sensitive):TKIs
+ERBB2 TMD/JMD mutants (trastuzumab)
+ERBB2 TMD/JMD mutants (trastuzumab):trastuzumab
+ERBB2:TKIs
+ERBB2:trastuzumab
+ERBIN
+ERCC2
+ERCC3
+ERLEC1
+ERLIN1:ERLIN2
+ERLIN2(1-185):FGFR1(c.-88-822) fusion
+ERLIN2(1-185):FGFR1(c.-88->(-1)) fusion dimer
+ERLIN2(1-185):p-8Y FGFR1(c.-88-822) fusion dimer
+ESCRT-I
+ESCRT-II
+ESCRT-III
+ETV6(1-154)-PDGFRB(527-1106) fusion
+ETV6(1-154)-PDGFRB(527-1106) fusion dimer
+ETV6(1-301)-FLT3(574-993) fusion
+ETV6(1-301)-FLT3(574-993) fusion dimer
+ETV6(1-301)-p-6Y FLT3(574-993) fusion dimer
+ETV6(1-384)-FLT3(569-993) fusion
+ETV6(1-384)-FLT3(569-993) fusion dimer
+ETV6(1-384)-p-3Y FLT3(659-1620) fusion dimer
+EZH2
+Elongating HIV-1 transcript in processive Pol II mediated elongation
+Elongating HIV-1 transcript prior to cleavage
+Elongating HIV-1 transcript prior to separation
+Elongin A
+Elongin B:C complex
+Elongin Complex
+Envelope glycoprotein gp160
+F-actin
+F12 T328K
+F12 T328K (329-615)
+F12 T328K (373-615)
+F12 T328K(20-328)
+F12 T328R
+F12 T328R (329-615)
+F12 T328R (373-615)
+F12 T328R(20-328)
+F420(ox.)
+F420(red.)
+F8(20-372) variant
+F8(392-759) A2 domain variant
+F8(392-759) N713I
+F8(392-759) R550G
+F8(392-759) R550H
+F8(392-759) R717L
+F8(392-759) R717W
+FACT complex
+FAM131B-BRAF fusion dimer
+FASLG gene
+FASLG(1-281)
+FCGR3A
+FCGR3A:p-CD3 dimers
+FCGRIIIA:CD3G/CD3Z dimers
+FEN1
+FGF1
+FGF1,2
+FGF10
+FGF16
+FGF17-1
+FGF18
+FGF2(10-155)
+FGF20
+FGF4
+FGF5-1
+FGF6
+FGF7
+FGF8-1
+FGF9
+FGFR1 K656E
+FGFR1 K656E mutant dimer
+FGFR1 N546K
+FGFR1 N546K mutant dimer
+FGFR1(22-763):TACC1(571-805) fusion
+FGFR1(22-763):TACC1(571-805) fusion dimer
+FGFR1OP-FGFR1 fusion
+FGFR1OP-FGFR1 fusion mutant dimer
+FGFR1OP-p-FGFR1 fusion mutant dimer
+FGFR1OP2-FGFR1 fusion
+FGFR1OP2-FGFR1 fusion mutant dimer
+FGFR1OP2-p-FGFR1 fusion mutant dimer
+FGFR1b
+FGFR1b homodimer
+FGFR1c
+FGFR1c P252R
+FGFR1c P252S
+FGFR1c P252T
+FGFR1c P252X mutant dimers
+FGFR1c homodimer
+FGFR1c-binding FGFs
+FGFR2
+FGFR2 IIIa TM
+FGFR2 K660N
+FGFR2 K660N mutant dimer
+FGFR2 N549H
+FGFR2 N549H mutant dimer
+FGFR2 N549K
+FGFR2 N549K mutant dimer
+FGFR2 S267P
+FGFR2 S267P mutant dimer
+FGFR2 ligand-independent mutant dimers
+FGFR2 mutant dimers with enhanced kinase activity
+FGFR2 point mutant dimers
+FGFR2(2-822)-CIT(927-2027) fusion
+FGFR2(2-822)-CIT(927-2027) fusion dimer
+FGFR2(22-767)-AHCYL1(108-530) fusion
+FGFR2(22-767)-AHCYL1(108-530) fusion dimer
+FGFR2(22-767)-CCDC6(102-474) fusion
+FGFR2(22-767)-CCDC6(102-474) fusion dimer
+FGFR2(22-768)-BICC1(80-974) fusion
+FGFR2(22-768)-BICC1(80-974) fusion dimer
+FGFR2b
+FGFR2b C3 variant
+FGFR2b C3 variant dimer
+FGFR2b P253R
+FGFR2b S252W
+FGFR2b mutant dimers with enhanced ligand-binding
+FGFR2b mutant dimers with enhanced ligand-binding bound to FGFs
+FGFR2b mutant-binding FGFs
+FGFR2b, FGFR2c
+FGFR2b-binding FGFs
+FGFR2c
+FGFR2c A315S
+FGFR2c P253R
+FGFR2c S252W
+FGFR2c W290G
+FGFR2c W290G mutant dimer
+FGFR2c mutant binding FGFs
+FGFR2c mutant dimers with enhanced ligand-binding
+FGFR2c mutant dimers with enhanced ligand-binding bound to FGFs
+FGFR2c-binding FGFs
+FGFR3 (4;14) translocation mutant dimers
+FGFR3 795fs*139
+FGFR3 795fs*139STOP mutant dimer
+FGFR3 G370C
+FGFR3 G370C mutant dimer
+FGFR3 G380R
+FGFR3 G380R mutant dimer
+FGFR3 G382D
+FGFR3 G382D mutant dimer
+FGFR3 K650E
+FGFR3 K650E mutant dimer
+FGFR3 K650M
+FGFR3 K650M mutant dimer
+FGFR3 K650N
+FGFR3 K650N mutant dimer
+FGFR3 K650Q
+FGFR3 K650Q mutant dimer
+FGFR3 K650T
+FGFR3 K650T mutant dimer
+FGFR3 R248C
+FGFR3 R248C mutant dimer
+FGFR3 S371C
+FGFR3 S371C mutant dimer
+FGFR3 Y373C
+FGFR3 Y373C mutant dimer
+FGFR3 cysteine mutant dimers
+FGFR3 mutant dimers
+FGFR3 point mutant dimers with enhanced kinase activity
+FGFR3(23-758)-TACC3(549-838) dimer
+FGFR3(23-758)-TACC3(549-838) fusion
+FGFR3(23-758)-TACC3(649-838) dimer
+FGFR3(23-758)-TACC3(649-838) fusion
+FGFR3(23-760)-BAIAP2L1(18-522) dimer
+FGFR3(23-760)-BAIAP2L1(18-522) fusion
+FGFR3(23-760)-TACC3(612-838) dimer
+FGFR3(23-760)-TACC3(612-838) fusion
+FGFR3(23-760)-TACC3(647-838) dimer
+FGFR3(23-760)-TACC3(647-838) fusion
+FGFR3(23-793)-TACC3(143-838) dimer
+FGFR3(23-793)-TACC3(143-838) fusion
+FGFR3b G697C
+FGFR3b G697C mutant dimer
+FGFR3b S249C
+FGFR3b S249C mutant dimer
+FGFR3c P250R
+FGFR3c P250R mutant dimer
+FGFR3c P250R mutant dimer bound to FGF
+FGFR3c-binding FGFs
+FGFR4 N535K
+FGFR4 N535K mutant dimer
+FGFR4 V550E
+FGFR4 V550E mutant dimer
+FGFR4 Y367C
+FGFR4 enhanced kinase mutant dimers
+FIP1L1(1-272):PDGFRA (567-1069) fusion
+FIP1L1(1-272):PDGFRA (567-1069) fusion dimer
+FIP1L1(1-339):PDGFRA (580-1069) fusion
+FIP1L1(1-339):PDGFRA (580-1069) fusion dimer
+FIP1L1(1-395):PDGFRA (577-1069) fusion
+FIP1L1(1-395):PDGFRA (577-1069) fusion dimer
+FIP1L1(1-395):PDGFRA (585-1069) fusion
+FIP1L1(1-395):PDGFRA (585-1069) fusion dimer
+FKBP1A
+FKBP4
+FLT3 S451F
+FLT3 S451F dimer
+FOXO1
+FOXO3
+FOXO4
+FP-1039
+FRS2
+FURIN
+FURIN inhibitors
+FXYDs
+FYN
+FZD7
+Fe2+
+Fe3+
+FeHM
+G alpha (i): GTP
+G alpha (s):GDP
+G alpha (s):GTP
+G-actin
+G-betagamma
+G-protein alpha (z):GTP
+G-protein beta subunit
+G-protein beta-gamma complex
+G-protein gamma subunit
+G6P
+GAB1
+GAB2
+GAG Polyprotein (P04591)
+GAG-POL Polyprotein (P04585)
+GD2
+GD3
+GDC0941
+GDP
+GGT1(1-380)
+GGT1(381-569)
+GM1a
+GNAS
+GOLGA2
+GOLGA4(1-411)-PDGFRB(527-1106) fusion
+GOLGA4(1-411)-PDGFRB(527-1106) fusion dimer
+GOLGB1(1-2893)-FLT3(591-993) fusion
+GOLGB1(1-2893)-FLT3(591-993) fusion dimer
+GOLGB1(1-2893)-p-5Y FLT3(591-993) fusion dimer
+GP369
+GPS2
+GRB2
+GRB2-1
+GRB2-1:SOS1
+GRB2:GAB1
+GRB2:GAB1:PIK3R1
+GRB2:GAB2
+GRB2:p-Y-GAB2
+GRSF1
+GSH
+GSK3A
+GSK3B
+GSKi
+GSNO
+GT1b
+GTF2A1(1-274)
+GTF2A1(275-376)
+GTF2A2
+GTF2B
+GTF2E1
+GTF2E2
+GTF2H1
+GTF2H2
+GTF2H3
+GTF2H4
+GTF2H5
+GTP
+GUCY2C
+GUCY2C trimer
+GalNAc-O-3a
+GalNAc-T178-FGF23(25-251)
+Gefitinib
+Geldanamycin
+Genomic RNA Segment 1
+Genomic RNA Segment 2
+Genomic RNA Segment 3
+Genomic RNA Segment 4
+Genomic RNA Segment 5
+Genomic RNA Segment 6
+Genomic RNA Segment 7
+Genomic RNA Segment 8
+GlbN
+Gln-tRNA(Gln)
+Glu-tRNA(Glu)
+Gly
+Gly-tRNA(Gly)
+Glycosylated NA
+Glycosylated NA Tetramer
+Glycosylated and folded HA
+Glycosylated, palmitylated and folded HA trimer
+Gycosylated NA Tetramer
+H+
+H2O
+H2O2
+HA
+HA folded, glycosylated, and palmitylated
+HA mRNA
+HBEGF(20-208)
+HCK
+HCMV B Capsid
+HCMV B Nucleocapsid
+HCMV C Capsid
+HCMV C Nucleocapsid
+HCMV Genome DNA Synthesis Initiation Complex
+HCMV Host Cell Receptors
+HCMV Replisome
+HCMV Tegumented Virion
+HCQ
+HCQ2+
+HDAC
+HDAC1:2-containing complex
+HDAC2 inhibitors
+HDAC3
+HELI
+HES1
+HES1 gene
+HES5
+HES5 gene
+HEY Genes
+HEY1
+HEY1 gene
+HEY2
+HEY2 gene
+HEYL
+HEYL Gene
+HGS
+HIV-1 Polymerase II (phosphorylated):TFIIF:capped pre-mRNA
+HIV-1 RNA homodimer
+HIV-1 RNA template
+HIV-1 early elongation complex with hyperphosphorylated Pol II CTD
+HIV-1 mRNA
+HIV-1 promoter:TFIID:TFIIA:TFIIB:Pol II:TFIIF complex*
+HIV-1 template DNA containing promoter with transcript of  2 or 3 nucleotides
+HIV-1 template DNA hybrid with phosphodiester-PPi intermediate
+HIV-1 template DNA opened from -10 to +2, with first nucleotide base-paired at 5'-end
+HIV-1 template DNA with first transcript dinucleotide, opened to +8 position
+HIV-1 template DNA:11 nucleotide transcript hybrid
+HIV-1 template DNA:3 nucleotide transcript hybrid
+HIV-1 template DNA:30 nt transcript hybrid
+HIV-1 template DNA:4 nucleotide transcript hybrid
+HIV-1 template DNA:4-9 nucleotide transcript hybrid
+HIV-1 template DNA:9 nucleotide transcript hybrid
+HIV-1 template:capped HIV-1 transcript hybrid
+HIV-1 unspliced RNA
+HLA class I histocompatibility antigen, A-2 alpha chain
+HMGA1
+HNRNPK
+HS
+HSP90
+HSP90:ATP:FKBP4:PTGES3:NR3C1
+HSP90:HSP90
+HSP90AA1
+HSP90AB1
+HSPA1A
+HSPG
+HUA
+Herbimycin A
+Heterotrimeric G-protein Gs (active)
+Heterotrimeric G-protein Gs (inactive)
+Heterotrimeric Helicase-primase
+His-Leu-lopinavir
+His-tRNA(His)
+Histone H2A:H2B
+Histone H3:H4 tetramer
+Host Derived Lipid Bilayer Membrane
+Host Derived Lipid Bilayer Membrane Rich In Sphingolipids And Cholesterol
+Host genomic  DNA
+Human herpesvirus 5 Genome - Merlin Strain
+I(1,4,5)P3
+IFNAR1
+IFNAR1:TYK2
+IFNAR2-2
+IFNAR2:JAK1:STAT2
+IFNGR1:JAK1
+IFNGR1:JAK1:INFGR2:JAK2
+IFNGR2:JAK2
+IL10
+IL10 gene
+IL18
+IL18(1-193)
+IL18(1-36)
+IL1B
+IL1B(1-116)
+IL1B(1-269)
+IL1R1
+IL1R1 inhibitors
+IL6
+IL6 gene
+IL6R
+IMPDH inhibitors
+IMPDH tetramers
+IMPDH1 tetramer
+IMPDH2 tetramer
+IMiDs
+IN (Integrase) (P04585) protein
+IN bound to sticky 3' ends of viral DNA
+IN bound to sticky 3' ends of viral DNA in PIC
+IN:viral DNA bound to host genomic DNA
+IP3 receptors
+IPI-504
+IPO5
+IRS1
+ISG15
+ITGA4
+ITGA4:ITGB1
+ITGB1
+ITPR tetramers
+ITPR:I(1,4,5)P3 tetramer
+Ig Antibody Light Chain
+IgG
+IgG Heavy Chain
+IgG:LPG1G2
+IgG:Lma amastigote surface
+IgG:Lma antigens
+IgG:Lma antigens:FCGR3A:p-CD3 dimers
+IgG:Lma antigens:FCGR3A:p-CD3 dimers:p-6Y-SYK
+Ile-tRNA(Ile)
+Importin
+Importin alpha
+Importin beta-1:Rev multimer complex
+Influenza A Viral Envelope
+Influenza A Viral Envelope Fused With The Endocytic Vesicle Membrane By An Inter-Membrane Spanning HA2
+Influenza A Viral Envelope With An Inter-Membrane Spanning HA2
+Influenza A Viral Envelope with a fusion competent HA2
+Influenza A dsRNA intermediate form
+Influenza H1N1 cRNA (extending)
+Influenza cRNA (complete)
+InlA
+InlA:Ub-K,p-Y753,Y754-CDH1:Ub-K,p-Y-CTNNB1
+InlA:p-Y753,Y754-CDH1:p-Y-CTNNB1
+InlB
+InlB:MET
+InlB:MonoUb-K,p-4Y-MET dimer
+InlB:MonoUb-K,p-4Y-MET dimer:GRB2-1:p-Y-CBL
+InlB:MonoUb-K,p-4Y-MET dimer:GRB2-1:p-Y-CBL:CIN85:endophilin
+InlB:p-4Y-MET
+InlB:p-4Y-MET dimer
+Ins(1,4,5,6)P4
+Irreversible EGFR-specific TKIs
+Irreversible anti-EGFRplus TKIs
+Ivacaftor
+JAG1
+JAG1:NOTCH1 HD domain mutants
+JAG1:NOTCH1 HD+PEST Domain Mutants
+JAG1:NOTCH1 PEST Domain Mutants
+JAG2
+JAG2:NOTCH1 HD domain mutants
+JAG2:NOTCH1 HD+PEST Domain Mutants
+JAG2:NOTCH1 PEST Domain Mutants
+JAK1
+JAK1,2 inhibitors
+JAK2
+JAK3
+JAK3 inhibitors
+JUN
+K+
+KANK1(1-899)-PDGFRB(415-1106) fusion
+KANK1(1-899)-PDGFRB(415-1106) fusion dimer
+KAT2B
+KIAA1549-BRAF fusion dimer
+KIT A502_Y503dup
+KIT A502_Y503dup dimer
+KIT C443Y
+KIT C443Y dimer
+KIT D419A
+KIT D419A dimer
+KIT D816F
+KIT D816H
+KIT D816V
+KIT D816Y
+KIT D820A
+KIT D820E
+KIT K509I
+KIT K509I dimer
+KIT K550I P551_V555del
+KIT K550I P551_V555del dimer
+KIT K550_K558del
+KIT K550_K558del dimer
+KIT K642E
+KIT L576P
+KIT L576P dimer
+KIT N822H
+KIT N822K
+KIT N822T
+KIT N822Y
+KIT P551_V555del
+KIT P551_V555del dimer
+KIT S476I
+KIT S476I dimer
+KIT T417-D419delinsY
+KIT T417-D419delinsY dimer
+KIT T670I
+KIT V559D
+KIT V559D dimer
+KIT V559_V560del
+KIT V559_V560del dimer
+KIT V560D
+KIT V560G
+KIT V560G dimer
+KIT V560_L576del
+KIT V560_L576del dimer
+KIT V654A
+KIT W557_K558del
+KIT W557_K558del dimer
+KIT Y823D
+KIT mutant dimers:SFKs
+KIT mutant dimers:SFKs:p-JAK2
+KPNA1
+KPNB1
+KSR1:MARK3
+KW-2449
+KW2449-sensitive FLT3 mutants
+Ku proteins bound to viral DNA
+L-Glu
+LAM
+LCK
+LGK974
+LIG1
+LIG4
+LM
+LM,LAM
+LMNB1
+LPG1G2
+LTC4
+LTD4
+LTE4
+LTF
+LTF:2xCO3(2-)
+LTF:2xFe3+:2xCO3(2-)
+LY294002
+LYN
+Lamin A
+Lapatinib
+Leu-tRNA(Leu)
+Li<sup>+</sup>
+Ligand-Activated EGFR,(ERBB3,ERBB4)
+Ligand-Activated EGFR,ERBB3,(ERBB4)
+Ligand-Activated ERBB3,(EGFR,ERBB4)
+Ligand-Activated p-EGFR,p-ERBB3,(p-ERBB4)
+Ligand-responsive EGFR mutants dimer
+Ligand-responsive EGFR mutants resistant to non-covalent TKIs
+Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37
+Ligand-responsive EGFR mutants sensitive to non-covalent TKIs
+Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37
+Ligand-responsive EGFR mutants:HSP90:CDC37
+Ligand-responsive p-6Y-EGFR mutant dimers
+Ligand-responsive p-6Y-EGFR mutants:GRB2:GAB1
+Ligand-responsive p-6Y-EGFR mutants:p-Y349,350-SHC1
+Lipid Raft
+Lipid-OH
+Lipid-OOH
+Lma amastigote surface
+Lys-tRNA(Lys)
+M
+M lattice
+M lattice:E protein
+M1
+M1 mRNA
+M2
+M2 Tetramer
+M2 mRNA
+MAML
+MAML1
+MAML2
+MAML3
+MAP1LC3B
+MAP2K homo/heterodimers
+MAP2K1
+MAP2K1 dimer
+MAP2K1(2-8)
+MAP2K1(9-393)
+MAP2K1:MAPK2K2 heterodimer
+MAP2K2
+MAP2K2 dimer
+MAP2K2(1-10)
+MAP2K2(11-400)
+MAP2K3-3
+MAP2K3-3(1-26)
+MAP2K3-3(27-347)
+MAP2K4
+MAP2K4(1-?)
+MAP2K4(?-399)
+MAP2K6-1
+MAP2K6-1(1-14)
+MAP2K6-1(15-334)
+MAP2K7
+MAP2K7(2-?)
+MAP2K7(?-419)
+MAP3K11
+MAPK1
+MAPK3
+MAPK8
+MAPKs
+MCP
+MDM2
+MEFV
+MET
+MI-1148
+MK2206
+MOGS
+MRC1
+MSH
+MSNO
+MSSM
+MVB12,UBAP1
+MYC
+MYC gene
+MYH2
+MYH9
+MYO10
+MYO1C
+MYS-CoA
+Man(9) N-glycan unfolded Spike
+Matrix
+Mature intronless transcript derived mRNA
+Mature intronless transcript derived mRNA with m7G cap removed
+Mce3E
+Met-tRNA(Met)
+Mg2+
+Microtubule
+Microtubule protofilament
+Mother filament:branching complex:daughter filament
+Multimeric capsid coat
+Multimeric matrix layer
+Mycobactin
+Myosin
+Myosin-X dimer
+MyrG-CDK5R1(2-307)
+MyrG-CDK5R1(2-98)
+MyrG-SRC
+MyrG-p-Y419-SRC
+N
+N-WASP
+N-ethyl-1-deoxynojirimycin
+N-glycan
+N-glycan E
+N-glycan M
+N-glycan Spike
+N-glycan pp1a-nsp3
+N-glycan pp1a-nsp3-4
+N-glycan pp1a-nsp4
+N-glycan pp1ab-nsp3
+N-glycan pp1ab-nsp3-4
+N-glycan pp1ab-nsp4
+N-myristoyl GAG (P04591) protein
+N4GlycoAsn-PalmS WNT5A(36-380)
+NA
+NA mRNA
+NAD+
+NADH
+NADP+
+NADPH
+NAM
+NC (P04585) protein
+NC (P04591) protein
+NCBP1
+NCBP2
+NCK1
+NCKAP1
+NCKAP1L
+NCKIPSD
+NCOR1, NCOR2
+NDC1
+NDP
+NEC1
+NEC2
+NEDD4L
+NELF complex
+NELFA
+NELFB
+NELFCD
+NELFE
+NEP/NS2
+NEXT1
+NEXT1 P2474Afs*4
+NEXT1 P2514Rfs*4
+NEXT1 Q2395*
+NEXT1 Q2440*
+NFKB1(1-433)
+NFKB1(1-433), NFKB2(1-454)
+NFKB1(1-433), NFKB2(1-454):RELA
+NFKBIA F2_M37del
+NFKBIA M37K
+NFKBIA S32I
+NFKBIA variants
+NH3
+NHC
+NICD1 P2474Afs*4
+NICD1 P2514Rfs*4
+NICD1 PEST Domain Mutants
+NICD1 PEST domain mutants:RBPJ:SNW1
+NICD1 Q2395*
+NICD1 Q2440*
+NLRP3
+NLRP3 elicitor small molecules
+NLRP3 elicitors:NLRP3
+NLRP3 elicitors:NLRP3 oligomer
+NLRP3 elicitors:NLRP3 oligomer:ASC
+NLRP3 gene
+NMN
+NMP
+NO
+NO+
+NO2
+NO3-
+NOS2
+NOS2 gene
+NOTCH1 A1701P
+NOTCH1 F1592S
+NOTCH1 HD domain mutant fragments
+NOTCH1 HD domain mutants
+NOTCH1 HD+PEST Domain Mutant Fragments
+NOTCH1 HD+PEST Domain Mutants
+NOTCH1 I1616N
+NOTCH1 I1616T
+NOTCH1 I1680N
+NOTCH1 I1718T
+NOTCH1 L1574P;P2474Afs*4
+NOTCH1 L1593P
+NOTCH1 L1596H
+NOTCH1 L1678P
+NOTCH1 P2514Rfs*4
+NOTCH1 PEST Domain Mutants Coactivator Complex
+NOTCH1 PEST domain mutants
+NOTCH1 Q2395*
+NOTCH1 Q2440*
+NOTCH1 R1598P
+NOTCH1 V1576E
+NOTCH1 V1676D
+NOTCH1 fragment:DLL/JAG
+NOTCH1 t(7;9)(NOTCH1:M1580_K2555) extracellular fragment
+NOTCH1(1665-1720)
+NOTCH1(1665-2555)
+NOTCH1(1721-1753)
+NOX1
+NOX1 Complex
+NOX4
+NOX4 gene
+NOXA1
+NOXO1
+NP
+NP mRNA
+NPM1
+NR3C1
+NR3C1 agonists
+NR4A1
+NRG1/2:ERBB3
+NRG1/2:p-10Y-ERBB3
+NRNAM
+NRPE
+NRTIs
+NS1
+NS1 Homodimer
+NS1 dimer
+NS1 mRNA
+NS2 mRNA
+NS5B
+NTNHA
+NTP
+NUP153
+NUP188
+NUP210
+NUP214
+NUP50
+NUP88
+NUP98
+NUPL2
+Ncap
+Ncap tetramer
+Nef:CD28 Complex
+Neratinib
+Nitrite
+Non-covalent EGFR tyrosine kinase inhibitors
+NuRD complex
+Nuclear Pore Complex (NPC)
+Nuclear factor NF-kappa-B
+Nucleocapsid
+Nup107-160 complex
+Nup62 Complex
+Nup93 complex
+O-glycosyl 3a
+O-glycosyl 3a tetramer
+O2
+O2.-
+OGG1 S326C
+OS9
+OS9/ERLEC1
+Osimertinib
+Overexpressed FGFR1 homodimers
+Overexpressed FGFR2 dimer
+Overexpressed FGFR2 homodimers
+P-TEFb complex
+P-TEFb(Cyclin T1:Cdk9) complex
+P2RX4
+P2RX4,7
+P2RX7
+PA
+PA mRNA
+PABPN1
+PACS1
+PAK2(1-524)
+PAPSS1-BRAF fusion dimer
+PARP1
+PB1
+PB1 mRNA
+PB1-F2
+PB2
+PB2 mRNA
+PCAF
+PD173074
+PDCD1
+PDCD1 inhibitors
+PDCD6IP
+PDGFRA Y288C
+PDGFRA Y288C dimer
+PDGFRA del375-455
+PDGFRA del375-455 dimer
+PDPK1
+PDPK1:PIP2
+PDZD3
+PE
+PEBP1
+PGK1
+PHB
+PI
+PI(3,4)P2
+PI(3,4,5)P3
+PI(4,5)P2
+PI3K
+PI3K alpha
+PI3K inhibitors
+PI3K mutants,Activator:PI3K
+PI3K-catalytic subunit
+PI3K-regulatory subunit
+PI3K-regulatory subunits
+PI3P
+PIK3C3
+PIK3CA
+PIK3CA:PIK3R1
+PIK3R1
+PIK3R4
+PIM1
+PIM1 gene
+PIP3:VAV1,2,3
+PKA catalytic subunit
+PKA regulatory subunit
+PKA tetramer
+PLC gamma1,2
+PLCG1
+PLCG2
+PML
+POM121
+PORCN
+PPE2
+PPIA
+PPi
+PR (Protease) (P04585) protein
+PRC2 (EZH2) Core
+PRDX1
+PRDX2
+PRKACA
+PRKACB
+PRKACG
+PSIP1
+PSTPIP1
+PSTPIP1 trimer
+PTGES3
+PTPN11
+PTPN11:p-STAT5
+PTPN12
+PX-866
+PYCARD
+Peptide-Methionine
+Peptide-Methionine (R)-Sulfoxide
+Peptide-Methionine (S)-Sulfoxide
+Peroxynitrite
+Phe-tRNA(Phe)
+Phospho-EGFRvIIImut:HSP90:CDC37
+Phosphorylated heterodimers of ERBB2 KD mutants
+Phosphorylated heterodimers of ERBB2 KD mutants:p-Y349,Y350-SHC1
+Pi
+Plasma membrane p-Y FGFR1 fusion dimers
+Post Fusion Cleaved Trimeric palmitylated HA
+Pro-tRNA(Pro)
+Protease inhibitors
+PstS1
+PtpA
+Pyrin trimer
+RAB5A,RAB7A
+RAB7A
+RAC1
+RAC1:GTP
+RAE1
+RAF/BRAF homo/heterodimer
+RAF/MAPK scaffolds
+RAF1 mutants
+RAN
+RAN:GTP
+RANBP1
+RANBP2
+RANGAP1
+RAS
+RAS mutants
+RAS mutants:GTP
+RAS mutants:GTP:p-RAF homo/heterodimer
+RAS:GTP
+RAS:GTP:moderate kinase activity BRAF mutants:p-RAF:YWHAB
+RB1
+RBBP4,7
+RBPJ
+RBX1
+RELA
+REV (P04618) protein
+RIPK1
+RIR1
+RL1
+RL10
+RL11
+RL8A
+RL9A
+RNA Pol II (hypophosphorylated) complex bound to DSIF protein
+RNA Pol II (hypophosphorylated):capped pre-mRNA complex
+RNA Polymearse II:NTP:TFIIF complex
+RNA Polymerase II (unphosphorylated):TFIIF complex
+RNA Polymerase II holoenzyme complex (hyperphosphorylated)
+RNA Polymerase II holoenzyme complex (hyperphosphorylated):TFIIF complex
+RNA Polymerase II holoenzyme complex (hypophosphorylated):TFIIF complex
+RNA Polymerase II holoenzyme complex (unphosphorylated)
+RNA polymerase II (phosphorylated):TFIIF complex
+RNA primer
+RNA template:tRNA primer
+RNF213
+RNF5,RNF185
+RNGTT
+RNMT
+RNP Complex:Karyopherin alpha
+ROCK1
+ROCK1,ROCK2
+ROCK2
+ROCKi
+ROS
+RPS27A(1-76)
+RPS6KB2
+RT
+RTC
+RTC inhibitors
+RTC with integration competent viral DNA
+RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template
+RTC with minus sssDNA:tRNA primer:RNA template
+RTC with tRNA primer:RNA template
+Resistant ligand-responsive EGFR mutants
+Rev multimer-bound HIV-1 mRNA
+Rev multimer-bound HIV-1 mRNA:CRM1 complex
+Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP
+Rev-bound HIV-1 mRNA
+Rev-multimer
+Rev:Importin-beta:B23
+Rev:Importin-beta:NPM1
+Reverse transcriptase/ribonuclease H
+Reversible EGFR-specific TKIs
+Reversible anti-EGFRplus TKIs
+Ribonucleoprotein (RNP) Complex
+Rv2779c
+Rv3364c
+Rv3654c
+Rv3655c
+S-NO-CysGly
+S-adenosyl-L-homocysteine
+S-adenosyl-L-methionine
+S1:S2:M lattice:E protein
+S1PR1
+S1PR1 agonists
+S3:M lattice:E protein
+S3:M:E:encapsidated SARS coronavirus genomic RNA: 7a:O-glycosyl 3a tetramer
+S3:M:E:encapsidated SARS-CoV-2 genomic RNA: 7a:O-glycosyl 3a tetramer
+SA
+SARS coronavirus gRNA:RTC:RNA primer
+SARS coronavirus nascent genomic RNA complement (minus strand) with mismatched 3' nucleotide
+SARS-CoV-1 gRNA complement (minus strand):RTC
+SARS-CoV-1 gRNA:RTC
+SARS-CoV-1 gRNA:RTC:nascent RNA minus strand
+SARS-CoV-1 genomic RNA (plus strand)
+SARS-CoV-1 genomic RNA complement (minus strand)
+SARS-CoV-1 nascent genomic RNA complement (minus strand)
+SARS-CoV-2 gRNA complement (minus strand):RTC
+SARS-CoV-2 gRNA:RTC
+SARS-CoV-2 gRNA:RTC:RNA primer
+SARS-CoV-2 gRNA:RTC:nascent RNA minus strand
+SARS-CoV-2 genomic RNA (plus strand)
+SARS-CoV-2 genomic RNA complement (minus strand)
+SARS-CoV-2 nascent genomic RNA complement (minus strand)
+SCP
+SEH1L-2
+SEL1:SYVN1 dimer:DERL2:VCP hexamer
+SEL1L
+SFPQ
+SH3 domain proteins
+SH3GLs
+SH3KBP1 tetramer
+SHC1
+SHH processing variants:OS9/ERLEC1
+SHH variants
+SHH(24-462) C198S
+SIGMAR1
+SKP1
+SLC25A4
+SLC25A5
+SLC25A6
+SNAP25
+SNAP25(1-197)
+SNAP25(1-198)
+SNAP25(198-206)
+SNAP25(199-206)
+SND1-BRAF fusion dimer
+SNW1
+SOD2
+SOD2 gene
+SOH-C326-OGG1 S326C
+SOS1
+SPTBN1(2-159)-FLT3(570-993) fusion
+SPTBN1(2-159)-FLT3570-993) fusion dimer
+SPTBN1(2-159)-p-6Y FLT3(570-993) fusion dimer
+SRC-1
+SSRP1
+STAM
+STAT1
+STAT1, STAT3
+STAT2
+STAT3
+STAT5
+STAT5A
+STAT5B
+STATs
+STX1A
+STX1A(1-?)
+STX1A(?-288)
+STX1B
+STX1B(1-?)
+STX1B(?-288)
+SU5402
+SUGT1
+SUGT1:HSP90
+SUMO1-C93-UBE2I
+SUMO1-K62-ADPr-p-S177-Ncap
+SUMO1-K62-p-S177-Ncap dimer
+SUPT16H
+SUPT4H1
+SUZ12
+SV2A
+SV2A,B
+SV2A,B,C
+SV2B
+SV2C
+SYK
+SYT1
+SYT1,2
+SYT2
+SYVN1 dimer
+Sapitinib
+Ser-tRNA(Ser)
+SiO2
+Sin3A complex
+SodB
+Spliced Env mRNA
+Src family tyrosine kinases (SFKs)
+TAF1,TAF1L
+TAF10
+TAF11
+TAF12
+TAF13
+TAF15
+TAF2
+TAF3
+TAF4
+TAF4B
+TAF5
+TAF6
+TAF7,TAF7L
+TAF9
+TAF9B
+TBL1
+TBL1X
+TBL1XR1
+TBP
+TCEA1
+TFIIA
+TFIID
+TFIIE
+TFIIF
+TFIIH
+TGFB1
+TLR2
+TLR7(?-1049)
+TLR9(?-1032)
+TMPRSS2
+TMPRSS2 inhibitors
+TNKS
+TNKS1/2
+TNKS2
+TPR
+TR2:TR1
+TRIM24-BRAF fusion dimer
+TRIM24-FGFR1 fusion mutant dimer
+TRIM24-p-FGFR1 fusion mutant dimer
+TRIM27
+TRIM28
+TRM1
+TRM2
+TRM3
+TRS1
+TRX1
+TRX2
+TSC2
+TSG101
+TTT-3002
+TTT-3002-sensitive FLT3 mutants
+TUBB
+TXN
+TXNIP
+TXNRD1
+TYK2
+TYK2 inhibitors
+Tat (P04608)
+Tat-containing early elongation complex with hyperphosphorylated Pol II CTD ( phospho-NELF phospho DSIF)
+Tat:P-TEFb(Cyclin T1:Cdk9) complex
+TeNT HC disulfide bonded
+TeNT HC:LC dimer
+TeNT LC
+TeNT LC:Zn2+ disulfide bonded
+Terminase Complex
+Tesevatinib
+Thr-tRNA(Thr)
+Tpx
+Tpx(ox.)
+Triciribine
+Trimeric gp120:gp41 oligomer
+Trp-tRNA(Trp)
+TrxA
+TrxA(ox.)
+TrxB1
+TrxB1(ox.)
+Tyr-tRNA(Tyr)
+Tyrosine kinase inhibitors of FGFR1 fusion mutants
+Tyrosine kinase inhibitors of FGFR2 mutants
+Tyrosine kinase inhibitors of FGFR3 mutants
+Tyrosine kinase inhibitors of overexpressed FGFR1
+Tyrosine kinase inhibitors of overexpressed FGFR2
+UBA52(1-76)
+UBB(1-76)
+UBB(153-228)
+UBB(77-152)
+UBC(1-76)
+UBC(153-228)
+UBC(229-304)
+UBC(305-380)
+UBC(381-456)
+UBC(457-532)
+UBC(533-608)
+UBC(609-684)
+UBC(77-152)
+UBE2I
+UBE2I-G97-SUMO1
+UDP
+UDP-GalNAc
+UDP-N-acetyl-alpha-D-glucosamine(2−)
+UL102
+UL103
+UL104
+UL11
+UL111A
+UL112/UL113
+UL114
+UL117
+UL119/UL118
+UL120
+UL121
+UL122
+UL123
+UL124
+UL13
+UL130
+UL131A
+UL132
+UL133
+UL138
+UL14
+UL144
+UL146
+UL147
+UL147A
+UL148
+UL15A
+UL16
+UL17
+UL18
+UL2
+UL21A
+UL22A
+UL23
+UL24
+UL25
+UL26
+UL27
+UL29
+UL31
+UL32
+UL34
+UL35
+UL36
+UL37
+UL38
+UL4
+UL41A
+UL43
+UL44
+UL47
+UL47:UL48
+UL48
+UL5
+UL52
+UL54
+UL69
+UL7
+UL70
+UL71
+UL76
+UL78
+UL79
+UL82
+UL83
+UL84
+UL87
+UL88
+UL9
+UL91
+UL92
+UL94
+UL95
+UL96
+UL97
+UL98
+UL99
+US10
+US11
+US12
+US13
+US14
+US16
+US17
+US18
+US19
+US2
+US20
+US22
+US23
+US24
+US26
+US27
+US28
+US3
+US30
+US32
+US33A
+US34
+US34A
+US8
+US9
+UTP
+UVRAG
+Ub
+Ub-3xPalmC-E
+Ub-3xPalmC-E pentamer
+Ub-DLL/JAG:NOTCH1 HD Domain Mutant Fragments
+Ub-DLL/JAG:NOTCH1 HD domain mutants
+Ub-DLL/JAG:NOTCH1 HD+PEST Domain Mutant Fragments
+Ub-DLL/JAG:NOTCH1 HD+PEST Domain Mutants
+Unsaturated lipid
+V600E BRAF V169_D380del
+V600E BRAF splice variant dimer
+V600E BRAF splice variants
+VAMP1
+VAMP1(1-60)
+VAMP1(1-61)
+VAMP1(1-83)
+VAMP1(61-118)
+VAMP1(62-118)
+VAMP1(84-118)
+VAMP2
+VAMP2(2-58)
+VAMP2(2-59)
+VAMP2(2-76)
+VAMP2(2-81)
+VAMP2(59-116)
+VAMP2(60-116)
+VAMP2(77-116)
+VAMP2(82-116)
+VAV1
+VAV1,2,3
+VAV2
+VAV3
+VCP
+VCP hexamer
+VEGFA inhibitors
+VEGFA-165
+VEGFA-165 dimer
+VEGFR2(20-674)-PDGFRA(471-1089) fusion
+VEGFR2(20-674)-PDGFRA(471-1089) fusion dimer
+VHL
+VIF (P69723) protein
+VPR
+VPR (P69726) protein
+VPS28
+VPS33B
+VPS37
+VPS4A
+VPS4B
+VPU (P05919)
+VPU (P05919) protein
+VTA1
+Val-tRNA(Val)
+Vif:APOBEC3G complex
+Viral Polymerase
+Vps/Vta1
+WAS
+WASP/N-WASP
+WAVE Regulatory Complex
+WAVE2, WASP, N-WASP
+WAVE2, WASP, N-WASP:ARP2/3 complex:G-actin
+WAVEs
+WDR48(1-323)-PDGFRB(559-1106) fusion
+WDR48(1-323)-PDGFRB(559-1106) fusion dimer
+WIP family proteins
+WIPF1
+WIPF2
+WIPF3
+WNT5:FZD7
+WNT5:FZD7:pp-DVL
+WNT5:FZD7:pp-DVL:RAC1:GTP
+WT BRAF:inhibitors
+XAV939
+XL147
+XL765
+XPO1
+XRCC4 homodimer
+XRCC4:LIG4
+XRCC5
+XRCC5:XRCC6
+XRCC6
+YES1
+YWHAB
+YWHAB dimer
+YWHAE
+ZCRB1
+ZMYM2-FGFR1 fusion
+ZMYM2-FGFR1 fusion mutant dimer
+ZMYM2-p-FGFR1 fusion mutant dimer
+Zn2+
+a nucleotide sugar
+acalabrutinib
+acetyldigitoxin
+actin
+activated FGFR4 N535K mutant
+activated FGFR4 V550E mutant
+adenosine 5'-monophosphate
+afatinib, neratinib, lapatinib
+aflibercept
+amlexanox
+anakinra
+atRAL
+avadomide
+avapritinib
+avapritinib sensitive KIT mutants
+avapritinib-sensitive PDGFR mutants
+axitinib
+baricitinib
+belinostat
+beta-D-glucose
+bevacizumab
+botA HC
+botA HC disulfide bonded
+botA HC:LC dimer
+botA LC
+botA LC:Zn2+
+botB HC
+botB HC disulfide bonded
+botB HC:LC dimer
+botB LC
+botB LC:Zn2+ disulfide bonded
+botC HC
+botC HC disulfide bonded
+botC LC
+botD HC
+botD HC disulfide bonded
+botD LC
+botE HC
+botE HC disulfide bonded
+botE HC:LC dimer
+botE LC
+botF HC
+botF HC disulfide bonded
+botF LC
+brolucizumab
+budesonide
+cAMP
+cRNP
+cabozantinib
+cabozantinib-sensitive FLT3 mutants
+camostat
+camrelizumab
+capped HIV-1 pre-mRNA
+capped pre-mRNA
+capped, methylated FGFR2 nascent transcript
+capric acid
+carbovir triphosphate
+cardiac glycosides
+cemiplimab
+chlorpromazine
+ciclesonide
+class I MHC complex
+colchicine
+complex N-glycan-PALM-Spike
+complex N-glycan-PALM-Spike S1 fragment trimer
+complex N-glycan-PALM-Spike S2 fragment trimer
+compound 11r
+compound 13b
+cortisol
+crenolanib
+crenolanib-sensitive FLT3 mutants
+crenolanib-sensitive PDGFR mutants
+cya
+cytidine 5'-monophosphate
+cytosolic FGFR1 fusion mutant dimers
+cytosolic activated FGFR1 fusion mutants
+cytosolic p-FGFR1 fusion mutant dimers
+dNTP
+dabrafenib mesylate
+darunavir
+dasatinib
+dasatinib sensitive KIT mutants
+dephosphorylated inactive RAFs
+deslanoside
+dexamethasone
+dextromethorphan
+di-antennary N-glycan-PALM-Spike
+difluprednate
+digitoxin
+digoxin
+dlaT
+dlaT(ox.)
+dovitinib
+dovitinib sensitive KIT mutants
+dsDNA:ZBP1
+dsDNA:ZBP1:pS-172-TBK1
+emtricitabine
+encapsidated SARS coronavirus genomic RNA
+encapsidated SARS coronavirus genomic RNA (plus strand)
+encapsidated SARS-CoV-2 genomic RNA
+encorafenib
+entacapone
+esxA
+esxG
+esxH
+esxH:esxG
+factor VIIIa A1 polypeptide
+factor VIIIa A2 polypeptide
+factor VIIIa A3 C1 C2 polypeptide
+factor X activation peptide
+factor X heavy chain
+factor Xa heavy chain
+fedratinib
+fingolimod
+fluticasone propionate
+fluvoxamine
+fully glycosylated Spike
+gB Homodimer
+gB ectodomain
+gB transmembrane component
+gH
+gH:gL:UL128:UL130:UL131A
+gH:gL:gO (gCIII)
+gL
+gM
+gM:gN
+gN
+gO
+genetically or chemically inactive BRAF
+genomic  DNA with staggered 5' ends
+gilteritinib
+gilteritinib-sensitive FLT3 mutants
+glucocorticoid
+glucosidase II
+glycosylated-ACE2
+gp120 homotrimer
+gp41 homotrimer
+guanosine 5'-monophosphate
+ha17
+ha33
+ha70
+heme
+high kinase activity BRAF mutants
+high-mannose N-glycan unfolded Spike
+iberdomide
+ibrutinib
+imatinib
+imatinib sensitive KIT mutants
+imatinib-sensitive PDGFR mutants
+importin-alpha:importin-beta complex
+inactive RAF1,BRAF
+inactive RAFs
+isunakinra
+juxtamembrane domain PDGFRA mutant dimers
+juxtamembrane domain mutant dimers of FLT3
+juxtamembrane domain mutants of FLT3
+juxtamembrane domain mutants of PDGFRA
+kenpaullone
+kinase dead BRAF mutants
+kinase domain PDGFRA mutant dimers
+kinase domain mutant dimers of FLT3
+kinase domain mutants of FLT3
+kinase domain mutants of PDGFRA
+lef
+lenalidomide
+lenvatinib
+lestaurtinib
+lestaurtinib-sensitive FLT3 mutants
+linear duplex viral DNA
+linifanib
+lpdC
+lprG
+m7G(5')pppAm-capped SARS-CoV-1 genomic RNA (plus strand)
+m7G(5')pppAm-capped SARS-CoV-1 genomic RNA complement (minus strand)
+m7G(5')pppAm-capped SARS-CoV-2 genomic RNA (plus strand)
+m7G(5')pppAm-capped SARS-CoV-2 genomic RNA complement (minus strand)
+m7G(5')pppAm-capped, polyadenylated SARS-CoV-1 genomic RNA (plus strand)
+m7G(5')pppAm-capped, polyadenylated SARS-CoV-2 genomic RNA (plus strand)
+m7G(5')pppAm-capped,polyadenylated mRNA2
+m7G(5')pppAm-capped,polyadenylated mRNA3
+m7G(5')pppAm-capped,polyadenylated mRNA4
+m7G(5')pppAm-capped,polyadenylated mRNA5
+m7G(5')pppAm-capped,polyadenylated mRNA6
+m7G(5')pppAm-capped,polyadenylated mRNA7
+m7G(5')pppAm-capped,polyadenylated mRNA8
+m7G(5')pppAm-capped,polyadenylated-mRNA9
+m7G(5')pppAm-mRNA2
+m7G(5')pppAm-mRNA3
+m7G(5')pppAm-mRNA4
+m7G(5')pppAm-mRNA5
+m7G(5')pppAm-mRNA6
+m7G(5')pppAm-mRNA7
+m7G(5')pppAm-mRNA8
+m7G(5')pppAm-mRNA9
+m7GpppA-capped SARS-CoV-1 genomic RNA (plus strand)
+m7GpppA-capped SARS-CoV-1 genomic RNA complement (minus strand)
+m7GpppA-capped SARS-CoV-2 genomic RNA (plus strand)
+m7GpppA-capped SARS-CoV-2 genomic RNA complement (minus strand)
+m7GpppA-mRNA2
+m7GpppA-mRNA3
+m7GpppA-mRNA4
+m7GpppA-mRNA5
+m7GpppA-mRNA6
+m7GpppA-mRNA7
+m7GpppA-mRNA8
+m7GpppA-mRNA9
+mRNA2
+mRNA2 minus strand
+mRNA3
+mRNA3 minus strand
+mRNA4
+mRNA4 minus strand
+mRNA5
+mRNA5 minus strand
+mRNA6
+mRNA6 minus strand
+mRNA7
+mRNA7 minus strand
+mRNA7a
+mRNA7a minus strand
+mRNA7b
+mRNA7b minus strand
+mRNA8
+mRNA8 minus strand
+mRNA9
+mRNA9 minus strand
+masitinib
+masitinib sensitive KIT mutants
+mature p21 RAS
+midostaurin
+midostaurin sensitive KIT mutants
+midostaurin-sensitive FLT3 mutants
+midostaurin-sensitive PDGFR mutants
+miglitol
+miglustat
+minus sssDNA
+minus sssDNA primer for minus strand DNA extension
+minus sssDNA primer transferred to 3'- end of viral RNA template
+minus sssDNA:RNA template:tRNA primer
+minus sssDNA:tRNA primer generated by RNAse-H
+minus strand DNA (extending)
+moderate kinase activity BRAF mutants
+moderate kinase activity BRAF mutants:YWHAB
+monoubiquitinated N-myristoyl GAG (P04591) protein
+montelukast
+mutant RAS:inactive BRAF:p-S338,T491,S494,S729 RAF1
+mycophenolic acid
+myristoylated Nef Protein (UniProt:P04601)
+myristoylated nef
+nafamostat
+nascent E
+nascent M
+nascent Spike
+natalizumab
+nef
+netarsudil
+nicked minus sssDNA:RNA template:tRNA primer
+nilotanib sensitive KIT mutants
+nilotinib
+nintedanib
+nitrosomycothiol
+nivolumab
+nsp10
+nsp10:nsp14
+nsp15 hexamer
+nsp16:nsp10
+nsp3
+nsp3:nsp4
+nsp3:nsp4:nsp6
+nsp4
+nsp5
+nsp6
+nsp7
+nsp7:nsp8
+nsp7:nsp8:nsp12
+nsp7:nsp8:nsp12:nsp14:nsp10
+nsp7:nsp8:nsp12:nsp14:nsp10:nsp13
+nsp7:nsp8:nsp12:nsp14:nsp10:nsp13:nsp15
+nsp8
+nsp9
+nucleoside 5'-diphosphate(3-)
+nucleoside 5'-diphosphate(3−)
+nucleotide-sugar
+opicapone
+other viral genomic RNA
+ouabain
+p-11Y FIP1L1(1-272):PDGFRA (567-1069) fusion dimer
+p-11Y FIP1L1(1-339):PDGFRA (580-1069) fusion dimer
+p-11Y FIP1L1(1-395):PDGFRA (577-1069) fusion dimer
+p-11Y FIP1L1(1-395):PDGFRA (585-1069) fusion dimer
+p-11Y PDGFR mutant receptor dimers
+p-11Y PDGFRA Y288C dimer
+p-11Y PDGFRA del375-455 dimer
+p-11Y PDGFRA extracellular domain mutants
+p-11Y VEGFR2(20-674)-PDGFRA(471-1089) fusion dimer
+p-11Y juxtamembrane domain mutant PDGFRA dimers of PDGFRA
+p-11Y kinase domain PDGFRA mutant dimers
+p-11Y transmembrane domain PDGFRA mutant dimers
+p-12Y BIN2(1-265)-PDGFRB(572-1106) fusion dimer
+p-12Y ETV6(1-154)-PDGFRB(527-1106) fusion dimer
+p-12Y GOLGA4(1-411)-PDGFRB(527-1106) fusion dimer
+p-12Y KANK1(1-899)-PDGFRB(415-1106) fusion dimer
+p-12Y WDR48(1-323)-PDGFRB(559-1106) fusion dimer
+p-2S MAP2K homo/heterodimers
+p-2S MAP2K1:p-2S MAPK2K2 heterodimer
+p-4Y FGFR3(23-758)-TACC3(549-838) dimer
+p-4Y FGFR3(23-758)-TACC3(649-838) dimer
+p-4Y FGFR3(23-760)-BAIAP2L1(18-522) dimer
+p-4Y FGFR3(23-760)-TACC3(612-838) dimer
+p-4Y FGFR3(23-760)-TACC3(647-838) dimer
+p-4Y FGFR3(23-793)-TACC3(143-838) dimer
+p-4Y-PLCG1
+p-5Y-EGFRvIII mutant dimer
+p-5Y-EGFRvIII:GRB2:GAB1
+p-5Y-EGFRvIII:p-Y349,Y350-SHC1
+p-6Y FGFR1(22-763):TACC1(571-805) fusion dimer
+p-6Y FGFR2(2-822)-CIT(927-2027) fusion dimer
+p-6Y FGFR2(22-767)-AHCYL1(108-530) fusion dimer
+p-6Y FGFR2(22-767)-CCDC6(102-474) fusion dimer
+p-6Y FGFR2(22-768)-BICC1(80-974) fusion dimer
+p-6Y FLT3 ITD mutant dimers
+p-6Y FLT3 ITD mutant dimers:GRB2:p-Y GAB2:PTPN11
+p-6Y FLT3 S451F dimer
+p-6Y FLT3 extracellular domain, kinase domain and juxtamembrane domain mutant dimers
+p-6Y FLT3 mutant dimers:GRB2
+p-6Y FLT3 mutant dimers:GRB2:p-Y GAB2
+p-6Y FLT3 mutant dimers:GRB2:p-Y GAB2:PIK3R1
+p-6Y juxtamembrane domain mutant dimers of FLT3
+p-6Y kinase domain mutant dimers of FLT3
+p-6Y-ERBB2
+p-6Y-ERBB2 ECD mutants
+p-6Y-ERBB2 ECD mutants:EGF:p-6Y-EGFR
+p-6Y-ERBB2 ECD mutants:EGF:p-6Y-EGFR:GRB2:GAB1
+p-6Y-ERBB2 ECD mutants:EGF:p-6Y-EGFR:p-Y349,Y350-SHC1
+p-6Y-ERBB2 KD mutants (EGFR,PI3K)
+p-6Y-ERBB2 KD mutants (EGFR,PLCG1)
+p-6Y-ERBB2 KD mutants (PLCG1):EGF:p-6Y-EGFR
+p-6Y-ERBB2 KD mutants:EGF:p-6Y-EGFR
+p-6Y-ERBB2 KD mutants:EGF:p-6Y-EGFR:GRB2:GAB1
+p-6Y-ERBB2 KD mutants:Ligand-Activated p-EGFR,(p-ERBB3,p-ERBB4)
+p-6Y-ERBB2 KD mutants:Ligand-Activated p-EGFR,p-ERBB3,(p-ERBB4)
+p-6Y-ERBB2 KD mutants:Ligand-Activated p-ERBB3,(p-EGFR,p-ERBB4)
+p-6Y-ERBB2 R678Q
+p-6Y-ERBB2 R678Q:EGF:p-6Y-EGFR
+p-6Y-ERBB2 TMD/JMD mutants
+p-6Y-ERBB2 TMD/JMD mutants (RAS)
+p-6Y-ERBB2 TMD/JMD mutants (RAS):EGF:p-6Y-EGFR
+p-6Y-ERBB2 TMD/JMD mutants (RAS):Ligand-Activated p-EGFR,p-ERBB3,(p-ERBB4)
+p-6Y-ERBB2 TMD/JMD mutants:Ligand-Activated p-EGFR,p-ERBB3,(p-ERBB4):p-SHC1
+p-6Y-FGFR2b C3 variant dimer
+p-6Y-FGFR3c P250R dimer
+p-6Y-FRS2
+p-6Y-SYK
+p-8Y-FGFR1 K656E dimer
+p-8Y-FGFR1 N546K dimer
+p-8Y-FGFR1b
+p-8Y-FGFR1c
+p-8Y-FGFR1c P252X dimers
+p-8Y-FGFR2b dimers with enhanced ligand binding
+p-8Y-FGFR2c mutant dimers with enhanced ligand-binding
+p-AGK-BRAF fusion dimer
+p-AKAP9-BRAF fusion dimer
+p-BRAF/RAF fusion dimers
+p-DVL
+p-DVL2
+p-ERBB2 KD mutants:NRG1/NRG2:p-10Y-ERBB3
+p-ERBB2 homodimer
+p-ERBB2 homodimer:p-Y349,Y350-SHC1
+p-FAM131B-BRAF fusion dimer
+p-FGFR1 fusion mutant dimers:PIK3R1
+p-KIAA1549-BRAF fusion dimer
+p-NICD1 P2474Afs*4
+p-NICD1 P2514Rfs*4
+p-NICD1 Q2395*
+p-NICD1 Q2440*
+p-PAPSS1-BRAF fusion dimer
+p-PLCG
+p-RAF/BRAF homo/heterodimer
+p-S133-CREB1
+p-S15,S356-RPS6KB2
+p-S166,S188-MDM2
+p-S172-TBK1
+p-S177,S181,S185,S187,S189,S191,S195,T199,S203,S207-N
+p-S177-Ncap
+p-S183,T246-AKT1S1
+p-S196-CASP9(1-416)
+p-S21-GSK3A
+p-S218,S222 MAP2K1 dimer
+p-S22, S392-LMNA-1
+p-S222,S226 MAP2K2 dimer
+p-S23,S393-LMNB1
+p-S311 KSR1:MARK3
+p-S338,Y341,T491,S494,S621 RAF1:YWHAB
+p-S351-NR4A1
+p-S37-GOLGA2
+p-S40,S116,S261-CDC25A
+p-S43,S173,S294,S325-FOXO3
+p-S473-AKT1 E17K
+p-S473-AKT1 E17K mutant:PIP2
+p-S50,T69,S160,S321,S470-CDC25B
+p-S621 RAF1 CR2 mutants
+p-S621 RAF1 CR3 mutants
+p-S621 RAF1:YWHAB
+p-S621-RAF1
+p-S63,S73-JUN
+p-S9-GSK3B
+p-S939,T1462-TSC2
+p-S99-BAD
+p-SND1-BRAF fusion dimer
+p-STAT dimer
+p-STAT5
+p-STAT5A, p-STAT5B
+p-STATs
+p-SUPT5H
+p-T,Y MAPKs
+p-T,Y-MAPK8
+p-T145-CDKN1A
+p-T157-CDKN1B
+p-T185,Y187-MAPK1
+p-T202,Y204-MAPK3
+p-T23-CHUK
+p-T24,S256,S319-FOXO1
+p-T308,S473-AKT1 E17K
+p-T32,S197,S262-FOXO4
+p-T32,S253,S315-FOXO3
+p-T48,T67,S122,T130,S168,S214-CDC25C
+p-T89-PRDX2
+p-T90-PRDX1
+p-TRIM24-BRAF fusion dimer
+p-VAV family:PIP3
+p-Y FGFR2 fusion dimers
+p-Y FGFR3 fusion dimers
+p-Y FGFR3 fusion dimers:p-6Y FRS2
+p-Y FGFR3 fusions:p-6Y FRS2:GRB2:GAB1:PIK3R1
+p-Y FLT fusions:GRB2:p-Y GAB2:PI3KR1
+p-Y FLT3 fusion dimers
+p-Y FLT3 fusion dimers:GRB2
+p-Y FLT3 fusions:GRB2:p-Y GAB2
+p-Y,S,T-WRC
+p-Y,S,T-WRC:IRSp53/58:RAC1:GTP:PIP3
+p-Y-CBL:GRB2
+p-Y-CTNNB1
+p-Y-ERBB2 KD mutants (ERBB3,PI3K)
+p-Y-GAB2
+p-Y-WRC
+p-Y-WRC:IRSp53/58:RAC1:GTP:PIP3
+p-Y1007-JAK2
+p-Y133-VPS33B
+p-Y177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2:PIK3R1
+p-Y279-GSK3A
+p-Y291-WASP/p-Y256-N-WASP
+p-Y349,Y350-SHC1
+p-Y371-CBL
+p-Y694-STAT5A
+p-Y699-STAT5B
+p-Y701-STAT1
+p-Y705-STAT3
+p-Y753,Y754-CDH1(155-882):Ca2+ dimer
+p-Y753,Y759,Y1217-PLCG2
+p-Y771,Y783,Y1254-PLCG1
+p21 RAS:GTP
+p21 RAS:GTP:'activator' RAF:YWHAB dimer
+p21 RAS:GTP:'activator' RAFs:YWHAB dimer
+p21 RAS:GTP:activated RAF1 mutant heterodimers
+p21RAS:GTP:activated RAF1 homo/heterodimer
+p51 (RT)
+p5Y-FGFR4 Y367C mutant
+p5Y-KIT V560_L576del dimer
+p6 protein
+p6Y-KIT Y823D
+p7Y-KIT A502_Y503dup dimer
+p7Y-KIT C443Y dimer
+p7Y-KIT D419A dimer
+p7Y-KIT D816V
+p7Y-KIT K509I dimer
+p7Y-KIT K550I P551_V555del dimer
+p7Y-KIT K550_K558del dimer
+p7Y-KIT K642E
+p7Y-KIT L576P dimer
+p7Y-KIT N822K
+p7Y-KIT P551_V555del dimer
+p7Y-KIT S476I dimer
+p7Y-KIT T417-D419delinsY dimer
+p7Y-KIT V559D dimer
+p7Y-KIT V559_V560del dimer
+p7Y-KIT V560G dimer
+p7Y-KIT W557_K558del dimer
+p7Y-KIT kinase, extracellular and juxtamembrane domain dimers
+p7Y-extracellular domain mutants of KIT
+p7Y-juxtamembrane domain KIT mutant dimers
+p7Y-kinase domain KIT mutants
+pAP
+pBR
+pPR-AP:pAP
+pY177-BCR-p-FGFR1 fusion
+pY177-BCR-p-FGFR1 fusion mutant dimer
+pY177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2
+pagA
+pagA(197-794):ANTXR1
+pagA(197-794):ANTXR1 oligomer
+pagA(197-794):ANTXR2
+pagA(197-794):ANTXR2 oligomer
+pagA(197-794):Ca2+
+pagA(30-196)
+pagA:Ca2+
+palmitoyl-CoA
+palmitylated M2
+palmitylated M2 Tetramer
+panobinostat
+pazopanib
+pegaptanib
+perifosine
+pertuzumab
+pexidartinib
+pexidartinib-sensitive FLT3 mutants
+phosphate
+phospho-DSIF complex
+phospho-NELF complex
+phospho-SUMO1-K62-ADPr-p-S177-Ncap
+phosphorylated RAF1 mutants
+phosphorylated RAFs:YWHAB
+pirfenidone
+pomalidomide
+ponatinib
+ponatinib sensitive KIT mutants
+ponatinib-sensitive FLT3 mutants
+ponatinib-sensitive PDGFR mutants
+pp-DVL
+pp1a
+pp1a-nsp1
+pp1a-nsp1-4
+pp1a-nsp10
+pp1a-nsp11
+pp1a-nsp2
+pp1a-nsp3
+pp1a-nsp3-4
+pp1a-nsp4
+pp1a-nsp5
+pp1a-nsp6
+pp1a-nsp6-11
+pp1a-nsp7
+pp1a-nsp8
+pp1a-nsp9
+pp1ab
+pp1ab-nsp1
+pp1ab-nsp1-4
+pp1ab-nsp10
+pp1ab-nsp12
+pp1ab-nsp13
+pp1ab-nsp14
+pp1ab-nsp15
+pp1ab-nsp16
+pp1ab-nsp2
+pp1ab-nsp3
+pp1ab-nsp3-4
+pp1ab-nsp4
+pp1ab-nsp5
+pp1ab-nsp6
+pp1ab-nsp7
+pp1ab-nsp8
+pp1ab-nsp9
+ppUL84:IE2-p86
+pranlukast
+prednisone
+quizartinib
+quizartinib-sensitive FLT3 mutants
+quizartinib-sensitive PDGFR mutants
+ranibizumab
+regorafenib
+regorafenib sensitive KIT mutants
+regorafenib-sensitive PDGFR mutants
+remdesivir
+ribavirin
+rifampicin
+ripasudil
+ripretinib
+ripretinib sensitive PDGFR mutants
+ripretinib-sensitive KIT mutants
+romidepsin
+rpoA
+rpoB
+rpoB:rifampicin
+rpoC
+rpoZ
+ruxolitinib
+sCD163
+sapM
+semaxanib
+semaxanib-sensitive FLT3 mutants
+siponimod
+sirolimus
+sorafenib
+sorafenib sensitive KIT mutants
+sorafenib-sensitive FLT3 mutants
+sorafenib-sensitive PDGFR mutants
+sta1
+sunitinib
+sunitinib sensitive KIT mutants
+sunitinib sensitive PDGFR mutants
+sunitinib-sensitive FLT3 mutants
+tRNA-Lysine3
+tacrolimus
+tamatinib
+tandutinib
+tandutinib-sensitive FLT3 mutants
+teicoplanin
+tenofovir
+tetX HC
+thalidomide
+thioguanine
+tocilizumab
+tofacitinib
+tolcapone
+transmembrane domain PDGFRA mutant dimers
+transmembrane domain PDGFRA mutants
+trastuzumab
+tri-antennary N-glycan-PALM-Spike
+triamcinolone
+triamcinolone acetonide
+trimmed N-glycan Spike
+trimmed N-glycan-PALM-Spike
+trimmed unfolded N-glycan Spike
+type I FLT3-binding TKIs
+type I KIT binding TKIs
+type I PDGFR-binding tyrosine kinase inhibitors
+type I TKI sensitive FLT3 mutants
+type I TKI sensitive PDGFR mutants
+type II FLT3-binding TKIs
+type II KIT binding TKIs
+type II PDGFR-binding tyrosine kinase inhibitors
+type II TKI sensitive FLT3 mutants
+type II TKI sensitive KIT mutants
+type II TKI sensitive PDGFR mutants
+type TKI sensitive KIT mutants
+ub SHH(24-462) C198S
+ub-CFTR F508del
+ub-SHH processing variants:OS9/ERLEC1
+uridine 5'-monophosphate
+vRNA (Genomic):NP Complex
+vRNA (genomic)
+vRNA-1
+vRNA-2
+vRNP destined for Export
+vRNP:M1 for Export
+vRNP:M1:NEP
+vemurafenib
+viral DNA bound with Integrase
+viral RNA template being digested by RNase-H (extensive)
+viral RNA template degraded by RNase-H (initial)
+viral RNA template extensively digested except in PPT region
+viral minus strand DNA (full-length)
+viral minus strand DNA (initial)
+viral minus strand DNA after ligation
+viral plus strand DNA (full-length)
+viral plus strand DNA after ligation
+viral second strand DNA (plus sss)
+viral second strand DNA with plus sssDNA (discontinuous)
+viral second strand DNA with plus sssDNA (extending)
+vorinostat
+wortmannin
+zafirlukast
+α-Ketoamides
+γ-Glu-AA
