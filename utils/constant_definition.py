@@ -49,7 +49,7 @@ class ModelPathEnum(Enum):
     BEST_EDGE_LEVEL_GCN_DISEASE_INPUT_MODEL = 'GCN_Disease_input link prediction dataset_0.005.bin'
     BEST_EDGE_LEVEL_GCN_DISEASE_OUTPUT_MODEL = 'GCN_Disease_output link prediction dataset_0.01.bin'
 
-    BEST_EDGE_LEVEL_GCN_IMMUNE_SYSTEM_INPUT_MODEL = 'GCN_Immune System_input link prediction dataset_0.005.bin'
+    BEST_EDGE_LEVEL_GCN_IMMUNE_SYSTEM_INPUT_MODEL = 'GCN_Immune System_input link prediction dataset_0.05.bin'
     BEST_EDGE_LEVEL_GCN_IMMUNE_SYSTEM_OUTPUT_MODEL = 'GCN_Immune System_output link prediction dataset_0.05.bin'
 
     BEST_EDGE_LEVEL_GCN_METABOLISM_INPUT_MODEL = 'GCN_Metabolism_input link prediction dataset_0.01.bin'
@@ -61,7 +61,7 @@ class ModelPathEnum(Enum):
     BEST_EDGE_LEVEL_HGNN_DISEASE_INPUT_MODEL = 'HGNN_Disease_input link prediction dataset_0.01.bin'
     BEST_EDGE_LEVEL_HGNN_DISEASE_OUTPUT_MODEL = 'HGNN_Disease_output link prediction dataset_0.005.bin'
 
-    BEST_EDGE_LEVEL_HGNN_IMMUNE_SYSTEM_INPUT_MODEL = 'HGNN_Immune System_input link prediction dataset_0.005.bin'
+    BEST_EDGE_LEVEL_HGNN_IMMUNE_SYSTEM_INPUT_MODEL = 'HGNN_Immune System_input link prediction dataset_0.05.bin'
     BEST_EDGE_LEVEL_HGNN_IMMUNE_SYSTEM_OUTPUT_MODEL = 'HGNN_Immune System_output link prediction dataset_0.05.bin'
 
     BEST_EDGE_LEVEL_HGNN_METABOLISM_INPUT_MODEL = 'HGNN_Metabolism_input link prediction dataset_0.01.bin'
@@ -73,7 +73,7 @@ class ModelPathEnum(Enum):
     BEST_EDGE_LEVEL_HGNNP_DISEASE_INPUT_MODEL = 'HGNNP_Disease_input link prediction dataset_0.005.bin'
     BEST_EDGE_LEVEL_HGNNP_DISEASE_OUTPUT_MODEL = 'HGNNP_Disease_output link prediction dataset_0.05.bin'
 
-    BEST_EDGE_LEVEL_HGNNP_IMMUNE_SYSTEM_INPUT_MODEL = 'HGNNP_Immune System_input link prediction dataset_0.01.bin'
+    BEST_EDGE_LEVEL_HGNNP_IMMUNE_SYSTEM_INPUT_MODEL = 'HGNNP_Immune System_input link prediction dataset_0.05.bin'
     BEST_EDGE_LEVEL_HGNNP_IMMUNE_SYSTEM_OUTPUT_MODEL = 'HGNNP_Immune System_output link prediction dataset_0.05.bin'
 
     BEST_EDGE_LEVEL_HGNNP_METABOLISM_INPUT_MODEL = 'HGNNP_Metabolism_input link prediction dataset_0.005.bin'
