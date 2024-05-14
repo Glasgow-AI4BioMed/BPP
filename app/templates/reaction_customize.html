@@ -58,7 +58,7 @@
 
 
                 <div id="mountNode" style="position: relative"></div>
-                {#                    <div id="mountNode2"></div>#}
+                <!-- {#                    <div id="mountNode2"></div>#}
 
 
                 {#                    <a class="btn float-end"#}
@@ -67,7 +67,7 @@
 
                 {#                    <button id="predict{{ loop.index0 }}" type="button" class="btn btn-light float-end">Predict#}
                 {#                        &raquo;#}
-                {#                    </button>#}
+                {#                    </button>#} -->
 
                 <button id="predict" type="button" class="btn btn-light float-end">Predict
                     &raquo;
@@ -456,11 +456,14 @@
 
             $("#load-reaction").click(function () {
                 cleanPredictionAndExplainer()
-                const selected_reaction_index = $("#reaction_select").val()[0]
+                const selected_reaction_index = $("#reaction_select").val()
                 const selected_dataset = $("#dataset_select").val()
                 if (graph != null) {
                     graph.destroy()
                 }
+                // 打印 selected_reaction_index 的值
+                console.log("Selected reaction index:", selected_reaction_index);
+
                 $.ajax({
                     url: '{{ url_for('web.get_reaction_of_toplevel_pathway_based_on_index') }}',
                     type: 'POST',

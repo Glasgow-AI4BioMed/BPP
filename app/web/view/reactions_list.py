@@ -118,12 +118,16 @@ def get_all_reactions_of_toplevel_pathway():
 
     edge_list: list[Edge] = edge_service_obj.get_edge_list_from_dataset(current_toplevel_pathway.name)
     edge_view_list: list[Edge] = list()
+    
+    # from pdb import set_trace; set_trace()
 
     for edge in edge_list:
         edge_view = Edge(index=edge.index, pathway_name=current_toplevel_pathway.name, stId=edge.stId, name=edge.name)
         edge_view_list.append(edge_view)
 
     edge_view_list_json = json.dumps(edge_view_list, default=lambda o: o.__dict__, sort_keys=True, indent=4)
+    
+    # from pdb import set_trace; set_trace()
 
     return Response(edge_view_list_json, mimetype='application/json')
 
@@ -151,6 +155,8 @@ def get_reaction_of_toplevel_pathway_based_on_index():
     toplevel_pathway_name_url_format = request.form.get('toplevel_pathway')
     selected_reaction_index = request.form.get('selected_reaction_index')
     selected_reaction_index = int(selected_reaction_index)
+    
+    # from pdb import set_trace; set_trace()
 
     current_toplevel_pathway = toplevel_pathway_service_obj.get_toplevel_pathway_based_on_name_url_format(
         toplevel_pathway_name_url_format)

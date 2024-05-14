@@ -82,6 +82,9 @@ class ModelService:
 
         top_k_selected_edge_predictions_value, top_k_selected_edge_predictions_index = torch.topk(
             selected_edge_predictions, top_k)
+        
+        # delete
+        print(top_k_selected_edge_predictions_value)
 
         top_k_selected_edge_predictions_index = top_k_selected_edge_predictions_index.cpu().numpy()
 
@@ -136,7 +139,7 @@ class ModelService:
             data_loader["num_features"], emb_size, data_loader["num_features"], use_bn=True
         )
 
-        net_model.load_state_dict(torch.load(model_path))
+        net_model.load_state_dict(torch.load(model_path, map_location=device))
 
         net_model.eval()
 
@@ -164,7 +167,7 @@ class ModelService:
         # set device
         train_nodes_features = train_nodes_features.to(device)
         graph = graph.to(device)
-        # net_model = net_model.to(device)
+        net_model = net_model.to(device)
 
         selected_edge_predictions = self.__prediction_assist_on_single_edge(
             net_model,
@@ -253,7 +256,7 @@ class ModelService:
 
         print("run_gnn_explainer_check_point5")
 
-        net_model.load_state_dict(torch.load(model_path))
+        net_model.load_state_dict(torch.load(model_path, map_location=device))
 
         print("run_gnn_explainer_check_point6")
 

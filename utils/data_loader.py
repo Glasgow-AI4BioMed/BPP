@@ -48,11 +48,11 @@ class Database:
         # mapping = pd.read_csv(train_mapping_path)
         feature_dimension = max(sum(final_list, [])) + 1
         num_nodes = max(mat["entity"])
-        print(
-            subset,
-            "Num of interactions: %2d.\n Number of nodes: %2d.\n Number of features: %2d"
-            % (len(mat), num_nodes, feature_dimension),
-        )
+        # print(
+        #     subset,
+        #     "Num of interactions: %2d.\n Number of nodes: %2d.\n Number of features: %2d"
+        #     % (len(mat), num_nodes, feature_dimension),
+        # )
         return mat
 
     def load_other_to_graph(self, name, task, subset):
@@ -61,7 +61,7 @@ class Database:
         mat = pd.read_csv(
             relation_path, names=["entity", "reaction", "type"], header=None
         )
-        print("Load %s set" % subset)
+        # print("Load %s set" % subset)
         return mat
 
 # E:\Python_Project\reactome_visual\utils\data_loader.py
@@ -151,17 +151,17 @@ class DataLoaderBase:
             components_mapping_list, num_of_nodes, num_of_feature_dimension
         )
 
-        print(
-            type_name + " dataset\n",
-            "Number of interactions: %2d.\n Number of nodes: %2d.\n Number of features: %2d.\n Number of pair of node and feature: %2d.\n Number of edges: %2d."
-            % (
-                len(mat),
-                num_of_nodes,
-                num_of_feature_dimension,
-                num_of_pair_of_entity_and_component,
-                num_of_edges,
-            ),
-        )
+        # print(
+        #     type_name + " dataset\n",
+        #     "Number of interactions: %2d.\n Number of nodes: %2d.\n Number of features: %2d.\n Number of pair of node and feature: %2d.\n Number of edges: %2d."
+        #     % (
+        #         len(mat),
+        #         num_of_nodes,
+        #         num_of_feature_dimension,
+        #         num_of_pair_of_entity_and_component,
+        #         num_of_edges,
+        #     ),
+        # )
 
         return nodes_features
 
