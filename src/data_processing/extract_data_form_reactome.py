@@ -1,5 +1,6 @@
 # from neo4j import GraphDatabase
 import re
+from typing import Dict, List, Tuple
 
 import numpy as np
 # from py2neo import Graph, Node, Relationship
@@ -82,7 +83,7 @@ class PathWayProcessor:
 
     # get_all_top_level_pathways(self):
     # output:
-    def get_all_top_level_pathways_ids(self) -> list[str]:
+    def get_all_top_level_pathways_ids(self) -> List[str]:
         """Method to get all the top level pathway id
 
         This method offers ways to get all the pathway ids from Reactome database, and return them as a list
@@ -102,7 +103,7 @@ class PathWayProcessor:
 
         return toplevel_pathways
 
-    def get_all_top_level_pathways_names(self) -> list[str]:
+    def get_all_top_level_pathways_names(self) -> List[str]:
         all_top_level_pathways_ids = self.get_all_top_level_pathways_ids()
         all_top_level_pathways_names: list[str] = list()
         for pathway_stId in all_top_level_pathways_ids:
@@ -259,7 +260,7 @@ class ReactionProcessor:
         reaction_names_list = list()
         reaction_ids_list_without_duplicate_names: list[str] = list()
 
-        reaction_name_to_list_of_reaction_ids_dict: dict[str, list[str]] = dict()
+        reaction_name_to_list_of_reaction_ids_dict: Dict[str, list[str]] = dict()
         for reaction_id in reaction_ids:
             # reaction_name = self.get_reaction_display_name_by_reaction_id(reaction_id)
             reaction_name = self.get_reaction_name_by_reaction_id(reaction_id)
@@ -484,7 +485,7 @@ class ReactionProcessor:
     def get_original_physical_entity_list_and_list_of_unique_physical_entities_id_without_duplicate_name_and_list_of_mapping_names_and_original_physical_entity_id_to_no_duplicate_name_physical_entity_id_dic_from_list_of_reactions_ids(
             self, reaction_ids):
         original_physical_entity_id_to_physical_entity_name_dict = dict()
-        physical_entity_name_to_list_of_entity_id: dict[str, list[str]] = dict( )
+        physical_entity_name_to_list_of_entity_id: Dict[str, list[str]] = dict( )
         physical_entity_name_to_physical_entity_id_dic_without_duplicate_name = dict()
 
         physical_entity_id_list = list()
@@ -727,9 +728,9 @@ class PhysicalEntityProcessor:
         return component_name
 
     # tuple[list[str], dict[str, list[str]]
-    def get_unique_components_and_components_dict_from_list_of_physical_entities(self, physical_entities: list[str]) -> \
-            tuple[
-                list[str], dict[str, list[str]]]:
+    def get_unique_components_and_components_dict_from_list_of_physical_entities(self, physical_entities: List[str]) -> \
+            Tuple[
+                List[str], Dict[str, List[str]]]:
         component_ids_set = set()
 
         components_dict = {}
@@ -751,7 +752,7 @@ class PhysicalEntityProcessor:
         return component_ids_unique, components_dict
 
     def get_unique_components_without_duplicate_names_and_mapping_components_names_list_and_physical_entity_id_to_list_of_component_ids_dict_from_list_of_physical_entities(
-            self, physical_entities) -> tuple[list[str], list[str], dict[str, list[str]]]:
+            self, physical_entities) -> Tuple[List[str], List[str], Dict[str, List[str]]]:
         original_component_ids_unique, components_dict = self.get_unique_components_and_components_dict_from_list_of_physical_entities(
             physical_entities)
 
@@ -875,9 +876,9 @@ class ReactomeProcessor:
 
     def generate_relationships_without_duplicate_names_based_on_original_relationships_and_dic(self,
                                                                                                original_relationships:
-                                                                                               list[list[str]],
+                                                                                               List[List[str]],
                                                                                                original_entity_id_to_no_duplicate_name_entity_id_dic:
-                                                                                               dict[str, str]):
+                                                                                               Dict[str, str]):
 
         relationship_without_duplicate_name = list()
         for original_relationship in original_relationships:
@@ -897,8 +898,8 @@ class ReactomeProcessor:
         return relationship_without_duplicate_name
 
     def extract_edges_ids_names_and_nodes_ids_names_and_relationships_and_all_component_ids_names_and_list_of_components_of_all_entities_for_one_pathway_without_duplicate_name(
-            self, pathway_stId) -> tuple[
-        list[str], list[str], list[str], list[str], list[str], list[str], list[str], list[str]]:
+            self, pathway_stId) -> Tuple[
+        List[str], List[str], List[str], List[str], List[str], List[str], List[str], List[str]]:
         if pathway_stId != -1:
             # normal pathway
             print("\n")
@@ -1035,7 +1036,7 @@ class ReactomeProcessor:
 
     def extract_edges_nodes_relationships_all_components_and_dic_of_entity_components_for_one_pathway(self,
                                                                                                       pathway_stId) -> \
-            tuple[list, list, list, list, list]:
+            Tuple[list, list, list, list, list]:
 
         """
         extract
@@ -1154,8 +1155,8 @@ class ReactomeProcessor:
 
         return reactions, physical_entity_ids_from_reactions_for_one_pathway, relationships_between_nodes_and_edges_with_index_style, component_ids_unique_for_one_pathway, entity_index_to_components_indices_mapping_list
 
-    def get_reactions_index_to_list_of_relationships_dic_based_on_relationships(self, relationships: list[str]) -> \
-            tuple[dict[str, list], dict[str, list], dict[str, list], dict[str, list]]:
+    def get_reactions_index_to_list_of_relationships_dic_based_on_relationships(self, relationships: List[str]) -> \
+            Tuple[Dict[str, list], Dict[str, list], Dict[str, list], Dict[str, list]]:
         # reactions: a list of reaction_id
         # relationships: a list of {entity_index, reaction_index, direction}
         reaction_index_to_list_of_relationships_dic: dict[str, list] = {}
@@ -1202,8 +1203,8 @@ class ReactomeProcessor:
 
         return reaction_index_to_list_of_relationships_dic, reaction_index_to_list_of_input_relationships_dic, reaction_index_to_list_of_output_relationships_dic, reaction_index_to_list_of_regulation_relationship_dic
 
-    def get_reaction_status_dic(self, reaction_index_to_list_of_relationships_dic) -> {str: int}:
-        reaction_to_relationship_status_dic: {str: int} = {"total_num_of_reactions": 0,
+    def get_reaction_status_dic(self, reaction_index_to_list_of_relationships_dic) -> Dict[str, int]:
+        reaction_to_relationship_status_dic: Dict[str, int] = {"total_num_of_reactions": 0,
                                                            "num_of_reactions_with_one_relationship": 0,
                                                            "num_of_reactions_with_two_relationships": 0,
                                                            "num_of_reactions_with_three_relationships": 0,
@@ -1214,7 +1215,7 @@ class ReactomeProcessor:
                                                            "num_of_reactions_with_eight_relationships": 0,
                                                            "num_of_reactions_with_more_than_eight_relationships": 0}
 
-        dic_key_name: {int: str} = {1: "num_of_reactions_with_one_relationship",
+        dic_key_name: Dict[int, str] = {1: "num_of_reactions_with_one_relationship",
                                     2: "num_of_reactions_with_two_relationships",
                                     3: "num_of_reactions_with_three_relationships",
                                     4: "num_of_reactions_with_four_relationships",
@@ -1239,7 +1240,7 @@ class ReactomeProcessor:
 
         return reaction_to_relationship_status_dic
 
-    def print_reaction_status_dic(self, reaction_to_relationship_status_dic: {str: int}, mode: str = ""):
+    def print_reaction_status_dic(self, reaction_to_relationship_status_dic: Dict[str, int], mode: str = ""):
         """
 
         :param reaction_to_relationship_status_dic:
@@ -1304,7 +1305,7 @@ class ReactomeProcessor:
                 reaction_num_with_more_than_eight_rela) + " ( {:.2%}".format(
                 float(reaction_num_with_more_than_eight_rela) / float(total_num)) + ")")
 
-    def get_entity_index_to_list_of_relationships_dic_based_on_relationships(self, relationships: list[str]) -> dict[
+    def get_entity_index_to_list_of_relationships_dic_based_on_relationships(self, relationships: List[str]) -> Dict[
         str, list]:
         entity_index_to_list_of_relationships_dic: dict[str, list] = {}
 
@@ -1322,8 +1323,8 @@ class ReactomeProcessor:
 
         return entity_index_to_list_of_relationships_dic
 
-    def get_entity_status_dic(self, entity_index_to_list_of_relationships_dic) -> {str: int}:
-        entity_to_relationship_status_dic: {str: int} = {"total_num_of_entities": 0,
+    def get_entity_status_dic(self, entity_index_to_list_of_relationships_dic) -> Dict[str, int]:
+        entity_to_relationship_status_dic: Dict[str, int] = {"total_num_of_entities": 0,
                                                          "num_of_entities_with_one_relationship": 0,
                                                          "num_of_entities_with_two_relationships": 0,
                                                          "num_of_entities_with_three_relationships": 0,
@@ -1334,7 +1335,7 @@ class ReactomeProcessor:
                                                          "num_of_entities_with_eight_relationships": 0,
                                                          "num_of_entities_with_more_than_eight_relationships": 0}
 
-        dic_key_name: {int: str} = {1: "num_of_entities_with_one_relationship",
+        dic_key_name: Dict[int, str] = {1: "num_of_entities_with_one_relationship",
                                     2: "num_of_entities_with_two_relationships",
                                     3: "num_of_entities_with_three_relationships",
                                     4: "num_of_entities_with_four_relationships",
@@ -1408,7 +1409,7 @@ class ReactomeProcessor:
 
     def get_entity_index_to_list_of_components_dic_based_on_entity_component_mapping_list(self,
                                                                                           entity_component_mapping_list:
-                                                                                          list[str]):
+                                                                                          List[str]):
         entity_index_to_list_of_components_dic: dict[int, list[int]] = {}
         entity_index = 0
         for line_element in entity_component_mapping_list:
@@ -1426,7 +1427,7 @@ class ReactomeProcessor:
 
     def get_entity_components_status_dic_based_on_entity_index_to_list_of_components_dic(self,
                                                                                          entity_index_to_list_of_components_dic):
-        entity_components_status_dic: {str: int} = {"total_num_of_entities": 0,
+        entity_components_status_dic: Dict[str, int] = {"total_num_of_entities": 0,
                                                     "num_of_entities_with_one_component": 0,
                                                     "num_of_entities_with_two_components": 0,
                                                     "num_of_entities_with_three_components": 0,
@@ -1437,7 +1438,7 @@ class ReactomeProcessor:
                                                     "num_of_entities_with_eight_components": 0,
                                                     "num_of_entities_with_more_than_eight_components": 0}
 
-        dic_key_name: {int: str} = {1: "num_of_entities_with_one_component",
+        dic_key_name: Dict[int, str] = {1: "num_of_entities_with_one_component",
                                     2: "num_of_entities_with_two_components",
                                     3: "num_of_entities_with_three_components",
                                     4: "num_of_entities_with_four_components",
@@ -1847,12 +1848,13 @@ class FileProcessor:
     # create the txt file to store the data
     def createFile(self, path, file_name):
         url = os.path.join("..", "..", path, file_name)
+        # from pdb import set_trace; set_trace()
         if not os.path.exists(os.path.join("..", "..", path)):
-            os.makedirs(path)
+            os.makedirs(os.path.join("..", "..", path), exist_ok=True)
         if os.path.exists(url):
             print("file exists, we'll delete the original file \"" + file_name + "\", then create a new one")
             os.remove(url)
-        file = open(url, 'w', encoding='utf-8')
+        # file = open(url, 'w', encoding='utf-8')
 
     def delete_file(self, path, file_name) -> None:
         url = os.path.join(path, file_name)
@@ -1860,7 +1862,7 @@ class FileProcessor:
             os.remove(url)
 
     # write message to txt file
-    def writeMessageToFile(self, path, file_name, message: list[str]):
+    def writeMessageToFile(self, path, file_name, message: List[str]):
         url = os.path.join("..", "..", path, file_name)
         if not os.path.exists(url):
             print("error! the file \"" + file_name + "\" doesn't exist!")

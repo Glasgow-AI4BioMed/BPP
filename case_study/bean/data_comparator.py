@@ -1,3 +1,4 @@
+from typing import List
 from case_study.bean import Dataset
 from case_study.bean.bean_collection import Relationship
 from case_study.bean.data_version import DataWithVersion
@@ -8,7 +9,7 @@ class DataSetComparator:
         self.__old_dataset = old_dataset
         self.__new_dataset = new_dataset
 
-    def get_relationships_newly_added(self) -> list[Relationship]:
+    def get_relationships_newly_added(self) -> List[Relationship]:
         """
            This method compares the list of relationships in the new dataset
            with the list of relationships in the old dataset and returns a list of newly added relationships.

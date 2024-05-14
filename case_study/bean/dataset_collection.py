@@ -1,11 +1,12 @@
+from typing import Dict
 from case_study.bean.bean_collection import Attribute, Node, Edge, PairOfNodeAndAttribute, Relationship
 
 
 class Dataset:
     def __init__(self):
-        self.attributes_dict: [int, Attribute] = dict()
-        self.nodes_dict: [int, Node] = dict()
-        self.edges_dict: [int, Edge] = dict()
+        self.attributes_dict: Dict[int, Attribute] = dict()
+        self.nodes_dict: Dict[int, Node] = dict()
+        self.edges_dict: Dict[int, Edge] = dict()
 
         self.attributes_list: list[Attribute] = list()
         self.nodes_list: list[Node] = list()

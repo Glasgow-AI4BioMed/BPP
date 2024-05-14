@@ -58,6 +58,35 @@ def divide_data_set():
     signal_transduction.divide_data_for_attribute_prediction_task()
     signal_transduction.divide_data_for_input_link_prediction_task()
     signal_transduction.divide_data_for_output_link_prediction_task()
+    
+def divide_dataset_five_fold():
+    print("\033[1;36m" + "Disease" + "\033[0m" + "\n")
+    disease = ReactomeDataDivider("Disease")
+    disease.divide_data_for_attribute_prediction_task_five_fold()
+    disease.divide_data_for_input_link_prediction_task_five_fold()
+    disease.divide_data_for_output_link_prediction_task_five_fold()
+    
+    print("\033[1;36m" + "Metabolism" + "\033[0m" + "\n")
+    metabolism = ReactomeDataDivider("Metabolism")
+
+    metabolism.divide_data_for_attribute_prediction_task_five_fold()
+    metabolism.divide_data_for_input_link_prediction_task_five_fold()
+    metabolism.divide_data_for_output_link_prediction_task_five_fold()
+
+    print("\033[1;36m" + "Immune System" + "\033[0m" + "\n")
+    immune_system = ReactomeDataDivider("Immune System")
+
+    immune_system.divide_data_for_attribute_prediction_task_five_fold()
+    immune_system.divide_data_for_input_link_prediction_task_five_fold()
+    immune_system.divide_data_for_output_link_prediction_task_five_fold()
+
+    print("\033[1;36m" + "Signal Transduction" + "\033[0m" + "\n")
+    signal_transduction = ReactomeDataDivider("Signal Transduction")
+
+    signal_transduction.divide_data_for_attribute_prediction_task_five_fold()
+    signal_transduction.divide_data_for_input_link_prediction_task_five_fold()
+    signal_transduction.divide_data_for_output_link_prediction_task_five_fold()
+    
 
 
 # Press the green button in the gutter to run the script.
@@ -68,7 +97,9 @@ if __name__ == '__main__':
     # extract_data_from_reactome()
 
     # divide the dataset
-    divide_data_set()
+    # divide_data_set()
+    
+    divide_dataset_five_fold()
 
     time_end = time.time()  # record the ending time
 

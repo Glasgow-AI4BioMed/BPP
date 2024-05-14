@@ -1,5 +1,6 @@
 import copy
 import os
+from typing import Dict, List, Tuple
 import pandas as pd
 import sys
 import torch
@@ -169,7 +170,7 @@ class DataLoaderBase:
 
         return nodes_features
 
-    def get_edge_of_nodes_list_regardless_direction(self, param) -> list[list[int]]:
+    def get_edge_of_nodes_list_regardless_direction(self, param) -> List[List[int]]:
         """
         Get the nodes of all the hyper edges
         :return: [[1,2,3], [3,7,9], [4,6,7,8,10,11]...] while [1,2,3], [3,7,9], .. represent the hyper edges
@@ -220,7 +221,7 @@ class DataLoaderBase:
         )
 
     def get_edge_to_list_of_nodes_dict_assist(
-            self, relationship_line_message_list: list[str]
+            self, relationship_line_message_list: List[str]
     ):
         edge_to_list_of_nodes_dict: dict[int, list[int]] = dict()
         edge_to_list_of_input_nodes_dict: dict[int, list[int]] = dict()
@@ -255,7 +256,7 @@ class DataLoaderBase:
     def get_labels(self):
         pass
 
-    def get_nodes_mask_assist(self, type_name: str) -> list[int]:
+    def get_nodes_mask_assist(self, type_name: str) -> List[int]:
         nodes_mask: list[int] = list()
 
         path: str = os.path.join(self.task_file_path, type_name)
@@ -273,7 +274,7 @@ class DataLoaderBase:
 
         return nodes_mask
 
-    def get_edges_mask_assist(self, type_name: str) -> list[int]:
+    def get_edges_mask_assist(self, type_name: str) -> List[int]:
         edges_mask: list[int] = list()
 
         path: str = os.path.join(self.task_file_path, type_name)
@@ -383,7 +384,7 @@ class DataLoaderAttribute(DataLoaderBase):
         return nodes_to_list_of_masked_components
 
     def __get_complete_nodes_features_mix_negative_for_attribute_prediction(
-            self, node_mask: list[int], type_name: str
+            self, node_mask: List[int], type_name: str
     ):
         nodes_features_mix_negative: list[
             list[int]
@@ -422,7 +423,7 @@ class DataLoaderAttribute(DataLoaderBase):
 
     def __get_nodes_features_mix_negative_assist(
             self, type_name: str
-    ) -> list[list[int]]:
+    ) -> List[List[int]]:
         if "test" != type_name and "validation" != type_name:
             raise Exception('The type should be "test" or "validation"')
         if "attribute prediction dataset" != self.task_name:
@@ -466,7 +467,7 @@ class DataLoaderAttribute(DataLoaderBase):
 
         return nodes_features_mix_negative
 
-    def __get_nodes_mask(self) -> tuple[list[int], list[int], list[int]]:
+    def __get_nodes_mask(self) -> Tuple[List[int], List[int], List[int]]:
         train_nodes_mask = super().get_nodes_mask_assist("train")
         validation_nodes_mask = super().get_nodes_mask_assist("validation")
         test_nodes_mask = super().get_nodes_mask_assist("test")
@@ -475,7 +476,7 @@ class DataLoaderAttribute(DataLoaderBase):
 
     def get_edge_of_nodes_list_regardless_direction(
             self, type_name: str
-    ) -> list[list[int]]:
+    ) -> List[List[int]]:
         """
         :return: [[1,2,3], [3,7,9], [4,6,7,8,10,11]...] while [1,2,3], [3,7,9], .. represent the hyper edges
         """
@@ -574,11 +575,11 @@ class DataLoaderLink(DataLoaderBase):
 
     def __get_edge_to_list_of_nodes_dict(
             self,
-    ) -> tuple[
-        dict[int, list[int]],
-        dict[int, list[int]],
-        dict[int, list[int]],
-        dict[int, list[int]],
+    ) -> Tuple[
+        Dict[int, List[int]],
+        Dict[int, List[int]],
+        Dict[int, List[int]],
+        Dict[int, List[int]],
     ]:
         (
             raw_edge_to_list_of_nodes_dict,
@@ -608,7 +609,7 @@ class DataLoaderLink(DataLoaderBase):
             test_edge_to_list_of_nodes_dict,
         )
 
-    def get_edge_of_nodes_list_regardless_direction(self, type_name) -> list[list[int]]:
+    def get_edge_of_nodes_list_regardless_direction(self, type_name) -> List[List[int]]:
         """
         :return: [[1,2,3], [3,7,9], [4,6,7,8,10,11]...] while [1,2,3], [3,7,9], .. represent the hyper edges
         """
@@ -631,7 +632,7 @@ class DataLoaderLink(DataLoaderBase):
 
     def __get_list_of_edges_of_nodes_based_on_train_dataset(
             self,
-    ) -> tuple[list[list[int]], list[list[int]], list[list[int]]]:
+    ) -> Tuple[List[List[int]], List[List[int]], List[List[int]]]:
         num_of_edges = self.get_num_of_edges_based_on_type_name("train")
         (
             edge_to_list_of_nodes_dict,
@@ -789,7 +790,7 @@ class DataLoaderLink(DataLoaderBase):
 
         return train_edges_mask, validation_edges_mask, test_edges_mask
 
-    def get_masked_train_edge_of_nodes_list_regardless_direction(self, train_edge_mask: list[int]):
+    def get_masked_train_edge_of_nodes_list_regardless_direction(self, train_edge_mask: List[int]):
         train_edge_of_nodes_list_regardless_direction: list[
             list[int]] = self.get_edge_of_nodes_list_regardless_direction("train")
 

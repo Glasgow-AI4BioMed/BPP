@@ -5,6 +5,7 @@ import os
 import random
 import re
 from enum import Enum
+from typing import List
 
 import numpy as np
 from extract_data_form_reactome import FileProcessor
@@ -64,6 +65,8 @@ class ReactomeDataDivider:
 
         self.__relationships = self.__read_all_relationships_of_one_pathway_from_file()
         self.__list_of_pair_of_entity_and_component = self.__read_all_pair_of_entity_and_component_of_one_pathway_from_file()
+        
+        
 
         self.__reaction_to_list_of_entities_dict: dict[str, list[str]] = {}
         self.__reaction_to_list_of_input_entities_dict: dict[str, list[str]] = {}
@@ -739,8 +742,7 @@ class ReactomeDataDivider:
 
         print("validation_size: " + str(validation_size))
         print("test_size: " + str(test_size))
-
-
+        
         while validation_counter < validation_size or test_counter < test_size:
             random_entity_index = random.randint(0, end_index_of_entities)
 
@@ -836,6 +838,154 @@ class ReactomeDataDivider:
         test_data_bean.information()
 
         self.__ultimate_initialisation()
+        
+        
+    def divide_data_for_attribute_prediction_task_five_fold(self):
+        random.seed(1121)
+        
+        train_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        validation_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        test_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        for i in range(5):
+            train_data_bean = DataBeanForReactome(self.__pathway_name, self.__attribute_prediction_task,
+                                              self.__train_type_divided_dataset, self)
+            validation_data_bean = DataBeanForReactome(self.__pathway_name, self.__attribute_prediction_task,
+                                                   self.__validation_type_divided_dataset, self)
+            test_data_bean = DataBeanForReactome(self.__pathway_name, self.__attribute_prediction_task,
+                                             self.__test_type_divided_dataset, self)
+            
+            train_data_bean_five_fold_list.append(train_data_bean)
+            validation_data_bean_five_fold_list.append(validation_data_bean)
+            test_data_bean_five_fold_list.append(test_data_bean)
+
+        # total_of_attributes: int = 0
+        # for component_id, list_of_entity_ids in self.__component_to_list_of_entities_dict.items():
+        #     occur_times = len(list_of_entity_ids)
+        #     total_of_attributes = total_of_attributes + occur_times
+
+
+        # adjust_rate: float = 1.0
+        # if "Disease" == self.__pathway_name:
+        #     adjust_rate = 0.8
+        # if "Metabolism" == self.__pathway_name:
+        #     adjust_rate = 0.6
+        # if "Immune System" == self.__pathway_name or "Signal Transduction" == self.__pathway_name:
+        #     adjust_rate = 1.0
+
+        # validation_size = test_size = int(total_of_attributes * adjust_rate / 10)
+
+        # length_of_entities = len(self.__entities_ids)
+        # end_index_of_entities = length_of_entities - 1
+        # validation_counter: int = 0
+        # test_counter: int = 0
+
+        # random_entity_index_memory: dict[int, int] = dict()
+
+        # print("validation_size: " + str(validation_size))
+        # print("test_size: " + str(test_size))
+        
+        # raw_list_of_pair_of_entity_and_component  = copy.deepcopy(self.__list_of_pair_of_entity_and_component)
+        
+        pair_of_entity_and_component_list_for_mask: List[List[str]] = []
+        
+        for entity_id in self.__entities_ids:
+            list_of_components = self.__entity_to_list_of_components_dict.get(entity_id)
+            
+            if len(list_of_components) >= 2:
+                for component_id in list_of_components:
+                    list_of_entities = self.__component_to_list_of_entities_dict[component_id]
+                    
+                    if len(list_of_entities) >= 2:
+                        pair_of_entity_and_component: list[str] = list()
+                        pair_of_entity_and_component.append(entity_id)
+                        pair_of_entity_and_component.append(component_id)
+                        
+                        pair_of_entity_and_component_list_for_mask.append(pair_of_entity_and_component)
+                        
+                        self.__delete_pair_of_entity_and_component(pair_of_entity_and_component)
+                        
+        
+        random.shuffle(pair_of_entity_and_component_list_for_mask)
+        
+        part_size = len(pair_of_entity_and_component_list_for_mask) // 5
+        
+        five_fold_pair_of_entity_and_component_list_data_parts = [pair_of_entity_and_component_list_for_mask[i * part_size:(i + 1) * part_size] for i in range(5)]
+        
+        # Handling of extra elements that may be left over due to division
+        remaining_elements = five_fold_pair_of_entity_and_component_list_data_parts[part_size * 5:]
+        for i, element in enumerate(remaining_elements):
+            five_fold_pair_of_entity_and_component_list_data_parts[i].append(element)
+        
+        
+        for fold_index, pair_of_entity_and_component_list_data_part in enumerate(five_fold_pair_of_entity_and_component_list_data_parts):
+            self.__ultimate_initialisation()
+            
+            for temp_pair_of_entity_and_component in pair_of_entity_and_component_list_data_part:
+                self.__delete_pair_of_entity_and_component(temp_pair_of_entity_and_component)
+            
+            train_data_bean = train_data_bean_five_fold_list[fold_index]
+            test_data_bean = test_data_bean_five_fold_list[fold_index]
+            validation_data_bean = validation_data_bean_five_fold_list[fold_index]
+            
+            list_of_validation_mask_entity_id: list[str] = list()
+            list_of_test_mask_entity_id: list[str] = list()
+            
+            for index, pair_of_entity_and_component in enumerate(pair_of_entity_and_component_list_data_part):
+                entity_id = pair_of_entity_and_component[0]
+                train_data_bean.add_train_entity_id_mask_to_inner_train_entity_mask_list(entity_id)
+                train_data_bean.add_pair_of_entity_and_component_masked_to_inner_pair_of_entity_and_component_masked_list(pair_of_entity_and_component)
+                
+                if index % 2 == 0:
+                    list_of_test_mask_entity_id.append(entity_id)
+                    test_data_bean.add_pair_of_entity_and_component_masked_to_inner_pair_of_entity_and_component_masked_list(pair_of_entity_and_component)
+                
+                else:
+                    list_of_validation_mask_entity_id.append(entity_id)
+                    validation_data_bean.add_pair_of_entity_and_component_masked_to_inner_pair_of_entity_and_component_masked_list(pair_of_entity_and_component)    
+                
+            list_of_validation_mask_entity_id = list(set(list_of_validation_mask_entity_id))
+            list_of_test_mask_entity_id = list(set(list_of_test_mask_entity_id))
+            
+            relationships_for_validation_data_bean = self.__get_list_of_relationships_based_on_list_of_entity_ids(list_of_validation_mask_entity_id, self.__relationships)
+            
+            list_of_pair_of_entity_and_component_for_validation_data_bean = self.__get_list_of_pair_of_entity_and_component_based_on_list_of_entity_ids(list_of_validation_mask_entity_id)
+            
+            relationships_for_test_data_bean = self.__get_list_of_relationships_based_on_list_of_entity_ids(list_of_test_mask_entity_id, self.__relationships)
+
+            list_of_pair_of_entity_and_component_for_test_data_bean = self.__get_list_of_pair_of_entity_and_component_based_on_list_of_entity_ids(list_of_test_mask_entity_id)
+            
+            validation_data_bean.add_list_of_relationships(relationships_for_validation_data_bean)
+
+            validation_data_bean.add_list_of_pair_of_entity_and_component(
+                list_of_pair_of_entity_and_component_for_validation_data_bean)
+
+            test_data_bean.add_list_of_relationships(relationships_for_test_data_bean)
+
+            test_data_bean.add_list_of_pair_of_entity_and_component(list_of_pair_of_entity_and_component_for_test_data_bean)
+
+            train_data_bean.add_list_of_relationships(self.__relationships)
+            train_data_bean.add_list_of_pair_of_entity_and_component(self.__list_of_pair_of_entity_and_component)
+            
+            train_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, train_data_bean.get_task_of_sub_data_set(), train_data_bean.get_type_of_sub_data_set())
+            valid_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, validation_data_bean.get_task_of_sub_data_set(), validation_data_bean.get_type_of_sub_data_set())
+            test_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, test_data_bean.get_task_of_sub_data_set(), test_data_bean.get_type_of_sub_data_set())
+            
+            
+            
+            train_data_bean.print_sub_data_bean_to_files(path=train_path)
+            validation_data_bean.print_sub_data_bean_to_files(path=valid_path)
+            test_data_bean.print_sub_data_bean_to_files(path=test_path)
+
+            validation_data_bean.generate_and_print_components_mapping_mix_negative_to_file(num_of_negative_elements=10, path=valid_path)
+            test_data_bean.generate_and_print_components_mapping_mix_negative_to_file(num_of_negative_elements=10, path=test_path)
+
+            train_data_bean.information()
+            validation_data_bean.information()
+            test_data_bean.information()
+
+        self.__ultimate_initialisation()
+
+
 
     # 将reactions 均分为3份
     def __get_three_divided_reaction_ids(self):
@@ -1104,6 +1254,163 @@ class ReactomeDataDivider:
         test_data_bean.information()
 
         self.__ultimate_initialisation()
+        
+        
+    def divide_data_for_input_link_prediction_task_five_fold(self):
+        random.seed(1121)
+                
+        train_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        validation_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        test_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        for i in range(5):
+            train_data_bean = DataBeanForReactome(self.__pathway_name, self.__input_link_prediction_task,
+                                              self.__train_type_divided_dataset, self)
+            validation_data_bean = DataBeanForReactome(self.__pathway_name, self.__input_link_prediction_task,
+                                                   self.__validation_type_divided_dataset, self)
+            test_data_bean = DataBeanForReactome(self.__pathway_name, self.__input_link_prediction_task,
+                                             self.__test_type_divided_dataset, self)
+            
+            train_data_bean_five_fold_list.append(train_data_bean)
+            validation_data_bean_five_fold_list.append(validation_data_bean)
+            test_data_bean_five_fold_list.append(test_data_bean)
+
+        # sort the dict to make sure we get the same data after division
+        for reaction_id, list_of_input_entities_ids in self.__input_link_prediction_reaction_to_list_of_input_entities_dict.items():
+            list_of_input_entities_ids.sort()
+            
+        list_of_validation_mask_entity_id: list[str] = list()
+        list_of_test_mask_entity_id: list[str] = list()
+
+        list_of_validation_mask_reaction_id: list[str] = list()
+        list_of_test_mask_reaction_id: list[str] = list()
+        
+        
+        input_relationships_for_mask = []
+        
+        for reaction_id in self.__input_link_prediction_reaction_ids:
+            list_of_input_entities = self.__input_link_prediction_reaction_to_list_of_input_entities_dict.get(reaction_id)
+            if list_of_input_entities is None:
+                list_of_input_entities = []
+            
+            if len(list_of_input_entities) >= 2:
+                for entity_id in list_of_input_entities:
+                    list_of_reactions = self.__input_link_prediction_entity_to_list_of_reactions_dict[entity_id]
+                    if list_of_reactions is None:
+                        list_of_reactions = list()
+                    
+                    if len(list_of_reactions) >= 2:
+                        relationship: list[str] = list()
+                        relationship.append(entity_id)
+                        relationship.append(reaction_id)
+                        relationship.append(str(-1))
+                        list_of_pair_of_entity_and_component = self.__get_list_of_pair_of_entity_and_component_based_on_entity_id(entity_id)
+                        list_of_pair_of_entity_and_component.sort()
+                        
+                        input_relationships_for_mask.append(relationship)
+                        
+                        self.__input_link_prediction_delete_relationship(relationship)
+                        # train_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+        
+        
+        random.shuffle(input_relationships_for_mask)
+        
+        part_size = len(input_relationships_for_mask) // 5
+        
+        five_fold_input_relationships_for_mask_data_parts = [input_relationships_for_mask[i * part_size:(i + 1) * part_size] for i in range(5)]
+        
+        # Handling of extra elements that may be left over due to division
+        remaining_elements = five_fold_input_relationships_for_mask_data_parts[part_size * 5:]
+        for i, element in enumerate(remaining_elements):
+            five_fold_input_relationships_for_mask_data_parts[i].append(element)
+        
+        self.__ultimate_initialisation()
+        self.__input_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        self.__output_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        
+        for fold_index, input_relationships in enumerate(five_fold_input_relationships_for_mask_data_parts):
+            self.__ultimate_initialisation()
+            self.__input_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+            self.__output_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        
+            
+            for relationship in input_relationships:
+                self.__input_link_prediction_delete_relationship(relationship)
+            
+            train_data_bean = train_data_bean_five_fold_list[fold_index]
+            test_data_bean = test_data_bean_five_fold_list[fold_index]
+            validation_data_bean = validation_data_bean_five_fold_list[fold_index]
+            
+            for index, relationship in enumerate(input_relationships):
+                train_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+                
+                if index % 2 ==0:
+                    test_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+                    list_of_test_mask_entity_id.append(entity_id)
+                    list_of_test_mask_reaction_id.append(reaction_id)
+                else:
+                    validation_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+                    list_of_validation_mask_entity_id.append(entity_id)
+                    list_of_validation_mask_reaction_id.append(reaction_id)
+                
+            list_of_validation_mask_reaction_id = list(set(list_of_validation_mask_reaction_id))
+            list_of_test_mask_reaction_id = list(set(list_of_test_mask_reaction_id))
+
+            relationships_for_validation_data_bean = self.__get_list_of_relationships_based_on_list_of_reaction_ids(
+                list_of_validation_mask_reaction_id)
+
+            list_of_entities_for_validation_tmp = self.__get_list_of_entities_based_on_list_of_relationships(
+                relationships_for_validation_data_bean)
+
+            list_of_pair_of_entity_and_component_for_validation_data_bean = self.__get_list_of_pair_of_entity_and_component_based_on_list_of_entity_ids(
+                list_of_entities_for_validation_tmp)
+
+            relationships_for_test_data_bean = self.__get_list_of_relationships_based_on_list_of_reaction_ids(
+                list_of_test_mask_reaction_id)
+
+            list_of_entities_for_test_tmp = self.__get_list_of_entities_based_on_list_of_relationships(
+                relationships_for_test_data_bean)
+
+            list_of_pair_of_entity_and_component_for_test_data_bean = self.__get_list_of_pair_of_entity_and_component_based_on_list_of_entity_ids(
+                list_of_entities_for_test_tmp)
+
+            validation_data_bean.add_list_of_relationships(relationships_for_validation_data_bean)
+
+            validation_data_bean.add_list_of_pair_of_entity_and_component(list_of_pair_of_entity_and_component_for_validation_data_bean)
+
+            test_data_bean.add_list_of_relationships(relationships_for_test_data_bean)
+
+            test_data_bean.add_list_of_pair_of_entity_and_component(list_of_pair_of_entity_and_component_for_test_data_bean)
+
+            train_data_bean.add_list_of_relationships(self.__output_link_prediction_relationships)
+            train_data_bean.add_list_of_pair_of_entity_and_component(self.__output_link_prediction_list_of_pair_of_entity_and_component)
+            
+            
+            train_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, train_data_bean.get_task_of_sub_data_set(), train_data_bean.get_type_of_sub_data_set())
+            valid_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, validation_data_bean.get_task_of_sub_data_set(), validation_data_bean.get_type_of_sub_data_set())
+            test_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, test_data_bean.get_task_of_sub_data_set(), test_data_bean.get_type_of_sub_data_set())
+            
+            train_data_bean.print_sub_data_bean_to_files(path=train_path)
+            validation_data_bean.print_sub_data_bean_to_files(path=valid_path)
+            test_data_bean.print_sub_data_bean_to_files(path=test_path)
+            
+            validation_data_bean.generate_and_print_relationships_mix_negative_to_file(num_of_negative_elements=10, path=valid_path)
+            test_data_bean.generate_and_print_relationships_mix_negative_to_file(num_of_negative_elements=10, path=test_path)
+
+            train_data_bean.information()
+            validation_data_bean.information()
+            test_data_bean.information()
+
+        self.__ultimate_initialisation()
+        self.__input_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        self.__output_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        
+    
+    
+    
+    
+    
+    
+    
 
     def divide_data_for_output_link_prediction_task(self):
         random.seed(1121)
@@ -1361,6 +1668,154 @@ class ReactomeDataDivider:
         test_data_bean.information()
 
         self.__ultimate_initialisation()
+        
+        
+    def divide_data_for_output_link_prediction_task_five_fold(self):
+        random.seed(1121)
+                
+        train_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        validation_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        test_data_bean_five_fold_list: List[DataBeanForReactome] = []
+        for i in range(5):
+            train_data_bean = DataBeanForReactome(self.__pathway_name, self.__output_link_prediction_task,
+                                              self.__train_type_divided_dataset, self)
+            validation_data_bean = DataBeanForReactome(self.__pathway_name, self.__output_link_prediction_task,
+                                                   self.__validation_type_divided_dataset, self)
+            test_data_bean = DataBeanForReactome(self.__pathway_name, self.__output_link_prediction_task,
+                                             self.__test_type_divided_dataset, self)
+            
+            train_data_bean_five_fold_list.append(train_data_bean)
+            validation_data_bean_five_fold_list.append(validation_data_bean)
+            test_data_bean_five_fold_list.append(test_data_bean)
+
+        # sort the dict to make sure we get the same data after division
+        for reaction_id, list_of_output_entities_ids in self.__output_link_prediction_reaction_to_list_of_output_entities_dict.items():
+            list_of_output_entities_ids.sort()
+            
+        list_of_validation_mask_entity_id: list[str] = list()
+        list_of_test_mask_entity_id: list[str] = list()
+
+        list_of_validation_mask_reaction_id: list[str] = list()
+        list_of_test_mask_reaction_id: list[str] = list()
+        
+        
+        output_relationships_for_mask = []
+        
+        for reaction_id in self.__output_link_prediction_reactions_ids:
+            list_of_output_entities = self.__output_link_prediction_reaction_to_list_of_output_entities_dict.get(reaction_id)
+            
+            if list_of_output_entities is None:
+                list_of_output_entities = []
+            
+            if len(list_of_output_entities) >= 2:
+                for entity_id in list_of_output_entities:
+                    list_of_reactions = self.__output_link_prediction_entity_to_list_of_reactions_dict[entity_id]
+                    if list_of_reactions is None:
+                        list_of_reactions = list()
+                    
+                    if len(list_of_reactions) >= 2:
+                        relationship: list[str] = list()
+                        relationship.append(entity_id)
+                        relationship.append(reaction_id)
+                        relationship.append(str(1))
+                        list_of_pair_of_entity_and_component = self.__get_list_of_pair_of_entity_and_component_based_on_entity_id(entity_id)
+                        list_of_pair_of_entity_and_component.sort()
+                        
+                        output_relationships_for_mask.append(relationship)
+                        
+                        self.__output_link_prediction_delete_relationship(relationship)
+                        # train_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+        
+        
+        random.shuffle(output_relationships_for_mask)
+        
+        part_size = len(output_relationships_for_mask) // 5
+        
+        five_fold_output_relationships_for_mask_data_parts = [output_relationships_for_mask[i * part_size:(i + 1) * part_size] for i in range(5)]
+        
+        # Handling of extra elements that may be left over due to division
+        remaining_elements = five_fold_output_relationships_for_mask_data_parts[part_size * 5:]
+        for i, element in enumerate(remaining_elements):
+            five_fold_output_relationships_for_mask_data_parts[i].append(element)
+        
+        
+        for fold_index, output_relationships in enumerate(five_fold_output_relationships_for_mask_data_parts):
+            self.__ultimate_initialisation()
+            self.__input_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+            self.__output_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        
+            
+            for relationship in output_relationships:
+                self.__output_link_prediction_delete_relationship(relationship)
+            
+            train_data_bean = train_data_bean_five_fold_list[fold_index]
+            test_data_bean = test_data_bean_five_fold_list[fold_index]
+            validation_data_bean = validation_data_bean_five_fold_list[fold_index]
+            
+            for index, relationship in enumerate(output_relationships):
+                train_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+                
+                if index % 2 ==0:
+                    test_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+                    list_of_test_mask_entity_id.append(entity_id)
+                    list_of_test_mask_reaction_id.append(reaction_id)
+                else:
+                    validation_data_bean.add_relationship_masked_to_inner_relationships_masked_list(relationship)
+                    list_of_validation_mask_entity_id.append(entity_id)
+                    list_of_validation_mask_reaction_id.append(reaction_id)
+                
+            list_of_validation_mask_reaction_id = list(set(list_of_validation_mask_reaction_id))
+            list_of_test_mask_reaction_id = list(set(list_of_test_mask_reaction_id))
+
+            relationships_for_validation_data_bean = self.__get_list_of_relationships_based_on_list_of_reaction_ids(
+                list_of_validation_mask_reaction_id)
+
+            list_of_entities_for_validation_tmp = self.__get_list_of_entities_based_on_list_of_relationships(
+                relationships_for_validation_data_bean)
+
+            list_of_pair_of_entity_and_component_for_validation_data_bean = self.__get_list_of_pair_of_entity_and_component_based_on_list_of_entity_ids(
+                list_of_entities_for_validation_tmp)
+
+            relationships_for_test_data_bean = self.__get_list_of_relationships_based_on_list_of_reaction_ids(
+                list_of_test_mask_reaction_id)
+
+            list_of_entities_for_test_tmp = self.__get_list_of_entities_based_on_list_of_relationships(
+                relationships_for_test_data_bean)
+
+            list_of_pair_of_entity_and_component_for_test_data_bean = self.__get_list_of_pair_of_entity_and_component_based_on_list_of_entity_ids(
+                list_of_entities_for_test_tmp)
+
+            validation_data_bean.add_list_of_relationships(relationships_for_validation_data_bean)
+
+            validation_data_bean.add_list_of_pair_of_entity_and_component(list_of_pair_of_entity_and_component_for_validation_data_bean)
+
+            test_data_bean.add_list_of_relationships(relationships_for_test_data_bean)
+
+            test_data_bean.add_list_of_pair_of_entity_and_component(list_of_pair_of_entity_and_component_for_test_data_bean)
+
+            train_data_bean.add_list_of_relationships(self.__output_link_prediction_relationships)
+            train_data_bean.add_list_of_pair_of_entity_and_component(self.__output_link_prediction_list_of_pair_of_entity_and_component)
+            
+            
+            train_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, train_data_bean.get_task_of_sub_data_set(), train_data_bean.get_type_of_sub_data_set())
+            valid_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, validation_data_bean.get_task_of_sub_data_set(), validation_data_bean.get_type_of_sub_data_set())
+            test_path = os.path.join("data", "five-fold-valid", f"fold-{fold_index}", self.__pathway_name, test_data_bean.get_task_of_sub_data_set(), test_data_bean.get_type_of_sub_data_set())
+            
+            train_data_bean.print_sub_data_bean_to_files(path=train_path)
+            validation_data_bean.print_sub_data_bean_to_files(path=valid_path)
+            test_data_bean.print_sub_data_bean_to_files(path=test_path)
+            
+            validation_data_bean.generate_and_print_relationships_mix_negative_to_file(num_of_negative_elements=10, path=valid_path)
+            test_data_bean.generate_and_print_relationships_mix_negative_to_file(num_of_negative_elements=10, path=test_path)
+
+            train_data_bean.information()
+            validation_data_bean.information()
+            test_data_bean.information()
+
+        self.__ultimate_initialisation()
+        self.__input_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        self.__output_link_prediction_initialise_reactions_and_entities_components_and_relationships_and_list_of_pair_of_entity_and_component()
+        
 
 
 class DataBeanForReactome:
@@ -1585,7 +2040,7 @@ class DataBeanForReactome:
         # example:
         # pathway_name : Metabolism    sub_directory_name : divided_dataset_methodA or dataset_for_attribute_prediction   type_of_sub_data_set : test
 
-    def print_sub_data_bean_to_files(self):
+    def print_sub_data_bean_to_files(self, path: str=None):
         self.__complete_the_data_bean()
 
         # reaction_id_to_reaction_index_dict = {reaction_id: index for index, reaction_id in
@@ -1676,7 +2131,9 @@ class DataBeanForReactome:
         index_and_entity_id_mask_for_print.sort(key=lambda l: int(re.findall('\d+', l)[0]))
 
         # path = "data/" + self.__pathway_name + "/" + self.__task_of_sub_data_set + "/"
-        path = os.path.join("data", self.__pathway_name, self.__task_of_sub_data_set, self.__type_of_sub_data_set)
+        if path is None:
+            path = os.path.join("data", self.__pathway_name, self.__task_of_sub_data_set, self.__type_of_sub_data_set)
+        
 
         self.__file_processor.create_and_write_message_to_file(path, self.__all_components_file_name,
                                                                index_and_component_id_for_print)
@@ -1710,6 +2167,15 @@ class DataBeanForReactome:
 
             self.__file_processor.create_and_write_message_to_file(path, self.__relationships_masked_file_name,
                                                                    relationships_masked_index_style_for_print)
+    
+    def get_pathway_name(self):
+        return self.__pathway_name
+    
+    def get_task_of_sub_data_set(self):
+        return self.__task_of_sub_data_set
+    
+    def get_type_of_sub_data_set(self):
+        return self.__type_of_sub_data_set
 
     def generate_relationships_masked_index_style(self, raw_entity_id_to_entity_index_dict,
                                                   raw_reaction_id_to_reaction_index_dict):
@@ -1768,7 +2234,7 @@ class DataBeanForReactome:
 
         return entities_component_indexes_mapping_masked_list_for_print
 
-    def generate_and_print_components_mapping_mix_negative_to_file(self, num_of_negative_elements: int):
+    def generate_and_print_components_mapping_mix_negative_to_file(self, num_of_negative_elements: int, path: str=None):
         index_and_entity_id_list: list[str] = list()
         for entity_id in self.__entities_ids:
             index = self.raw_data.get_raw_entities_ids().index(entity_id)
@@ -1814,8 +2280,9 @@ class DataBeanForReactome:
             for negative_component_index in negative_components_indexes:
                 entities_component_indexes_mapping_list_for_print[index] = \
                     entities_component_indexes_mapping_list_for_print[index] + "||" + str(negative_component_index)
-
-        path = os.path.join("data", self.__pathway_name, self.__task_of_sub_data_set, self.__type_of_sub_data_set)
+        
+        if path is None:
+            path = os.path.join("data", self.__pathway_name, self.__task_of_sub_data_set, self.__type_of_sub_data_set)
 
         self.__file_processor.createFile(path,
                                          self.__entities_components_mapping_mix_negative_file_name)
@@ -1824,7 +2291,7 @@ class DataBeanForReactome:
                                                  self.__entities_components_mapping_mix_negative_file_name,
                                                  entities_component_indexes_mapping_list_for_print)
 
-    def generate_and_print_relationships_mix_negative_to_file(self, num_of_negative_elements: int):
+    def generate_and_print_relationships_mix_negative_to_file(self, num_of_negative_elements: int, path: str=None):
         raw_reaction_to_list_of_entities_dict: dict[str, list[str]] = copy.deepcopy(
             self.raw_data.get_reaction_to_list_of_entities_dict())
 
@@ -1897,14 +2364,15 @@ class DataBeanForReactome:
                 relationship_index_style_mix_negative = relationship_index_style_mix_negative + "||" + negative_relationship_index_style
 
             relationship_index_style_list_mix_negative.append(relationship_index_style_mix_negative)
+            
+        if path is None:
+            pre_path = "data/" + self.__pathway_name + "/" + self.__task_of_sub_data_set + "/"
+            
+            path = pre_path + self.__type_of_sub_data_set
 
-        pre_path = "data/" + self.__pathway_name + "/" + self.__task_of_sub_data_set + "/"
+        self.__file_processor.createFile(path, self.__relationship_mix_negative_file_name)
 
-        self.__file_processor.createFile(pre_path + self.__type_of_sub_data_set,
-                                         self.__relationship_mix_negative_file_name)
-
-        self.__file_processor.writeMessageToFile(pre_path + self.__type_of_sub_data_set,
-                                                 self.__relationship_mix_negative_file_name,
+        self.__file_processor.writeMessageToFile(path, self.__relationship_mix_negative_file_name,
                                                  relationship_index_style_list_mix_negative)
 
     def __initialisation_inner_reaction_to_list_of_entities_and_entity_to_list_of_reactions_dict(self):

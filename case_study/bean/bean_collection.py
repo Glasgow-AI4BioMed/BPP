@@ -1,4 +1,4 @@
-from typing import Optional
+from typing import List, Optional
 
 from case_study.utils.constant_definition import MessageTextEnum
 
@@ -12,7 +12,7 @@ class ToplevelPathway:
 
 
 class ToplevelPathwaySelector:
-    def __init__(self, list_of_toplevel_pathways: list[ToplevelPathway]):
+    def __init__(self, list_of_toplevel_pathways: List[ToplevelPathway]):
         self.list_of_toplevel_pathways = list_of_toplevel_pathways
 
     def select_toplevel_pathway_based_on_name(self, name) -> Optional[ToplevelPathway]:

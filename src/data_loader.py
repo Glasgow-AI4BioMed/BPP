@@ -1,5 +1,6 @@
 import copy
 import os
+from typing import Dict, List, Tuple
 import pandas as pd
 import sys
 import torch
@@ -20,20 +21,29 @@ class Database:
 
     """
 
-    def __init__(self, name, task):
+    def __init__(self, name, task, **kwargs):
         self.dataset = name
         self.task = task
+        self.is_k_fold = kwargs.get('is_k_fold', False)
+        self.fold_idx = kwargs.get('fold_idx', None)
         self.load_dataset()
 
     def load_dataset(self):
-        self.train = self.load_train_to_graph(self.dataset, self.task, "train")
-        self.test = self.load_other_to_graph(self.dataset, self.task, "test")
-        self.valid = self.load_other_to_graph(self.dataset, self.task, "validation")
+        self.train = self.load_train_to_graph(self.dataset, self.task, "train", is_k_fold=self.is_k_fold, fold_idx=self.fold_idx)
+        self.test = self.load_other_to_graph(self.dataset, self.task, "test", is_k_fold=self.is_k_fold, fold_idx=self.fold_idx)
+        self.valid = self.load_other_to_graph(self.dataset, self.task, "validation", is_k_fold=self.is_k_fold, fold_idx=self.fold_idx)
 
-    def load_train_to_graph(self, name, task, subset):
+    def load_train_to_graph(self, name, task, subset, is_k_fold:bool=False, fold_idx=None):
         data_path = os.path.join("../data", name)
+        if is_k_fold and fold_idx is not None:
+            data_path = os.path.join("../data", 'five-fold-valid', f'fold-{fold_idx}', name)
+        else:
+            data_path = os.path.join("../data", name)
+            
         relation_path = os.path.join(data_path, task, subset, "relationship.txt")
         mapping_path = os.path.join(data_path, task, subset, "components-mapping.txt")
+        
+        
         mat = pd.read_csv(
             relation_path, names=["entity", "reaction", "type"], header=None
         )
@@ -54,8 +64,11 @@ class Database:
         )
         return mat
 
-    def load_other_to_graph(self, name, task, subset):
-        data_path = os.path.join("../data", name)
+    def load_other_to_graph(self, name, task, subset, is_k_fold:bool=False, fold_idx=None):
+        if is_k_fold and fold_idx is not None:
+            data_path = os.path.join("../data", 'five-fold-valid', f'fold-{fold_idx}', name)
+        else:
+            data_path = os.path.join("../data", name)
         # relation_path = os.path.join(data_path, task, subset, "relationship.txt")
         relation_path = os.path.join(data_path, task, subset, "relationship-mask.txt")
         mat = pd.read_csv(
@@ -63,16 +76,96 @@ class Database:
         )
         print("Load %s set" % subset)
         return mat
+    
+class DatabaseAttribute:
+    """
+    This is a dataloader for attribute prediction dataset
+    Args:
+            name (string): Name of the dataset e.g. Disease.
+            task (string): Name of the task e.g. input link prediction dataset
+    Return:
+            self.train/test/valid (df): Dataframe of train/test/valid sets.
+
+    """
+
+    def __init__(self, name, task, **kwargs):
+        self.dataset = name
+        self.task = task
+        self.is_k_fold = kwargs.get('is_k_fold', False)
+        self.fold_idx = kwargs.get('fold_idx', None)
+        self.load_dataset()
+
+    def load_dataset(self):
+        self.train = self.load_train_to_graph(self.dataset, self.task, "train", is_k_fold=self.is_k_fold, fold_idx=self.fold_idx)
+        self.test = self.load_other_to_graph(self.dataset, self.task, "test", is_k_fold=self.is_k_fold, fold_idx=self.fold_idx)
+        self.valid = self.load_other_to_graph(self.dataset, self.task, "validation", is_k_fold=self.is_k_fold, fold_idx=self.fold_idx)
+
+    def load_train_to_graph(self, name, task, subset, is_k_fold:bool=False, fold_idx=None):
+        if is_k_fold and fold_idx is not None:
+            data_path = os.path.join("../data", 'five-fold-valid', f'fold-{fold_idx}', name)
+        else:
+            data_path = os.path.join("../data", name)
+        relation_path = os.path.join(data_path, task, subset, "relationship.txt")
+        mapping_path = os.path.join(data_path, task, subset, "components-mapping.txt")
+        entity_relation_mat = pd.read_csv(
+            relation_path, names=["entity", "reaction", "type"], header=None
+        )
+        my_file = open(mapping_path, "r")
+        mapping = my_file.read()
+        mapping_list = mapping.split("\n")
+        new_list = [i.split(",") for i in mapping_list]
+        final_list = []
+        for i in new_list:
+            final_list.append([int(j) for j in i])
+        # mapping = pd.read_csv(train_mapping_path)
+        
+        data = []
+        for entity_id, attribute_list in enumerate(final_list):
+            data.extend([(attribute_id, entity_id) for attribute_id in attribute_list])
+        
+        attr_entity_mat = pd.DataFrame(data, columns=['attribute', 'entity'])
+        
+        feature_dimension = max(sum(final_list, [])) + 1
+        num_nodes = max(entity_relation_mat["entity"])
+        print(
+            subset,
+            "Num of interactions: %2d.\n Number of nodes: %2d.\n Number of features: %2d"
+            % (len(entity_relation_mat), num_nodes, feature_dimension),
+        )
+        return attr_entity_mat
+
+    def load_other_to_graph(self, name, task, subset, is_k_fold:bool=False, fold_idx=None):
+        if is_k_fold and fold_idx is not None:
+            data_path = os.path.join("../data", 'five-fold-valid', f'fold-{fold_idx}', name)
+        else:
+            data_path = os.path.join("../data", name)
+        # relation_path = os.path.join(data_path, task, subset, "relationship.txt")
+        mask_attr_path = os.path.join(data_path, task, subset, "components-mapping-mask.txt")
+        entity_attr_mat = pd.read_csv(
+            mask_attr_path, sep=':', names=["entity", "attribute"], header=None
+        )
+        attr_entity_mat = entity_attr_mat[['attribute', 'entity']]
+        
+        # from pdb import set_trace; set_trace()
+        
+        print("Load %s set" % subset)
+        return attr_entity_mat
 
 
 class DataLoaderBase:
-    def __init__(self, sub_dataset_name, task_name):
+    def __init__(self, sub_dataset_name, task_name, **kwargs):
         self.sub_dataset_name = sub_dataset_name
         self.task_name = task_name
+        
+        self.is_k_fold = kwargs.get('is_k_fold', False)
+        self.fold_idx = kwargs.get('fold_idx', None)
 
         # define path of file
         # self.__raw_data_file_path = os.path.join("data", sub_dataset_name)
-        self.raw_data_file_path = os.path.join("..", "data", sub_dataset_name)
+        if self.is_k_fold and self.fold_idx is not None:
+            self.raw_data_file_path = os.path.join("..", "data", 'five-fold-valid', f'fold-{self.fold_idx}', sub_dataset_name)
+        else:
+            self.raw_data_file_path = os.path.join("..", "data", sub_dataset_name)
         self.task_file_path = os.path.join(self.raw_data_file_path, task_name)
 
     def get_num_of_nodes_based_on_type_name(self, type_name: str = "raw") -> int:
@@ -184,7 +277,7 @@ class DataLoaderBase:
 
         return nodes_features
 
-    def get_edge_of_nodes_list_regardless_direction(self, param) -> list[list[int]]:
+    def get_edge_of_nodes_list_regardless_direction(self, param) -> List[List[int]]:
         """
         Get the nodes of all the hyper edges
         :return: [[1,2,3], [3,7,9], [4,6,7,8,10,11]...] while [1,2,3], [3,7,9], .. represent the hyper edges
@@ -235,7 +328,7 @@ class DataLoaderBase:
         )
 
     def get_edge_to_list_of_nodes_dict_assist(
-        self, relationship_line_message_list: list[str]
+        self, relationship_line_message_list: List[str]
     ):
         edge_to_list_of_nodes_dict: dict[int, list[int]] = dict()
         edge_to_list_of_input_nodes_dict: dict[int, list[int]] = dict()
@@ -270,7 +363,7 @@ class DataLoaderBase:
     def get_labels(self):
         pass
 
-    def get_nodes_mask_assist(self, type_name: str) -> list[int]:
+    def get_nodes_mask_assist(self, type_name: str) -> List[int]:
         nodes_mask: list[int] = list()
 
         path: str = os.path.join(self.task_file_path, type_name)
@@ -288,7 +381,7 @@ class DataLoaderBase:
 
         return nodes_mask
 
-    def get_edges_mask_assist(self, type_name: str) -> list[int]:
+    def get_edges_mask_assist(self, type_name: str) -> List[int]:
         edges_mask: list[int] = list()
 
         path: str = os.path.join(self.task_file_path, type_name)
@@ -305,8 +398,8 @@ class DataLoaderBase:
 
 
 class DataLoaderAttribute(DataLoaderBase):
-    def __init__(self, sub_dataset_name, task_name):
-        super().__init__(sub_dataset_name, task_name)
+    def __init__(self, sub_dataset_name, task_name, **kwargs):
+        super().__init__(sub_dataset_name, task_name, **kwargs)
 
         # node mask
         (
@@ -408,7 +501,7 @@ class DataLoaderAttribute(DataLoaderBase):
         return nodes_to_list_of_masked_components
 
     def __get_complete_nodes_features_mix_negative_for_attribute_prediction(
-        self, node_mask: list[int], type_name: str
+        self, node_mask: List[int], type_name: str
     ):
         nodes_features_mix_negative: list[
             list[int]
@@ -447,7 +540,7 @@ class DataLoaderAttribute(DataLoaderBase):
 
     def __get_nodes_features_mix_negative_assist(
         self, type_name: str
-    ) -> list[list[int]]:
+    ) -> List[List[int]]:
         if "test" != type_name and "validation" != type_name:
             raise Exception('The type should be "test" or "validation"')
         if "attribute prediction dataset" != self.task_name:
@@ -491,7 +584,7 @@ class DataLoaderAttribute(DataLoaderBase):
 
         return nodes_features_mix_negative
 
-    def __get_nodes_mask(self) -> tuple[list[int], list[int], list[int]]:
+    def __get_nodes_mask(self) -> Tuple[List[int], List[int], List[int]]:
         train_nodes_mask = super().get_nodes_mask_assist("train")
         validation_nodes_mask = super().get_nodes_mask_assist("validation")
         test_nodes_mask = super().get_nodes_mask_assist("test")
@@ -500,7 +593,7 @@ class DataLoaderAttribute(DataLoaderBase):
 
     def get_edge_of_nodes_list_regardless_direction(
         self, type_name: str
-    ) -> list[list[int]]:
+    ) -> List[List[int]]:
         """
         :return: [[1,2,3], [3,7,9], [4,6,7,8,10,11]...] while [1,2,3], [3,7,9], .. represent the hyper edges
         """
@@ -519,8 +612,8 @@ class DataLoaderAttribute(DataLoaderBase):
 
 
 class DataLoaderLink(DataLoaderBase):
-    def __init__(self, sub_dataset_name, task_name):
-        super().__init__(sub_dataset_name, task_name)
+    def __init__(self, sub_dataset_name, task_name, **kwargs):
+        super().__init__(sub_dataset_name, task_name, **kwargs)
 
         (
             self.__raw_edge_to_nodes_dict,
@@ -591,11 +684,11 @@ class DataLoaderLink(DataLoaderBase):
 
     def __get_edge_to_list_of_nodes_dict(
         self,
-    ) -> tuple[
-        dict[int, list[int]],
-        dict[int, list[int]],
-        dict[int, list[int]],
-        dict[int, list[int]],
+    ) -> Tuple[
+        Dict[int, List[int]],
+        Dict[int, List[int]],
+        Dict[int, List[int]],
+        Dict[int, List[int]],
     ]:
         (
             raw_edge_to_list_of_nodes_dict,
@@ -625,7 +718,7 @@ class DataLoaderLink(DataLoaderBase):
             test_edge_to_list_of_nodes_dict,
         )
 
-    def get_edge_of_nodes_list_regardless_direction(self, type_name) -> list[list[int]]:
+    def get_edge_of_nodes_list_regardless_direction(self, type_name) ->List[List[int]]:
         """
         :return: [[1,2,3], [3,7,9], [4,6,7,8,10,11]...] while [1,2,3], [3,7,9], .. represent the hyper edges
         """
@@ -648,7 +741,7 @@ class DataLoaderLink(DataLoaderBase):
 
     def __get_list_of_edges_of_nodes_based_on_train_dataset(
         self,
-    ) -> tuple[list[list[int]], list[list[int]], list[list[int]]]:
+    ) -> Tuple[List[List[int]], List[List[int]], List[List[int]]]:
         num_of_edges = self.get_num_of_edges_based_on_type_name("train")
         (
             edge_to_list_of_nodes_dict,
@@ -780,7 +873,7 @@ class DataLoaderLink(DataLoaderBase):
         return train_edges_mask, validation_edges_mask, test_edges_mask
 
     def get_masked_train_edge_of_nodes_list_regardless_direction(
-        self, train_edge_mask: list[int]
+        self, train_edge_mask: List[int]
     ):
         train_edge_of_nodes_list_regardless_direction: list[
             list[int]

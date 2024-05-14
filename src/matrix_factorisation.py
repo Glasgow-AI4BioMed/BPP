@@ -70,6 +70,88 @@ class MF(torch.nn.Module):
         return scores
 
 
+class MFAttr(torch.nn.Module):
+    """A pytorch Module for Matrix Factorization."""
+
+    def __init__(self, config):
+        """Initialize MF Class."""
+        super(MFAttr, self).__init__()
+        self.config = config
+        self.device = self.config["device_str"]
+        self.stddev = self.config["stddev"] if "stddev" in self.config else 0.1
+        
+        self.n_attribute = self.config["n_attribute"]
+        self.n_entity = self.config["n_entity"]
+        self.emb_dim = self.config["emb_dim"]
+        
+        self.attribute_emb = nn.Embedding(self.n_attribute, self.emb_dim)
+        self.entity_emb = nn.Embedding(self.n_entity, self.emb_dim)
+                
+        self.attribute_bias = nn.Embedding(self.n_attribute, 1)
+        self.entity_bias = nn.Embedding(self.n_entity, 1)
+        
+        # from pdb import set_trace; set_trace()
+        
+        self.global_bias = Parameter(torch.zeros(1))
+        
+        self.attribute_bias.weight.data.fill_(0.0)
+        self.entity_bias.weight.data.fill_(0.0)
+        
+        self.global_bias.data.fill_(0.0)
+        nn.init.normal_(self.attribute_emb.weight, 0, self.stddev)
+        nn.init.normal_(self.entity_emb.weight, 0, self.stddev)
+        
+
+    def forward(self, batch_data):
+        """Train the model.
+        Args:
+            batch_data: tuple consists of (users, pos_items, neg_items), which must be LongTensor.
+        """
+        attribute, entity = batch_data
+        a_emb = self.attribute_emb(attribute)
+        a_bias = self.attribute_bias(attribute)
+        
+        e_emb = self.entity_emb(entity)
+        e_bias = self.entity_bias(entity)
+        
+        # from pdb import set_trace; set_trace()
+        
+        try:
+            scores = torch.sigmoid(
+                torch.sum(torch.mul(a_emb, e_emb).squeeze(1), dim=1)
+                + a_bias.squeeze()
+                + e_bias.squeeze()
+                + self.global_bias
+            )
+        except Exception as e:
+            from pdb import set_trace; set_trace()
+
+        regularizer = (
+            (a_emb**2).sum()
+            + (e_emb**2).sum()
+            + (a_bias**2).sum()
+            + (e_bias**2).sum()
+        ) / a_emb.size()[0]
+        return scores, regularizer
+
+    def predict(self, attribute, entity):
+        """Predict result with the model.
+        Args:
+            users (int, or list of int):  user id(s).
+            items (int, or list of int):  item id(s).
+        Return:
+            scores (int, or list of int): predicted scores of these user-item pairs.
+        """
+        attribute_t = torch.LongTensor(attribute).to(self.device)
+        entity_t = torch.LongTensor(entity).to(self.device)
+        with torch.no_grad():
+            scores, _ = self.forward((attribute_t, entity_t))
+        return scores
+
+
+
+
+
 class MFEngine(ModelEngine):
     """MFEngine Class."""
 
@@ -77,7 +159,10 @@ class MFEngine(ModelEngine):
         """Initialize MFEngine Class."""
         self.config = config
         # print_dict_as_table(config["model"], tag="MF model config")
-        self.model = MF(config)
+        if "task" in config.keys() and "attr" in config["task"].lower():
+            self.model = MFAttr(config) 
+        else:
+            self.model = MF(config)
         self.reg = 0.01
         # self.loss = torch.nn.HingeEmbeddingLoss()
         self.batch_size = config["batch_size"]
@@ -118,6 +203,9 @@ class MFEngine(ModelEngine):
         self.model.train()
         total_loss = 0.0
         regularizer = 0.0
+        
+        # from pdb import set_trace; set_trace()
+        
         for batch_data in train_loader:
             loss, reg = self.train_single_batch(batch_data)
             total_loss += loss

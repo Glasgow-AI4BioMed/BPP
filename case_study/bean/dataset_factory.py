@@ -1,7 +1,7 @@
 import os
 from copy import copy, deepcopy
 from functools import wraps
-from typing import cast
+from typing import Dict, List, cast
 
 import numpy as np
 
@@ -11,7 +11,7 @@ from case_study.utils.constant_definition import ToplevelPathwayNameEnum, FileNa
 
 
 class ToplevelPathwayFactory:
-    def initialize_toplevel_pathways(self) -> list[ToplevelPathway]:
+    def initialize_toplevel_pathways(self) -> List[ToplevelPathway]:
         disease_description: str = "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortormauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magnamollis euismod. Donec sed odio dui. "
         immune_system_description: str = "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortormauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magnamollis euismod. Donec sed odio dui. "
         metabolism_description: str = "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortormauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magnamollis euismod. Donec sed odio dui. "
@@ -146,7 +146,7 @@ class DatasetFactory:
     def get_dataset(self):
         return self.__dataset
 
-    def __create_dataset(self, toplevel_pathway_name: str, file_name_args: dict[str, str]) -> Dataset:
+    def __create_dataset(self, toplevel_pathway_name: str, file_name_args: Dict[str, str]) -> Dataset:
         dataset = Dataset()
         attributes_dict: dict[int, Attribute] = DataFactoryUtils.ReadFileUtils.read_attributes_dict_from_file(
             toplevel_pathway_name,
@@ -265,15 +265,15 @@ class DataFactoryUtils:
 
     @staticmethod
     def convert_node_and_attributes_mapping_line_message_to_list_of_attributes_indexes(
-            node_and_attributes_mapping_line_message: str) -> list[int]:
+            node_and_attributes_mapping_line_message: str) -> List[int]:
         list_of_attributes_string_style = node_and_attributes_mapping_line_message.split(",")
         list_of_attributes_index = [int(attributes_string_style) for attributes_string_style in
                                     list_of_attributes_string_style]
         return list_of_attributes_index
 
     @staticmethod
-    def fill_nodes_inner_attributes_list_(pair_of_node_and_component_list: list[PairOfNodeAndAttribute],
-                                          nodes_dict: dict[int, Node], attributes_dict: dict[int, Attribute]):
+    def fill_nodes_inner_attributes_list_(pair_of_node_and_component_list: List[PairOfNodeAndAttribute],
+                                          nodes_dict: Dict[int, Node], attributes_dict: Dict[int, Attribute]):
 
         for pair_of_node_and_component in pair_of_node_and_component_list:
             try:
@@ -287,8 +287,8 @@ class DataFactoryUtils:
                         pair_of_node_and_component.node_index, pair_of_node_and_component.attribute_index))
 
     @staticmethod
-    def fill_edges_inner_nodes_list_(relationships_list: list[Relationship], edges_dict: dict[int, Edge],
-                                     nodes_dict: dict[int, Node]):
+    def fill_edges_inner_nodes_list_(relationships_list: List[Relationship], edges_dict: Dict[int, Edge],
+                                     nodes_dict: Dict[int, Node]):
         for relationship in relationships_list:
             try:
                 edge = edges_dict[relationship.edge_index]
@@ -315,7 +315,7 @@ class DataFactoryUtils:
 
     class ReadFileUtils:
         @staticmethod
-        def read_file_via_lines(path: str, file_name: str = '') -> list[str]:
+        def read_file_via_lines(path: str, file_name: str = '') -> List[str]:
             # root_path: str = get_root_path_of_project("PathwayGNN")
             if '' == file_name or None is file_name:
                 url: str = path
@@ -343,7 +343,7 @@ class DataFactoryUtils:
 
         @staticmethod
         def read_attributes_dict_from_file(pathway_name: str, attribute_stId_file_name: str,
-                                           attribute_name_file_name: str) -> dict[int, Attribute]:
+                                           attribute_name_file_name: str) -> Dict[int, Attribute]:
             attribute_stId_file_path = DataFactoryUtils.generate_path(pathway_name, attribute_stId_file_name)
             attribute_name_file_path = DataFactoryUtils.generate_path(pathway_name, attribute_name_file_name)
 
@@ -403,7 +403,7 @@ class DataFactoryUtils:
             return edges_dict
 
         @staticmethod
-        def read_relationships_list(pathway_name: str, relationship_file_name: str, nodes_dict, edges_dict) -> list[
+        def read_relationships_list(pathway_name: str, relationship_file_name: str, nodes_dict, edges_dict) -> List[
             Relationship]:
             relationship_file_path = DataFactoryUtils.generate_path(pathway_name, relationship_file_name)
             relationship_line_message_list = DataFactoryUtils.ReadFileUtils.read_file_via_lines(relationship_file_path)
@@ -420,7 +420,7 @@ class DataFactoryUtils:
         @staticmethod
         def read_pair_of_node_and_component_list(pathway_name: str, pair_of_node_and_attribute_file_name: str,
                                                  nodes_dict,
-                                                 attributes_dict) -> list[
+                                                 attributes_dict) -> List[
             PairOfNodeAndAttribute]:
 
             pair_of_node_and_attribute_list: list[PairOfNodeAndAttribute] = list()
@@ -468,7 +468,7 @@ class DataFactoryUtils:
                 os.remove(url)
 
         @staticmethod
-        def write_message_to_file(message: list[str], path: str, file_name: str = ''):
+        def write_message_to_file(message: List[str], path: str, file_name: str = ''):
             if '' == file_name or None is file_name:
                 url: str = path
             else:
@@ -546,7 +546,7 @@ class FileProcessor:
             os.remove(url)
 
     # write message to txt file
-    def writeMessageToFile(self, path, file_name, message: list[str]):
+    def writeMessageToFile(self, path, file_name, message: List[str]):
         url = os.path.join("..", "..", path, file_name)
         if not os.path.exists(url):
             print("error! the file \"" + file_name + "\" doesn't exist!")

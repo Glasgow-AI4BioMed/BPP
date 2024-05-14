@@ -17,7 +17,7 @@ from data_loader import DataLoaderLink
 
 learning_rate = 0.01
 weight_decay = 5e-4
-project_name = "gnn_link_prediction_sweep_2023_Jan"
+project_name = "gnn_link_prediction_sweep_2024_May"
 
 # set device
 device = (
@@ -179,6 +179,11 @@ def test(
     ndcg_res_5 = ndcg_score(labels, outs, k=5)
     ndcg_res_10 = ndcg_score(labels, outs, k=10)
     ndcg_res_15 = ndcg_score(labels, outs, k=15)
+    
+    ndcg_res_20 = ndcg_score(labels, outs, k=20)
+    ndcg_res_30 = ndcg_score(labels, outs, k=30)
+    ndcg_res_40 = ndcg_score(labels, outs, k=40)
+    ndcg_res_50 = ndcg_score(labels, outs, k=50)
 
     acc_res = accuracy_score(cat_labels, cat_outs)
     acc_res_3 = top_k_accuracy_score(cat_labels, outs, k=3, labels=range(outs.shape[1]))
@@ -189,6 +194,12 @@ def test(
     acc_res_15 = top_k_accuracy_score(
         cat_labels, outs, k=15, labels=range(outs.shape[1])
     )
+    
+    acc_res_20 = top_k_accuracy_score(cat_labels, outs, k=20, labels=range(outs.shape[1]))
+    acc_res_30 = top_k_accuracy_score(cat_labels, outs, k=30, labels=range(outs.shape[1]))
+    acc_res_40 = top_k_accuracy_score(cat_labels, outs, k=40, labels=range(outs.shape[1]))
+    acc_res_50 = top_k_accuracy_score(cat_labels, outs, k=50, labels=range(outs.shape[1]))
+    
 
     print("\033[1;32m" + "The test ndcg is: " + "{:.5f}".format(ndcg_res) + "\033[0m")
     print(
@@ -200,11 +211,19 @@ def test(
         "test_ndcg_5": ndcg_res_5,
         "test_ndcg_10": ndcg_res_10,
         "test_ndcg_15": ndcg_res_15,
+        "test_ndcg_20": ndcg_res_20,
+        "test_ndcg_30": ndcg_res_30,
+        "test_ndcg_40": ndcg_res_40,
+        "test_ndcg_50": ndcg_res_50,
         "test_acc": acc_res,
         "test_acc_3": acc_res_3,
         "test_acc_5": acc_res_5,
         "test_acc_10": acc_res_10,
         "test_acc_15": acc_res_15,
+        "test_acc_20": acc_res_20,
+        "test_acc_30": acc_res_30,
+        "test_acc_40": acc_res_40,
+        "test_acc_50": acc_res_50,
     }
 
 
@@ -213,6 +232,8 @@ def main(config=None):
         if config is not None:
             wandb.config.update(config)
         config = wandb.config
+        is_k_fold = config.get("is_k_fold", False)
+        fold_idx = config.get("fold_idx", None)
 
         # # set device
         # device = (
@@ -221,7 +242,7 @@ def main(config=None):
         # initialize the data_loader
         # data_loader = DataLoaderLink("Disease", "input link prediction dataset")
 
-        data_loader = DataLoaderLink(config.dataset, config.task)
+        data_loader = DataLoaderLink(config.dataset, config.task, is_k_fold=is_k_fold, fold_idx=fold_idx)
 
         # get the total number of nodes of this graph
         num_of_nodes: int = data_loader["num_nodes"]
@@ -247,6 +268,8 @@ def main(config=None):
 
         # to device
         # train_all_hyper_edge_list = train_all_hyper_edge_list.to(device)
+        
+        # from pdb import set_trace; set_trace()
 
         # the train hyper graph
         hyper_graph_train = Hypergraph(
@@ -309,8 +332,8 @@ def main(config=None):
         else:
             raise Exception("Sorry, no model_name has been recognized.")
 
-        model_save_dir = f"../save_model_ckp/{config.model_name}_{config.dataset}_{config.task}_{config.learning_rate}.bin"
-        ensureDir("../save_model_ckp")
+        model_save_dir = f"../save_model_ckp/{config.dataset}/{config.task}/{config.model_name}_{config.dataset}_{config.task}_{config.emb_dim}_{config.learning_rate}_{config.drop_out}.bin"
+        ensureDir(f"../save_model_ckp/{config.dataset}/{config.task}")
         net_model.device = device
         # set the optimizer
         optimizer = optim.Adam(
@@ -363,8 +386,10 @@ def main(config=None):
                         validation_labels,
                     )
                     if best_valid_ndcg<valid_result['valid_ndcg']:
+                        best_model = net_model
                         best_valid_ndcg = valid_result['valid_ndcg']
-                        torch.save(net_model.state_dict(), model_save_dir)
+                        if config.is_save_model:
+                            torch.save(best_model.state_dict(), model_save_dir)
                     
                     # valid_ndcg, valid_acc = (
                     #     valid_result["valid_ndcg"],
@@ -384,9 +409,52 @@ def main(config=None):
                     epoch_log.update(valid_result)
                     epoch_log.update(test_result)
                     wandb.log(epoch_log)
+        
+        with torch.no_grad():
+            test_res = test(best_model, train_nodes_features, test_hyper_edge_list, graph_test, test_labels)
+            if is_k_fold:
+                save_res_path = f"../results/five-fold-valid/{config.dataset}/{config.task}/{config.fold_idx}/{config.model_name}_{config.dataset}_{config.task}_{config.emb_dim}_{config.learning_rate}_{config.drop_out}.json"
+                ensureDir(f"../results/five-fold-valid/{config.dataset}/{config.task}/{config.fold_idx}")
+            else:
+                save_res_path = f"../results/{config.dataset}/{config.task}/{config.model_name}_{config.dataset}_{config.task}_{config.emb_dim}_{config.learning_rate}_{config.drop_out}.json"
+                ensureDir(f"../results/{config.dataset}/{config.task}")
+            
+            utils.save_json(test_res, save_res_path, use_indent=True)
+        
+        
+        
 
 
 def sweep():
+    print("Please input model name. Options: GCN, HGNN, HGNNP")
+    model_name = input()
+    print(f"start tunning {model_name}")
+    for task in ["output link prediction dataset", "input link prediction dataset"]:
+        for dataset in [
+            "Immune System",
+            "Metabolism",
+            "Signal Transduction",
+            "Disease",
+        ]:
+            sweep_config = {"method": "grid"}
+            metric = {"name": "valid_ndcg", "goal": "maximize"}
+            sweep_config["metric"] = metric
+            parameters_dict = {
+                "learning_rate": {"values": [0.01, 0.05, 0.005]},
+                "emb_dim": {"values": [128, 256]},
+                "drop_out": {"values": [0.5]},
+                "weight_decay": {"values": [5e-4]},
+                "model_name": {"values": [model_name]},
+                "task": {"values": [task]},
+                "dataset": {"values": [dataset]},
+                "is_save_model": {"values": [True]},
+            }
+            sweep_config["parameters"] = parameters_dict
+            pprint.pprint(sweep_config)
+            sweep_id = wandb.sweep(sweep_config, project=f"{task}_sweep_2023_May")
+            wandb.agent(sweep_id, main)
+            
+def five_fold_sweep():
     print("Please input model name. Options: GCN, HGNN, HGNNP")
     model_name = input()
     print(f"start tunning {model_name}")
@@ -408,25 +476,33 @@ def sweep():
                 "model_name": {"values": [model_name]},
                 "task": {"values": [task]},
                 "dataset": {"values": [dataset]},
+                "is_save_model": {"values": [False]},
+                "is_k_fold": {"values": [True]},
+                "fold_idx": {"values": [0, 1, 2, 3, 4]},
             }
             sweep_config["parameters"] = parameters_dict
             pprint.pprint(sweep_config)
             sweep_id = wandb.sweep(sweep_config, project=f"{task}_sweep_2023_May")
-            wandb.agent(sweep_id, main)
+            wandb.agent(sweep_id, main)            
 
 
-print("Are you going to run it as a sweep program? Y/N")
+print("Are you going to run it as a five fold validation? Y/N")
 answer = input()
 if answer.lower() == "y":
-    sweep()
+    five_fold_sweep()
 else:
-    config = {
-        "learning_rate": 0.05,
-        "emb_dim": 128,
-        "drop_out": 0.5,
-        "weight_decay": 5e-4,
-        "model_name": "HGNN",
-        "task": "output link prediction dataset",
-        "dataset": "Disease",
-    }
-    main(config)
+    print("Are you going to run it as a sweep program? Y/N")
+    answer = input()
+    if answer.lower() == "y":
+        sweep()
+    else:
+        config = {
+            "learning_rate": 0.05,
+            "emb_dim": 128,
+            "drop_out": 0.5,
+            "weight_decay": 5e-4,
+            "model_name": "HGNN",
+            "task": "output link prediction dataset",
+            "dataset": "Disease",
+        }
+        main(config)

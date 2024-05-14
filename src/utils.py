@@ -1,3 +1,4 @@
+import json
 import os
 import platform
 import random
@@ -15,6 +16,35 @@ from scipy.sparse import csr_matrix
 
 # from tensorboardX import SummaryWriter
 from torch.utils.data import DataLoader, Dataset
+
+def load_json(path, type="json"):
+    assert type in ["json", "jsonl"] # only support json or jsonl format
+    if type == "json":
+        outputs = json.loads(open(path, "r", encoding="utf-8").read())
+    elif type == "jsonl":
+        outputs = []
+        with open(path, "r", encoding="utf-8") as fin:
+            for line in fin:
+                outputs.append(json.loads(line))
+    else:
+        outputs = []
+    return outputs
+
+
+def save_json(data, path, type="json", use_indent=False):
+    assert type in ["json", "jsonl"] # only support json or jsonl format
+    if type == "json":
+        with open(path, "w", encoding="utf-8") as fout:
+            if use_indent:
+                fout.write(json.dumps(data, indent=4))
+            else:
+                fout.write(json.dumps(data))
+    elif type == "jsonl":
+        with open(path, "w", encoding="utf-8") as fout:
+            for item in data:
+                fout.write("{}\n".format(json.dumps(item)))
+            
+    return path
 
 
 def read_file_via_lines(path: str, file_name: str) -> List[str]:
@@ -514,6 +544,51 @@ def instance_bpr_loader(data, batch_size, device, n_entity, n_reaction):
     return DataLoader(dataset, batch_size=batch_size, shuffle=True)
 
 
+def instance_bpr_loader_attr(data, batch_size, device, n_attribute, n_entity):
+    """Instance a pairwise Data_loader for training for attribute prediction task
+    Sample ONE negative items for each user-item pare, and shuffle them with positive items.
+    A batch of data in this DataLoader is suitable for a binary cross-entropy loss.
+    # todo implement the item popularity-biased sampling
+    """
+    # entity, pos_reaction, neg_reaction = [], [], []
+    
+    attribute, pos_entity, neg_entity = [], [], []
+    
+    attribute_id_pool = [i for i in range(n_attribute)]
+    entity_id_pool = [i for i in range(n_entity)]
+    # reaction_id_pool = [i for i in range(n_reaction)]
+
+    interact_status = (
+        data.groupby("attribute")["entity"]
+        .apply(set)
+        .reset_index()
+        .rename(columns={"entity": "observed_entity"})
+    )
+    interact_status["unobserved_entity"] = interact_status["observed_entity"].apply(
+        lambda x: set(entity_id_pool) - x
+    )
+    train_ratings = pd.merge(
+        data,
+        interact_status[["attribute", "unobserved_entity"]],
+        on="attribute",
+    )
+    train_ratings["unobserved_entity"] = train_ratings["unobserved_entity"].apply(
+        lambda x: random.sample(list(x), 1)[0]
+    )
+    for _, row in train_ratings.iterrows():
+        attribute.append(row["attribute"])
+        pos_entity.append(row["entity"])
+        neg_entity.append(row["unobserved_entity"])
+
+    dataset = PairwiseNegativeDataset(
+        user_tensor=torch.LongTensor(attribute).to(device),
+        pos_item_tensor=torch.LongTensor(pos_entity).to(device),
+        neg_item_tensor=torch.LongTensor(neg_entity).to(device),
+    )
+    print(f"Making PairwiseNegativeDataset of length {len(dataset)}")
+    return DataLoader(dataset, batch_size=batch_size, shuffle=True)
+
+
 def predict_full(data_df, engine, batch_eval=True):
     """Make prediction for a trained model.
     Args:
@@ -538,6 +613,9 @@ def predict_full(data_df, engine, batch_eval=True):
     entity_ids = np.array(full_entity)
     reaction_ids = np.array(full_reac)
     batch_size = 50
+    
+    # from pdb import set_trace; set_trace()
+    
     if batch_eval:
         n_batch = len(entity_ids) // batch_size + 1
         predictions = np.array([])
@@ -557,6 +635,70 @@ def predict_full(data_df, engine, batch_eval=True):
     else:
         predictions = np.array(
             engine.model.predict(entity_ids, reaction_ids)
+            .flatten()
+            .to(torch.device("cpu"))
+            .detach()
+            .numpy()
+        )
+
+    return predictions
+
+
+def predict_full_attr(data_df, engine, batch_eval=True):
+    """Make prediction for a trained model.
+    Args:
+        data_df (DataFrame): A dataset to be evaluated.
+        model: A trained model.
+        batch_eval (Boolean): A signal to indicate if the model is evaluated in batches.
+    Returns:
+        array: predicted scores.
+    """
+    attribute_ids = data_df["attribute"].to_numpy()
+    attribute_set = set(attribute_ids)
+    
+    entity_ids = data_df["entity"].to_numpy()
+    entity_set = set(entity_ids)
+    
+    full_attribute = []
+    full_entity = []
+    
+    for i in range(len(entity_ids)):
+        full_attribute.append(attribute_ids[i])
+        full_entity.append(entity_ids[i])
+        
+        full_attribute.extend(list(attribute_set-set([attribute_ids[i]])))
+        full_entity.extend([entity_ids[i]] * (len(attribute_set) - 1))
+    
+    
+    attribute_ids = np.array(full_attribute)
+    entity_ids = np.array(full_entity)
+    batch_size = 50
+    
+    # from pdb import set_trace; set_trace()
+    
+    if batch_eval:
+        n_batch = len(attribute_ids) // batch_size + 1
+        predictions = np.array([])
+        for idx in range(n_batch):
+            start_idx = idx * batch_size
+            end_idx = min((idx + 1) * batch_size, len(entity_ids))
+            
+            sub_attribute_ids = attribute_ids[start_idx:end_idx]
+            sub_entity_ids = entity_ids[start_idx:end_idx]
+            
+            # from pdb import set_trace; set_trace()
+            
+            sub_predictions = np.array(
+                engine.model.predict(sub_attribute_ids, sub_entity_ids)
+                .flatten()
+                .to(torch.device("cpu"))
+                .detach()
+                .numpy()
+            )
+            predictions = np.append(predictions, sub_predictions)
+    else:
+        predictions = np.array(
+            engine.model.predict(attribute_ids, entity_ids)
             .flatten()
             .to(torch.device("cpu"))
             .detach()

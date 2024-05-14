@@ -1,5 +1,5 @@
 import os
-from typing import Union, Tuple
+from typing import Dict, List, Union, Tuple
 
 import numpy as np
 import torch
@@ -19,7 +19,7 @@ from case_study.utils.data_loader import DataLoaderLink, Database
 from case_study.utils.utils import read_file_via_lines, encode_edges_features, predict_full
 
 
-def filter_regulator_relationships(relationships: list[Relationship]):
+def filter_regulator_relationships(relationships: List[Relationship]):
     relationships_after_filter: list[Relationship] = list()
     for relationship in relationships:
         if relationship.direction != 0:
@@ -79,7 +79,7 @@ class ModelEngine:
         num_of_edges = len(edge_line_message_list)
         return num_of_edges
 
-    def get_reactions_with_entities_masked_for_testing(self, data_version: DataWithVersion, threshold_degree: int) -> Tuple[list[Edge], list[Edge]]:
+    def get_reactions_with_entities_masked_for_testing(self, data_version: DataWithVersion, threshold_degree: int) -> Tuple[List[Edge], List[Edge]]:
 
         toplevel_pathway_name = self.__toplevel_pathway_name
 
@@ -125,7 +125,7 @@ class ModelEngine:
 
         return reactions_with_primary_entities_masked, reactions_with_secondary_entities_masked
 
-    def evaluate_on_list_of_reactions(self, list_of_selected_reaction: list[Edge]):
+    def evaluate_on_list_of_reactions(self, list_of_selected_reaction: List[Edge]):
 
         config = dict()
         config['toplevel_pathway'] = self.__toplevel_pathway_name
@@ -145,7 +145,7 @@ class ModelEngine:
         # config['list_of_selected_edge_index'] = list_of_selected_edge_index
         return self.__evaluate(config=config, list_of_selected_edge_index=list_of_selected_edge_index)
 
-    def __evaluate(self, config, list_of_selected_edge_index: list[int]):
+    def __evaluate(self, config, list_of_selected_edge_index: List[int]):
 
         device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -225,8 +225,8 @@ class ModelEngine:
             graph=graph,
         )
 
-    def case_study_predict(self, list_of_selected_edge: list[Edge],
-                           list_of_target_node_of_all_selected_edge: list[Node]) -> dict[str, float]:
+    def case_study_predict(self, list_of_selected_edge: List[Edge],
+                           list_of_target_node_of_all_selected_edge: List[Node]) -> Dict[str, float]:
 
         list_of_selected_edge_index = [edge.index for edge in list_of_selected_edge]
 
@@ -283,8 +283,8 @@ class ModelEngine:
         #
         # edge = dataset.select_edge_based_on_index(0)
 
-    def __case_study_evaluate(self, config, list_of_valid_nodes_indexes_of_all_selected_edges: list[list[int]],
-                              list_of_target_node_index_of_all_selected_edges: list[list[int]]) -> dict[str, float]:
+    def __case_study_evaluate(self, config, list_of_valid_nodes_indexes_of_all_selected_edges: List[List[int]],
+                              list_of_target_node_index_of_all_selected_edges: List[List[int]]) -> Dict[str, float]:
         # set device
         device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
@@ -346,10 +346,10 @@ class ModelEngine:
             self,
             net_model,
             nodes_features,
-            hyper_edge_list: list[list[int]],
-            labels: list[list[int]],
+            hyper_edge_list: List[List[int]],
+            labels: List[List[int]],
             graph,
-    ) -> dict[str, float]:
+    ) -> Dict[str, float]:
         net_model.eval()
         # [[1,2,3],[2,3,4,5]...]
         edges_embeddings = (

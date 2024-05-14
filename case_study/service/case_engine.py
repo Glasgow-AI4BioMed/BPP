@@ -1,3 +1,4 @@
+from typing import List
 from case_study.bean.bean_collection import Edge, Node, Relationship
 from case_study.bean.data_comparator import DataComparator
 from case_study.bean.data_version import DataWithVersion
@@ -39,8 +40,8 @@ class CaseEngine:
         self.cases_pool: list[Case] = list()
         self.res: dict[str, dict[str, float]] = dict()
 
-    def add_single_case(self, dataset_name, relationship: Relationship, model_name_list: list[str],
-                        case_study_result_list: list[dict]):
+    def add_single_case(self, dataset_name, relationship: Relationship, model_name_list: List[str],
+                        case_study_result_list: List[dict]):
         case = Case(dataset_name, relationship.edge, relationship.node)
 
         for index, model_name in enumerate(model_name_list):
@@ -175,7 +176,7 @@ def case_study_on_dataset(dataset_name: str):
     case_engine.print_res()
 
 
-def case_study_on_multi_dataset(dataset_name_list: list[str]):
+def case_study_on_multi_dataset(dataset_name_list: List[str]):
     """
     :param dataset_name: "Disease" /
     :return:
