@@ -1,0 +1,32 @@
+{% extends "common/base.html" %}<!--继承基础模板-->
+{#{% block title %}test{% endblock %}#}
+{% block content %}<!--自定义模板区域-->
+    {#    E:\Python_Project\reactome_visual\app\templates\home.html#}
+    {#    E:\Python_Project\reactome_visual\app\templates\common\base.html#}
+    <div class="col-sm-12 m-auto">
+        <div class="mt-4 p-5 bg-light rounded">
+            <h1>PathwayGNN</h1>
+            <p>This is an example describing the basic functionality of PathwayGNN. It extracts pathway data from the
+                Reactome database and performs attribute prediction and link prediction tasks based on GNN methods.</p>
+        </div>
+        <div class="mt-4 p-5 rounded">
+            <h2>Customize Reaction</h2>
+            <p>This module allows the user to select input and output nodes from the database and customise a reaction,
+                or to add a new node to an already existing reaction, then make a prediction.</p>
+            <p><a class="btn btn-default"
+                  href="{{url_for('web.customize_reaction', dataset='immune_system')}}"
+                  role="button">View details &raquo;</a></p>
+        </div>
+        <div class="row m-4">
+            {% for toplevel_pathway in all_toplevel_pathways %}
+                <div class="col-xs-6 col-lg-6">
+                    <h2>{{ toplevel_pathway.name }}</h2>
+                    <p>{{ toplevel_pathway.description }}</p>
+                    <p><a class="btn btn-default"
+                          href="{{ url_for('web.show_reactions',toplevel_pathway_name_url_format=toplevel_pathway.name_url_format,page=1) }}"
+                          role="button">View details &raquo;</a></p>
+                </div>
+            {% endfor %}
+        </div><!--/row-->
+    </div><!--/.col-xs-12.col-sm-9-->
+{% endblock %}

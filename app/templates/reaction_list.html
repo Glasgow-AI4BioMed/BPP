@@ -1,0 +1,576 @@
+{% extends "common/base.html" %}<!--继承基础模板-->
+{#{% block title %}test{% endblock %}#}
+
+{% block content %}<!--自定义模板区域-->
+    {#    E:\Python_Project\reactome_visual\app\templates\home.html#}
+    {#    E:\Python_Project\reactome_visual\app\templates\common\base.html#}
+
+    <div class="col-sm-12 m-auto">
+        <div class="mt-4 p-5 bg-light rounded">
+            <h1 id="current_toplevel_pathway">{{ current_toplevel_pathway.name }}</h1>
+            <p>This is an example describing the basic functionality of {{ current_toplevel_pathway.name }}. It extracts
+                pathway data
+                from the
+                Reactome database and performs attribute prediction and link prediction tasks based on GNN methods.</p>
+        </div>
+        <div class="row mt-4">
+            {% for edge in edges_list %}
+                <div class="col-xs-12 col-lg-12 border-2 border-primary bg-light mt-4">
+                    <h4>{{ edge.name }}</h4>
+                    <div class="mt-4">
+                        <h6 class="text-primary">Input</h6>
+                        <p>
+                            {% for input_node in edge.input_nodes_list %}
+                                [{{ input_node.name }}]&nbsp;&nbsp;
+                            {% endfor %}
+                        </p>
+                        <h6 class="text-danger">Output</h6>
+                        <p>
+                            {% for output_node in edge.output_nodes_list %}
+                                [{{ output_node.name }}]&nbsp;&nbsp;
+                            {% endfor %}
+                        </p>
+                        {% if (edge.regulator_nodes_list)|length > 0 %}
+                            <h6 class="text-success">Regulator</h6>
+                            <p>
+                                {% for regulator_node in edge.regulator_nodes_list %}
+                                    [{{ regulator_node.name }}]&nbsp;&nbsp;
+                                {% endfor %}
+                            </p>
+                        {% endif %}
+                    </div>
+                    {#                    <div class="d-flex justify-content-end">#}
+                    {#                    <div class="d-flex">#}
+                    <div class="d-flex justify-content-end">
+                        <button id="mask{{ loop.index0 }}" class="btn btn-light" style="color: saddlebrown">Mask
+                        </button>
+                        <button id="delete{{ loop.index0 }}" class="btn btn-light" style="color: red">Delete
+                        </button>
+                    </div>
+
+
+                    <div id="mountNode{{ loop.index0 }}" style="position: relative"></div>
+                    {#                    <div id="mountNode2"></div>#}
+
+
+                    {#                    <a class="btn float-end"#}
+                    {#                       href="{{ url_for('web.show_single_reaction',toplevel_pathway_name_url_format=current_toplevel_pathway.name_url_format,edge_index=edge.index) }}"#}
+                    {#                       role="button">Predict &raquo;</a>#}
+
+                    {#                    <button id="predict{{ loop.index0 }}" type="button" class="btn btn-light float-end">Predict#}
+                    {#                        &raquo;#}
+                    {#                    </button>#}
+
+                    <button id="predict{{ loop.index0 }}" type="button" class="btn btn-light float-end">Predict
+                        &raquo;
+                    </button>
+
+                    <select id="model{{ loop.index0 }}" class="form-select btn float-end"
+                            aria-label="Default select example"
+                            style="width: 120px">
+                        -
+                        <option selected value="gcn">GCN</option>
+                        <option value="hgnn">HGNN</option>
+                        <option value="hgnnp">HGNN+</option>
+                        <option value="mf">MF</option>
+                    </select>
+
+                    <select id="direction{{ loop.index0 }}" class="form-select btn float-end"
+                            aria-label="Default select example" style="width: 250px">
+                        <option selected value="input">Input Nodes Prediction</option>
+                        <option value="output">Output Nodes Prediction</option>
+                    </select>
+
+
+                </div><!--/.col-xs-6.col-lg-4-->
+
+                <div id="prediction_table{{ loop.index0 }}" class="container mt-3">
+                </div>
+
+
+            {% endfor %}
+        </div><!--/.col-xs-12.col-sm-9-->
+    </div><!--/.col-xs-12.col-sm-9-->
+
+
+
+    {#    <script src="https://gw.alipayobjects.com/os/lib/antv/g6/4.3.11/dist/g6.min.js"></script>#}
+    <script>
+
+
+        /**
+         * Calculating the length of a string
+         * @param {string} str The specified string
+         */
+        var calcStrLen = function calcStrLen(str) {
+            var len = 0;
+            for (var i = 0; i < str.length; i++) {
+                if (str.charCodeAt(i) > 0 && str.charCodeAt(i) < 128) {
+                    len++;
+                } else {
+                    len += 2;
+                }
+            }
+            return len;
+        };
+
+        /**
+         * Calculate the displayed string
+         * @param {string} str String to be cropped
+         * @param {number} maxWidth Maximum width
+         * @param {number} fontSize Font size
+         */
+        var fittingString = function fittingString(str, maxWidth, fontSize) {
+            var fontWidth = fontSize * 1.3; //字号+边距
+            maxWidth = maxWidth * 2; // 需要根据自己项目调整
+            var width = calcStrLen(str) * fontWidth;
+            var ellipsis = '…';
+            if (width > maxWidth) {
+                var actualLen = Math.floor((maxWidth - 10) / fontWidth);
+                var result = str.substring(0, actualLen) + ellipsis;
+                return result;
+            }
+            return str;
+        };
+
+        // var data_list = eval('{{ g6_data_list_json | safe }}');
+        let data_list_str = {{ g6_data_list_json | tojson }};
+        // window.alert(data_list_str);
+        data_list = JSON.parse(data_list_str);
+        var graphs = []
+        var menus = []
+        for (let i = 0; i < data_list.length; i++) {
+            const data = data_list[i];
+            // 创建 G6 图实例
+            const nodes = data.nodes
+            const edges = data.edges
+
+            nodes.forEach((node) => {
+                // {#window.alert(JSON.stringify(node));
+                node.label = node.name
+                node.label = fittingString(node.label, 32, 12);
+                if (!node.style) {
+                    node.style = {};
+                }
+                node.style.lineWidth = 1;
+                node.style.stroke = '#666';
+                node.style.fill = 'steelblue';
+                switch (node.node_type) {
+                    case "reaction": {
+                        node.x = 400
+                        node.y = 100
+                        node.type = 'triangle';
+                        node.style.fill = 'yellow'
+                        node.size = 10
+                        break;
+                    }
+                    case "input_node": {
+                        node.type = 'circle';
+                        node.style.fill = '#0d6efd'
+                        // node.size = [35, 20];
+                        node.size = 20;
+                        break;
+                    }
+                    case "output_node": {
+                        node.type = 'circle';
+                        node.style.fill = 'red'
+                        // node.size = [35, 20];
+                        node.size = 20;
+                        break;
+                    }
+                }
+            });
+            edges.forEach((edge) => {
+                // window.alert(JSON.stringify(edge));
+                if (!edge.style) {
+                    edge.style = {};
+                }
+                // edge.style.lineWidth = edge.weight;
+                // edge.style.opacity = 0.9;
+                edge.style.fill = '#000'
+                edge.style.stroke = '#000';
+            });
+
+            /**
+             menus[i] = new G6.Menu({
+                itemTypes: ['node', 'canvas'],
+                getContent(evt) {
+                    return `<ul>
+                  <li title='1'>测试02</li>
+                  <li title='2'>测试02</li>
+                  <li>测试02</li>
+                  <li>测试02</li>
+                  <li>测试02</li>
+                </ul>`;
+                },
+            });
+             **/
+
+
+            graphs[i] = new G6.Graph({
+                container: 'mountNode' + i, // 指定图画布的容器 id，与第 9 行的容器对应
+                // 画布宽高
+                width: 800,
+                height: 350,
+                fitView: true,
+                fitViewPadding: [20, 40, 50, 20],
+                modes: {
+                    default: ['drag-node', 'drag-canvas', 'zoom-canvas',
+
+                        //{
+                        //    // 定义展开/收缩行为
+                        //    type: 'collapse-expand',
+                        //},
+                        {
+                            offset: 0,
+                            type: 'tooltip',
+                            formatText: function formatText(model) {
+                                const text = 'stId: ' + model.id
+                                    + '<br/> name: ' + model.name
+                                    + '<br/> index: ' + model.index;
+                                return text;
+                            },
+
+                            shouldUpdate: function shouldUpdate(e) {
+                                return true;
+                            }
+                        },
+                    ],
+                },
+
+                layout: {
+                    type: 'dagre',
+                    rankdir: 'TB', // 可选，默认为图的中心
+                    // align: 'DL', // 可选
+                    // nodesep: 20, // 可选
+                    ranksep: 20, // 可选
+                    controlPoints: true, // 可选
+                },
+
+                // 节点不同状态下的样式集合
+                nodeStateStyles: {
+                    // 鼠标 hover 上节点，即 hover 状态为 true 时的样式
+                    hover: {
+                        fill: 'white',
+                    },
+                    click: {
+                        fill: 'gold',
+                        stroke: 'gold'
+                    }
+                },
+
+                defaultNode: {
+                    size: 30,
+                    labelCfg: {
+                        style: {
+                            fill: 'black',
+                            fontSize: 14
+                        },
+                    },
+                },
+                defaultEdge: {
+                    labelCfg: {
+                        autoRotate: true,
+                    },
+                },
+                /**
+                 layout: {
+                    type: 'mindmap',
+                    direction: 'V',
+                    getHeight: function getHeight() {
+                        return 10;
+                    },
+                    getWidth: function getWidth() {
+                        return 10;
+                    },
+                    getVGap: function getVGap() {
+                        return 10;
+                    },
+                    getHGap: function getHGap() {
+                        return 10;
+                    }
+                }
+                 **/
+
+            });
+            // 读取数据
+            graphs[i].data(data);
+            // 渲染图
+            graphs[i].render();
+
+            graphs[i].on('node:mouseenter', e => {
+                const nodeItem = e.item;
+                graphs[i].setItemState(nodeItem, 'hover', true);
+            });
+            graphs[i].on('node:mouseleave', e => {
+                const nodeItem = e.item;
+                graphs[i].setItemState(nodeItem, 'hover', false);
+            });
+            graphs[i].on('node:click', e => {
+                const clickNodes = graphs[i].findAllByState('node', 'click');
+                clickNodes.forEach(cn => {
+                    graphs[i].setItemState(cn, 'click', false);
+                });
+                const nodeItem = e.item;
+                graphs[i].setItemState(nodeItem, 'click', true);
+            });
+            graphs[i].on('edge:click', e => {
+                const clickEdges = graphs[i].findAllByState('edge', 'click');
+                clickEdges.forEach(ce => {
+                    graphs[i].setItemState(ce, 'click', false);
+                });
+                const edgeItem = e.item;
+                graphs[i].setItemState(edgeItem, 'click', true);
+            });
+
+            // 监听鼠标点击空白处
+            graphs[i].on('canvas:click', (e) => {
+                const shape = e.target;
+                const item = e.item;
+                if (item) {
+                    const type = item.getType();
+                }
+                const clickNodes = graphs[i].findAllByState('node', 'click');
+                clickNodes.forEach((cn) => {
+                    graphs[i].setItemState(cn, 'click', false);
+                });
+            });
+
+            // 在实际开发中，右键菜单内容可以使用JSX或HTML中的模板
+            // 创建ul
+            /**
+             $('#mountNode' + i).append('<ul id="contextMenu"+i><li>menu1</li><li>menu2</li></ul>')
+
+             {#menus[i] = $("#contextMenu" + i);#}
+             menus[i] = document.getElementById('contextMenu' + i);
+             graphs[i].on('node:contextmenu', function (evt) {
+                menus[i].style.display = 'block'
+                menus[i].style.left = evt.canvasX + 20 + 'px'
+                menus[i].style.top = evt.canvasY + 'px'
+            });
+             **/
+
+
+            /**
+             // 1、菜单列表数据写死版本
+             let conextMenuContainer = document.createElement('ul')
+             conextMenuContainer.id = 'contextMenu'
+             // 创建li
+             let firstLi = document.createElement('li')
+             firstLi.innerText = '指标详情'
+             conextMenuContainer.appendChild(firstLi)
+             this.$refs.graphContent.appendChild(conextMenuContainer)
+
+             let menu = document.getElementById('contextMenu')
+             graph.on('node:contextmenu', function (event) {
+                self.currentNodeInfo = event.item._cfg.model
+                menu.style.display = 'block'
+                menu.style.left = event.canvasX + 20 + 'px'
+                menu.style.top = event.canvasY + 'px'
+                document.body.addEventListener('click', function () {
+                    menu.style.display = 'none'
+                })
+                event.stopPropagation() //阻止事件向上冒泡
+            })
+             firstLi.addEventListener('click', function (event) {
+                // console.log(`详情事件---`, event.target.innerHTML)
+                event.stopPropagation() //阻止事件向上冒泡
+            })
+             **/
+
+
+        }
+
+        // var data_list = JSON.parse({{ g6_data_list_json }})
+        // window.alert(JSON.stringify(data))
+        // window.alert(data_list[0]['edges'][0]['source'])
+        // window.alert(data_list[0].edges)
+        $(document).ready(function () {
+            for (let i = 0; i < data_list.length; i++) {
+
+                var data = data_list[i]
+                const nodes = data.nodes
+                const edges = data.edges
+
+                $("#mask" + i).click(function () {
+                    const clickNodes = graphs[i].findAllByState('node', 'click');
+                    clickNodes.forEach(cn => {
+
+                        if (cn._cfg.model.node_type === 'input_node' || cn._cfg.model.node_type === 'output_node') {
+
+                            const cn_id = cn._cfg.model.id
+
+                            nodes.forEach((node) => {
+                                if (node.id === cn_id && node.node_type !== "reaction") {
+                                    node.is_masked = !node.is_masked
+                                }
+                            });
+
+                            // node.node_type !== "reaction"
+                            if (cn._cfg.model.is_maksed === true) {
+                                cn._cfg.model.is_maksed = false
+                                if (cn._cfg.model.node_type === 'input_node') {
+                                    graphs[i].updateItem(cn, {
+                                        // 节点的样式
+                                        style: {
+                                            // stroke: 'grey',
+                                            fill: '#0d6efd'
+                                        },
+                                    });
+                                }
+                                if (cn._cfg.model.node_type === 'output_node') {
+                                    graphs[i].updateItem(cn, {
+                                        // 节点的样式
+                                        style: {
+                                            // stroke: 'grey',
+                                            fill: 'red'
+                                        },
+                                    });
+                                }
+                            } else {
+                                // graphs[i].setItemState(cn, 'is_masked', true);
+                                cn._cfg.model.is_maksed = true
+                                graphs[i].updateItem(cn, {
+                                    // 节点的样式
+                                    style: {
+                                        // stroke: 'grey',
+                                        fill: 'grey'
+                                    },
+                                });
+                            }
+                            graphs[i].setItemState(cn, 'click', false);
+                            // graphs[i].setItemState(cn, 'click', false);
+                        }
+                    });
+
+                });
+
+                $("#delete" + i).click(function () {
+                    const clickNodes = graphs[i].findAllByState('node', 'click');
+                    clickNodes.forEach(cn => {
+
+                        const cn_id = cn._cfg.id
+
+                        nodes.forEach((node) => {
+                            if (node.id === cn_id && node.node_type !== "reaction") {
+                                node.is_deleted = true
+                            }
+                        });
+
+                        // graphs[i].setItemState(cn, 'is_deleted', true);
+                        graphs[i].removeItem(cn);
+                        // graphs[i].setItemState(cn, 'click', false);
+                        // graphs[i].setItemState(cn, 'click', false);
+                    });
+
+                });
+
+                $("#refresh" + i).click(function () {
+
+                });
+
+                $("#predict" + i).click(function () {
+                    var direction = $("#direction" + i).val();
+                    var model = $("#model" + i).val();
+                    var toplevel_pathway = $("#current_toplevel_pathway").text();
+
+                    // useless
+                    var edge_index = 0;
+
+                    var valid_nodes = []
+
+                    nodes.forEach((node) => {
+                        if (node.is_masked === false && node.is_deleted === false && node.node_type !== "reaction") {
+                            valid_nodes.push(node)
+                        }
+                    });
+
+                    $.ajax({
+                        url: '{{ url_for('algorithm.predict') }}',
+                        type: 'POST',
+                        data: {
+                            'direction': direction,
+                            'model': model,
+                            'toplevel_pathway': toplevel_pathway,
+                            'edge_index': edge_index,
+                            'valid_nodes': JSON.stringify(valid_nodes)
+                        },
+                        dataType: "json",
+                        success: function (data) {
+                            // window.alert(data)
+                            var node_list = JSON.parse(data)
+                            $("#prediction_table" + i).html('');
+                            var direction = $("#direction" + i).val();
+                            var model = $("#model" + i).val();
+                            var h1_data = ''
+                            if ('input' === direction) {
+                                h1_data += '<h2>Input Nodes Prediction'
+                            } else if ('output' === direction) {
+                                h1_data += '<h2>Output Nodes Prediction'
+                            }
+                            var model_name = ''
+                            if ('gcn' === model) {
+                                model_name += '(GCN)'
+                            } else if ('hgnn' === model) {
+                                model_name += '(HGNN)'
+                            } else if ('hgnnp' === model) {
+                                model_name += '(HGNN+)'
+                            }
+
+                            h1_data += model_name
+
+                            h1_data += '</h2>'
+
+                            $("#prediction_table" + i).append(h1_data)
+                            var table_data = ''
+                            table_data += '<table class="table table-hover">'
+                            var table_head_data = ''
+                            table_head_data += '<thead><tr><th>Ranking</th><th>Node Name</th><th>Node StID</th></tr></thead>'
+
+                            table_data += table_head_data
+
+                            var table_body_data = ''
+                            table_body_data += '<tbody>'
+
+
+                            for (let i = 0; i < node_list.length; i++) {
+                                var node = node_list[i]
+                                var row_data = ''
+                                row_data += '<tr>'
+                                var node_name = node.name
+                                var node_stId = node.stId
+
+                                row_data += '<td>'
+                                row_data += (i + 1)
+                                row_data += '</td>'
+
+                                row_data += '<td>'
+                                row_data += node_name
+                                row_data += '</td>'
+
+                                row_data += '<td>'
+                                row_data += node_stId
+                                row_data += '</td>'
+
+                                row_data += '</tr>'
+                                table_body_data += row_data
+                            }
+
+
+                            table_body_data += '</tbody>'
+                            table_data += table_body_data
+                            table_data += '</table>'
+                            $('#prediction_table' + i).append(table_data)
+
+                        }
+                    });
+
+                });
+            }
+
+        });
+
+
+    </script>
+    {% include "common/page_navigation.html" %}
+{% endblock %}

@@ -1,0 +1,38 @@
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center m-auto mt-3">
+        <li class="page-item"><a class="page-link"
+                                 href="{{ url_for('web.show_reactions',toplevel_pathway_name_url_format=current_toplevel_pathway.name_url_format,page=page_info.previous_page) }}">Previous</a>
+        </li>
+        {% for page in page_info.page_range %}
+            <li class="page-item"><a class="page-link"
+                                     href="{{ url_for('web.show_reactions',toplevel_pathway_name_url_format=current_toplevel_pathway.name_url_format,page=page) }}">{{ page }}</a>
+            </li>
+        {% endfor %}
+        <li class="page-item"><a class="page-link"
+                                 href="{{ url_for('web.show_reactions',toplevel_pathway_name_url_format=current_toplevel_pathway.name_url_format,page=page_info.next_page) }}">Next</a>
+        </li>
+
+        {% if page_info.total_pages_num > 0 %}
+{#            <li class="nav-item dropdown">#}
+            <li class="page-item dropdown">
+                <a class="page-link dropdown-toggle" href="#" id="navbarDropdownMenuLinkB" role="button"
+                   data-bs-toggle="dropdown" aria-expanded="false" style="color: #1a1e21">
+                    Select Page
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="height: 300px; overflow: auto">
+                    {% for page in page_info.total_page_range %}
+                        <a class="page-link" style="color: #1a1e21"
+                           href="{{ url_for('web.show_reactions',toplevel_pathway_name_url_format=current_toplevel_pathway.name_url_format,page=page) }}">{{ page }}</a>
+                    {% endfor %}
+                </ul>
+            </li>
+        {% endif %}
+
+        {% if page_info.total_pages_num > 0 %}
+            <li class="page-item" style="color: #1a1e21">
+                <a class="page-link" href="#"
+                   style="color: #1a1e21">{{ page_info.current_page }}/{{ page_info.total_pages_num }}</a>
+            </li>
+        {% endif %}
+    </ul>
+</nav>

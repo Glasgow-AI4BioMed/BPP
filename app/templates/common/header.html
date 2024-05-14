@@ -1,0 +1,58 @@
+{#<nav class="navbar navbar-expand-lg bg-body-tertiary">#}
+<nav class="navbar navbar-expand-lg bg-dark-subtle">
+    <div class="container">
+
+        <a class="navbar-brand" href="{{url_for('web.homepage')}}">PathwayGNN</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="{{url_for('web.homepage')}}">Home</a>
+            </li>
+{#          customize_reaction#}
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="{{url_for('web.customize_reaction', dataset='immune_system')}}">Customize</a>
+            </li>
+
+{#            <li class="nav-item">#}
+{#              <a class="nav-link" href="#">Link</a>#}
+{#            </li>#}
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Dataset
+              </a>
+              <ul class="dropdown-menu">
+                {% for toplevel_pathway in all_toplevel_pathways %}
+                    <li><a class="dropdown-item" href="{{url_for('web.show_reactions',toplevel_pathway_name_url_format=toplevel_pathway.name_url_format,page=1)}}">{{ toplevel_pathway.name }}</a></li>
+{#                <li><a class="dropdown-item" href="/category/immune_system">Immune System</a></li>#}
+{#                <li><a class="dropdown-item" href="/category/metabolism">Metabolism</a></li>#}
+{#                <li><a class="dropdown-item" href="/category/signal_transduction">Signal Transduction</a></li>#}
+{#                <li><hr class="dropdown-divider"></li>#}
+{#                <li><a class="dropdown-item" href="#">Something else here</a></li>#}
+                {% endfor %}
+              </ul>
+            </li>
+
+{#            <li class="nav-item">#}
+{#              <a class="nav-link disabled">Disabled</a>#}
+{#            </li>#}
+
+          </ul>
+
+{#            Search Components#}
+{#          <form class="d-flex" role="search" method="post" action="{{ url_for('web.search') }}">#}
+{#            <input class="form-control me-2" type="search" name="content" placeholder="Search" aria-label="Search">#}
+{#            <button class="btn btn-outline-success" type="submit">Search</button>#}
+{#          </form>#}
+
+        </div>
+      </div>
+</nav><!-- /.navbar -->
+
+
+

@@ -1,0 +1,2507 @@
+"Activator" RAF:YWHAB dimer binds RAS:GTP
+(Frs2)C3G stimulates nucleotide exchange on Rap1
+(Frs2)Rap1-GTP binds to and activates B-Raf
+(PTN,MDK):PTPRZ oligomerizes
+(PTN/MDK):ALK dimer binds type I ALK-binding TKIs
+(WASPs, WAVE):G-actin:ARP2/3 binds F-actin
+14-3-3epsilon attentuates NADE-related apoptosis
+2-AG hydrolysis to arachidonate by MAGL
+27-hydroxysterol binds ESR1, ESR2
+5-HT2 receptor can bind serotonin
+5-HT4, 6 and 7 receptors can bind serotonin
+A1 and A3 receptors bind adenosine
+AAMP binds EGFR
+AAMP gene expression is positively regulated by VEGF
+ABCA1 gene transcription regulated by NR1H2 or NR1H3
+ABCA1 mRNA is translated
+ABHD6,12 hydrolyse 3AG
+ABL phosphorylates WAVEs
+ACTA2 gene expression is stimulated by NOTCH1, NOTCH2 and NOTCH4
+ACVR2A,B (ActRIIA,B) phosphorylates ACVR1B (ActRIB, ALK4) in response to Activin
+ACVR2A,B (ActRIIA,B) phosphorylates ACVR1C (ActRIC, ALK7) in response to Activin
+ACVRL1 binds BMP9,BMP10
+ADAM10 cleaves NOTCH4
+ADAP1 gene expression is inhibited by ERBB4s80
+ADCYAP1(2-742) binds ADCYAP1R1 and NTRK1,2
+ADH1A,1C,4 oxidise atROL to atRAL in vitro
+ADORA2A,B bind Ade-Rib
+ADRA1A,B,D bind ADR,NAd
+ADRA2A,B,C bind ADR,NAd
+ADRB1 bind ADR,NAd
+ADRB2 bind ADR,NAd
+ADRB2 in ADRB2:GRK complex is phosphorylated
+ADRB2:Catecholamine binds ARRB1, ARRB2
+ADRB2:GRK complex dissociates to Phosphorylated ADRB2
+ADRB3 bind ADR,NAd
+ADRBK1 binds phosphorylated SMO dimer
+ADRBK1 phosphorylates SMO dimer
+AGT(34-41) binds to AGTR1
+AGT(34-41) binds to AGTR2
+AKR1C3 reduces atRAL to atROL
+AKT binds PDPK1
+AKT can phosphorylate NR4A1 (NUR77)
+AKT can phosphorylate RSK
+AKT phosphorylates AKT1S1 (PRAS40)
+AKT phosphorylates BAD
+AKT phosphorylates CBY1
+AKT phosphorylates CREB1
+AKT phosphorylates FOXO transcription factors
+AKT phosphorylates FOXO3 downstream of ESR1 and EGFR
+AKT phosphorylates GSK3
+AKT phosphorylates IKKalpha
+AKT phosphorylates MDM2
+AKT phosphorylates MKRN1
+AKT phosphorylates TSC2, inhibiting it
+AKT phosphorylates caspase-9
+AKT phosphorylates p21Cip1 and p27Kip1
+AKT translocates to the nucleus
+AKT-phosphorylated FOXO3 translocates to cytosol
+AKT1 binds eNOS complex via HSP90
+AKT1 dephosphorylation by PP2A-B56-beta,gamma
+AKT1 phosphorylates NOTCH4
+AKT1 phosphorylates eNOS
+AKT1S1 (PRAS40) binds mTORC1
+AKT2 binds PIP3
+ALDH8A1 oxidises 9cRAL to 9cRA
+ALDHs oxidise atRAL to atRA
+ALK autophosphorylation downstream of PTN and MDK
+ALK binds ligand midkine (MDK)
+ALK binds ligand pleiotrophin (PTN)
+ALK gene expression
+ALK- and STAT3-dependent HIF1A gene expression
+ALK-stimulated MYCN gene expression
+ALK:MDK dimerization
+ALK:PTN dimerization
+AMHR2 binds AMH
+AMOT proteins bind WWTR1 (TAZ)
+AMOT proteins bind YAP1
+AMPK is dephosphorylated
+AMPK phosphorylates Raptor in the mTORC1 complex
+AMY1-3 bind IAPP(34-70)
+AMY1-3 bind pramlintide
+AP-1 binds ARC gene
+APC is K63-polyubiquitinated
+APC promotes disassembly of beta-catenin transactivation complex
+APOE gene transcription is stimulated by ERBB4s80
+ARBs bind AGRT1
+ARC binds DNM2 and SH3GL3
+ARC gene expression
+ARHGAP35 binds RASA1
+ARHGAP35 binds RHOA:GTP
+ARHGAP35 stimulates RHOA GTPase activity
+ARL2:GTP bind PDE6D on KRAS4B
+ARL4C gene transcription regulated by NR1H2,3
+ARL4C mRNA is translated
+ARMS is phosphorylated by active TrkA receptor
+ARMS:Crk complex binds to active TrkA receptor
+ARRB mediates NOTCH1 ubiquitination
+ATP1B4 binds SNW1
+ATP6AP1 binds V-ATPase
+AURKB phosphorylates DIAPH2-2 at kinetochores
+AVP(20-28) binds AVPR1A,B
+AVP(20-28) binds AVPR2
+AVPR1A,2 bind AVPR antagonists
+AVPR1A,B bind desmopressin
+AVPR1A,B,2 bind atosiban
+AVPR2 bind desmopressin
+AXIN is phosphorylated in the destruction complex
+AXIN is ubiquitinated by SMURF2
+AXIN1 gene expression is inhibited by ESR1 and stimulated by RUNX1
+AXL autophosphorylates on Y772 and Y814
+AXL binds SRC-1
+AcK685-p-Y705,S727 STAT3 and SIN3A bind the IL2RG promoter
+AcK685-p-Y705,S727 STAT3 and SIN3A bind the PDRM1 promoter
+Acitretin binds to RAR:RXR
+Activated Akt1 phosphorylates AKT1S1 (PRAS40)
+Activated BRAF phosphorylates MAP2K dimers downstream of RAP1 and NGF
+Activated BRAF recruits MAP2Ks and MAPKs to the endosome
+Activated CIT binds KIF14 and PRC1
+Activated CIT phosphorylates MRLCs
+Activated ERBB2 binds PTK6 (BRK)
+Activated ERK1/2 threonine-phosphorylates FGFR1-associated FRS2.
+Activated ERK1/2 threonine-phosphorylates FGFR2-associated FRS2
+Activated ERK1/2 threonine-phosphorylates FGFR3-associated FRS2.
+Activated ERK1/2 threonine-phosphorylates FGFR4-associated FRS2.
+Activated FGFR1 binds FLRT1,2,3
+Activated FGFR1 binds FRS2
+Activated FGFR1 binds FRS3
+Activated FGFR1 binds PLCG1
+Activated FGFR1 binds SHC1
+Activated FGFR1 phosphorylates FRS2
+Activated FGFR1 phosphorylates FRS3
+Activated FGFR1 phosphorylates PLCG1
+Activated FGFR1 phosphorylates SHC1
+Activated FGFR1:p-FRS bind to PPTN11
+Activated FGFR1:p-FRS binds GRB2:SOS1
+Activated FGFR1:p-FRS phosphorylates PPTN11
+Activated FGFR1:p-FRS2 binds GRB2:GAB1:PIK3R1
+Activated FGFR1:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA
+Activated FGFR1:p-FRS2:p-PPTN11 binds GRB2:GAB1:PI3KR1
+Activated FGFR1:p-FRS2:p-PPTN11:GRB2:GAB1:PIK3R1 binds PIK3CA
+Activated FGFR1:p-FRS:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FGFR1:p-FRS:p-PTPN11 activates RAS nucleotide exchange
+Activated FGFR1:p-SHC1 binds GRB2:SOS1
+Activated FGFR1:p-SHC1:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FGFR2 binds FRS2
+Activated FGFR2 binds FRS3
+Activated FGFR2 binds PLCG1
+Activated FGFR2 binds SHC1
+Activated FGFR2 phosphorylates FRS2
+Activated FGFR2 phosphorylates FRS3
+Activated FGFR2 phosphorylates PLCG1
+Activated FGFR2 phosphorylates PPTN11
+Activated FGFR2 phosphorylates SHC1
+Activated FGFR2:p-FRS bind to PPTN11
+Activated FGFR2:p-FRS2 binds GRB2:GAB1:PIK3R1
+Activated FGFR2:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA
+Activated FGFR2:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FGFR2:p-FRS2:p-PPTN11 binds GRB2:GAB1:PI3KR1
+Activated FGFR2:p-FRS2:p-PPTN11:GRB2:GAB1:PIK3R1 binds PIK3CA
+Activated FGFR2:p-FRS:p-PTPN11 activates RAS nucleotide exchange
+Activated FGFR2:p-SHC1 binds GRB2:SOS1
+Activated FGFR2:p-SHC1:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FGFR2:pFRS binds GRB2:SOS1
+Activated FGFR3 binds FRS2
+Activated FGFR3 binds FRS3
+Activated FGFR3 binds PLCG1
+Activated FGFR3 binds SHC1
+Activated FGFR3 phosphorylates FRS2
+Activated FGFR3 phosphorylates FRS3
+Activated FGFR3 phosphorylates PLCG1
+Activated FGFR3 phosphorylates PPTN11
+Activated FGFR3 phosphorylates SHC1
+Activated FGFR3:p-FRS bind to PPTN11
+Activated FGFR3:p-FRS2 binds GRB2:GAB1:PIK3R1
+Activated FGFR3:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA
+Activated FGFR3:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FGFR3:p-FRS2:p-PPTN11 binds GRB2:GAB1:PI3KR1
+Activated FGFR3:p-FRS2:p-PPTN11:GRB2:GAB1:PIK3R1 binds PIK3CA
+Activated FGFR3:p-FRS:p-PTPN11 activates RAS nucleotide exchange
+Activated FGFR3:p-SHC1 binds GRB2:SOS1
+Activated FGFR3:p-SHC1:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FGFR3:pFRS binds GRB2:SOS1
+Activated FGFR4 binds FRS2
+Activated FGFR4 binds FRS3
+Activated FGFR4 binds PLCG1
+Activated FGFR4 binds SHC1
+Activated FGFR4 phosphorylates FRS2
+Activated FGFR4 phosphorylates FRS3
+Activated FGFR4 phosphorylates PLCG1
+Activated FGFR4 phosphorylates PPTN11
+Activated FGFR4 phosphorylates SHC1
+Activated FGFR4:p-FRS bind to PPTN11
+Activated FGFR4:p-FRS binds GRB2:SOS1
+Activated FGFR4:p-FRS2 binds GRB2:GAB1:PIK3R1
+Activated FGFR4:p-FRS2:GRB2:GAB1:PI3KR1 binds PIK3CA
+Activated FGFR4:p-FRS2:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FGFR4:p-FRS2:p-PPTN11 binds GRB2:GAB1:PI3KR1
+Activated FGFR4:p-FRS2:p-PPTN11:GRB2:GAB1:PIK3R1binds PIK3CA
+Activated FGFR4:p-FRS:p-PTPN11 activates RAS nucleotide exchange
+Activated FGFR4:p-SHC1 binds GRB2:SOS1
+Activated FGFR4:p-SHC1:GRB2:SOS1 activates RAS nucleotide exchange
+Activated FMNL3 binds G-actin
+Activated FYN binds GRIN2B
+Activated MAPK phosphorylates RAF1
+Activated MAPKs phosphorylate BRAF
+Activated MAPKs phosphorylate MAP2K1
+Activated MET binds GAB1
+Activated MET binds GAB1 and GRB2
+Activated MET binds RANBP9 and SOS1
+Activated MET recruits GRB2-1:SOS1
+Activated NTRK2 binds CDK5
+Activated NTRK2 binds FRS2
+Activated NTRK2 binds FRS3
+Activated NTRK2 binds FYN
+Activated NTRK2 recruits PI3K
+Activated NTRK3 binds IRS1
+Activated NTRK3 binds PI3K
+Activated NTRK3 binds PLCG1
+Activated NTRK3 binds SHC1
+Activated NTRK3 binds SRC
+Activated NTRK3 promotes SRC autophosphorylation
+Activated NTRK3 stimulates PI3K activity
+Activated PCLG1 dissociates from NTRK2
+Activated PCLG1 dissociates from NTRK3
+Activated PKC phosphorylates SHC1
+Activated PKC-alpha  activate MMP3
+Activated PLC gamma dissociates from the PDGF receptor
+Activated PPARG binds PTEN gene promoter
+Activated PTK6 binds CDKN1B
+Activated PTK6 binds STAP2
+Activated RHOA, RHOG, RAC1 and CDC42 bind KTN1 (kinectin)
+Activated TrkA receptor internalizes to endosomes
+Activated calmodulin dissociates from CaMKII-gamma
+Activated integrin alphaIIb beta3 binds SHC1
+Activated type I receptor phosphorylates R-Smad1/5/8 directly
+Activated type I receptor phosphorylates SMAD2/3 directly
+Activation of Calcineurin
+Activation of MAP3K7 in response to WNT
+Activation of NLK
+Activation of PAKs by RAC1 and CDC42
+Activation of PLC beta-1/4
+Activation of Protein Kinase C novel isoforms
+Activation of RAC1
+Activation of RAC1 by the PXN:CRK complex
+Activation of RAS by p-KIT bound SOS1
+Activation of Rap1 by cytosolic GEFs
+Activation of Rap1 by membrane-associated GEFs
+Activation of SHP2 through the binding to phospho-Gab1
+Activation of Src
+Activation of Talin
+Activation of WASP and N-WASP by CDC42
+Activation of cytosolic AMPK by phosphorylation
+Active ALK binds FRS2
+Active ALK binds JAK3
+Active ALK binds PLCG1
+Active ALK binds SHC1
+Active ALK binds SRC
+Active ALK dimer binds IRS1
+Active ALK phosphorylates FRS2
+Active ALK phosphorylates IRS1
+Active ALK phosphorylates JAK3
+Active ALK phosphorylates PLCG1
+Active ALK phosphorylates SHC1
+Active ALK phosphorylates SRC
+Active ALK recruits PI3K
+Active G alpha (i)–i1/i2/i3 binds RGS proteins
+Active G alpha (q) binds RGS proteins
+Active G alpha (z) binds RGS proteins
+Active Gq binds BTK
+Active IRS recruits PI3K to the plasma membrane and activates it
+Active JNK moves to the nucleus and phosphorylates different transcription factors
+Active MMP3 can cleave pro-HBEGF to form active HBEGF
+Active PAK1 and Active CDC42 dissociates from GNB/GNG:PAK1:ARHGEF6:CDC42 complex
+Active PLC-gamma1 dissociates from EGFR
+Active PLCG1 dissociates from TrkA receptor
+Active PLCG1 hydrolyses PIP2
+Active ROCK1,ROCK2 phosphorylates p-5Y-PTK2 on S732
+Active TRKA binds IRS1/2
+Active calmodulin binds CAMK2
+Activin A,AB,B binds Activin Receptor ACVR2A,B:ACVR1B
+Activin AB,B binds Activin Receptor ACVR2A,B:ACVR1C
+Ade-Rib binds AODORA2A and NTRK1,2
+Adenylate cyclase converts ATP into cyclic AMP
+Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate
+Adenylate cyclase increases the GTPase activity of G alpha-olf
+Adenylate cyclase increases the GTPase activity of Gi alpha
+Adenylate cyclase produces cAMP
+Adenylaye cyclase increases the GTPase activity of G alpha-olf
+An anchoring protein, Endofin, recruits R-Smad1/5/8
+An anchoring protein, ZFYVE9 (SARA), recruits SMAD2/3
+Anti-MET recombinant therapeutic antibodies bind MET
+Anti-MET small tyrosine kinase inhibitors bind MET
+Apelin receptor binds to apelin
+Assembly of EGFR complex in clathrin-coated vesicles
+Assembly of the destruction complex
+Association of beta-catenin with the RBX1:SCF(beta-TrCP1) ubiquitin ligase complex
+Association of beta-catenin with the destruction complex
+Association of p-S216-CDC25C with 14-3-3 proteins
+Association of profilin with monomeric actin
+Autocatalytic phosphorylation of BetaKlotho-bound FGFR4
+Autocatalytic phosphorylation of FGFR1b
+Autocatalytic phosphorylation of FGFR1c
+Autocatalytic phosphorylation of FGFR2b
+Autocatalytic phosphorylation of FGFR2c
+Autocatalytic phosphorylation of FGFR3b
+Autocatalytic phosphorylation of FGFR3c
+Autocatalytic phosphorylation of FGFR4
+Autocatalytic phosphorylation of Klotho-bound FGFR1c
+Autophosphorylation and activation of CAMK2
+Autophosphorylation of KIT
+Autophosphorylation of PAK1,2,3
+Autophosphorylation of PDGF alpha receptors
+Autophosphorylation of PDGF alpha/beta receptors
+Autophosphorylation of PDGF beta receptors
+Autophosphorylation of PTK2 at Y397
+Autophosphorylation of SRC
+Autophosphorylation of insulin receptor
+Autoproteolytic cleavage of Hh precursors
+Axonal transport of NGF:Trk complexes
+B-RAF dissociates from S111/S120 p-SPRY2
+BAMBI interferes with the interaction of type I receptor with type II receptor
+BAX activation is stimulated by NTRK3(495-641) and NELFB
+BCAR1 binds p-7Y-PTK2
+BCL gene expression downstream of ESR1
+BDNF binds NTRK2 (TRKB)
+BDNF-bound NTRK2 dimerizes
+BDNF-bound NTRK2 dimers trans-autophosphorylate
+BIRC(cIAP1/2) ubiquitinates RIPK1
+BLT receptors can bind LTB4
+BMP2 binds to the receptor complex
+BRAF autophosphorylates downstream of RAP1 and NGF
+BRAF in Rap1-GTP complex:BRAF complex autophosphorylates
+BRAP autoubiquitinates
+BRAP binds KSR1:MARK3
+BRAP binds RAS:GTP
+BTK in G alpha (12)-BTK complex is activated
+BTK in PIP3:BTK:G beta-gamma complex is activated
+BTK in active Gq-BTK complex is activated
+Beta-Pix:CDC42:GTP binds CBL in EGF:p-6Y-EGFR:CBL:CIN85
+Beta-catenin binds SOX proteins
+Beta-catenin displaces TLE:HDAC1 from TCF/LEF
+Beta-catenin is released from the destruction complex
+Beta-catenin recruits CBP/p300
+Beta-catenin recruits CDC73 and LEO1
+Beta-catenin recruits SMARCA4
+Beta-catenin recruits TRRAP/KAT5 HAT components
+Beta-catenin translocates to the nucleus
+Beta-catenin:TCF associates with BCL9 and PYGO
+Binding and activation of MAP Kinase
+Binding of AP1 transcriptional activator complexes to CCND1 promoter
+Binding of CBL to EGFR
+Binding of GRB2 to GAB1
+Binding of GRB2:GAB1 to p-ERBB2:p-EGFR
+Binding of Grb10 to the insulin receptor
+Binding of IP3 to IP3 receptor
+Binding of IRS to insulin receptor
+Binding of PI3K to ERBB2:p-ERBB3 heterodimer
+Binding of PI3K to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR.
+Binding of PI3K to p-ERBB2:p-ERBB4 CYT-1 heterodimers
+Binding of PIK3 regulatory alpha subunit to GRB2:GAB1
+Binding of PLCG1 to active TrkA receptor
+Binding of SHC1 to insulin receptor
+Binding of p85 subunit of PI3K (PIK3R1) to p-ERBB4cyt1 homodimers
+Binding of pro-NGF to p75NTR:sortilin
+Bombesin-like receptors bind bombesin homologues
+Bradykinin receptors B1 and B2 bind to bradykinin
+Branching and elongation of mother and daughter filaments
+C-terminal Hh fragments are bound by lectins
+C-terminal Hh fragments are recruited to SEL1:SYVN1 at the ER membrane
+C3G stimulates nucleotide exchange on Rap1
+C3a receptor binds anaphylatoxin C3a
+C5AR2 binds anaphylatoxins and thier desArginated derivatives
+C5a receptor binds C5a anaphylatoxin
+CALCA(83-119) binds CALCA antibodies
+CALCA(83-119) binds CALCR
+CALCR binds erenumab
+CALCR binds gepants
+CAMK2 binds MAP3K7
+CAMK4 autophosphorylates
+CAMK4 binds KPNA2
+CAMK4 enters the nucleus
+CARM1 binds TBP:TFIIA:DDX5:ESR1:estrogen:TFF1 gene 
+CASR binds CASR agonists
+CASR binds Ca2+
+CBL autoubiquitinates
+CBL binds MET
+CBL binds TGFBR2
+CBL binds and ubiquitinates phosphorylated Sprouty
+CBL binds to GRB2
+CBL dissociates from ubiquitinated p-SPRY2
+CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
+CBL monoubiquitinates activated MET
+CBL neddylates TGFBR2
+CBL recruits CIN85:endophilin to ubiquitinated MET
+CBL ubiquitinates FRS2 and FGFR1
+CBL ubiquitinates FRS2 and FGFR2
+CBL ubiquitinates FRS2 and FGFR3
+CBL ubiquitinates FRS2 and FGFR4
+CBL ubiquitinates Sprouty
+CBL-mediated ubiquitination of CIN85
+CBY1 binds beta-catenin
+CCND1:CREBBP binds NOTCH1 promoter
+CCR2, CCR3 bind CCL13
+CCR8 binds CCL1
+CCRL2 binds CCL19
+CD274 gene expression downstream of ALK signaling
+CD97 binds CD55
+CDC14A,B bind MAPK6
+CDC14A,B dephosphorylate p-3S,T MAPK6
+CDC42 GAPs stimulate CDC42 GTPase activity
+CDC42 GDIs block activation of CDC42
+CDC42 GEFs activate CDC42
+CDC42 binds GNB/GNG:PAK1:ARHGEF6 complex
+CDC42 binds effectors at the ER membrane
+CDC42 binds effectors at the plasma membrane
+CDC42 in GNB/GNG:PAK1:ARHGEF6:CDC42 is activated
+CDC42 translocates to the endoplasmic reticulum membrane
+CDC42:GTP binds CBL:Beta-Pix
+CDC42:GTP binds PAK2
+CDC42:GTP recruits DIAPH2-2 to kinetochores
+CDC42:GTP:FMNL2 binds Profilin:G-actin
+CDK1 phosphorylates MAPK6
+CDK5 phosphorylates DARPP-32 on Thr75
+CDK5 phosphorylates NTRK2
+CDKN1B is phosphorylated in response to estrogen
+CGRP receptor can bind calcitonin gene-related peptides
+CHD1 translation is negatively regulated by miR-26A and B
+CHD8 binds beta-catenin to negatively regulate WNT-dependent gene expression
+CHIP (STUB1) mediates ubiquitination of ERBB2
+CHRM1,3,5 bind CHRM1,3,5 antagonists
+CHRM1,3,5 bind acetylcholine
+CHRM2 binds CHRM2 antagonists
+CHRM2,4 bind acetylcholine
+CHRM4 binds CHRM4 antagonists
+CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85
+CIT (citron kinase) binds activated RHOA, RHOB, RHOC and RAC1
+CIT binds CDKN1B
+CIT-3 binds DLG4
+CIT-3 binds activated RHOA, RHOB, RHOC and RAC1
+CITED1 and EP300 bind ESR1:estrogen:TGFA gene promoter
+CK1 phosphorylates p-GLI2
+CK1 phosphorylates p-GLI3
+CLIP3 and CYLD bind TNF signaling complex
+CMKLR1 binds Resolvin E1
+CNRs bind CNR agonists
+COL1A2 gene expression is stimulated by p-2S-SMAD3:p-2S-SMAD3:SMAD4
+CPT1A,B transfers PALM to CAR
+CRABP1 binds atRA
+CRHBP binds CRH
+CRHR1,CRHR2-1 binds CRH,UCN
+CRHR2-2 binds CRH,UCN,UCN2,UCN3
+CRK binds BCAR1 and or PXN
+CRK,CRKL recruits RAC1 GEF to activated MET
+CSN2 gene expression is stimulated by ERBB4s80:STAT5A
+CSNK1A1 and ADRBK1 dissociate from p-SMO dimer
+CSNK1A1 binds SMO dimer
+CSNK1A1 phosphorylates SMO dimer
+CSNK2-mediated phosphorylation of DVL
+CTNNBIP1 binds beta-catenin
+CUL5 mediates ubiquitination of ERBB2
+CX3CR1 binds CX3CL1
+CXCL12 gene expression is stimulated by ERBB4s80:ESR1:estrogen
+CXCR5 binds CXCL13
+CXXC4 binds DVL to prevent AXIN binding
+CYLD is phosphorylated by IKK
+CYP26A1,B1,C1 4-hydroxylate atRA
+CYP26C1 4-hydroxylates 9cRA
+CYSLT2 binds LTC4,LTD4,LTE4
+CYSLTR1 binds CYSLTR1 antagonists
+CYSLTR1 binds LTC4,LTD4,LTE4
+CaMK4 phosphorylates CREB1
+CaMKII autophosphorylates
+CaMKII binds activated calmodulin
+CaMKK autophosphorylates in the nucleus
+CaMKK binds activated calmodulin in the nucleus
+CaMKK phosphorylates CAMK4
+Calcineurin binds and dephosphorylates NFAT1 in response to WNT/Ca2+ signaling
+Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)
+Calcium binds calmodulin
+Calmodulin activates Cam-PDE 1
+Calmodulin binds CAMK4
+Calmodulin dissociates KRAS4B from the plasma membrane
+Calmodulin-bound CaMKII-gamma enters the nucleus
+Cannabinoid receptors can bind cannabinoids
+Canonical WNT signaling through the atypical receptor RYK
+Casein kinase II phosphorylates PTEN
+Caspase-8 and FLIP(L) processing at TNFR signaling complex
+Caveolin-1 dissociates from eNOS:CaM:HSP90 complex
+Cholecystokinin receptors bind cholecystokinin
+Cleavage of CNTN1:NOTCH1 complex releases NICD1
+Cleavage of DNER:NOTCH1 complex releases NICD1
+Cleavage of ERBB4m80 by gamma-scretase complex
+Cleavage of P-ERBB4jmA isoforms by ADAM17
+Cleavage of p-STK3 (p-MST2) by caspase 3
+Cleavage of p-STK4 (p-MST1) by caspase 3
+Clustering of Integrin alphaIIb beta3 complexes
+Co-repressor complex dissociates from the transcription unit of the ABCA1 gene 
+Co-repressor complex dissociates from the transcription unit of the UGT1A3 gene 
+Complex of NOTCH1 with its ligand is cleaved to produce NEXT1
+Contactin-1 (CNTN1) binds NOTCH1
+Conversion of PIP2 into PIP3 by PI3K bound to p-ERBB4cyt1 homodimers
+Crk binding to p130cas
+Crk binds to the active PDGF receptor
+Crk's SH3 domain engages C3G
+Cysmethynil binds ICMT:Zn2+
+Cytosolic DUSPs dephosphorylate MAPKs
+D2D3,4 bind to DA
+DAAM1 recruits GTP-bound RHOA
+DAAM1 recruits PFN1
+DACT1 binds DVL2
+DAG activation of TRPC channels
+DAG and Ca+2 bind to PKC and tether it to membrane
+DAG is metabolized by DAGL to 2-AG
+DAG kinase produces phosphatidic acid from DAG
+DAG stimulates protein kinase C-delta
+DARC  is a non-specific receptor for many chemokines
+DARPP-32 is dephosphorylated on Thr75 by PP2A
+DARPP-32 phosphorylated on T34 binds to PP1, inhibiting its function
+DARPP-32 phosphorylated on Thr75 binds to PKA, inhibiting its function
+DDX5 binds ESR1:estrogen:TFF1 gene promoter
+DIAPH1 binds RHOA:GTP
+DKK and KRM bind LRP5/6
+DKK promotes clathrin-dependent internalization of LRP6
+DLGAP5 gene transcription is stimulated by NOTCH3
+DLL1 binds NOTCH2
+DLL4 binds NOTCH2
+DLL4 binds NOTCH4
+DOCK180:ELMO binds CRK
+DOCK180:ELMO exchanges GTP for GDP, activating RAC1
+DOCK3 activates RAC1
+DOCK3 binds FYN associated with NTRK2
+DOCK7 activates RAC1
+DP1 receptor can bind PGD2
+DP2 receptor can bind PGD2
+DRD1,5 bind DA
+DRD2 antagonist drugs bind to DRD2
+DRD2 binds DA
+DTX binds NOTCH1
+DTX recruits beta-arrestin (ARRB) to NOTCH
+DVL binds CCDC88C
+DVL is bound by the CUL3:KLHL12:RBX1 ubiquitin ligase complex
+DVL is recruited to the receptor
+DVL is ubiquitinated by CUL3:KLHL12:RBX1
+DVL recruits GSK3beta:AXIN1 to the receptor complex
+DVL-associated PIP5K1B phosphorylates PI4P to PI(4,5)P2
+DVL1 is bound by the HECT ubiquitin ligase HECW1
+DVL1 is ubiquitinated by HECW1
+DVL2 binds phosphorylated WWTR1 (TAZ)
+DVL2 is phosphorylated after WNT5A binding to FZD
+DVL2 is phosphorylated by PKC
+De-phosphorylation of p-Y427-SHC1
+Decreasing cGMP concentration promotes intracellular Ca2+ release in response to WNT
+Degradation of SMAD2/3:SMAD4 complex
+Degradation of TGF-beta receptor complex
+Degradation of Ub-SMAD7
+Degradation of ubiquitinated SKI/SKIL
+Degradation of ubiquitinated SMAD2
+Degradation of ubiquitinated SMAD3
+Degradation of ubiquitinated beta catenin by the proteasome
+Deltarasin binds PDE6D
+Demethylase KDM1A binds KLK2 and KLK3 promoters
+Demethylase KDM4C binds KLK2 and KLK3 promoters
+Dephosphorylated SMAD2/3 translocates to the cytosol
+Dephosphorylation of Gab1 by SHP2
+Dephosphorylation of PAG by SHP2
+Dephosphorylation of inactive SRC by PTPB1
+Dephosphorylation of p-Y-IRS1,p-Y-IRS2
+Detachment of WASP/WAVE
+Deubiquitinated PTEN translocates to the cytosol
+Deubiquitination of RNF41 by P-USP8
+Diacylgycerol activates Protein kinase C, alpha type
+Dimeric TGF-beta-1 binds to the receptor
+Dimerization of KIT upon SCF binding
+Dimerization of STATs
+Dimerization of p-S133-CREB1
+Dimerization of sSCF
+Direct recruitment of PI3K to p-KIT
+Disassembly of tight junctions
+Disassociation and translocation of STATs to the nucleus
+Dissociation of CaM and CAMK2 autophosphorylation
+Dissociation of IRS-P from insulin receptor
+Dissociation of RAS:RAF complex
+Dissociation of beta-catenin from Axin and association of beta catenin with phospho-(20 aa) APC in the detruction complex
+Dissociation of insulin from insulin receptor
+Dissociation of p-T,Y-MAPK1:p-S,T-MAP2K2
+Dissociation of p-T,Y-MAPK3:MAP2K1
+Dissociation of p-Y427-SHC1 from insulin receptor
+Dissociation of phosphorylated 4EBP1 from eIF4E
+Dissociation of phosphorylated MAP2Ks and MAPKs
+Dissociation of the Gi alpha:G olf complex
+Downregulation of c-Kit signaling by SOCS6
+Dual mechanism MAP2K inhibitors bind MAP2Ks
+Dual mechanism MAPK inhibitors bind MAPKs
+E2-mediated FOS gene expression
+E2F1/3:DP1/2 binds NOTCH1 promoter
+ECE1 cleaves EDN1(53-90)
+ECE2 cleaves EDN1(53-90)
+EDNRA binds EDNs
+EDNRA binds selective ERAs
+EDNRA, EDNRB bind non-selective ERAs
+EDNRA,EDNRB bind EDNs
+EFCAB7:IQCE binds EVC2:EVC
+EGF-TM7 receptors bind chondroitin sulphate
+EGFR activates PLC-gamma1 by phosphorylation
+EGFR autophosphorylation
+EGFR binds EGF ligand
+EGFR binds EPS15, EPN1, EPS15L1
+EGFR dimerization
+EGFR non-clathrin mediated endocytosis
+EGFR phosphorylates EPS15
+EGFR phosphorylates GPNMB
+EGFR phosphorylates NOTCH3
+EGR binds ARC gene
+EGR-dependent NAB2 gene expression
+EGR1 and NAB co-repressors bind EGR1 gene
+EGR1 binds CDK5R1 gene
+EGR1 binds TRIB1 gene
+EGR1 binds the PTEN gene promoter
+EGR1 binds the TF gene
+EGR1 binds the TPH1 promoter
+EGR1 binds the VGF gene
+EGR1 binds to the EGR1 promoter
+EGR1 gene expression
+EGR1, EGR2 bind the RRAD promoter
+EGR1,2,3 bind the NAB2 promoter
+EGR1-dependent CDK5R1 gene expression
+EGR2:NAB2 and CHD4 bind the ID2 and ID4 promoter regions
+ELF3 binds NOTCH3 gene promoter
+EP1 receptor can bind PGE2
+EP2 and EP4 receptors can bind PGE2
+EP3 receptor can bind PGE2
+EP300 is recruited to MYC and BCL2 genes
+EPAS1 (HIF2A) and activated NR3C1 (GCR) bind PTK6 gene
+EPO binds EPOR:JAK2:LYN:IRS2
+EPO:p-8Y-EPOR:p-12Y-JAK2:LYN:IRS2:p-CRKL:RAPGEF1 binds SHC1
+EPO:p-EPOR:p-JAK2:LYN:IRS2 binds CRKL:RAPGEF1
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2 binds GAB1
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2 binds PI3K
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2 binds PLCgamma
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2 binds STAT5
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2 phosphorylates IRS2
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2:phospho-CRKL:RAPGEF1:GRB2-1:SOS1,phospho-VAV1 mediates exchange of GTP for GDP bound to RAS
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2:phospho-CRKL:RAPGEF1:phospho-SHC1 binds GRB2:SOS1
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2:phospho-CRKL:RAPGEF1:phospho-SHC1 binds GRB2:VAV1
+EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2:phospho-GAB1 binds PI3K
+EPO:phospho-EPOR:phospho-JAK2:LYN:phospho-IRS2 binds PI3K
+EPOR binds EPOR agonists
+EPOR-associated PI3K phosphorylates PIP2 to PIP3
+EPOR-associated PLCG hydrolyzes 1-Phosphatidyl-1D-myo-inositol 4,5-bisphosphate
+EPS15 and HGS bind ubiquitinated MET
+ERBB2 binds TKIs
+ERBB2 binds pertuzumab
+ERBB2 binds trastuzumab
+ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4
+ERBB2 promotes PTK6 autophosphorylation
+ERBB3 binds RNF41 ubiquitin ligase
+ERBB3 binds neuregulins
+ERBB4 binds DLG4
+ERBB4 binds NRGs or EGF-like ligands
+ERBB4 binds WWP1/ITCH ubiquitin ligases
+ERBB4 forms heterodimers with EGFR
+ERBB4 forms heterodimers with ERBB3
+ERBB4 gene expression is stimulated by ERBB4s80:ESR1
+ERBB4 ubiquitination by WWP1/ITCH
+ERBB4s80 binds ADAP1 gene
+ERBB4s80 binds SPARC gene
+ERBB4s80 binds STAT5A
+ERBB4s80 binds STMN1 gene
+ERBB4s80 binds TAB2:NCOR1 complex
+ERBB4s80 binds YAP1
+ERBB4s80 binds the APOE gene
+ERBB4s80 binds the MXD4 gene
+ERBB4s80 binds to SRC
+ERBB4s80 forms a complex with estrogen receptor ESR1
+ERBB4s80:ESR1 binds CXCL12 gene promoter
+ERBB4s80:ESR1 binds ERBB4 gene promoter
+ERBB4s80:ESR1 binds PGR gene promoter
+ERBB4s80:STAT5A binds CSN2 gene promoter
+ERBB4s80:STAT5A complex translocates to the nucleus
+ERBB4s80:TAB2:NCOR1 complex binds GFAP gene promoter
+ERBB4s80:TAB2:NCOR1 complex binds S100B gene promoter
+ERBB4s80:TAB2:NCOR1 complex translocates to the nucleus
+ERK1/2 activates ELK1
+ERK1/2 phosphorylates MSK1
+ERK1/2/5 activate RSK1/2/3
+ERK5 activates the transcription factor MEF2
+ERK5 is activated
+ERK5 translocates to the nucleus
+ERKs are inactivated by dual-specific phosphatases (DUSPs)
+ERKs are inactivated by protein phosphatase 2A
+ESR binds STRN
+ESR dimerizes
+ESR-associated SRC autophosphorylates
+ESR1 binds ESR1 agonists
+ESR1 binds ESR1 antagonists
+ESR1 binds the AXIN1 gene
+ESR1 binds to TFF1 gene promoter
+ESR1 binds to TGFA gene promoter
+ESR1- and PRCKZ-dependent MAPK1 translocation to the nucleus
+ESR1-dependent CCND1 expression
+ESR1:ESTG and EP300 are recruited to TFF3 promoter
+ESR1:ESTG and KDM4B bind H3K9me3 target gene enhancers
+ESR1:ESTG bind the EBAG9 5' region
+ESR1:ESTG binds CXXC5 gene
+ESR1:ESTG binds to proximal and distal regions of the CTSD promoter
+ESR1:ESTG, JUND:FOSB and Cohesin Complex bind distal enhancer elements in MYC gene promoter
+ESR1:ESTG:P-TEFb recruited to paused RNA polymerase II on MYB gene
+ESR1:ESTG:PGR:P4 bind pioneer factors and coactivators
+ESRP1 and 2 bind FGFR2 pre-mRNA to promote FGFR2b maturation and expression
+ESTG binding induces ESR depalmitoylation
+ESTG binds ESR1:chaperone complex
+ESTG binds ESR2:chaperone complex
+ESTG stimulates GTP exchange on GPER:heterotrimeric G-protein s
+ESTG translocates to the nucleus
+ESTG-stimulated dissociation of GPER:heterotrimeric G-protein (s) complex
+EVC2:EVC binds p-SMO
+Endocytosis (internalization) of clathrin-coated vesicle
+Endosome acidification
+Estrogen receptor binds IGF1R and SHC1 in response to estrogen
+Estrogen stimulates dimerization of plasma membrane estrogen receptors
+Estrogen-independent phosphorylation of ESR1 S118 by MAPK1 and MAPK3
+Estrogen-responsive BCL2 gene expression
+Estrogen-responsive CCND1 gene expression
+Estrogen-responsive CHD1 gene transcription
+Estrogen-responsive CTSD expression
+Estrogen-responsive CXXC5 gene expresion
+Estrogen-responsive EBAG9 gene expression
+Estrogen-responsive GREB1 gene transcription
+Estrogen-responsive KDM4B gene expression
+Estrogen-responsive KPNA2 gene transcription
+Estrogen-responsive MYB gene expression
+Estrogen-responsive MYC gene expression
+Estrogen-responsive TFF1 gene expression
+Estrogen-responsive TFF3 gene expression
+Expression of ABCG1 regulated by NR1H2,3
+Expression of ABCG5 regulated by NR1H2,3
+Expression of ABCG8 regulated by NR1H2 or NR1H3
+Expression of AMER1 gene
+Expression of ANGPTL3 regulated by NR1H2 or NR1H3
+Expression of APOC1 regulated by NR1H2 or NR1H3
+Expression of APOC2 regulated by NR1H2 or NR1H3
+Expression of APOC4 regulated by NR1H2 or NR1H3
+Expression of APOD regulated by NR1H2 or NR1H3
+Expression of APOE regulated by NR1H2 or NR1H3
+Expression of AXIN1 gene
+Expression of CETP regulated by NR1H2 or NR1H3
+Expression of EEPD1 regulated by NR1H2 or NR1H3
+Expression of FABP6 regulated by NR1H2,3
+Expression of FASN regulated by NR1H2 or NR1H3
+Expression of GLI1 is repressed by GLI3R in the absence of Hh signaling
+Expression of GLI2 is repressed by GLI3R in the absence of Hh signaling
+Expression of ID2 and ID4 is repressed by EGR2:NAB
+Expression of MYLIP regulated by NR1H2,3
+Expression of PCK1 regulated by NR1H3
+Expression of PLIN1 regulated by NR1H2 or NR1H3
+Expression of PLTP regulated by NR1H2 or NR1H3
+Expression of PTCH1 is repressed by GLI3R in the absence of Hh signaling
+Expression of SCD regulated by NR1H2 or NR1H3
+Expression of SREBF1 (SREBP1) regulated by NR1H2 or NR1H3
+Expression of UGT1A3 
+Extracellular processing of novel PDGFs
+FABP5 binds atRA
+FABP5 dissociates from RXRA:PPARD:atRA
+FABP5:atRA translocates from cytosol to nucleoplasm
+FABP7 gene expression is positively regulated by NOTCH1 and NOTCH3
+FASL binds FAS Receptor
+FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-8
+FASL:FAS Receptor Trimer:FADD complex binds procaspase-10
+FBXW7 promotes ubiquitination of p-NICD4
+FGFBPs bind FGFs
+FGFR1- and PTPN11- associated PI3K phosphorylates PIP2 to PIP3
+FGFR1-associated PI3K phosphorylates PIP2 to PIP3
+FGFR1b binds to FGF
+FGFR1c binds to FGF
+FGFR1c binds to Klotho-bound FGF23
+FGFR2- and PTPN11- associated PI3K phosphorylates PIP2 to PIP3
+FGFR2-associated PI3K phosphorylates PIP2 to PIP3
+FGFR2b binds to FGF
+FGFR2b-specific alternative splicing produces FGFR2b transcript
+FGFR2c binds to FGF
+FGFR2c-specific alternative splicing produces FGFR2c transcript
+FGFR3- and PTPN11-associated PI3K phosphorylates PIP2 to PIP3
+FGFR3-associated PI3K phosphorylates PIP2 to PIP3
+FGFR3b binds to FGF
+FGFR3c binds to FGF
+FGFR4 binds HS:KLB:FGF19
+FGFR4 binds to FGF
+FGFR4- and PTPN11-associated PI3K phosphorylates PIP2 to PIP3
+FGFR4-associated PI3K phosphorylates PIP2 to PIP3
+FGFRL1 binds SPRED1/2
+FGFRL1 dimer binds FGFs
+FKBP1A binds sirolimus
+FLIP(L) and procaspase-8 form heterodimer in TNF signaling
+FLNA binds PAK1
+FLT4 gene expression is stimulated by NOTCH4
+FMNL1 binds CDC42:GTP
+FMNL1 binds RAC1:GTP
+FMNL2 binds CDC42:GTP
+FMNL2 binds RHOC:GTP
+FMNL3 binds RHOC:GTP
+FNTB inhibitors bind FNTA:FNTB
+FOXA1 and GATA3 bind TFF genes
+FOXA1 and GATA3 bind to CCND1 promoter
+FOXO3 regulates MIR34B,C expression
+FPR is a receptor for formyl peptides
+FPR2 binds FPR2 ligands
+FPRL2 receptor binds a wide range of ligands
+FRAT proteins bind GSK3beta
+FRK phosphorylates PTEN
+FRS2 binds to active TrkA receptor
+FRS2 is phosphorylated by active TrkA receptor
+FSTL3 binds Activin
+FURIN gene transcription is stimulated by SMAD2/SMAD3:SMAD4
+FURIN translocates to the plasma membrane
+FYN autophosphorylates
+FYN phosphorylates PAK2
+FYN-mediated phosphorylation of GRIN2B
+FZD recruits DVL to the receptor complex
+FZD recruits trimeric G-proteins
+FZD2, FZD5 and ROR2 are internalized in a WNT5A and clathrin-dependent manner
+FasL:Fas binds FADD
+Fibrillin-1 binds latent TGF-beta
+Follicle-stimulating hormone receptor can bind FSH
+Follistatin (FST) binds Activin
+Formation of Ragulator complex
+Formation of a heteromeric BMP receptor complex
+Formation of active mTORC1 complex
+Formation of clathrin-coated vesicle
+Fringe-modified Pre-NOTCH is cleaved by FURIN
+Frizzled receptors bind Wnts
+Fucosylation of Pre-NOTCH by POFUT1
+G alpha (12) binds BTK
+G alpha (12)-BTK complex dissociates to Active BTK and G alpha (12)
+G alpha (12/13) auto-inactivates by hydrolysing GTP to GDP
+G alpha (13) activates Rho guanine nucleotide exchange factor 1 (p115-RhoGEF)
+G alpha (i) auto-inactivates by hydrolysing GTP to GDP
+G alpha (i) inhibits adenylate cyclase
+G alpha (i):GTP binds SRC
+G alpha (i):RGS dissociates to inactive G alpha (i)–i1/i2/i3
+G alpha (i)–i1/i2/i3 in G (i):RGS complex is inactivated
+G alpha (q) auto-inactivates by hydrolysing GTP to GDP
+G alpha (q) binds to Trio family RhoGEFs
+G alpha (q) in G (q):RGS complex is inactivated
+G alpha (q) inhibits PI3K alpha
+G alpha (q):RGS dissociates to inactive G alpha (q)
+G alpha (s) activates adenylate cyclase
+G alpha (s) auto-inactivates by hydrolysing GTP to GDP
+G alpha (s):GTP:SRC catalyzes SRC to p-Y416-SRC
+G alpha (s):GTP:SRC dissociates
+G alpha (z) auto-inactivates by hydrolysing GTP to GDP
+G alpha (z) in G alpha (z):RGS complex is inactivated
+G alpha (z) inhibits adenylate cyclase
+G alpha (z):RGS complex dissociates to give inactive G alpha (z)
+G alpha t2 binds and activates PDE6
+G alpha-olf:GTP binds to Gi alpha1:GTP:adenylate cyclase complex
+G beta-gamma complex and PIP3 recruit BTK to membrane
+G beta:gamma activated PI3Kgamma converts PIP2 to PIP3
+G protein alpha (i)-SRC complex catalyzes SRC to p-Y416-SRC
+G protein alpha (i)-SRC complex dissociates to G protein alpha (i) and Active SRC
+G protein alpha (s):GTP binds SRC
+G protein-coupled estrogen receptor 1 binds estrogen non-classically
+G-alpha(t):G-beta-gamma:Opsins complex dissociates to active G-alpha(t)
+G-alpha(z):PKC dissociates to give phosphorylated G alpha (z)
+G-protein alpha subunit is inactivated
+G-protein beta-gamma subunits rebind the alpha-GDP subunit
+G-protein coupled bile acid receptor binds lithocholic acid
+G-protein subunits dissociate from WNT:FZD complex
+G-proteins dissociate from plasma-membrane estrogen receptors
+GAB1 binds PTPN11
+GAB1 binds phosphatidylinositol-3,4,5-trisphosphate
+GAB1 phosphorylation by EGFR kinase
+GAB1 recruits CRK,CRKL to MET
+GABAB heterodimeric receptor binds GABA
+GALNT3 transfers GalNAc to FGF23
+GAP binds to PDGF-beta receptors only
+GDIs bind RHOH
+GDIs block activation of RHOA
+GDIs block activation of RHOB
+GDIs block activation of RHOC
+GDIs block activation of RHOG
+GEFs activate RhoA,B,C
+GFAP gene expression is inhibited by ERBB4:TAB2:NCOR1
+GGA3 associates with activated MET receptor
+GHRH receptor binds GHRH
+GHSR is a receptor for ghrelin
+GIP receptor binds gastric inhibitory peptide
+GLI proteins are phosphorylated
+GLI proteins bind CDC73
+GLI proteins bind GLI1 gene
+GLI proteins bind PTCH1 gene
+GLI proteins bind SUFU
+GLI translocates to the nucleus
+GLI1 binds HHIP gene, PTCH2 gene and BOC gene promoters
+GLI1 is degraded by the proteasome after ubiquitination by ITCH
+GLI1 is degraded by the proteasome after ubiquitination by beta-TrCP
+GLI2 is degraded by the proteasome
+GLI2,3 are degraded by the proteasome
+GLI3 is partially degraded by the proteasome to yield the GLI3 repressor
+GLI3R binds the GLI1 promoter
+GLI3R binds the GLI2 promoter
+GLI3R binds the PTCH1 promoter
+GLI3R translocates to the nucleus
+GLI:SUFU dissociates
+GLI:SUFU translocates to the ciliary tip in response to Hh signaling
+GLP1R binds GLP1
+GNB2L1 binds IKKA:IKKB:NEMO
+GNRHR binds GNRH1,2
+GNRHR binds GNRHR peptide agonists
+GNRHR binds GNRHR peptide antagonists
+GNRHR binds chemical antagonists
+GNRHR2 binds GNRH1,2
+GOPC promotes translocation of CFTR to lysosomes
+GPAM gene expression is stimulated by RUNX1 and ESR1
+GPCR neuropeptide receptor binds neuropeptides B and W
+GPER:Heterotrimeric G-protein Gs binds ESTG
+GPR120 is a receptor for unsaturated long-chain free fatty acids
+GPR143 binds L-Dopa
+GPR161 is internalized
+GPR161 promotes cAMP production in a G alpha(s)-dependent manner
+GPR183 binds 7alpha,25-dihydroxycholesterol
+GPR31 is a receptor for 12(S)-HETE
+GPR35 binds kynurenic acid
+GPR37 binds prosaptide
+GPR37L binds prosaposin
+GPR4, GPR65, GPR132 and OGR1 are pH sensing receptors
+GPRC6A can bind L-alpha amino acids and calcium
+GRB2 is indirectly recruited to p-KIT through SHP2
+GRB2-1 binds SOS1
+GRB2-1:SOS1 binds p-3Y-SHC1
+GRB2-1:SOS1 binds p-IRS1,p-IRS2
+GRB2-1:SOS1 binds p-Y-SHC
+GRB2-1:SOS1 binds p-Y427-SHC1
+GRB2-1:SOS1:p-3Y-SHC1 mediated nucleotide exchange of RAS
+GRB2-1:SOS1:p-Y-SHC mediated nucleotide exchange of RAS
+GRB2-1:p-4S-SOS1:p-Y427-SHC1 dissociates
+GRB2:GAB1 binds to phosphorylated EGFR
+GRB2:SOS interacts with p-KIT
+GRB2:SOS1 binds to HBEGF:p-Y-EGFR
+GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR
+GRB2:SOS1 complex binds phosphorylated EGFR:ERBB2 heterodimer
+GRB2:SOS1 complex binds phosphorylated ERBB4:ERBB2 heterodimers
+GRB2:SOS1 complex binds to EGF:EGFR complex
+GRB2:SOS1 complex binds to the active receptor
+GRB2:SOS1:p-Y-IRS1,p-Y-IRS2 mediated nucleotide exchange of RAS
+GRB2:SOS:p-Y427-SHC1 mediated nucleotide exchange of RAS
+GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2 dissociates
+GRB7 binds phosphorylated heterodimer of ERBB2 and ERBB3
+GREB1 binds ESR1:ESTG and co-activators
+GREB1 translation is negatively regulated by miR-26A and B
+GRK2 binds CALM1:4Ca2+
+GRK2 sequesters activated Gq
+GRK5 sequesters activated Gq
+GRKs bind ADRB2:Catecholamine
+GSK3 phosphorylates p-GLI2
+GSK3 phosphorylates p-GLI3
+GTP loading by Rheb
+GTP-bound RAC contributes to JNK activation
+GTP-bound RAC1 and CDC42 bind IQGAPs
+GalNAc-T178-FGF23(25-251) translocates from Golgi lumen to extracellular region
+Galactosylation of Pre-NOTCH
+Galanin receptors can bind galanin
+Galpha-olf:GTP binds to adenylate cyclase and activates it
+Gamma-secretase cleaves CNTN1:NOTCH2 to release NICD2
+Gamma-secretase cleaves NOTCH4
+Gamma-secretase cleaves YBX1:NOTCH3
+Gastrin binds to CCK-B receptor
+Gbeta:gamma activation of PLC beta
+Gbeta:gamma recruits PI3K gamma
+Glucagon binds to Glucagon receptor
+Glucagon-like receptor 2 binds GLP2
+Glucosylation of Pre-NOTCH by POGLUT1
+Glycosylation of Hh
+Glycosylation of Pre-NOTCH by FRINGE
+Gq-BTK complex dissociates to Active BTK and Gq
+Grb7 binds to the active PDGF receptor
+Guanine nucleotide exchange on RAL
+HATs and coactivators are recruited to the CTSD gene
+HBEGF-bound EGFR forms a heterodimer with GPNMB
+HCAR1 binds LACT
+HCAR2 binds HCAR2 ligands
+HCAR3 binds HCAR3 ligands
+HDACs deacetylate p-STAT3 dimers
+HES1 binds TLE
+HES1 gene expression is stimulated by NOTCH3 and STAT1
+HES1 gene expression is stimulated by NOTCH4
+HES5 gene expression is stimulated by NOTCH3
+HES5 gene expression is stimulated by NOTCH4
+HEY1 gene expression is positively regulated by NOTCH3 and STAT1
+HEY1 gene expression is stimulated by NOTCH4
+HEY2 gene expression is positively regulated by NOTCH3
+HEY2 gene expression is stimulated by NOTCH4
+HEYL gene expression is stimulated by NOTCH3
+HGF dimer binds MET
+HGFAC cleaves pro-HGF to form HGF dimer
+HHAT palmitoylates Hh N-terminal fragment
+HHIP binds Hedgehog
+HIF1A,EPAS1 bind PTK6 gene
+HIF1A,EPAS1 promote PTK6 gene expression
+HPN heterodimer cleaves pro-HGF to form HGF dimer
+HPN heterodimer cleaves pro-MST1 to form MST1 dimer
+HRH1 binds HRH1 inverse agonists
+HRH1 binds hist
+HRH2 binds HRH2 antagonists
+HRH2 binds hist
+HRH3 binds Hist
+HRH3 binds pitosilant
+HRH4 binds Hist
+HSBP1 oligomer binds ESRs
+HSP90 binds eNOS:Caveolin-1:CaM complex
+HSP90-dependent ATP hydrolysis promotes release of ESR:ESTG from chaperone complex
+HSP90AA1 binds p-6Y-VEGFR2
+HTR1 and 5A receptors can bind serotonin
+HTR1A binds 5HT
+HTR1A binds HTR1A agonists
+HTR1A binds HTR1A antagonists
+Heterotrimeric G protein (i) binds membrane-associated ESRs:ESTG
+Hh C-terminal fragments are degraded by the proteasome
+Hh-Np binds GPC5
+Hh-Np binds SCUBE2 in the extracellular region to promote long-range signalling
+Hh-Np binds to DISP2
+Hh-Np is cleaved by ADAM17 to promote ligand shedding
+Hh-Np traffics to the plasma membrane
+Hh-Npp binds BOC:PTCH1
+Hh-Npp binds CDON and PTCH
+Hh-Npp binds GAS1 and PTCH
+Hh-dependent expression of GLI1 gene
+Histone acetyltransferases are recruited to the TFF1 gene
+Homodimerization of ERBB4
+Homodimerization of VEGF proteins
+Hydrolysis of phosphatidylcholine
+I-SMAD competes with SMAD2/3 for type I receptor (TGFBR1)
+I-Smad binds to type I receptor, preventing Smad1/5/8 from being activated
+I-Smad competes with Co-Smad for R-Smad1/5/8
+I-Smad competes with R-Smad1/5/8 for type I receptor
+ICMT methylates S-Farn RAS proteins
+ID1 and ID3 gene expression
+IER3 recruits MAPKs to PP2A-B56-beta,gamma
+IGF1,2 binds IGF1R
+IGF1,2:IGF1R autophosphorylates
+IGF1,2:p-Y1161,1165,1166-IGF1R binds IRS1,4
+IGF1,2:p-Y1161,1165,1166-IGF1R binds IRS2
+IGF1,2:p-Y1161,1165,1166-IGF1R binds SHC1
+IGF1,2:p-Y1161,1165,1166-IGF1R phosphorylates IRS1,2,4
+IGF1R phosphorylates SHC1
+IGF2BP1 binds MAPK4 mRNA
+IGF2BP1 represses translation of MAPK4 mRNA
+IK1 binds the PTCRA gene promoter
+IKK-beta is recruited
+IKKbeta is activated
+IKKbeta phosphorylates IkB causing NF-kB to dissociate
+IL17RD binds p-2S MAP2Ks and MAPKs
+IL2RG gene expression downstream of ALK signaling
+IP receptor can bind prostacyclin
+IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel
+IP3R tetramer:I(1,4,5)P3:4xCa2+ transports Ca2+ from platelet dense tubular system to cytosol
+IP3R:I(1,4,5)P3 tetramer transports Ca2+ from ER lumen to cytosol
+IQGAP1 binds CDH1:CTTNB1:CTTNA1 and MEN1
+IQGAP1 binds CLIP1 and microtubules
+IQGAPs bind CALM1
+IQGAPs bind F-actin, which is inhibited by calmodulin
+IRAK interacts with TRAF6
+IRAK is activated
+ITCH binds DTX
+ITCH ubiquitinates DTX
+IkB is ubiquitinated and degraded
+Inactivation of MAP2K1 by CDK1
+Inactivation of PLC beta
+Inactive G alpha (12/13) reassociates with G beta:gamma
+Inactive G alpha (i) reassociates with G beta:gamma
+Inactive G alpha (q) reassociates with G beta:gamma
+Inactive G alpha (s) reassociates with G beta:gamma
+Inactive G alpha (z) reassociates with G beta:gamma
+Inactive RAFs bind YWHAB
+Inactive catalytic PP2B is activated by the binding of calmodulin
+Indirect recruitment of GAB2 to p-KIT
+Indirect recruitment of PI3K to KIT via p(Y)-GAB2
+Inhibition of PP2A activity by phosphorylation of the catalytic subunit at tyrosine Y307
+Insulin binds the insulin receptor
+Insulin degradation
+Insulin receptor de-phosphorylation
+Integrin alpha IIb beta3 T779 phosphorylation blocks SHC binding
+Integrin alphaIIb beta3 activation
+Integrin alphaVbeta3 binds p-6Y-VEGFR2
+Interaction of APS and p-KIT
+Interaction of KIT and sSCF
+Interaction of SHP1 and KIT
+Interaction of SOS with GRB2 bound to FADK1
+Interaction of Src family kinases with p-KIT
+Interaction of integrin alphaIIb beta3 with Fibrinogen
+Interaction of other adapter proteins with p-KIT
+Interaction of other tyrosine kinases with p-KIT
+Internalisation of the insulin receptor
+Intrinsic nucleotide exchange on RAS
+JAG1 binds NOTCH2
+JAG1 binds NOTCH4
+JAG2 binds NOTCH2
+JAK2 Autophosphorylates in Response to Leptin
+JAK2 Phosphoryates STAT3 in Response to Leptin
+JAK2 Phosphorylates IRS in Response to Leptin
+JAK2 Phosphorylates LEPR
+JAK2 Phosphorylates SHP2 (PTPN11) in Response to Leptin
+JAK2 Phosphorylates STAT5 in Response to Leptin
+JAK2 and LYN phosphorylate STAT5 in EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2
+JAK2 binds to p-KIT
+JAK2 phosphorylates GAB1 in EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2:GAB1
+JAK2 phosphorylates SHC1 in EPO:p-8Y-EPOR:p-12Y-JAK2:LYN:p-CRKL:RABGEF1:SHC1
+JAK2 phosphorylates VAV1 in EPO:p-8Y-EPOR:p-12Y-JAK2:LYN:IRS2:p-Y-CRKL:RASGEF1:p-Y-SHC1:GRB2:VAV1
+JAK2 transphosphorylates and is activated in response to Erythropoietin
+JNK phosphorylates BIM, BAD and other targets
+JUN binds MAPK6 gene
+JUN binds the PTEN gene promoter
+JUN positively regulates MAPK6 gene expression
+KAL1 binds FGFR1c
+KAL1 binds HS
+KAT5 HAT complex acetylates TCF4 gene at histone H4
+KBTBD7:CUL3:RBX1 ubiquitinates NF1
+KCTD6 gene expression is stimulated by RUNX1 and ESR1
+KDM1A demethylates H3 on MYC and BCL genes in response to estrogen
+KDM1A demethylates dimethylated H3K9 (Me2K-10-H3) at KLK2 and KLK3 promoters
+KDM1A demethylates monomethylated H3K9 (MeK-10-H3) at KLK2 and KLK3 promoters
+KDM1A is recruited to MYC and BCL2 genes
+KDM4B demethylates H3K9me3 on estrogen-responsive target enhancers
+KDM4C demethylates Me3K-10-H3 associated with KLK2 and KLK3 promoters
+KIBRA (WWC1) binds LATS proteins
+KIF7 is recruited to the ciliary tip through interaction with axonemal microtubules
+KIT binds ripretinib
+KIT binds type I TKIs
+KIT binds type II TKIs
+KPNA2 translation is negatively regulated by miR-26A and B
+KRAS4B is phosphorylated on serine 181
+KRAS4B recycles to the plasma membrane
+KTN1 binds Kinesin-1
+Kinetochore capture of astral microtubules is positively regulated by CDC42:GTP:p-S196-DIAPH2-2
+LARG activation by G alpha 12/13
+LARG binds plexin B1
+LIM kinase phosphorylation by ROCK
+LIMK phosphorylates CFL1, inactivating it
+LINC01139 facilitates PTK6 autophosphorylation
+LINC01139 promotes phosphorylation of HIF1A by LRRK2
+LINC01139 promotes phosphorylation of HIF1A by PTK6
+LKB1 forms a trimeric complex with STRAD and MO25
+LNK binds to p-KIT and inhibit downstream signaling
+LPA-binding receptors bind LPA
+LRIG1 undergoes ubiquitination
+LRPP4(LRPP1-3,5) hydrolyse LPA
+LTBP1, LTBP3 bind TGF-Beta
+LTBP4 binds TGF-Beta-1
+LUBAC comlex binds OTULIN
+LYN phosphorylates CRKL in EPO:p-8Y-EPOR:p-12Y-JAK2:LYN:IRS2:CRKL:RAPGEF1
+LYN phosphorylates PLCG1,2 in EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2:PLCG1,2
+Latent TGF-beta-1 binds integrins
+Latent TGF-beta-1 is cleaved by FURIN
+Latent TGF-beta-3 binds integrins
+Leptin Binds Leptin Receptor
+Liganded G12/13-activating GPCR acts as a GEF for G12/13
+Liganded G12/13-activating GPCRs bind inactive heterotrimeric G-protein G12/13
+Liganded Gi-activating GPCR acts as a GEF for Gi
+Liganded Gi-activating GPCRs bind inactive heterotrimeric G-protein Gi
+Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq
+Liganded Gq/11-activating GPCRs act as GEFs for Gq/11
+Liganded Gs-activating GPCR acts as a GEF for Gs
+Liganded Gs-activating GPCRs bind inactive heterotrimeric Gs
+Liganded Gz-activating GPCR acts as a GEF for Gz
+Liganded Gz-activating GPCRs bind inactive heterotrimeric G-protein Gz
+Light stimulates opsin receptors
+Localization of CBL:GRB2 to the membrane
+Luteinizing hormone receptor can bind LH
+MAF1 binds the PTEN gene promoter
+MAF1 translocates to the nucleus
+MAML in complex with NICD1 recruits CDK8
+MAP2K1 binds MAPK3
+MAP2K1 phosphorylates MAPK3
+MAP2K2 binds MAPK1
+MAP2K2 phosphorylates MAPK1
+MAP2Ks and MAPKs are phosphorylated at the endosome membrane
+MAP2Ks and MAPKs bind to the activated RAF complex
+MAP2Ks phosphorylate MAPK at the Golgi membrane
+MAP2Ks phosphorylate MAPKs
+MAP2Ks phosphorylate MAPKs downstream of BRAF and NGF
+MAPK1 and MAPK3 phosphorylate SMAD2 and SMAD3
+MAPK1 or MAPK3 phosphorylates NCF1 at Ser345
+MAPK11 or MAPK14 phosphorylates NCF1 at Ser345
+MAPK12 phosphorylates PTPN3
+MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2
+MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y427-SHC1
+MAPK4,6 translocate to nucleus
+MAPK4,6 translocate to the cytoplasm
+MAPK6 binds CCND3
+MAPK6 is degraded by the 26S proteasome
+MAPK6 is ubiquitinated at the N-terminal
+MAPKAPK2 phosphorylates CREB at Serine 133
+MAPKAPK5 phosphorylates KALRN
+MAPKs phosphorylate PP2A
+MARK3 phosphorylates KSR1
+MATK (CSK homologous kinase) binds phosphorylated ERBB2
+MECOM (EVI1) binds the PTEN gene promoter
+MECOM (EVI1) recruits polycomb repressor complexes (PRCs) to the PTEN gene promoter
+MEMO1 binds RHOA:GTP:DIAPH1
+MEN1 binds SMAD2/3:SMAD4 heterotrimer
+MET binds LRIG1
+MET binds RANBP10
+MET binds SHC1-2
+MET binds TNS3
+MET binds TNS4
+MET bound PI3K generates PIP3
+MET dimers autophosphorylate
+MET phosphorylates CBL
+MET phosphorylates GAB1
+MET phosphorylates PTK2
+MET phosphorylates SHC1-2
+MET phosphorylates STAT3
+MET receptor dimerizes
+MIR150 microRNA binds 3'UTR of NOTCH3 mRNA
+MIR181C microRNA binds 3'UTR of NOTCH4 mRNA
+MIR200B/C microRNAs bind NOTCH1 mRNA
+MIR206 microRNA binds 3'UTR of NOTCH3 mRNA
+MIR302A microRNA binds 3'UTR of NOTCH4 mRNA
+MIR34 microRNAs bind 3'UTR of NOTCH1 mRNA
+MIR34 microRNAs bind 3'UTR of NOTCH2 mRNA
+MIR449 microRNAs bind 3'UTR of NOTCH1 mRNA
+MKL1 binds SRF
+MKL1 translocates from cytosol to the nucleus
+MKRN1 polyubiquitinates PTEN
+MLNR (GPR38) is a receptor for motilin
+MMPs cleave HB-EGF
+MRAS:SHOC2:PPP1CC dephosphorylates inactive RAFs
+MSK1 activates ATF1
+MSK1 activates CREB
+MST1 binds MST1R
+MST1 dimer:MST1R dimer binds MST1R dimer
+MST1R autophosphorylates
+MTMR4 binds phosphorylated SMAD2/3
+MTMR4 dephosphorylates SMAD2/3
+MUC20 binds MET and inhibits GRB2 binding
+MXD4 gene expression is stimulated by ERBB4s80
+MYC binds MAPKAPK5 gene
+MYC mRNA translation is negatively regulated by miR-34B and C
+MYC positively regulates MAPKAPK5 gene expression
+MYC trancscription is negatively regulated by SMAD2/3:SMAD4:RBL1:E2F4/5:DP1/2 complex
+MYC/MYCN bind the ALK gene
+MYD88 dissociates
+MYLK (MLCK) Active Calmodulin Binding
+MYLK (MLCK) phosphorylates MRLCs of the non-muscle myosin II complex
+Mature HBEGF binds to EGFR, triggering dimerisation and autophosphorylation of the receptor
+Mature NOTCH heterodimer traffics to the plasma membrane
+Mature S-Farn-Me KRAS4B translocates to plasma membrane
+Melanin-concentrating hormone receptors bind MCH
+Melanocortin receptors bind melanocortins
+Melanospin is stimulated by light
+Melatonin receptors can bind melatonin
+Membrane estrogen receptors bind SRC
+Membrane-anchored TNF-alpha binds TNFR1
+Metabotropic glutamate receptors bind glutamate
+Monoubiquitinated PTEN translocates to the nucleus
+Multi-ubiquitination of phospho-beta-catenin by RBX1:SCF(beta-TrCP1)
+Myelin components can interact with p75NTR:NgR:LINGO1
+Myosin phosphatase dephosphorylates myosin regulatory light chain
+Myosin phosphatase inactivation by ROCK
+Myosin regulatory light chain phosphorylation by ROCK
+MyrG-CDK5R1,2 bind CDK5
+N-arachidonyl glycine receptor GPR18 binds N-arachidonyl glycine
+N-linked glycosylation of WNTs
+NAB2 and CHD4 bind and repress EGR-mediated RRAD gene expression
+NAB2 binds EGR1 to repress CDK5R1 gene expression
+NADPH oxidase 2 (NOX2) complex binds RAC1
+NADPH oxidase 2 generates superoxide from oxygen
+NBEA binds NICD1
+NBEA binds PRKAR2A
+NBEA translocates to the nucleus
+NCOA1 binds ESR1:estrogen:TGFA gene
+NCOA1 binds the ABCA1gene:NR1H2,3:RXR:NR1H2,3 ligands complex
+NCOA1 binds the UGT1A3 gene:NR1H2,3:RXR:NR1H2,3 ligand complex
+NCOA1 recruits EP300 to TGFA promoter
+NCOA1 recruits EP300 to the ABCA1 promoter
+NCOA3 binds ESR1:estrogen:TFGA gene
+NCOA3 recruits EP300 to ESR1:estrogen:TFGA gene:NCOA3
+NEDD4 binds ERBB4jmAcyt1s80 dimer
+NEDD4 ubiquitinates ERBB4jmAcyt1s80 dimer
+NEDD4, WWP2, CHIP and XIAP polyubiquitinate PTEN
+NEDD4L binds phosphorylated linker region of SMAD2/3
+NEDD4L ubiquitin ligase binds SMAD7
+NEDD4L ubiquitinates SMAD2/3
+NEXT1 is cleaved to produce NICD1
+NEXT2 is cleaved to produce NICD2
+NEXT3 is cleaved to produce NICD3
+NF-kB migrates to the nucleus and turns on transcription
+NF1 is degraded by the proteasome
+NF2 binds PAK1
+NGF binding to p75NTR inactivates RHOA
+NGF homodimer binds to p75NTR
+NGF- and MAPK-dependent EGR1, EGR2 and EGR4 expression
+NGF:p75NTR complex binds to NRAGE
+NICD1 binds HIF1A
+NICD1 displaces co-repressor complex from RBPJ (CSL)
+NICD1 in complex with RBPJ (CSL) recruits MAML
+NICD1 is phosphorylated by CDK8
+NICD1 traffics to nucleus
+NICD2 binds RBPJ and MAML in the nucleus
+NICD2 traffics to the nucleus
+NICD3 binds RBPJ and MAML in the nucleus
+NICD3 binds to TACC3
+NICD3 traffics to the nucleus
+NICD4 binds RBPJ and MAML in the nucleus
+NICD4 binds to TACC3
+NICD4 traffics to the nucleus
+NLK mRNA translation controlled by miR-92b
+NLK phosphorylates TCF/LEF
+NLK translocates to nucleus
+NMUR2 binds neuromedin-S
+NOTCH precursor cleaved to form mature NOTCH
+NOTCH1 Coactivator Complex binds HES1 promoter
+NOTCH1 Coactivator Complex binds HES5 promoter
+NOTCH1 Coactivator Complex binds MYC promoter
+NOTCH1 Coactivator Complex binds promoters of HEY genes
+NOTCH1 and NOTCH4 gene transcription is inhibited by SIRT6
+NOTCH1 associates with negative regulators NUMB and ITCH
+NOTCH1 binds DLK1
+NOTCH1 binds DLL/JAG ligand in cis
+NOTCH1 binds DLL1
+NOTCH1 binds DLL4
+NOTCH1 binds DNER
+NOTCH1 binds JAG1
+NOTCH1 binds JAG2
+NOTCH1 coactivator complex binds NOTCH3 gene
+NOTCH1 gene transcription
+NOTCH1 mRNA translation controlled by miRNAs
+NOTCH1 stimulates HES1 transcription
+NOTCH1 stimulates HES5 transcription
+NOTCH1 stimulates HEY transcription
+NOTCH1 stimulates MYC transcription
+NOTCH1,NOTCH3 coactivator complex binds PLXND1 gene promoter
+NOTCH2 binds CNTN1
+NOTCH2 binds MDK
+NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter
+NOTCH2 coactivator complex binds FCER2 promoter
+NOTCH2 coactivator complex binds HES1 promoter
+NOTCH2 coactivator complex binds HES5 promoter
+NOTCH2 gene transcription
+NOTCH2 mRNA translation controlled by miRNAs
+NOTCH2 stimulates GZMB transcription
+NOTCH2 stimulates HES1 transcription
+NOTCH2 stimulates transcription of FCER2 (CD23A)
+NOTCH2 stimulates transcription of HES5
+NOTCH2-ligand complex is cleaved to produce NEXT2
+NOTCH3 binds DLL1
+NOTCH3 binds DLL4
+NOTCH3 binds JAG1
+NOTCH3 binds JAG2
+NOTCH3 binds WWP2
+NOTCH3 binds YBX1
+NOTCH3 binds activated EGFR
+NOTCH3 coactivator complex and STAT1 bind HES1 gene promoter
+NOTCH3 coactivator complex binds DLGAP5 gene promoter
+NOTCH3 coactivator complex binds HES1 gene promoter
+NOTCH3 coactivator complex binds HEYL gene promoter
+NOTCH3 coactivator complex binds PBX1 gene promoter
+NOTCH3 coactivator complex binds WWC1 (Kibra) gene promoter
+NOTCH3 coactivator complex binds the PTCRA gene promoter
+NOTCH3 gene transcription
+NOTCH3 mRNA translation controlled by miRNAs
+NOTCH3-ligand complex is cleaved to produce NEXT3
+NOTCH4 binds FLT4 gene promoter
+NOTCH4 binds SMAD3
+NOTCH4 gene transcription
+NOTCH4 gene transcription is inhibited by RUNX1
+NOTCH4 mRNA translation controlled by miRNAs
+NOTUM releases Hh-Np:GPC5 from the plasma membrane
+NOX1 complex:RAC1:GTP generates superoxide from oxygen
+NOX3 complex:RAC1:GTP generates superoxide from oxygen
+NPHP4 protein binds LATS proteins
+NR1H2 binds ABCA1
+NR1H2 or NR1H3, NRIP1 bind the SCD gene
+NR1H2 or NR1H3, NRIP1 bind the SREBF1 gene
+NR1H2,3 binds the ABCG5 gene
+NR1H2,3 binds the ABCG8 gene
+NR1H2,3 binds the ANGPTL3 gene
+NR1H2,3 binds the APOC1 gene
+NR1H2,3 binds the APOC2 gene
+NR1H2,3 binds the APOC4 gene
+NR1H2,3 binds the APOD gene
+NR1H2,3 binds the APOE gene
+NR1H2,3 binds the ARL4C gene
+NR1H2,3 binds the CETP gene
+NR1H2,3 binds the EEPD1 gene
+NR1H2,3 binds the FABP6 gene
+NR1H2,3 binds the MYLIP gene
+NR1H2,3 binds the NR1H3 gene
+NR1H2,3 binds the PLIN1 gene
+NR1H2,3 binds the PLTP gene
+NR1H2,3, NRIP1 bind the FASN gene
+NR1H3 gene transcription regulated by NR1H2,3
+NR1H3 mRNA is translated
+NR1H3, NRIP1 bind the PCK1 gene
+NR2E1 associated with transcription repressors binds PTEN promoter
+NR5A2, ZNF217 and NCOA3 bind GREB1 promoter
+NRAGE activates JNK
+NRAGE sequesters CHE1 in the cytoplasm
+NRG2-activated ERBB4 binds GABA receptors through GABRA1
+NRIF and TRAF6 may activate JNK
+NRIF binds to p75NTR
+NRP-1 forms a ternary complex with VEGF165 and VEGFR1
+NRP-2 associates with VEGFR1 forming complexes on  cell surface
+NTF3 binds NTRK2 (TRKB)
+NTF3 binds NTRK3
+NTF3-bound NTRK2 dimerizes
+NTF3-bound NTRK2 dimers trans-autophosphorylate
+NTF4 binds NTRK2
+NTF4-bound NTRK2 dimerizes
+NTF4-bound NTRK2 dimers trans-autophosphorylate
+NTRK1,2 in ADCYAP1(2-742):ADCYAP1R1:NTRK1,2 autophosphorylates
+NTRK1,2 in Ade-Rib:ADORA2A:NTRK1,2 autophosphorylates
+NTRK2 activates RAS signaling through FRS2
+NTRK2 activates RAS signaling through SHC1
+NTRK2 and CDK5 promote activation of RAC1 by TIAM1
+NTRK2 binds TIAM1
+NTRK2 phosphorylates CDK5
+NTRK2 phosphorylates FRS2
+NTRK2 phosphorylates FRS3
+NTRK2 phosphorylates PLCG1
+NTRK2 phosphorylates SHC1
+NTRK2 promotes TIAM1 phosphorylation
+NTRK2-activated PI3K generates PIP3
+NTRK2-bound FYN autophosphorylates
+NTRK2-phosphorylated FRS2 binds GRB2
+NTRK2-phosphorylated FRS2 binds PTPN11
+NTRK3 activates RAS through SHC1
+NTRK3 binds GRB2:SOS1 through SHC1
+NTRK3 dimers trans-autophosphorylate
+NTRK3 phosphorylates PLCG1
+NTRK3 phosphorylates SHC1
+NTRK3(496-641) binds NELFB
+NTRK3(496-641):NELFB translocates to mitochondrion
+NUMB binds ITCH
+NUMB:ITCH bind and ubiquitnate GLI1
+NUMB:ITCH binds GLI1
+NUMB:ITCH ubiquitinates GLI1
+Nck binds to the active PDGF receptor
+Neurolysin degrades neurotensin
+Neuromedin-U receptors bind neuromedins U, S
+Neuropeptide S receptor binds neuropeptide S
+Neuropeptide Y receptors can bind neuropeptide Y-related peptides
+Neurotensin receptors can bind neurotensins
+Nociceptin receptor binds to nociceptin
+Nuclear DUSPs dephosphorylate MAPKs
+OXGR1 binds 2OG
+Olaratumab binds PDGFRA
+Opioid binds MOR
+Opioid dissociates from MOR
+Opioid receptors bind opioid peptides
+Opsins act as GEFs for G alpha-t
+Opsins binds G alpha-t
+Orexin 1 receptor can bind orexin-A neuropeptide
+Orexin 2 receptor can bind orexin-B neuropeptide
+Overexpressed HIST1H2AC and ESR1:ESTG bind MYC and BCL2 genes
+Oxoeicosanoid receptor can bind oxoeicosanoid
+Oxysterol binds to the ABCA1 gene:NR1H2,3:RXR:NCOR:GPS2:TBL1:HDAC3 complex
+Oxysterol binds to the UGT1A3 gene:NR1H2,3:RXR:NCOR complex
+Oxysterol-induced binding of NR1H2,3:RXR to the ABCG1 gene
+Oxytocin receptor bind oxytocin
+P2RY1 binds ADP
+P2RY12 binds ADP
+P2RY12 binds P2RY12 antagonists
+P2Y10 receptor can bind to LPA
+P2Y11 receptor can bind to ATP
+P2Y13 binds ADP
+P2Y14 receptor can bind to UDP-glucose
+P2Y2 receptor binds ATP and UTP
+P2Y4 receptor can bind to UTP
+P2Y5 receptor can bind to LPA
+P2Y6 receptor can bind to UDP
+P2Y9 receptor can bind to LPA
+P4HB forms mixed disulphides with Hh precursors
+PAF receptor binds platelet activating factor
+PAK phosphorylates cortactin
+PAK1 binds ARHGEF6
+PAK1 in GNB/GNG:PAK1:ARHGEF6:Active CDC42 is activated
+PAK1 or PAK2 phosphorylates MYLK
+PAK1 phosphorylates FLNA
+PAK1 phosphorylates LIMK1
+PAK1 phosphorylates myosin phosphatase
+PAK1,2,3 phosphorylates MAPK6,4
+PAK1-3 autophosphorylates
+PAK1-3 dimer disassociates
+PAK1-3 phosphorylates VE-cadherin
+PAK1:ARHGEF6 complex binds G-protein beta-gamma complex
+PAK2 autophorylates
+PAK2 binds NCK
+PAK2 phosphorylates myosin regulatory light chain (MRLC)
+PAQR3 binds inactive RAFs
+PARP1 ADP-ribosylates SMAD3 and SMAD4
+PARP1 binds SMAD2/3:SMAD4 heterotrimer
+PBX1 gene expression is stimulated by NOTCH3
+PDE3A hydrolyses cAMP to AMP
+PDE3A inhibitors bind PDE3A
+PDE3B hydrolyses cAMP to AMP
+PDE4A binds PDE4A inhibitors
+PDE4A hydrolyses cAMP to AMP
+PDE4A,C,D hydrolyse cAMP
+PDE6 hydrolyses cGMP to GMP
+PDE6D binds S-Farn-Me KRAS4B:CALM:4 Ca2+
+PDGF binds to extracellular matrix proteins
+PDGF dimer binds two receptors simultaneously
+PDGF-AA clevage by Furin
+PDGF-AB clevage by Furin
+PDGF-BB clevage by Furin
+PDGFRs bind type I TKI
+PDGFRs bind type II TKI
+PDK isoforms phosphorylate lipo-PDH
+PDK1 phosphorylates PKC
+PDPK1 activates PRKCZ
+PDPK1 binds PIP2
+PDPK1 binds PIP3
+PDPK1 binds PRKCZ
+PDPK1 phosphorylates AKT at T308
+PDPK1 phosphorylates AKT2
+PDPK1 phosphorylates PKN1,2,3
+PEA15 binds MAPK monomers and dimers
+PEBP1 binds activated RAF1
+PGR gene expression is stimulated by ERBB4s80:ESR1:estrogen
+PHLPP dephosphorylates S473 in AKT
+PI(3,4,5)P3 binds VAV1,2,3
+PI3-kinase binds to the active receptor
+PI3K binds membrane-associated estrogen receptors
+PI3K binds to EGF:EGFR:GRB2:GAB1
+PI3K catalyses the phosphorylation of PIP2 to PIP3
+PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
+PI3K phosphorylates PIP2 to PIP3
+PI3K produces PIP3 and other phosphatidyl inositides
+PI3K synthesizes PIP3 downstream of ALK
+PI3K-containing complexes phosphorylate PIP2 to PIP3
+PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane
+PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers at the plasma membrane
+PIK3C3:PIK3R4 phosphorylates PI to PI3P
+PIN1 binds p-S345-NCF1
+PIP2 hydrolysis
+PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR
+PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3
+PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1
+PIP3 binds to RhoA and activates it
+PIP3 recruits AKT to the membrane
+PIP3 recruits PDK1 and AKT to the membrane
+PIP3 recruits PDPK1 to the membrane
+PIP3:BTK:G beta-gamma complex dissociates to Active BTK, PIP3 and G beta-gamma complex
+PKA catalytic subunit translocates to the nucleus
+PKA phosphorylates CREB1
+PKA phosphorylates DARPP-32 on Thr34
+PKA phosphorylates GLI1
+PKA phosphorylates GLI2
+PKA phosphorylates GLI3
+PKA phosphorylates MAPKAPK5
+PKA phosphorylates PDE4B
+PKC alpha interacts with and phosphorylates KIT
+PKC autophosphorylates
+PKC binds active G alpha (z)
+PKC phosphorylates G alpha (z)
+PKC phosphorylates GRK2
+PKC phosphorylates NCF1
+PKC phosphorylates sphingosine kinase 1
+PKN1 in complex with AR positively regulates expression of KLK2 and KLK3
+PKN1 phosphorylates histone 3 of nucleosomes associate with KLK2 and KLK3 promoters
+PKN1 stimulates association of AR with NCOA2
+PKN1:AR complex binds promoters of KLK2 and KLK3 genes
+PLC beta is activated by G alpha (q)
+PLC beta-mediated PIP2 hydrolysis
+PLC-beta hydrolyses PIP2 to DAG and IP3
+PLC-gamma binds to the active receptor
+PLCG1 binds to p-ERBB2:p-EGFR
+PLCG1 disassociates from VEGFR2 and translocate to PM
+PLCG1 phosphorylation by p-EGFR:p-ERBB2
+PLXND1 gene expression is stimulated by NOTCH1,NOTCH3 coactivator complexes
+PMEPA1 sequesters phosphorylated SMAD2/3
+PMEPA1 sequesters unphosphorylated SMAD2/3
+POMC(138-176) binds MC2R
+PORCN palmitoleoylates N-glycosyl WNTs
+PP1 dephosphorylates TGFBR1
+PP2A dephosphorylates AXIN, APC and CTNNB1 in the destruction complex
+PP2A dephosphorylates KSR1
+PP2A dephosphorylates RAF1
+PP2A dephosphorylates inactive RAFs
+PP5 dephosphorylates RAF1 S338
+PPA2A dephosphorylates SPRY2
+PPM1A dephosphorylates nuclear SMAD2/3
+PPM1A protein phosphatase binds phosphorylated SMAD2/3
+PPP3 complex dephosphorylates DARPP-32 on Thr34
+PPTN11 dephosphorylates SPRY2
+PRDM1 gene expression downstream of ALK signaling
+PRDM4 (SC1) binds to p75NTR
+PRDM4 inhibits cyclin E transcription
+PRDM4 translocates to the nucleus
+PREX2 binds PTEN and inhibits it
+PRICKLE1 is degraded by the proteasome
+PRKCI phosphorylates ELF3
+PRKCZ autophosphorylates downstream of estrogen stimulation
+PRKCZ recruits RAS in response to estrogen stimulation
+PRKCZ stimulates RAS nucleotide exchange in response to estrogen
+PRKG is activated by binding to high levels of cGMP in the absence of WNT signaling
+PRMT1 binds TBP:TFIIA:DDX5:ESR1:estrogen:TFF1 gene
+PRMT1 methylates ESRs
+PTB and hnRNPA1 bind FGFR2 pre-mRNA to repress IIIb splicing and promote formation of FGFR2c mRNA
+PTCH is internalized
+PTCH1 inhibits accumulation of SMO in the primary cilium in the absence of Hh signal
+PTCRA gene expression is stimulated by NOTCH3 and inhibited by IK1
+PTEN binds FRK
+PTEN dephosphorylates PIP3
+PTEN gene transcription is stimulated by TP53, EGR1, PPARG, ATF2, MAF1, and inhibited by NR2E1, SALL4, MECOM, SNAI1, SNAI2, JUN
+PTEN mRNA translation is negatively regulated by microRNAs
+PTEN undergoes monoubiquitination
+PTENP1 mRNA binds miR-19b RISC
+PTENP1 mRNA binds miR-20 RISC
+PTGFR binds PGF2a
+PTGFR binds PTGFR agonists
+PTK2 and SRC-1 phosphorylate PXN on Y31 and Y118
+PTK2 autophosphorylates
+PTK2 autophosphorylates downstream of EGFR
+PTK2 binds activated EGFR
+PTK2 binds activated MET
+PTK2 binds p-S-SHB and is recruited to p-6Y-VEGFR2
+PTK2 is recruited to methylated ESR1
+PTK2/SRC-1 phosphorylates BCAR1
+PTK2beta binds alphaVbeta3
+PTK6 binds AKT1
+PTK6 binds ARAP1
+PTK6 binds ARHGAP35
+PTK6 binds BCAR1
+PTK6 binds DOK1
+PTK6 binds KHDRBS1
+PTK6 binds PXN
+PTK6 phosphorylates AKT1
+PTK6 phosphorylates ARAP1
+PTK6 phosphorylates ARHGAP35
+PTK6 phosphorylates BCAR1
+PTK6 phosphorylates CBL
+PTK6 phosphorylates CDKN1B
+PTK6 phosphorylates DOK1
+PTK6 phosphorylates KHDRBS1
+PTK6 phosphorylates KHDRBS2
+PTK6 phosphorylates KHDRBS3
+PTK6 phosphorylates PXN
+PTK6 phosphorylates SFPQ
+PTK6 phosphorylates STAP2
+PTK6 phosphorylates STAT3
+PTK6 translocates to the nucleus
+PTN and MDK bind to PTPRZ
+PTP-RO interacts with p-c-Kit complex
+PTPN1 and PTPN2 dephosphorylate MET
+PTPN1 binds PTK6
+PTPN1 dephosphorylates PTK6
+PTPN12 dephosphorylates EGFR at Y1148 (Y1172)
+PTPN12 dephosphorylates ERBB2 on tyrosine Y1248
+PTPN12 dephosphorylates PDGFRB at Y1021
+PTPN18 binds ERBB2:EGFR heterodimers
+PTPN18 dephosphorylates ERBB2 at Y1196, Y1112 and Y1248
+PTPN3 binds p-T183,Y185 MAPK12
+PTPN3 dephosphorylates EPS15
+PTPN3 dephosphorylates MAPK12
+PTPN6 dephosphorylates JAK3
+PTPN7 binds p-T,Y-MAPK
+PTPN7 dephosphorylates p-T,Y-MAPKs
+PTPRJ dephosphorylates MET
+PTPRZ dephosphorylates ligand-bound ALK dimers
+PXN binds p-6Y,S732-PTK2
+PalmS-ESRs bind CAVs
+PalmS-ESRs:CAVs translocate to plasma membrane
+Palmostatin B binds RAS depalmitoylases
+Parathyroid hormone receptor can bind parathyroid hormone
+Part of pro-beta-NGF is processed to mature beta-NGF
+Part of the ICD migrates to the nucleus
+Patched binds Smoothened
+Phospho R-SMAD(SMAD2,3):CO-SMAD(SMAD4):FOXH1 binds Activin Response Element
+Phospho-JAK2 phosphorylates EPOR
+Phospho-R-Smad1/5/8 dissociates from the receptor complex
+Phospho-R-Smad1/5/8 forms a complex with Co-Smad
+Phospho-Shc dissociates from the TrkA receptor
+Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase
+Phospholipase C-gamma1 binds to the activated EGF receptor
+Phosphorylated AKT1S1:mTORC1 binds YWHAB
+Phosphorylated AMPK binds AMP
+Phosphorylated DVL recruits PIP5K1B to the plasma membrane
+Phosphorylated ERBB2 heterodimers bind MEMO1
+Phosphorylated GAB1 recruits PI3K to MET
+Phosphorylated GPNMB recruits PTK6 and LRRK2 in the presence of LINC01139
+Phosphorylated KHDRBS1 translocates to the cytosol
+Phosphorylated LEP:LEPR:JAK2 Binds SH2B1
+Phosphorylated LEP:LEPR:JAK2:SH2B1 Binds IRS1/2
+Phosphorylated LEPR Binds SHP2 (PTPN11)
+Phosphorylated LEPR Binds SOCS3
+Phosphorylated LEPR Binds STAT3
+Phosphorylated LEPR Binds STAT5
+Phosphorylated MAPKs translocate into the nucleus
+Phosphorylated MOB1A proteins associate with LATS proteins
+Phosphorylated NICD1 binds FBXW7
+Phosphorylated PKN1 binds androgen receptor (AR)
+Phosphorylated PXN recruits the CRK complex
+Phosphorylated RHOU translocates to the endosome membrane
+Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4
+Phosphorylated SMAD2/3 dissociates from TGFBR
+Phosphorylated SPRY2 is ubiquitinated by CBL
+Phosphorylated STAT3 Dimer Translocates to the Nucleus
+Phosphorylated STAT3 Dissociates from Leptin Receptor
+Phosphorylated STAT3 Forms Dimers
+Phosphorylated STAT5 Dissociates from Leptin Receptor
+Phosphorylation and activation of VAV1
+Phosphorylation and activation of eIF4B by activated S6K1
+Phosphorylation and activation of eIF4G by activated S6K1
+Phosphorylation and inactivation of eEF2K by activated S6K1
+Phosphorylation of 4E-BP1 by activated mTORC1
+Phosphorylation of APC component of the destruction complex
+Phosphorylation of APS
+Phosphorylation of BCAR1 by SRC-PTK2 complex
+Phosphorylation of CBL (EGFR:CBL)
+Phosphorylation of CBL (EGFR:GRB2:CBL)
+Phosphorylation of EGFR by SRC kinase
+Phosphorylation of GAB2 by SFKs
+Phosphorylation of IRS
+Phosphorylation of JAK2
+Phosphorylation of LATS1 and 2 by p-STK3 (MST2)/N
+Phosphorylation of LATS1 and 2 by p-STK3 (p-MST2)
+Phosphorylation of LATS1 and 2 by p-STK4 (p-MST1)
+Phosphorylation of LATS1 and 2 by p-STK4(MST1)/N
+Phosphorylation of LRP5/6 cytoplasmic domain by CSNKI
+Phosphorylation of LRP5/6 cytoplasmic domain by membrane-associated GSK3beta
+Phosphorylation of MOB1A and B by p-STK3 (p-MST2)
+Phosphorylation of MOB1A and B by p-STK3(MST2)/N
+Phosphorylation of MOB1A and B by p-STK4 (p-MST1)
+Phosphorylation of MOB1A and B by p-STK4(MST1)/N
+Phosphorylation of PLCgamma by PDGFR
+Phosphorylation of RAF
+Phosphorylation of Ribosomal protein S6 by activated S6K1
+Phosphorylation of SHC1
+Phosphorylation of SHC1 by ERBB4 homodimers
+Phosphorylation of SHP2 by SFKs
+Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9
+Phosphorylation of SMAD2,3 by Activin:Activin Receptor
+Phosphorylation of SRC-1
+Phosphorylation of STATs
+Phosphorylation of STK3 (MST2) and SAV1 by STK3
+Phosphorylation of STK4 (MST1) and SAV1 by STK4
+Phosphorylation of TSC2 by PKB
+Phosphorylation of USP8 by P-AKT
+Phosphorylation of WWTR1 (TAZ) by LATS1
+Phosphorylation of WWTR1 (TAZ) by LATS2
+Phosphorylation of YAP by LATS1
+Phosphorylation of YAP by LATS2
+Phosphorylation of beta-catenin at Ser45 by CK1 alpha
+Phosphorylation of cPLA2 by ERK-2
+Phosphorylation of complexed TSC2 by PKB
+Phosphorylation of p-KIT on Y900 by Src kinases
+Phosphorylation of pPTK2 by SRC
+Phosphorylation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3
+Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3
+Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3
+Polyubiquitinated NRIF binds to p62 (Sequestosome)
+Polyubiquitinated NRIF migrates to the nucleus
+Pro-EGF is cleaved to form mature EGF
+Pro-beta-NGF and mature beta-NGF are secreted
+Processing of SCF isoform 1
+Production of ceramide which can activate JNK and other targets
+Production of phagocyte oxygen radicals by NOX2 complex bound to RAC2:GTP
+Profilin:G-actin binds MKL1
+Progesterone stimulation promotes PGR:P4 binding to ESR1:ESTG
+Prokineticin receptors bind prokineticin
+Prolactin-releasing hormone receptor binds PRH
+Proteasome degrades polyubiquitinated PTEN
+Proteasome degrades ubiquitinated NICD4
+Protein tyrosine phosphatases dephosphorylate NTRK3
+Proteinase-activated receptors can bind thrombin
+RAB4:GTP promotes recycling of activated MET receptor to the plasma membrane
+RAC1 GAPs stimulate RAC1 GTPase activity
+RAC1 GDIs block activation of RAC1
+RAC1 GEFs activate RAC1
+RAC1 and CDC42 activate PAK1
+RAC1 and CDC42 activate PAK2
+RAC1 and CDC42 activate PAK3
+RAC1 binds PAK1-3
+RAC1 binds effectors at the ER membrane
+RAC1 binds effectors at the plasma membrane
+RAC1 translocates to the endoplasmic reticulum membrane
+RAC1,RAC2,RHOG activate PI3K
+RAC1:GTP and PIP3 bind WAVE Regulatory Complex (WRC)
+RAC1:GTP binds NOX1 complex
+RAC1:GTP binds NOX3 complex
+RAC1:GTP:FMNL1 binds profilin:G-actin
+RAC2 GAPs stimulate RAC2 GTPase activity
+RAC2 GDIs block activation of RAC2
+RAC2 GEFs activate RAC2
+RAC2 binds effectors at the ER membrane
+RAC2 binds effectors at the mitochondrial outer membrane
+RAC2 binds effectors at the phagocytic vesicle membrane
+RAC2 binds effectors at the plasma membrane
+RAC2 translocates to the ER membrane
+RAC2 translocates to the mitochondrial membrane
+RAC2 translocates to the phagocytic vesicle membrane
+RAC2:GTP binds NOX2 complex
+RAC3 GAPs stimulate RAC3 GTPase activity
+RAC3 GDIs block activation of RAC3
+RAC3 GEFs activate RAC3
+RAC3 binds ER effectors
+RAC3 binds effectors at the plasma membrane
+RAC3 translocates to the endoplasmic reticulum membrane
+RAF phosphorylates MAP2K dimer
+RAPGEF1 activates RAP1
+RAPGEF1 binds CRK,CRKL
+RAR:RXR binds SUMO-CRABP2:atRA
+RAS GAPs bind RAS:GTP
+RAS GAPs stimulate RAS GTPase activity
+RAS GEFs promote RAS nucleotide exchange
+RAS guanyl nucleotide exchange by MET-bound GRB2:SOS1
+RAS guanyl nucleotide exchange by SOS1 associated with RANBP9 and MET
+RAS guanyl nucleotide exchange by SOS1 bound to GRB2, SCH1-2 and MET
+RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers
+RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and p-SHC1:Phosphorylated ERBB2 heterodimers
+RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and p-Y349,350-SHC1:p-ERBB4
+RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.
+RAS intrinsic GTPase activity hydrolyzes GTP to GDP
+RAS proteins are depalmitoylated
+RAS:GTP binds PI3K
+RAS:GTP binds RAL GDS proteins
+RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers
+RASA1 binds RAS:GTP
+RASA1 stimulates RAS GTPase activity
+RCE1 cleaves S-Farn proRAS proteins
+RDH10,16,DHRS9,RDHE2 oxidise atROL to atRAL
+RDH11,14,DHRS3,DRHS4 reduce atRAL to atROL
+RDH13 reduces atRAL to atROL
+RDH5,RDH11 oxidise 11cROL to 11cRAL
+REST binds the VGF promoter
+RHEB in mTORC1:RHEB:GTP hydrolyses GTP
+RHOA GAPs stimulate RHOA GTPase activity
+RHOA GEFs activate RHOA
+RHOA binds effectors at the ER membrane
+RHOA binds effectors at the plasma membrane
+RHOA, RHOB, RHOC and RAC1 bind PKN1, PKN2 or PKN3
+RHOA,RHOB,RHOC,RAC1:GTP:PKN1,2,3 binds PDPK1:PIP3
+RHOA:GTP binds RHPN1 or RHPN2
+RHOA:GTP translocates to the ER membrane
+RHOA:GTP:DIAPH1 binds EVL and sequesters profilin:G-actin from MKL1
+RHOA:GTP:Mg2+ binds ROCK1,ROCK2
+RHOA:GTP:RTKN binds LIN7B
+RHOA:GTP:RTKN binds TAX1BP3
+RHOB GAPs stimulate RHOB GTPase activity
+RHOB GEFs activate RHOB
+RHOB binds effectors at the plasma membrane
+RHOB binds effectors on endosomes
+RHOB translocates to the endosome membrane
+RHOB:GTP recruits DIAPH1 or DIAPH3 to endosomes
+RHOBTB1 binds GTP
+RHOBTB1 binds interacting proteins at the endosome membrane
+RHOBTB2 binds GTP
+RHOBTB2 binds interacting proteins at the endosome membrane
+RHOBTB3 binds ATP
+RHOBTB3 binds interacting proteins at trans-Golgi network
+RHOBTB3 hydrolyzes ATP
+RHOC GAPs stimulate RHOC GTPase activity
+RHOC GEFs activate RHOC
+RHOC activates endoplasmic reticulum effectors
+RHOC binds effectors at the plasma membrane
+RHOC translocates to the endoplasmic reticulum membrane
+RHOD GAPs stimulate RHOD GTPase activity
+RHOD auto-activates
+RHOD binds effectors at the Golgi membrane
+RHOD binds effectors at the endosome membrane
+RHOD binds effectors at the mitochondrial outer membrane
+RHOD binds effectors at the plasma membrane
+RHOD translocates to the Golgi membrane
+RHOD translocates to the mitochondrial outer membrane
+RHOD:GTP recruits DAIPH2-3 to endosomes
+RHOD:GTP translocates to the endosome membrane
+RHOD:GTP:DIAPH2-3 recruits SRC-1 to endosomes
+RHOF GAPs stimulate RHOF GTPase activity
+RHOF auto-activates
+RHOF binds effectors at the plasma membrane
+RHOG GAPs stimulate RHOG GTPase activity
+RHOG GEFs activate RHOG
+RHOG binds effectors at the ER membrane
+RHOG binds effectors at the plasma membrane
+RHOG translocates to the ER membrane
+RHOH binds GTP
+RHOH binds effectors at the plasma membrane
+RHOJ GAPs stimulate RHOJ GTPase activity
+RHOJ GEFs activate RHOJ
+RHOJ binds effectors at the plasma membrane
+RHOQ GAPs stimulate RHOQ GTPase activity
+RHOQ GEFs activate RHOQ
+RHOQ binds GOPC:CFTR
+RHOQ binds effectors at the plasma membrane
+RHOQ positively regulates trafficking of GOPC:CFTR to the plasma membrane
+RHOQ translocates to the Golgi-associated vesicle membranes
+RHOT1 GEFs activate RHOT1
+RHOT1 binds effectors at the mitochondrial outer membrane
+RHOT1 hydrolyzes GTP
+RHOT2 GEFs activate RHOT2
+RHOT2 binds effectors at the mitochondrial outer membrane
+RHOT2 hydrolyzes GTP
+RHOU auto-activates
+RHOU binds effectors at the plasma membrane
+RHOV binds GTP
+RHOV binds effectors at the plasma membrane
+RHPN2 binds RHOB:GTP
+RIPK1 is cleaved by CASP8
+RIPK1 is cleaved by CASP8:FLIP(L)
+RIPK1 is deubiquitinated
+RIT/RIN are activated
+RIT/RIN-GTP binds B-RAF
+RND1 binds GTP
+RND1 binds effectors
+RND2 binds GTP
+RND2 binds effectors
+RND3 binds GTP
+RND3 binds effectors
+RNF111 binds SMAD7
+RNF111 ubiquitinates SMAD7
+RNF146 binds RibC-AXIN:TNKS complex
+RNF146 polyubiquitinates PARylated PTEN
+RNF146 ubiquitinates ADP-ribosylated AXIN
+RNF41 binds neuregulin-activated ERBB3
+RNF41 ubiquitinates ERBB3
+RNF41 ubiquitinates activated ERBB3
+ROCK activation by RHO
+ROCK1,2 bind ROCKi
+ROCK1,ROCK2 are activated
+ROPN1 binds RHOA:GTP:RHPN1
+RRAD gene expression
+RSK1/2/3 phosphorylates CREB at Serine 133
+RSPO:LGR binds ZNRF3
+RSPOs bind LGRs
+RTKN binds RHOA, RHOC or RHOB
+RUNX1 and ESR1 bind the AXIN1 gene
+RUNX1 and ESR1 bind the GPAM gene enhancer
+RUNX1 and ESR1 bind the KCTD6 gene enhancer
+RUNX1 binds ESR1
+RUNX1 binds NOTCH4 gene
+RXRA:PPARD binds FABP5:atRA
+RYK binds WNT5A and VANGL2
+Raf dimer inhibitors bind RAF heterodimers
+Rag dimer formation
+Ragulator binds Rag dimers
+Ragulator:Rag dimers:SLC38A9 bind mTORC1
+Ral-GDS binds to Ras-GTP
+Rap1-GTP complex binds BRAF complex
+Re-integration of insulin receptor into plasma membrane
+Receptor ACKR2 binds most inflammatory CC chemokines
+Receptor CCR10 binds CCL27 and 28 ligands
+Receptor CCR11 binds CCL19, CCL21 & CCL25
+Receptor CCR6 binds CCL20 ligand
+Receptor CCR7 binds CCL19 and 21 ligands
+Receptor CCR9  binds CCL25 ligand
+Receptor CXC1 binds to the ligands lymphotactin and cytokine SCM-1 beta
+Receptor CXCR1 binds CXCL6 and CXCL8 ligands
+Receptor CXCR2 binds ligands CXCL1 to 7
+Receptor CXCR3 binds ligands CXCL9 to 11
+Receptor CXCR6 binds CXCL16 ligand
+Receptor FFAR1 binds free fatty acids
+Receptor FFAR2 binds carboxylates
+Receptor FFAR3 binds carboxylates
+Receptors CCR1, 2 and 8 bind CCL16 ligand
+Receptors CCR3, 4 and 5 bind CCL5 ligand
+Receptors CXCR4 and 7 bind CXCL12 ligand
+Recruitment of BCAR1 to PTK2 complex
+Recruitment of CBL to KIT
+Recruitment of GRB2 to p-PTK2
+Recruitment of GRB2:SOS1 to p-SHC1 in complex with phosphorylated ERBB2 heterodimers
+Recruitment of GRB2:SOS1 to phosphorylated SHC1 in complex with phosphorylated ERBB4 homodimers
+Recruitment of SET1 methyltransferase complex
+Recruitment of STATs
+Relaxin 3 receptor 1 binds relaxin 3
+Relaxin 3 receptor 2 binds relaxin 3 and INSL5
+Relaxin receptor 1 binds relaxin 2 and 3
+Relaxin receptor 2 binds relaxin 2 and INSL3
+Release of CSK from SRC
+Release of novel PDGFs as latent factors
+Retromer associates with WLS
+Retromer recycles WLS to the Golgi
+RhoA is activated by nucleotide exchange and inhibits axonal growth
+S-Farn-Me KRAS4B binds calmodulin
+S-farn Me-HRAS, -NRAS and -KRAS4A are palmitoylated
+S100A8:S100A9:AA:Ca(2+) binds NOX2 complex
+S100B gene expression is inhibited by ERBB4:TAB2:NCOR1
+S1P binds S1PR3 in response to E2 stimulation
+S1PR1 bind S1P
+S1PR1 binds S1PR1 agonists
+S1PR2-5 bind S1P
+SALL4 binds the PTEN gene promoter
+SALL4 recruits NuRD to PTEN gene
+SCAI binds SRF:MKL1
+SCF(beta-TrCP) ubiquitinates p-GLI1
+SCF(beta-TrCP) ubiquitinates p-GLI2
+SCF(beta-TrCP) ubiquitinates p-GLI3
+SCRIB is required for asymmetric membrane localization of VANGL2
+SEPT7 binds p-S189 MAPK6 and p-T182 MAPKAPK5
+SEPT7:p-S189 MAPK6:p-T182 MAPKAPK5 phosphorylates CDC42EPs
+SET1 complex trimethylates H3K4 at the MYC gene
+SFKs phosphorylate PLCG1
+SGK phosphorylates CREB1
+SGK phosphorylates SRF
+SH2 domain of Src binds to the active receptor
+SHC binds to the activated TrkA receptor
+SHC, complexed with TrkA, is tyrosine-phosphorylated
+SHC1 binds P-ERBB4 isoform dimers
+SHC1 binds PTPN12
+SHC1 binds phosphorylated ERBB2 heterodimers
+SHC1 binds to the phosphorylated EGF receptor:ligand complex
+SHC1 bound to activated NTRK2 recruits GRB2:SOS1
+SHC1 bound to integrin alphaIIb beta3 is phosphorylated somehow
+SHC1 dissociates from integrin alphaIIb beta3
+SHC1 is phosphorylated downstream of estrogen stimulation of GPER1
+SHC1 phosphorylation by ERBB2 heterodimers
+SHC1 phosphorylation by phosphorylated EGFR
+SHC1-2 bound to MET recruits GRB2:SOS1
+SHP2 binds to the active receptor
+SHP2 dephosphorylates Tyr 992 on EGFR
+SHP2 interacts with p-KIT
+SIRT6 binds to acetylated histones at NOTCH1 and NOTCH4 gene promoters
+SIRT6 deacetylates histones at NOTCH1 and NOTCH4 gene promoters
+SKI complexes with the Smad complex, suppressing BMP2 signalling
+SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling
+SLC38A9 binds Ragulator:Rag dimers
+SLC38A9 transports L-Arg from lysosomal lumen to cytosol
+SMAD2/3 activation induces binding of RNF111/SMURF2 to SKI/SKIL
+SMAD2/3:SMAD4 complex positively regulates JUNB transcription
+SMAD2/3:SMAD4 heterotrimer binds SP1
+SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2
+SMAD2/3:SMAD4:SP1 complex stimulates transcription of CDKN2B
+SMAD3 binds STUB1 (CHIP)
+SMAD7 binds SERPINE1 gene promoter
+SMAD7 binds to SMURF1
+SMAD7 binds to SMURF2
+SMAD7 recruits GADD34:PP1 to phosphorylated TGFBR
+SMAD7:NEDD4L complex translocates to the cytosol
+SMAD7:SMURF complex binds to phosphorylated TGFBR1
+SMAD7:SMURF1 complex binds XPO1 (CRM1)
+SMAD7:SMURF1 complex is exported to the cytosol
+SMAD7:SMURF2 complex translocates to the cytosol
+SMO dimer binds ARRB and KIF3A
+SMO translocates to the cilium
+SMURF1 binds phosphorylated PARD6A
+SMURF1 ubiquitinates RHOA
+SMURF1/2 are recruited to the DVL2:PARD6A complex
+SMURF1/2 bind PTCH1
+SMURF1/2 dissociates from ub-PTCH1
+SMURF1/2 ubiquitinates PRICKLE1
+SMURF1/2 ubiquitinates PTCH1
+SMURF2 binds AXIN
+SMURF2 binds SMAD2
+SMURF2 binds SMAD3 phosphorylated in the linker region
+SMURF2 monoubiquitinates SMAD3
+SMURF2 ubiquitinates SMAD2
+SMURFs/NEDD4L ubiquitinate phosphorylated TGFBR1 and SMAD7
+SNAI1,SNAI2 bind the PTEN gene promoter
+SOCS1 as a regulator of KIT signaling
+SOCS3 binds activated PTK6
+SOS-mediated nucleotide exchange on RAS (PDGF receptor:GRB2:SOS)
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
+SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)
+SOST binds LRP5/6
+SPARC gene transcription is stimulated by ERBB4s80
+SPHK1 phosphorylates sphingosine in response to E2 stimulation
+SPOP:CUL3:RBX1 ubiquitinates GLI2,3
+SPPL2a/b cleaves TNF(1-76)
+SPRED dimer binds NF1
+SPRY2 binds CBL
+SPRY2 binds GRB2
+SPRY2 is phosphorylated by phosphorylated MNK1
+SPRY2 is serine phosphorylated in response to MAPK activation
+SPRY2 translocates to the plasma membrane
+SRC family kinases phosphorylate ERBB2
+SRC phosphorylates PTK2
+SRC phosphorylates RHOU
+SRC phosphorylates SPRY2 on Y55 and Y227
+SRC,FYN phosphorylate NTRK2
+SRC-1 autophosphorylates
+SRC-1 binds p-Y397-PTK2
+SRC-1 phosphorylates PTK2-beta
+SRC-1 phosphorylates SHB
+SRC-1 phosphorylates p-Y397-PTK2
+SRC1-1 binds SH2D2A and is recruited to VEGFR2
+SRF and ELK1 bind the FOS gene
+SRF:MKL1 binds ITGB1 Gene
+SRF:MKL1 stimulate ITGB1 expression while SCAI inhibits it
+SRGAP2 binds RAC1:GTP:FMNL1:profilin:G-actin
+SRGAP2 stimulates RAC1 GTP-ase activity and ends FMNL1-mediated elongation of actin filaments
+SRMS phosphorylates PTK6
+STAP2 recruits STAT3 to PTK6
+STAT binds to the active receptor
+STAT1 binds HEY1 gene promoter
+STAT1 stimulates SMAD7 gene transcription
+STAT3 activation
+STAT3 binds SOCS3 promoter
+STAT3 binds activated MET receptor
+STAT3 is phosphorylated downstream of active ALK
+STAT3 stimulates SOCS3 expression
+STAT5 dimers translocate to the nucleus
+STMN1 gene expression is stimulated by ERBB4s80
+STRAP binds phosphorylated TGF-beta receptor complex
+STRAP stabilizes interaction of activated TGF-beta receptor complex with SMAD7
+STUB1 (CHIP) ubiquitinates SMAD3
+SUCNR1 binds SUCCA
+SUMO-CRABP2 binds atRA
+SUMO-CRABP2 dissociates from atRA:RAR:RXR
+SUMO-CRABP2:atRA translocates from cytosol to nucleus
+SYK activation by SRC
+SYK binds to integrin alphaIIb beta3
+SYVN1 ubiquitinates Hh C-terminal fragments
+Secretin receptor binds secretin
+Secretion and activation of the latent large complex of TGF-beta-1
+Self-ubiquitination of RNF41
+Sialylation of Pre-NOTCH
+Single mechanism MAP2K inhibitors bind phosphorylated MAP2Ks
+Single mechanism MAPK inhibitors bind phosphorylated MAPK
+Soluble TNF-alpha binds TNFR1
+Somatostatin receptors bind somatostatin and cortistatin
+Sphingomyelinase is activated by the NGF:p75NTR complex
+Sprouty lures CBL away from EGFR
+Sprouty sequesters CBL away from active EGFR
+Src kinases phosphorylate VAV
+Src phosphorylate WASP,N-WASP
+Sustained activation of SRC kinase by SHP2
+Synthesis of PIP3 from PIP2 by PI3K
+T1R1/T1R3 dimer is the umami taste receptor
+T1R2/T1R3 dimer is a sweet taste receptor
+T2Rs bind bitter-tasting compounds
+TAX1BP1:TNFAIP3(A20) binds RIPK1-containing complexes
+TBP and TFIIA bind TATA box on  ESR1:estrogen bound TFF1 gene promoter
+TCF/LEF binds WNT promoters
+TCF/LEF:CTNNB1 bind canonical WNT target promoters
+TCF/LEF:CTNNB1 bind the AXIN2 gene
+TCF/LEF:CTNNB1 promote transcription of AXIN2
+TCF7L1/TCF7L2/LEF1:CTNNB1 bind the MYC gene
+TCF7L1/TCF7L2/LEF1:CTNNB1 promote transcription of the MYC gene
+TCF7L2/TCF7L1 bind CTBP1 to repress WNT target genes
+TCF:Beta-catenin binds SOX proteins
+TF gene expression
+TGFA gene expression is stimulated by the CITED1:EP300:ESR1:estrogen
+TGFBR1 is recruited to tight junctions by PARD6A
+TGFBR2 is recruited to tight junctions after TGF-beta stimulation
+TGFBR2 phosphorylates TGFBR1
+TGFBR2 phosphorylates TGFBR1 and PARD6A
+TGFBR2 recruits TGFBR1
+TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer
+THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation
+TLE forms non-functional complexes with AES
+TLE oligomerizes
+TLE recruits HDAC1 to WNT promoters
+TLE tetramers bind TCF/LEF at WNT promoters
+TNF-alpha is cleaved by ADAM17 (TACE)
+TNF-alpha:TNFR1 binds DENN/MADD
+TNF-alpha:TNFR1 binds NSMAF
+TNF-alpha:TNFR1:NSMAF binds GNB2L1
+TNF-alpha:TNFR1:NSMAF:GNB2L1 associates with SMPD2,3
+TNF:TNFR1 binds TRADD, TRAF2 and RIPK1
+TNF:TNFR1:TRADD:TRAF2:K63polyUb-RIPK1:BIRC2,3:LUBAC recruits IKKA:IKBKB:IKBKG
+TNF:TNFR1:TRADD:TRAF2:K63polyUb-RIPK1:BIRC2/3 recruits TAK1 complex
+TNF:TNFR1:TRADD:TRAF2:RIPK1 binds LUBAC
+TNF:TNFR1:TRADD:TRAF2:RIPK1 recruits BIRC2/3 (cIAP1/2)
+TNFAIP3 (A20) ubiquitinates RIPK1 with K48-linked Ub chains 
+TNKS and TNKS2 PARylate PTEN
+TORC2 (mTOR) phosphorylates AKT at S473
+TP receptor can bind thromboxane
+TP53 binds promoters of MIR34 genes
+TP53 binds the PTEN promoter
+TPH1 gene expression
+TRADD:TRAF2:RIP1 complex binds FADD
+TRADD:TRAF2:RIP1 complex dissociates from the TNF-alpha:TNF-R1 complex.
+TRADD:TRAF2:RIP1:FADD complex binds Pro-Caspase 8  
+TRAF1 binds TRAF2 within TNFR1 signaling complex
+TRAF1 is cleaved by caspases
+TRAF6 binds to p75NTR:NRIF
+TRAF6 is auto-ubiquitinated
+TRAF6 polyubiquitinates NRIF
+TRAIL binds TRAIL receptors
+TRAIL receptor-4 binds TRAIL receptor-1 or TRAIL receptor-2
+TRAIL:TRAIL Receptor Trimer:FADD complex binds procaspase-8
+TRAIL:TRAIL receptor trimers bind FADD
+TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds procaspase-10
+TRIB1 gene expression
+TRIM27 binds PTEN
+TRIM27 polyubiquitinates PTEN
+TRIM33 (Ectodermin) binds SMAD heterotrimer in the nucleus
+TRIM33 monoubiquitinates SMAD4
+TRKA phosphorylates IRS
+TRKA recruits RIT and RIN
+TULP3 is required for GPR161 localization in the cilium
+Tachykinin receptor 1 (NK1) binds to substance P
+Tachykinin receptor 2 (NK2) binds to nuerokinin A
+Tachykinin receptor 3 (NK3) binds to neurokinin B
+Tankyrase ADP-ribosylates AXIN
+Tankyrase binds AXIN
+The G alpha-olf:GDP:Adenylate cyclase complex dissociates
+The IFT-A complex recruits TULP3
+The Kiss receptor GPR54 binds kisspeptin
+The Ligand:GPCR:G12/13 complex dissociates
+The Ligand:GPCR:Gi complex dissociates
+The Ligand:GPCR:Gq complex dissociates
+The Ligand:GPCR:Gs complex dissociates
+The Ligand:GPCR:Gz complex dissociates
+The PACAP receptor binds PACAP
+The SMAD2/3:SMAD4 complex transfers to the nucleus
+The UDP/CysLT (P2Y17) receptor can bind UTP
+The adrenomedullin receptor can bind adrenomedullin and intermedin
+The bound receptor dimerizes
+The cofactor BH4 is required for electron transfer in the eNOS catalytic cycle
+The high affinity receptor complex binds to G-protein
+The intraflagellar transport A (IFT-A) complex is required for the transit of GLI:SUFU complexes to the ciliary base
+The intraflagellar transport B (IFT-B) complex is required for the transit of GLI:SUFU complexes to the ciliary tip
+The ligand trap binds the ligand BMP2, blocking BMP signalling
+The orphan QRFP receptor can bind neuropeptide QRFP
+The p75NTR C-terminal fragment enters endosomes
+The p75NTR:NgR:MDGI binds RHOA-GDI
+The p75NTR:NgR:MDGI complex reduces RHOA-GDI activity, displacing RHOA
+The phospho-R-Smad1/5/8:Co-Smad transfers to the nucleus
+The receptor:G-protein complex  binds GTP
+The receptor:G-protein complex dissociates
+The receptor:G-protein complex releases GDP
+The signal peptide is excised from beta-NGF pre-pro-precursor
+Thyroid-stimulating hormone receptor can bind TSH, Thyrostimulin
+Thyrotropin-releasing hormone receptor binds thyrotropin
+Trace amine-associated receptors can bind trace amines
+Trans-autophosphorylation of ERBB2 heterodimers
+Trans-autophosphorylation of ERBB4 homodimers
+Trans-autophosphorylation of p-Y877-ERBB2 heterodimers
+Transcription of canonical WNT targets is negatively regulated by NLK-dependent phosphorylation of TCF/LEF
+Transcription of canonical WNT targets is repressed by the TLE:HDAC and TCF/CTBP complexes
+Translocation and activation of PKC alpha in response to WNT signaling
+Translocation of ERBB4s80 to the nucleus
+Translocation of ERBB4s80:YAP1 complex to the nucleus
+Translocation of NFATC1:CaN:CaM to nucleus
+Translocation of PDGF from ER to Golgi
+Translocation of PTK2 to Focal complexes
+Translocation of RIAM to plasma membrane
+Translocation of WWTR1 (TAZ) to the nucleus
+Translocation of YAP1 to the nucleus
+Translocation of YAP1:ZO-2 (TJP2) to the nucleus
+Translocation of cytosolic ERBB4s80 to mitochondrial matrix
+Transport of NOTCH precursor to Golgi
+Transport of fringe-modified NOTCH to plasma membrane
+Trimerization of TRAIL:TRAIL receptor complex
+Trimerization of the FASL:FAS receptor complex
+TrkA phosphorylates PLCG1
+TrkA receptor autophosphorylates
+Two NPFF receptors can bind neuropeptide FF
+Type II receptor phosphorylates type I receptor
+UCHL5 binds SMAD7 in complex with ubiquitinated TGFBR1
+UCHL5, USP15 deubiquitinate TGFBR1
+UDP/CysLT receptor can bind cysteinyl leukotrienes
+ULK3 phosphorylates GLI
+ULK3:SUFU dissociates
+USP13 and OTUD3 deubiquitinate PTEN
+USP17L2 deubiquitinates RCE1
+USP34 deubiquitinates AXIN1,AXIN2
+USP7 deubiquitinates monoubiquitinated PTEN
+USP8 deubiquitinates FZD to potentiate WNT signaling
+USP8 deubiquitinates LRIG1
+USP9X (FAM) binds to ubiquitinated SMAD4
+USP9X (FAM) deubiquitinates SMAD4
+Ub-RibC-AXIN is degraded by the proteasome
+Ubiquitin-dependent degradation controls basal levels of R-Smad1/5/8
+Ubiquitin-dependent degradation of the SMAD complex terminates TGF-beta signaling
+Ubiquitin-dependent degradation of the Smad complex terminates BMP2 signalling
+Ubiquitinated AXIN is degraded by the proteasome
+Ubiquitinated DVL is degraded by the proteasome
+Ubiquitinated DVL1 is degraded by the proteasome
+Ubiquitinated RNF41 binds P-USP8
+Ubiquitinated SMAD4 translocates from the nucleus to the cytosol
+Ubiquitination of DLL/JAG ligands upon binding to NOTCH1
+Ubiquitination of DLL/JAG ligands upon binding to NOTCH2
+Ubiquitination of DLL/JAG ligands upon binding to NOTCH3
+Ubiquitination of NICD1 by FBWX7
+Ubiquitination of NOTCH1 by ITCH in the absence of ligand
+Ubiquitination of SKI/SKIL by RNF111/SMURF2
+Ubiquitination of stimulated EGFR (CBL)
+Ubiquitination of stimulated EGFR (CBL:GRB2)
+Unknown caspase cleaves NTRK3
+Unknown kinase phosphorylates NICD4
+Urotensin-2 receptor binds urotensin-2 and 2B
+VANGL2 is phosphorylated in response to WNT5A
+VANGL2 is required for asymmetric membrane localization of FZD3
+VAV exchanges GTP for GDP on RAC1, activating it
+VCP-catalyzed ATP hydrolysis promotes the translocation of Hh-C into the cytosol
+VEGF induces CDC42 activation by unknown mechanism
+VEGF-A,C,D bind to VEGFR2 leading to receptor dimerization
+VEGF-C,D bind to VEGFR3 leading to receptor dimerization
+VEGFA dimer:p-6Y-VEGFR2 dimer:PI3K phosphorylates PIP2 to PIP3
+VEGFA,B,PLGF bind to VEGFR1 leading to receptor dimerization
+VEGFA-165 dimer binds VEGFA inhibitors
+VEGFA-165 dimer binds VEGFR2 dimer
+VEGFR2 autophosphorylates
+VGF gene expression
+VIP receptors bind VIP
+Viral inhibitor of caspase-8 activation (UL36) binds caspase-8
+Viral serpin blocks caspase-8 activity
+WASPs or WAVEs activate the ARP2/3 complex
+WDR83:LAMTOR2:LAMTOR3 binds MAPK components
+WIF1 binds WNTs
+WIP binds WASP,N-WASP, activating them
+WLS binds WNT ligands in the Golgi
+WLS dissociates from retromer
+WLS is endocytosed to the early endosome
+WLS:WNT complex is internalized for maturation into exosomes
+WNT binds to FZD and LRP5/6
+WNT ligands traffic to the Golgi
+WNT ligands traffic to the plasma membrane
+WNT signaling stimulates CSNK1-dependent phosphorylation of DVL
+WNT-dependent phosphorylation of DVL
+WNT3A stimulates the caveolin-dependent internalization of FZD5:p-LRP6
+WNT5A and WNT11 bind FZD receptors to initiate Ca2+ signaling
+WNT5A binding to FZD promotes PRICKLE1 degradation
+WNT5A binds FZD and ROR receptors
+WNT5A binds FZD4
+WNT5A binds ROR2 and VANGL2
+WNT5A-FZD4 recruits DVL2
+WNT5A:FZD4 is endocytosed
+WNT:FZD complex promotes G-protein nucleotide exchange
+WNTs are secreted in exosomes
+WNTs bind the FZD receptor to initiate PCP pathway
+WWC1 (Kibra) gene expression is stimulated by NOTCH3
+WWOX binds ERBB4s80
+WWP2 ubiquitinates NOTCH3
+WWTR1 (TAZ) binds ZO-1 (TJP1)
+WWTR1 (TAZ) binds ZO-2 (TJP2)
+WWTR1 binds SMAD2/3:SMAD4 heterotrimer
+WWTR1:SMAD stimulates transcription of SERPINE1 while TGIF:SMAD and SMAD7 inhibit it
+WWTR1:SMAD stimulates transcription of SMAD7
+WWTR1:SMAD translocates to the nucleus
+WWTR1:p-2S-SMAD2,3:SMAD4 binds SERPINE1 gene promoter
+WWTR1:p-2S-SMAD2,3:SMAD4 binds SMAD7 gene promoter
+XIAP binds TLE
+XIAP dissociates from ub-TLE
+XIAP monoubiquinates TLE
+XK:KEL:Zn2+ cleaves EDN3
+XPO1 binds the beta-catenin:CBY complex
+YAP1 binds ZO-2 (TJP2)
+YBX1 binds COL1A2 gene promoter
+YWHAB (14-3-3 beta/alpha) dimer binds phosphorylated YAP1
+YWHAB dimer dissociates from KSR1:MARK3
+YWHAB dimer dissociates from dephosphorylated RAF
+YWHAE (14-3-3 epsilon) dimer binds phosphorylated WWTR1 (TAZ)
+YWHAZ and XPO1 mediate the nuclear export of beta-catenin
+YWHAZ binds p-CBY:CTNNB1
+ZDHHC7, ZDHHC21 palmitoylate ESR1
+ZNRF3 autoubiquitinates to promote its internalization
+ZNRF3 ubiquitinates FZD to promote its downregulation
+ZNRF3,RNF43 binds the FZD:LRP5/6 receptor complex
+ZRANB1 binds APC
+Zinc is an agonist of GPR39
+alpha-secretase cleaves the p75NTR extracellular domain
+beta-NGF dimer binds to TrkA receptor
+beta-catenin is replaced by repression complexes at the promoter
+cAMP binds PKA tetramer
+cAMP degradation by Phosphodiesterases
+cAMP dissociates PKA, promoting GLI processing
+cAMP hydrolysis by Cam-PDE 1
+cAMP induces dissociation of inactive PKA tetramers
+eNOS synthesizes NO
+eNOS:Caveolin-1 complex binds to CaM
+gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6
+gamma-secretase cleaves the p75NTR transmembrane domain
+mTORC1 phosphorylates AKT1S1
+mTORC1 phosphorylates MAF1
+mTORC1 phosphorylation of RPS6KB1 (S6K)
+mature RAS proteins translocate to plasma membrane
+mature p21 RAS binds GDP
+miR-106 microRNAs bind PTEN mRNA
+miR-106 microRNAs bind VAPA mRNA
+miR-106a,(miR106b) microRNA binds CNOT6L mRNA
+miR-144 binds to the 3'UTR of the ABCA1 mRNA
+miR-17 microRNA binds CNOT6L mRNA
+miR-17 microRNA binds PTEN mRNA
+miR-17 microRNA binds VAPA mRNA
+miR-19a microRNA binds CNOT6L mRNA
+miR-19a microRNA binds PTEN mRNA
+miR-19a microRNA binds VAPA mRNA
+miR-19b microRNA binds CNOT6L mRNA
+miR-19b microRNA binds PTEN mRNA
+miR-20 microRNAs bind CNOT6L mRNA
+miR-20 microRNAs bind PTEN mRNA
+miR-20 microRNAs bind VAPA mRNA
+miR-205 microRNA binds PTEN mRNA
+miR-21 nonendonucleolytic RISC binds PTEN mRNA
+miR-214 microRNA binds PTEN mRNA
+miR-22 microRNA binds PTEN mRNA
+miR-25 microRNA binds PTEN mRNA
+miR-26 binds to the 3'UTR of the ABCA1 mRNA
+miR-26 binds to the 3'UTR of the ARL4C mRNA
+miR-26A and B bind to the 3'UTR of the CHD11 mRNA
+miR-26A and B bind to the 3'UTR of the GREB1 mRNA
+miR-26A and B bind to the 3'UTR of the KPNA2 mRNA
+miR-26A microRNAs bind PTEN mRNA
+miR-33 binds to the 3'UTR of the ABCA1 mRNA
+miR-613 binds to the 3'UTR of the NR1H3 mRNA
+miR-92b binds 3'UTR of NLK mRNA
+miR-93 microRNA binds PTEN mRNA
+p-2S-SMAD2,3:SMAD4 binds JUNB gene promoter
+p-2S-SMAD2,3:SMAD4:RBL1:E2F4,5:DP1,2 binds MYC gene promoter
+p-2S-SMAD2,3:SMAD4:SP1 binds CDKN2B gene promoter
+p-2S-SMAD3:p-2S-SMAD3:SMAD4 forms a complex with SP1 and EP300 at the COL1A2 gene promoter
+p-3Y-SHC1 dissociates from IGF1R
+p-4S, T366 ELK1:SRF bind EGR1 and EGR2 gene promoters
+p-4S-NICD4 binds YWHAZ
+p-4Y-PLCG1 dissociates from activated FGFR1
+p-4Y-PLCG1 dissociates from activated FGFR2
+p-4Y-PLCG1 dissociates from activated FGFR3
+p-4Y-PLCG1 dissociates from activated FGFR4
+p-6Y-VEGFR2 binds FYN
+p-6Y-VEGFR2 binds NCK
+p-6Y-VEGFR2 binds PI3K
+p-6Y-VEGFR2 binds PLCG1
+p-6Y-VEGFR2 binds SH2D2A
+p-6Y-VEGFR2 binds SHB 
+p-6Y-VEGFR2 binds SHC-transforming protein 2
+p-AMPK phosphorylates TSC1:TSC2
+p-AXL binds PI3K
+p-CBL:GRB2 binds p-FRS2:activated FGFR1
+p-CBL:GRB2 binds p-FRS2:activated FGFR2
+p-CBL:GRB2 binds p-FRS2:activated FGFR3
+p-CBL:GRB2 binds p-FRS2:activated FGFR4
+p-CREB, ASCL1, TCF12, ATFs and p300 bind the VGF promoter
+p-DVL2 recruits AP-2 and beta-arrestin 2 to promote clathrin-mediated endocytosis
+p-ERK phosphorylates WAVEs and ABI
+p-FRS2 binds CRKL
+p-FRS2:CRKL binds C3G
+p-MAPK2/3 phosphorylates HSP27
+p-S MAPK6 phosphorylates NCOA3
+p-S MAPK6,4 binds MAPKAPK5
+p-S MAPK6,4 phosphorylate MAPKAPK5
+p-S MAPK6,4:p-T182 MAPKAPK5 translocate to the cytosol
+p-S MAPKAPK5 phosphorylates HSPB1
+p-S10 CDKN1B translocates to the cytosol
+p-S115 MAPKAPK5 translocates to the cytosol
+p-S133 CREB and p-S103 SRF bind the EGR1 promoter
+p-S133 CREB1 dimer binds the CCND1 promoter
+p-S133 CREB1, LYL1 and EP300 bind the ID1 and ID3 genes
+p-S133 CREB1, MEF2D and SRF  bind the ARC gene
+p-S182 MAPKAPK5 phosphorylates FOXO1
+p-S189 MAPK6:p-T182 MAPKAPK5 bind KALRN
+p-S215 FOXO1 binds RAG gene
+p-S215 FOXO1 positively regulates RAG gene expression 
+p-S215 FOXO3 binds MIR34B and C gene
+p-S215 FOXO3 translocates to the nucleus
+p-S295-PDE3B hydrolyses cAMP to AMP
+p-S311,S406 KSR1:MARK3 binds YWHAB dimer
+p-S54-PDE4B hydrolyses cAMP
+p-S857 NCOA3 binds ETV4
+p-S857 NCOA3:ETV4 bind MMP2 and MMP10 promoter
+p-SHC1 binds integrin alpha5beta1:fibronectin
+p-SPHK1 phosphorylates sphingosine to sphingosine 1-phosphate
+p-STAT5 dimerizes
+p-STAT5 dissociates from EPO:phospho-EPOR:phospho-JAK2:LYN:IRS2
+p-T,Y MAPK dimers translocate to nucleus
+p-T,Y MAPKs dimerize
+p-T182 MAPKAPK5 binds DNAJB1
+p-T182 MAPKAPK5 phosphorylates FOXO3
+p-T182-MAPKAPK5 phoshphorylates DNAJB1
+p-T309,S474-AKT2:PIP3 phosphorylates PDE3B
+p-T38-PPP1R14A binds MLCP
+p-T69,T71-ATF2 binds PTEN gene promoter
+p-T774-PKN1 binds CDC25C
+p-T774-PKN1 phosphorylates CDC25C
+p-T774-PKN1 phosphorylates PPP1R14A
+p-T774-PKN1:AR:Androgen complex translocates to the nucleus
+p-TEFb phosphorylates serine 2 in RNA polymerase II CTD
+p-VAV family:PIP3 binds RAC1:GDP
+p-Y-IRS1,p-Y-IRS2 bind PI3K
+p-Y397-PTK2 binds SRC
+p-Y402-PTK2B phosphorylates p-5Y,S732-PTK2 on Y407
+p-Y420-FYN is phosphorylated on S21
+p-Y516 of p-5Y-NTRK2 recruits SHC1
+p-Y705, S727 STAT3 dimer binds CD274 gene
+p-Y705, S727 STAT3 dimer binds HIF1A gene
+p-Y705, p-S727 STAT3 dimer translocates to the nucleus
+p-Y705,S727 STAT3 is acetylated
+p-Y705,S727-STAT3 dimerizes
+p-Y817 of p-5Y-NTRK2 recruits PLCG1
+p115-RhoGEF activation of RHOA
+p130Cas and C3G bind PDGFR bound Crk
+p38 MAPK activation by VEGFR
+p38 MAPK phosphorylates MAPKAPK2, MAPKAPK3
+p38MAPK phosphorylates MSK1
+p53 positively regulates transcription of MIR34 microRNAs
+p62 is recruited and forms a complex with TRAF6
+p62 recruits an atypical PKC
+p75NTR ICD signals to NF-kB
+p75NTR and RHOA-GDI interact
+p75NTR binds to NADE
+p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor
+p75NTR interacts with IRAK:MYD88
+p75NTR interacts with RIP2
+p75NTR interacts with the NOGO receptor
+p75NTR:NADE promotes caspase2/3 activation
+p75NTR:NgR complex interacts with the axonal inhibitor LINGO1
+pS181-S-Farn-Me KRAS4B binds BCL2L1
+pS181-S-Farn-Me KRAS4B translocates to the outer mitochondrial membrane
+phosphorylated GLI proteins bind SPOP:CUL3:RBX1
+ppDVL binds DAAM1
+ppDVL recruits RAC
+pro-RAS proteins are farnesylated
+pro-beta-NGF dimerizes
+pro-beta-NGF homodimer transits to the golgi apparatus
+sFRP binds WNT3A and inhibits WNT:FZD binding
+secretion of WNT ligands
+ub-GLI is degraded by the proteasome
+α1-agonists bind ADRA1A,B,D
+α1-antagonists bind ADRA1A,B,D
+α2-agonists bind ADRA2A,B,C
+β-blockers bind ADRB1,2,3
+β1,2-agonists bind ADRB1,2
+β1-agonists bind ADRB1
+β3-agonists bind ADRB3
