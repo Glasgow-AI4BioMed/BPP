@@ -854,6 +854,7 @@
 
                         $("#prediction_table tr").click(function () {
                             var rowIndex = $(this).index();
+                            var nodeName = $(this).find("td:nth-child(2)").text(); // 获取第二列的Node Name
                             // $("#explainer_table").text("您单击的是第" + rowIndex + "行。");
 
                             $.ajax({
@@ -865,6 +866,7 @@
                                     'toplevel_pathway': toplevel_pathway,
                                     // 'edge_index': edge_index,
                                     // 'valid_nodes': JSON.stringify(valid_nodes)
+                                    'pred_node_name': nodeName,
                                 },
                                 dataType: "json",
                                 success: function (data) {
@@ -884,7 +886,7 @@
 
                                     buildTreeTable(node_element_list);
 
-                                    const chart = generateExplainerBar(sorted_nodes_and_attributes)
+                                    // const chart = generateExplainerBar(sorted_nodes_and_attributes)
 
                                     // mouse_on_explainer_line(node_element_list, chart);
 
@@ -931,7 +933,8 @@
             data.forEach((item, index) => {
                 const rowId = parent ? `${parent}-${index}` : `row-${index}`;
                 const weight = (parseFloat(item.weight) * 100).toFixed(4) + "%"
-                rows += `<tr class="treegrid-${rowId}${parent ? ` treegrid-parent-${parent}` : ""}"><td>${item.element.name}(${item.type})</td><td>${item.element.stId}</td><td>${weight}</td><td>${item.ranking}</td></tr>`;
+                // rows += `<tr class="treegrid-${rowId}${parent ? ` treegrid-parent-${parent}` : ""}"><td>${item.element.name}(${item.type})</td><td>${item.element.stId}</td><td>${weight}</td><td>${item.ranking}</td></tr>`;
+                rows += `<tr class="treegrid-${rowId}${parent ? ` treegrid-parent-${parent}` : ""}"><td>${item.element.name}(${item.type})</td><td>${item.element.stId}</td><td>${item.ranking}</td></tr>`;
 
                 if (item.children && item.children.length > 0) {
                     rows += generateTableRows(item.children, rowId);
@@ -943,7 +946,8 @@
 
         //Dynamic generation of table headers
         function addTableHeaders() {
-            const headers = ['Name', 'StID', 'Weight', 'Ranking'];
+            // const headers = ['Name', 'StID', 'Weight', 'Ranking'];
+            const headers = ['Name', 'StID', 'Ranking'];
             const headerRow = $('<tr>');
             for (const header of headers) {
                 headerRow.append(`<th>${header}</th>`);

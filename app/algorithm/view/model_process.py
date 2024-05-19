@@ -55,11 +55,11 @@ def predict():
 
     model_service_obj.clear_current_predict_status_in_session()
 
-    model_service_obj.store_current_predict_status_to_session(config=config, top_k=10,
+    model_service_obj.store_current_predict_status_to_session(config=config, top_k=15,
                                                               list_of_node_index_for_single_edge=valid_node_index_list)
 
     # prediction_indexes = model_service_obj.run_prediction_model(config, 10)
-    prediction_indexes = model_service_obj.run_prediction_model_on_single_edge(config, 10, valid_node_index_list)
+    prediction_indexes = model_service_obj.run_prediction_model_on_single_edge(config, 15, valid_node_index_list)
 
     # prediction_indexes = model_service_obj.run_prediction_model_test()
 
@@ -80,6 +80,10 @@ def predict():
 @algorithm_bp.route('/explain', methods=('GET', 'POST'))
 def explain():
     rank: int = int(request.form.get('rank'))
+    
+    node_name = str(request.form.get('pred_node_name'))
+    
+    # print("pred_node_name: " + node_name)
 
     rank_str: str = str(rank + 1)
 
@@ -137,8 +141,25 @@ def explain():
 
         elif 'link' == elements[0]:
             node_index: int = int(elements[1])
-            node = node_service_obj.get_node_from_dataset_based_on_index(toplevel_pathway_name, node_index)
+            node: Node = node_service_obj.get_node_from_dataset_based_on_index(toplevel_pathway_name, node_index)
             enhanced_node_dict[node_index] = {'element': node, 'weight': weight, 'type': 'node'}
+    
+    for node_index, enhanced_node in enhanced_node_dict.items():
+        if len(enhanced_node["element"].attributes_list) == 1 and enhanced_node["element"].name == enhanced_node["element"].attributes_list[0].name:
+            attribute_name = enhanced_node["element"].attributes_list[0].name
+            if node_index in enhanced_attributes_dict:
+                attributes_list = enhanced_attributes_dict[node_index]
+                                
+                enhanced_attributes_dict[node_index] = [
+                    attr for attr in attributes_list if (attr["element"].name != attribute_name) and attr["element"].name != node_name
+                ]
+    
+    for node_index, enhanced_attributes in enhanced_attributes_dict.items():
+        enhanced_attributes_dict[node_index] = [
+                attr for attr in enhanced_attributes if attr["element"].name != node_name
+            ]
+        
+                    
 
     list_dict_for_ranking: list[dict] = list()
 

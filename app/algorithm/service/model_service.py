@@ -40,7 +40,7 @@ class ModelService:
             data_loader["num_features"], emb_size, data_loader["num_features"], use_bn=True
         )
 
-        net_model.load_state_dict(torch.load(model_path))
+        net_model.load_state_dict(torch.load(model_path, map_location=device))
 
         net_model.eval()
 
@@ -83,8 +83,8 @@ class ModelService:
         top_k_selected_edge_predictions_value, top_k_selected_edge_predictions_index = torch.topk(
             selected_edge_predictions, top_k)
         
-        # delete
-        print(top_k_selected_edge_predictions_value)
+        # from pdb import set_trace; set_trace()
+        # print(top_k_selected_edge_predictions_value)
 
         top_k_selected_edge_predictions_index = top_k_selected_edge_predictions_index.cpu().numpy()
 
@@ -178,6 +178,8 @@ class ModelService:
 
         top_k_selected_edge_predictions_value, top_k_selected_edge_predictions_index = torch.topk(
             selected_edge_predictions, top_k)
+        
+        print(top_k_selected_edge_predictions_value)
 
         top_k_selected_edge_predictions_index = top_k_selected_edge_predictions_index.cpu().numpy()
 
@@ -231,38 +233,38 @@ class ModelService:
         #     os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__)))), 'app', 'static', 'models')
         # raw_data_path: str = os.path.join('app', 'static', 'data', config.toplevel_pathway, config.task)
 
-        print("run_gnn_explainer_check_point1")
+        # print("run_gnn_explainer_check_point1")
 
         model_path = model_selector.select_model_path(config['edge_or_node_task_level'], config['model_name'],
                                                       config['toplevel_pathway'], config['input_or_output_direction'])
 
-        print("run_gnn_explainer_check_point2")
+        # print("run_gnn_explainer_check_point2")
 
         emb_size = model_selector.select_model_hyper_parameter_emb_size(config['edge_or_node_task_level'],
                                                                         config['model_name'],
                                                                         config['toplevel_pathway'],
                                                                         config['input_or_output_direction'])
 
-        print("run_gnn_explainer_check_point3")
+        # print("run_gnn_explainer_check_point3")
 
         model_dict = {ModelPathEnum.GCN_MODEL_NAME.value: GCN, ModelPathEnum.HGNN_MODEL_NAME.value: HGNN,
                       ModelPathEnum.HGNNP_MODEL_NAME.value: HGNNP}
 
-        print("run_gnn_explainer_check_point4")
+        # print("run_gnn_explainer_check_point4")
 
         net_model = model_dict[config['model_name']](
             data_loader["num_features"], emb_size, data_loader["num_features"], use_bn=True
         )
 
-        print("run_gnn_explainer_check_point5")
+        # print("run_gnn_explainer_check_point5")
 
         net_model.load_state_dict(torch.load(model_path, map_location=device))
 
-        print("run_gnn_explainer_check_point6")
+        # print("run_gnn_explainer_check_point6")
 
         net_model.eval()
 
-        print("run_gnn_explainer_check_point7")
+        # print("run_gnn_explainer_check_point7")
 
         # get the total number of nodes of this graph
         num_of_nodes: int = data_loader["num_nodes"]
@@ -279,7 +281,7 @@ class ModelService:
         # the hyper graph
         hyper_graph = Hypergraph(num_of_nodes, train_all_hyper_edge_list)
 
-        print("run_gnn_explainer_check_point8")
+        # print("run_gnn_explainer_check_point8")
 
         # generate graph based on hyper graph or just use hyper graph
         if config['model_name'] in [ModelPathEnum.GCN_MODEL_NAME.value]:
@@ -292,17 +294,17 @@ class ModelService:
         graph = graph.to(device)
         # net_model = net_model.to(device)
 
-        print("run_gnn_explainer_check_point9")
+        # print("run_gnn_explainer_check_point9")
 
         with torch.no_grad():
             net_model.eval()
             nodes_embeddings = net_model(nodes_features, graph)
 
-        print("run_gnn_explainer_check_point10")
+        # print("run_gnn_explainer_check_point10")
 
-        print(nodes_embeddings)
-        print("type of nodes_features: ", type(nodes_features))
-        print("type of nodes_features: ", type(nodes_embeddings))
+        # print(nodes_embeddings)
+        # print("type of nodes_features: ", type(nodes_features))
+        # print("type of nodes_features: ", type(nodes_embeddings))
 
         # nodes_attributes = np.array(nodes_features.tolist())
         # nodes_embeddings = np.array(nodes_embeddings.tolist())
@@ -312,9 +314,11 @@ class ModelService:
 
         print("GNN explainer preparation work is done.")
 
-        gnn_explainer = HGNNExplainer(nodes_attributes, nodes_embeddings)
+        gnn_explainer = HGNNExplainer(node_attributes=nodes_attributes, node_embeddings=nodes_embeddings)
 
         prediction, explain = gnn_explainer.explain_link(list_of_node_index_for_single_edge, rank)
+        
+        
 
 
         # todo

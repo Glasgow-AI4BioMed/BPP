@@ -98,300 +98,35 @@
     <script>
 
 
-        /**
-         * Calculating the length of a string
-         * @param {string} str The specified string
-         */
-        var calcStrLen = function calcStrLen(str) {
-            var len = 0;
-            for (var i = 0; i < str.length; i++) {
-                if (str.charCodeAt(i) > 0 && str.charCodeAt(i) < 128) {
-                    len++;
-                } else {
-                    len += 2;
-                }
-            }
-            return len;
-        };
-
-        /**
-         * Calculate the displayed string
-         * @param {string} str String to be cropped
-         * @param {number} maxWidth Maximum width
-         * @param {number} fontSize Font size
-         */
-        var fittingString = function fittingString(str, maxWidth, fontSize) {
-            var fontWidth = fontSize * 1.3; //字号+边距
-            maxWidth = maxWidth * 2; // 需要根据自己项目调整
-            var width = calcStrLen(str) * fontWidth;
-            var ellipsis = '…';
-            if (width > maxWidth) {
-                var actualLen = Math.floor((maxWidth - 10) / fontWidth);
-                var result = str.substring(0, actualLen) + ellipsis;
-                return result;
-            }
-            return str;
-        };
-
-        // var data_list = eval('{{ g6_data_list_json | safe }}');
-        let data_list_str = {{ g6_data_list_json | tojson }};
-        // window.alert(data_list_str);
-        data_list = JSON.parse(data_list_str);
-        var graphs = []
-        var menus = []
-        for (let i = 0; i < data_list.length; i++) {
-            const data = data_list[i];
-            // 创建 G6 图实例
-            const nodes = data.nodes
-            const edges = data.edges
-
-            nodes.forEach((node) => {
-                // {#window.alert(JSON.stringify(node));
-                node.label = node.name
-                node.label = fittingString(node.label, 32, 12);
-                if (!node.style) {
-                    node.style = {};
-                }
-                node.style.lineWidth = 1;
-                node.style.stroke = '#666';
-                node.style.fill = 'steelblue';
-                switch (node.node_type) {
-                    case "reaction": {
-                        node.x = 400
-                        node.y = 100
-                        node.type = 'triangle';
-                        node.style.fill = 'yellow'
-                        node.size = 10
-                        break;
-                    }
-                    case "input_node": {
-                        node.type = 'circle';
-                        node.style.fill = '#0d6efd'
-                        // node.size = [35, 20];
-                        node.size = 20;
-                        break;
-                    }
-                    case "output_node": {
-                        node.type = 'circle';
-                        node.style.fill = 'red'
-                        // node.size = [35, 20];
-                        node.size = 20;
-                        break;
-                    }
-                }
-            });
-            edges.forEach((edge) => {
-                // window.alert(JSON.stringify(edge));
-                if (!edge.style) {
-                    edge.style = {};
-                }
-                // edge.style.lineWidth = edge.weight;
-                // edge.style.opacity = 0.9;
-                edge.style.fill = '#000'
-                edge.style.stroke = '#000';
-            });
-
-            /**
-             menus[i] = new G6.Menu({
-                itemTypes: ['node', 'canvas'],
-                getContent(evt) {
-                    return `<ul>
-                  <li title='1'>测试02</li>
-                  <li title='2'>测试02</li>
-                  <li>测试02</li>
-                  <li>测试02</li>
-                  <li>测试02</li>
-                </ul>`;
-                },
-            });
-             **/
-
-
-            graphs[i] = new G6.Graph({
-                container: 'mountNode' + i, // 指定图画布的容器 id，与第 9 行的容器对应
-                // 画布宽高
-                width: 800,
-                height: 350,
-                fitView: true,
-                fitViewPadding: [20, 40, 50, 20],
-                modes: {
-                    default: ['drag-node', 'drag-canvas', 'zoom-canvas',
-
-                        //{
-                        //    // 定义展开/收缩行为
-                        //    type: 'collapse-expand',
-                        //},
-                        {
-                            offset: 0,
-                            type: 'tooltip',
-                            formatText: function formatText(model) {
-                                const text = 'stId: ' + model.id
-                                    + '<br/> name: ' + model.name
-                                    + '<br/> index: ' + model.index;
-                                return text;
-                            },
-
-                            shouldUpdate: function shouldUpdate(e) {
-                                return true;
-                            }
-                        },
-                    ],
-                },
-
-                layout: {
-                    type: 'dagre',
-                    rankdir: 'TB', // 可选，默认为图的中心
-                    // align: 'DL', // 可选
-                    // nodesep: 20, // 可选
-                    ranksep: 20, // 可选
-                    controlPoints: true, // 可选
-                },
-
-                // 节点不同状态下的样式集合
-                nodeStateStyles: {
-                    // 鼠标 hover 上节点，即 hover 状态为 true 时的样式
-                    hover: {
-                        fill: 'white',
-                    },
-                    click: {
-                        fill: 'gold',
-                        stroke: 'gold'
-                    }
-                },
-
-                defaultNode: {
-                    size: 30,
-                    labelCfg: {
-                        style: {
-                            fill: 'black',
-                            fontSize: 14
-                        },
-                    },
-                },
-                defaultEdge: {
-                    labelCfg: {
-                        autoRotate: true,
-                    },
-                },
-                /**
-                 layout: {
-                    type: 'mindmap',
-                    direction: 'V',
-                    getHeight: function getHeight() {
-                        return 10;
-                    },
-                    getWidth: function getWidth() {
-                        return 10;
-                    },
-                    getVGap: function getVGap() {
-                        return 10;
-                    },
-                    getHGap: function getHGap() {
-                        return 10;
-                    }
-                }
-                 **/
-
-            });
-            // 读取数据
-            graphs[i].data(data);
-            // 渲染图
-            graphs[i].render();
-
-            graphs[i].on('node:mouseenter', e => {
-                const nodeItem = e.item;
-                graphs[i].setItemState(nodeItem, 'hover', true);
-            });
-            graphs[i].on('node:mouseleave', e => {
-                const nodeItem = e.item;
-                graphs[i].setItemState(nodeItem, 'hover', false);
-            });
-            graphs[i].on('node:click', e => {
-                const clickNodes = graphs[i].findAllByState('node', 'click');
-                clickNodes.forEach(cn => {
-                    graphs[i].setItemState(cn, 'click', false);
-                });
-                const nodeItem = e.item;
-                graphs[i].setItemState(nodeItem, 'click', true);
-            });
-            graphs[i].on('edge:click', e => {
-                const clickEdges = graphs[i].findAllByState('edge', 'click');
-                clickEdges.forEach(ce => {
-                    graphs[i].setItemState(ce, 'click', false);
-                });
-                const edgeItem = e.item;
-                graphs[i].setItemState(edgeItem, 'click', true);
-            });
-
-            // 监听鼠标点击空白处
-            graphs[i].on('canvas:click', (e) => {
-                const shape = e.target;
-                const item = e.item;
-                if (item) {
-                    const type = item.getType();
-                }
-                const clickNodes = graphs[i].findAllByState('node', 'click');
-                clickNodes.forEach((cn) => {
-                    graphs[i].setItemState(cn, 'click', false);
-                });
-            });
-
-            // 在实际开发中，右键菜单内容可以使用JSX或HTML中的模板
-            // 创建ul
-            /**
-             $('#mountNode' + i).append('<ul id="contextMenu"+i><li>menu1</li><li>menu2</li></ul>')
-
-             {#menus[i] = $("#contextMenu" + i);#}
-             menus[i] = document.getElementById('contextMenu' + i);
-             graphs[i].on('node:contextmenu', function (evt) {
-                menus[i].style.display = 'block'
-                menus[i].style.left = evt.canvasX + 20 + 'px'
-                menus[i].style.top = evt.canvasY + 'px'
-            });
-             **/
-
-
-            /**
-             // 1、菜单列表数据写死版本
-             let conextMenuContainer = document.createElement('ul')
-             conextMenuContainer.id = 'contextMenu'
-             // 创建li
-             let firstLi = document.createElement('li')
-             firstLi.innerText = '指标详情'
-             conextMenuContainer.appendChild(firstLi)
-             this.$refs.graphContent.appendChild(conextMenuContainer)
-
-             let menu = document.getElementById('contextMenu')
-             graph.on('node:contextmenu', function (event) {
-                self.currentNodeInfo = event.item._cfg.model
-                menu.style.display = 'block'
-                menu.style.left = event.canvasX + 20 + 'px'
-                menu.style.top = event.canvasY + 'px'
-                document.body.addEventListener('click', function () {
-                    menu.style.display = 'none'
-                })
-                event.stopPropagation() //阻止事件向上冒泡
-            })
-             firstLi.addEventListener('click', function (event) {
-                // console.log(`详情事件---`, event.target.innerHTML)
-                event.stopPropagation() //阻止事件向上冒泡
-            })
-             **/
-
-
-        }
-
-        // var data_list = JSON.parse({{ g6_data_list_json }})
-        // window.alert(JSON.stringify(data))
-        // window.alert(data_list[0]['edges'][0]['source'])
-        // window.alert(data_list[0].edges)
         $(document).ready(function () {
+            let data_list_str = {{ g6_data_list_json | tojson }};
+            let data_list = JSON.parse(data_list_str);
+            const graphs = [];
+
+            for (let i = 0; i < data_list.length; i++) {
+                graph = g6_graph_generate(i);
+                graphs.push(graph);
+            }
+            
+
+
             for (let i = 0; i < data_list.length; i++) {
 
                 var data = data_list[i]
                 const nodes = data.nodes
                 const edges = data.edges
 
+                nodes_data_initialization(nodes);
+                edges_data_initialization(edges);
+
+                // graph = g6_graph_generate(i);
+
+                // 读取数据
+                graphs[i].data(data);
+                // 渲染图
+                graphs[i].render();
+
+                set_graph_event(graphs[i])
                 $("#mask" + i).click(function () {
                     const clickNodes = graphs[i].findAllByState('node', 'click');
                     clickNodes.forEach(cn => {
@@ -431,7 +166,6 @@
                                 // graphs[i].setItemState(cn, 'is_masked', true);
                                 cn._cfg.model.is_maksed = true
                                 graphs[i].updateItem(cn, {
-                                    // 节点的样式
                                     style: {
                                         // stroke: 'grey',
                                         fill: 'grey'
@@ -439,7 +173,6 @@
                                 });
                             }
                             graphs[i].setItemState(cn, 'click', false);
-                            // graphs[i].setItemState(cn, 'click', false);
                         }
                     });
 
@@ -457,10 +190,7 @@
                             }
                         });
 
-                        // graphs[i].setItemState(cn, 'is_deleted', true);
                         graphs[i].removeItem(cn);
-                        // graphs[i].setItemState(cn, 'click', false);
-                        // graphs[i].setItemState(cn, 'click', false);
                     });
 
                 });
@@ -566,9 +296,189 @@
                     });
 
                 });
+
+            }
+
+            function nodes_data_initialization(nodes) {
+                nodes.forEach((node) => {
+                    // window.alert(JSON.stringify(node))
+                    node.label = node.name
+                    node.label = fittingString(node.label, 32, 12);
+                    if (!node.style) {
+                        node.style = {};
+                    }
+                    node.style.lineWidth = 1;
+                    node.style.stroke = '#666';
+                    node.style.fill = 'steelblue';
+                    switch (node.node_type) {
+                        case "reaction": {
+                            node.x = 400
+                            node.y = 100
+                            node.type = 'triangle';
+                            node.style.fill = 'yellow'
+                            node.size = 10
+                            break;
+                        }
+                        case "input_node": {
+                            node.type = 'circle';
+                            node.style.fill = '#0d6efd'
+                            // node.size = [35, 20];
+                            node.size = 20;
+                            break;
+                        }
+                        case "output_node": {
+                            node.type = 'circle';
+                            node.style.fill = 'red'
+                            // node.size = [35, 20];
+                            node.size = 20;
+                            break;
+                        }
+                    }
+                });
+            }
+
+            function edges_data_initialization(edges) {
+                edges.forEach((edge) => {
+                    if (!edge.style) {
+                        edge.style = {};
+                    }
+                    edge.style.fill = '#000'
+                    edge.style.stroke = '#000';
+                });
+            }
+
+            function g6_graph_generate(idx) {
+                graph = new G6.Graph({
+                    container: `mountNode${idx}`, // 指定图画布的容器 id，与第 9 行的容器对应
+                    width: 800,
+                    height: 300,
+                    fitView: true,
+                    fitViewPadding: [20, 40, 50, 20],
+                    modes: {
+                        default: ['drag-node', 'drag-canvas', 'zoom-canvas',
+                            {
+                                offset: 0,
+                                type: 'tooltip',
+                                formatText: function formatText(model) {
+                                    const text = 'stId: ' + model.id
+                                        + '<br/> name: ' + model.name
+                                        + '<br/> index: ' + model.index;
+                                    return text;
+                                },
+
+                                shouldUpdate: function shouldUpdate(e) {
+                                    return true;
+                                }
+                            },
+                        ],
+                    },
+
+                    layout: {
+                        type: 'dagre',
+                        rankdir: 'TB', // 可选，默认为图的中心
+                        ranksep: 20, // 可选
+                        controlPoints: true, // 可选
+                    },
+                    nodeStateStyles: {
+                        hover: {
+                            fill: 'white',
+                        },
+                        click: {
+                            fill: 'gold',
+                            stroke: 'gold'
+                        }
+                    },
+                    defaultNode: {
+                        size: 30,
+                        labelCfg: {
+                            style: {
+                                fill: 'black',
+                                fontSize: 14
+                            },
+                        },
+                    },
+                    defaultEdge: {
+                        labelCfg: {
+                            autoRotate: true,
+                        },
+                    },
+
+                });
+                return graph
+            }
+
+            function set_graph_event(graph) {
+                graph.on('node:mouseenter', e => {
+                    const nodeItem = e.item;
+                    graph.setItemState(nodeItem, 'hover', true);
+                });
+                graph.on('node:mouseleave', e => {
+                    const nodeItem = e.item;
+                    graph.setItemState(nodeItem, 'hover', false);
+                });
+                graph.on('node:click', e => {
+                    const clickNodes = graph.findAllByState('node', 'click');
+                    clickNodes.forEach(cn => {
+                        graph.setItemState(cn, 'click', false);
+                    });
+                    const nodeItem = e.item;
+                    graph.setItemState(nodeItem, 'click', true);
+                });
+                graph.on('edge:click', e => {
+                    const clickEdges = graph.findAllByState('edge', 'click');
+                    clickEdges.forEach(ce => {
+                        graph.setItemState(ce, 'click', false);
+                    });
+                    const edgeItem = e.item;
+                    graph.setItemState(edgeItem, 'click', true);
+                });
+
+                // 监听鼠标点击空白处
+                graph.on('canvas:click', (e) => {
+                    const shape = e.target;
+                    const item = e.item;
+                    if (item) {
+                        const type = item.getType();
+                    }
+                    const clickNodes = graph.findAllByState('node', 'click');
+                    clickNodes.forEach((cn) => {
+                        graph.setItemState(cn, 'click', false);
+                    });
+                });
             }
 
         });
+
+        /**
+         * Calculate the displayed string
+         * @param {string} str String to be cropped
+         * @param {number} maxWidth Maximum width
+         * @param {number} fontSize Font size
+         */
+         var fittingString = function fittingString(str, maxWidth, fontSize) {
+            var fontWidth = fontSize * 1.3; //字号+边距
+            maxWidth = maxWidth * 2; // 需要根据自己项目调整
+            var width = calcStrLen(str) * fontWidth;
+            var ellipsis = '…';
+            if (width > maxWidth) {
+                var actualLen = Math.floor((maxWidth - 10) / fontWidth);
+                var result = str.substring(0, actualLen) + ellipsis;
+                return result;
+            }
+            return str;
+        };
+
+        var calcStrLen = function calcStrLen(str) {
+            var len = 0;
+            for (var i = 0; i < str.length; i++) {
+                if (str.charCodeAt(i) > 0 && str.charCodeAt(i) < 128) {
+                    len++;
+                } else {
+                    len += 2;
+                }
+            }
+            return len;
+        };
 
 
     </script>
