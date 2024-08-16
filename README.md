@@ -18,7 +18,7 @@ BPP: A Platform for Automatic Biochemical Pathway Prediction
 2. Traditional experimental methods can impose significant time and labour burdens on researchers, due to a vast number of candidates, consequently, our goal is to enhance the efficiency of pathway studies.
 
 ## Website
-[Link to BPP Platform](http://52.146.12.46:5000)
+[Link to BPP Platform](http://107.22.157.230:5000)
 
 ## User Guidance
 In this part, we'll introduce how to use our plaform. 
