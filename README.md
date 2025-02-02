@@ -50,7 +50,7 @@ bash mf_link_prediction_baseline_sweep.sh
 2. Traditional experimental methods can impose significant time and labour burdens on researchers, due to a vast number of candidates, consequently, our goal is to enhance the efficiency of pathway studies.
 
 ## Website
-[Link to BPP Platform](http://98.81.218.100:8000)
+[Link to BPP Platform](http://54.196.133.66:8000)
 
 ## User Guidance
 In this part, we'll introduce how to use our plaform. 
