@@ -75,15 +75,16 @@ Or you can choose not to load an existing biochemical reaction and instead just 
 ### How to Cite
 
 ```bash
-@article{yi2024bpp,
-  title={BPP: a platform for automatic biochemical pathway prediction},
-  author={Yi, Xinhao and Liu, Siwei and Wu, Yu and McCloskey, Douglas and Meng, Zaiqiao},
-  journal={Briefings in Bioinformatics},
-  volume={25},
-  number={5},
-  pages={bbae355},
-  year={2024},
-  publisher={Oxford University Press}
+@article{10.1093/bib/bbae355,
+    author = {Yi, Xinhao and Liu, Siwei and Wu, Yu and McCloskey, Douglas and Meng, Zaiqiao},
+    title = {BPP: a platform for automatic biochemical pathway prediction},
+    journal = {Briefings in Bioinformatics},
+    volume = {25},
+    number = {5},
+    pages = {bbae355},
+    year = {2024},
+    doi = {10.1093/bib/bbae355},
+    url = {https://doi.org/10.1093/bib/bbae355}
 }
 ```
 
