@@ -35,7 +35,7 @@ bash mf_attribute_prediction_baseline_sweep.sh
 ```
 
 
-### MF Link Prediction
+#### MF Link Prediction
 Apply Matrix Factorization to predict unseen biochemical reactions.
 
 ```bash
