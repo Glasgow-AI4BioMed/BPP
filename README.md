@@ -73,7 +73,6 @@ Or you can choose not to load an existing biochemical reaction and instead just 
 ![customise the reaction](./figures/cus_load_node.png "load node")
 
 ### How to Cite
-If you use BPP in your research, please cite the following paper:
 
 ```bash
 @article{yi2024bpp,
